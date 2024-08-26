@@ -1,0 +1,244 @@
+{
+  "AssetId": "2e8b7ba3dc0b55544b3c98f13c0c23f7",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "SwarmFilesArchetype_Nokizaru",
+      "m_OwnerString": "2e8b7ba3dc0b55544b3c98f13c0c23f7",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "SwarmFilesArchetype_NokizaruDesc",
+      "m_OwnerString": "2e8b7ba3dc0b55544b3c98f13c0c23f7",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": "!bp_b7730253036b8f14eb489124f0f35e34",
+    "RemoveSpellbook": false,
+    "BuildChanging": true,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_0e451b208e7b855468986e03fcd4f990",
+          "!bp_36325957d0a388145995a117368e1a9f",
+          "!bp_d3e6275cfa6e7a04b9213b7b292a011c",
+          "!bp_62ef1cdb90f1d654d996556669caf7fa",
+          "!bp_ee0b69e90bac14446a4cf9a050f87f2e"
+        ]
+      },
+	  {
+        "Level": 2,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 8,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 12,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 14,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 18,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_deabeab12dc6026479a354e433aaefec"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+	{
+        "Level": 1,
+        "m_Features": [
+          "!bp_15e92e5531cd00c439b07324856db48c"
+        ]
+      },
+	  {
+        "Level": 2,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 3,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 7,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+	  {
+        "Level": 8,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 11,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+	  {
+        "Level": 12,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 14,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 15,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 18,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 19,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      }
+	],
+    "ReplaceStartingEquipment": true,
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_511c97c1ea111444aa186b1a58496664",
+      "!bp_08c7987d7320d1645a4a1f005ab2dfcb",
+      "!bp_66fc961f9c39ae94fb87a79adc87212e",
+      "!bp_fbf7f9d21c12146479a5c261743afbde"
+    ],
+    "ReplaceClassSkills": true,
+    "ClassSkills": [
+      "SkillMobility",
+      "SkillAthletics",
+      "SkillPersuasion",
+      "SkillThievery",
+      "SkillKnowledgeWorld",
+      "SkillPerception",
+      "SkillStealth",
+      "SkillUseMagicDevice",
+      "SkillKnowledgeArcana"
+    ],
+    "ChangeCasterType": true,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": true,
+    "AddSkillPoints": -1,
+    "OverrideAttributeRecommendations": true,
+    "RecommendedAttributes": [
+      "Charisma",
+      "Dexterity"
+    ],
+    "NotRecommendedAttributes": [
+      "Wisdom",
+      "Strength"
+    ],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 5
+  }
+}

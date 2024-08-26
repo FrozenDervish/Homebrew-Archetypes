@@ -1,0 +1,102 @@
+{
+  "AssetId": "592345a25b5842e4285a98465a730a1e",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "1bf4aff684fadda4c85160390570fdf2, AbilityVariants",
+        "name": "$AbilityVariants$4d5ceae0-b770-4d56-bd05-9d18d931604e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Variants": [
+          "!bp_cffa6fa4e101b384ea2bad33a5ae6e44",
+          "!bp_f0706bc6a211d4644afaa1b455d79f6f",
+          "!bp_4dfeacbeca9aa4f40b36f1c810e7447c",
+          "!bp_3808dfa4899db5e40aff8215e8255fb2",
+		  "!bp_16fed7dda2dd12c4d9292e294f3e37f0",
+		  "!bp_ccb8a9ad27282634881761804fa425cb",
+		  "!bp_23edaaac3d1234047a18f16872736011"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesAbility_HiddenMaster",
+      "m_OwnerString": "592345a25b5842e4285a98465a730a1e",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesAbility_HiddenMasterDesc",
+      "m_OwnerString": "592345a25b5842e4285a98465a730a1e",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "9b0956cbc1f0115449bf4f6fbebaee45",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Extraordinary",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Omni",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionOmni",
+    "m_TargetMapObjects": false,
+    "ActionType": "Free",
+    "AvailableMetamagic": 0,
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  }
+}

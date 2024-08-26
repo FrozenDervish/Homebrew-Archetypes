@@ -1,0 +1,56 @@
+{
+  "AssetId": "70c5fb53b6eab5144ba2ffadf903c8e0",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "20a8fbfc-519e-4fbf-8f18-018f5f4cc8ca",
+      "m_OwnerString": "7dcd2824b30128a4e864a22ad8af8d46",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Monk/MonkStyleStrike/HammerblowToggleAbility_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "3d1e75e2d64162346b7daafc0398c5ba",
+        "stringkey": "7a5024a7-ce1a-427f-95cd-4b778f4dedef"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "f5063c4db99f251449c60135f97c94ad",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_6b53d6ded0eacc74e9c8fb686b324c85",
+    "Group": "None",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": false,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "WithUnitCommand",
+    "m_ActivateWithUnitCommand": "Free",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  }
+}

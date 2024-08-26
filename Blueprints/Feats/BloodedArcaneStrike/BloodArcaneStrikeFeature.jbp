@@ -1,0 +1,101 @@
+{
+  "AssetId": "cb34251036d9df2449290c0ea06df263",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$581359d7-5c4d-4a8f-ade7-621c5d36185e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_6991ee8175d87c04790067515f6fb322"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$581359d7-5c4d-4a8f-ade7-621c5d36185d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_0ab2f21a922feee4dab116238e3150b4"
+      },
+	  {
+        "$type": "9a8238cde230283458b5e3b918aea2c7, PrerequisiteCasterType",
+        "name": "$PrerequisiteCasterType$c59f1597-310c-4abc-a76e-55d84bb58286",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsArcane": true
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b0793b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_5eac31e457999334b98f98b60fc73b2f",
+        "m_ExtraEffectBuff": "!bp_98ac795afd1b2014eb9fdf2b9820808f",
+        "m_ExceptionFact": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BasicFeatBloodArcaneStrike",
+      "m_OwnerString": "cb34251036d9df2449290c0ea06df263",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_BasicFeatBloodArcaneStrikeDesc",
+      "m_OwnerString": "cb34251036d9df2449290c0ea06df263",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "404da4170a5832c48aa17a55f052988f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "CombatFeat",
+      "Feat"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

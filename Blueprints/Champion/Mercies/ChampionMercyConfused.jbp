@@ -1,0 +1,56 @@
+{
+  "AssetId": "1ddfd0640ae39f9458f7e4438fb15366",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$f044fbce-0fa4-4fb3-9369-5ccedee7ecee",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+        "Level": 9
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "752613b9-c7e8-44a3-874f-7d3f68082a63",
+      "m_OwnerString": "1ddfd0640ae39f9458f7e4438fb15366",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Paladin/Mercy/MercyConfused_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionMercyConfusedDesc",
+      "m_OwnerString": "1ddfd0640ae39f9458f7e4438fb15366",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "767a6ba6e391aff4388d2350778e899c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "Mercy"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

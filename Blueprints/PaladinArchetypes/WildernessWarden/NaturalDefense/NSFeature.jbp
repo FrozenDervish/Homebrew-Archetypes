@@ -1,0 +1,60 @@
+{
+  "AssetId": "e7a807f4da574f840a64404a90ac7745",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$50ff097f-1f9b-4dcb-bd63-32abcc8e6583",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_941ea2d7b2a18b549938513d7d15d315"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeWildernessWardenNaturalShield",
+      "m_OwnerString": "e7a807f4da574f840a64404a90ac7745",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeWildernessWardenNaturalShieldDesc",
+      "m_OwnerString": "e7a807f4da574f840a64404a90ac7745",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "4ce06922720ea8f43876f8c9ed3c4593",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

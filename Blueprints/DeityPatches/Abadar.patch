@@ -1,0 +1,21 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+      {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$c9c3da36-ca5c-46b5-88de-c05b0d405bfc",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_772c83a25e2268e448e841dcd548235f",
+        "m_Archetype": "!bp_832d3316fea524e4c8218bdcf38933b5"
+      }
+    ],
+	}

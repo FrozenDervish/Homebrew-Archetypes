@@ -1,0 +1,34 @@
+{
+
+"_#ArrayMergeSettings": "Replace",
+
+    "Components": [
+      {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d41",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_14cb3cdbb374b4d4f8a5cb25052b6acc",
+        "m_Feature": "!bp_fd9a84f9b9c49b64f966657b4cd0372b",
+        "Not": true
+      },
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "m_Flags": 0,
+        "name": "$AddFacts$6c1f8290-b2a9-4bc7-84af-511dbc33110e",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_8a75eb16bfff86949a4ddcb3dd2f83ae"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
+	}

@@ -1,0 +1,42 @@
+{
+  "AssetId": "a436815006b790644814b1cc8c75573a",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "b389b939-28b0-4b02-9bdf-b2aeebed198f",
+      "m_OwnerString": "a436815006b790644814b1cc8c75573a",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints\\Classes\\Paladin\\PaladinSmiteEvil_m_DisplayName.json"
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionSignatureSmiteEvil",
+      "m_OwnerString": "a436815006b790644814b1cc8c75573a",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "14b8937cec1233349a9d0d7044323cc2",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

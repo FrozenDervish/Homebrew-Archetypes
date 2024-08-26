@@ -1,0 +1,20 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+      {
+        "$type": "de53b583370fb9c468866fb75c9e719a, EnhancePotion",
+        "name": "$EnhancePotion$a8b97712-de4b-4ac9-97cb-83f0d72388d5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Classes": [
+          "!bp_adb9e138bee9ecc4db246b64d563f900"
+        ],
+        "m_Archetypes": []
+      }
+	  ],
+	}

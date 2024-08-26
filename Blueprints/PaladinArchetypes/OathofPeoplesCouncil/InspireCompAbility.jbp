@@ -1,0 +1,74 @@
+{
+  "AssetId": "8994267bb8144dc488bb354408687932",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ActivableAbilityResourceLogic$b5a44341-ab7b-4264-81c2-2aabc0c9387a"
+    ],
+    "Components": [
+      {
+        "$type": "22c7a9a55d4f5724b89759d342784915, ActivatableAbilityResourceLogic",
+        "name": "$ActivableAbilityResourceLogic$b5a44341-ab7b-4264-81c2-2aabc0c9387a",
+        "m_Overrides": [],
+        "SpendType": "NewRound",
+        "m_RequiredResource": "!bp_e190ba276831b5c4fa28737e5e49e6a6",
+        "m_FreeBlueprint": null,
+        "Categories": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "2ff8e68e9c35018458dabcf42e188ad7",
+        "stringkey": "09438d4a-6bbf-4519-8dec-2141a025a9be"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "82cb7c40b4fa77b40b22c09170790a1a",
+        "stringkey": "538ecf3e-224a-4390-8cac-12f0e51f2b18"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "ca3c9eb264e969e44a9eb2b105793706",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_ba5a328cf82603f4398ca402dad252b1",
+    "Group": "BardicPerformance",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": true,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": false,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": true,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "WithUnitCommand",
+    "m_ActivateWithUnitCommand": "Standard",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": [
+      "c87c798cd0a410c419ee4bafd4adb68f",
+      "79665f3d500fdf44083feccf4cbfc00a"
+    ]
+  }
+}

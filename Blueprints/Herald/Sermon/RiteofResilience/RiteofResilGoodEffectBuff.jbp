@@ -1,0 +1,126 @@
+{
+  "AssetId": "90ea0f6472ded0f40ab783f24daa4463",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "c4475440f92900445aefbb18cfd9215e, AddDamageResistancePhysical",
+        "name": "$AddDamageResistance$8c836e0d-b74f-4463-8776-6759a6bdf37a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Rank",
+          "Value": 1,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "UsePool": false,
+        "Pool": {
+          "ValueType": "Simple",
+          "Value": 12,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "Or": false,
+        "BypassedByMaterial": false,
+        "Material": "Adamantite",
+        "BypassedByForm": false,
+        "Form": 0,
+        "BypassedByMagic": false,
+        "MinEnhancementBonus": 1,
+        "BypassedByAlignment": true,
+        "Alignment": "Good",
+        "BypassedByReality": false,
+        "Reality": "Ghost",
+        "BypassedByWeaponType": false,
+        "m_WeaponType": null,
+        "BypassedByMeleeWeapon": false,
+        "BypassedByEpic": false,
+        "m_CheckedFactMythic": null
+      },
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "m_Flags": 0,
+        "name": "$ContextRankConfig$8f4e1303-4378-496e-8ecc-2d738b4dd60a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Type": "Default",
+        "m_BaseValueType": "ClassLevel",
+        "m_Feature": null,
+        "m_FeatureList": [],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_BuffRankMultiplier": 1,
+        "m_Progression": "StartPlusDivStep",
+        "m_CustomProgression": [],
+        "m_StartLevel": 1,
+        "m_StepLevel": 2,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": null,
+        "m_AdditionalArchetypes": [],
+        "m_Class": [
+          "!bp_c75c39413ea936d4cbff2912c845aa72"
+        ],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonRiteofResilienceAlignmentGood",
+      "m_OwnerString": "90ea0f6472ded0f40ab783f24daa4463",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonRiteofResilienceDesc",
+      "m_OwnerString": "90ea0f6472ded0f40ab783f24daa4463",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "950befb72fda3dd46aa1a28ddb95e830",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "45622cc69bf53fc4b88fea9c0209407d"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "45622cc69bf53fc4b88fea9c0209407d"
+    ]
+  }
+}

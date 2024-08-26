@@ -1,0 +1,95 @@
+{
+  "AssetId": "18e6a294ce269964ea9d43520df0e869",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$dc256326-6a55-42ae-bfc1-30e61c5d5230",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_14cb3cdbb374b4d4f8a5cb25052b6acc"
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ScarredWitchDoctorExtraHex",
+      "m_OwnerString": "18e6a294ce269964ea9d43520df0e869",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ScarredWitchDoctorExtraHexDesc",
+      "m_OwnerString": "18e6a294ce269964ea9d43520df0e869",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "08de7d6c711522448b11138d6785d59f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "WitchHex",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_b40316f05d4772e4894688e6743602bd",
+      "!bp_d14745387557dfd46ae89400d10b3621",
+      "!bp_5e33ed0ea01d27c4c8cf056e83d787be",
+      "!bp_01965b13a85c1444a830f0e1d5114ced",
+      "!bp_c7eb5151b6a670e47bf4713c0934e144",
+      "!bp_3cdd3660fb69f3e4db0160fa97dfa85d",
+      "!bp_3459664f16e56124f95ec4c9f9856d06",
+      "!bp_36f2467103d4635459d412fb418276f4",
+      "!bp_649c1d1f0b88be944b2b608b69b001eb",
+      "!bp_0e4ebaf16c5958f4bbe6a8f50fe3afcd",
+      "!bp_28cc6b115586329499b30e57a3dfe538",
+      "!bp_9af6dc2697c8ef24eab8ce1c697b05c4",
+      "!bp_3f3522cca9a141045aa987ced6ffa1e2",
+      "!bp_6a9a6cd57f30ffb4784625742c2f1756",
+      "!bp_ddfc51eaa495acb40a01b92a2dd4ab73",
+      "!bp_50a63e996f1695d48b477ef295798ea0",
+      "!bp_fe3c3a4810dd71c4f990eb89e99f4e35",
+      "!bp_4649c74487a4b7d499aed2c5b02ae89d",
+      "!bp_ec81a727112fccf42ae4a7c10e410ef7",
+      "!bp_b8aab24af64e78a42970f476ecf86d4a",
+      "!bp_54b4c7e9280cd104b9569f5e420b9aa8",
+      "!bp_3bdf1af7b7dcef64180d27882c991cc5",
+      "!bp_19a2e4f5cc96dc14f8afb2c7f505e3aa",
+      "!bp_cdd9fb3ef0ceb704bb453b2431a2b44b",
+      "!bp_29a64e7034479404caae177caa99dbbf",
+      "!bp_407955f228e0f7946827d17f94c66a75",
+      "!bp_892a44d97d361de41ab7a03229d6093f"
+    ]
+  }
+}

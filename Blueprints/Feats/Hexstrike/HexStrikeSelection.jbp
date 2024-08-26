@@ -1,0 +1,138 @@
+{
+  "AssetId": "f931ba06e26ad814990c84518b91f751",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$b96457f8-c9d1-4d82-8684-512005c9726b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_7812ad3672a4b9a4fb894ea402095167"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$b96457f8-c9d1-4d82-8684-512005c9726c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_9846043cf51251a4897728ed6e24e76f"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$b96457f8-c9d1-4d82-8684-512005c9726d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_4223fe18c75d4d14787af196a04e14e7"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$b96457f8-c9d1-4d82-8684-512005c9726e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_290bbcc3c3bb92144b853fd8fb8ff452"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$b96457f8-c9d1-4d82-8684-512005c9726f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a18b8c3d6251d8641a8094e5c2a7bc78"
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BasicFeatHexStrike",
+      "m_OwnerString": "f931ba06e26ad814990c84518b91f751",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_BasicFeatHexStrikeDesc",
+      "m_OwnerString": "f931ba06e26ad814990c84518b91f751",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 20,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_c3f171e0e198c6f4b90dc4c6b89a86a9",
+	  "!bp_7190347c63f55764aa0b8d752eb8955a",
+	  "!bp_c78cbd61d47ad1d4a9f3eff617a9b4d4",
+	  "!bp_656b98f811a03914284f15edf43a865e",
+	  "!bp_5fa9d594c94cdd14ea8750c27a474de9",
+	  "!bp_f8d0ac660aa3f3549a499daf298c3d68",
+	  "!bp_2d00e209ea817784c90c79f96b6bf541",
+	  "!bp_0c798f4c09f4070488f6bbdb5db97b23",
+	  "!bp_cc3321f0b87d72343a7bde46bb08dd57",
+	  "!bp_f362d61e93337294e95c0e7d1992c569",
+	  "!bp_2349c0eea64ae5e4186be4bd2031fd13",
+	  "!bp_1083a736bb38ad54b9e6efc692c57fec",
+	  "!bp_c12108ece6517e449a99424731edc206",
+	  "!bp_d5c7edfb609738a4dadf32e239305d07",
+	  "!bp_fe9fe18b28ee5914799fdc784ce13c4a",
+	  "!bp_83c131c303338ec49ab9e5dc255d860e",
+	  "!bp_6a62c2143db95594d9a9b135fa38a7ae",
+	  "!bp_f6fb5b125d3a87e45afe16669af2bdf4",
+	  "!bp_976997e9840903a4b93ea973d369354a",
+	  "!bp_93c2d2eee190371448e17c62ee8141b2"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

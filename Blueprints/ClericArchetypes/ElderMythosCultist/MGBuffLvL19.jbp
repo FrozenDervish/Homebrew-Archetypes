@@ -1,0 +1,104 @@
+{
+  "AssetId": "7a0e3f4efc90bd94abec8f25e8b6806e",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "c6f48aa9766288d408eeac7a9f767c74, AddStatBonusAbilityValue",
+        "name": "$AddStatBonusAbilityValue$8fa68f63-1c40-4758-b7aa-b97b786a1103",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "Wisdom",
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 1,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+	  {
+        "$type": "a6777ad03deb60a4e8ef6b7067ac836b, ContextCalculateSharedValue",
+        "m_Flags": 0,
+        "name": "$ContextCalculateSharedValue$b8da9069-eee1-4ca9-bdd3-df0263eb324f",
+        "m_Overrides": [],
+        "ValueType": "Damage",
+        "Value": {
+          "DiceType": "D6",
+          "DiceCountValue": {
+            "ValueType": "Simple",
+            "Value": 1,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          },
+          "BonusValue": {
+            "ValueType": "Simple",
+            "Value": 0,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          }
+        },
+        "Modifier": -1.0
+      },
+	  {
+        "$type": "4c36aacebf153574eb39757fc3965edb, AddCondition",
+        "name": "$AddCondition$f1ef7f24-989b-44f6-a814-eb76fd3d6871",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Condition": "Sickened"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ClericElderMythosCultistMaddeningGaze",
+      "m_OwnerString": "7a0e3f4efc90bd94abec8f25e8b6806e",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ClericElderMythosCultistMaddeningGazeLvl3Succ",
+      "m_OwnerString": "7a0e3f4efc90bd94abec8f25e8b6806e",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "1d8dd2ecf9f0fd04c908394765cb61cf",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "0843a2479096a2f48baccb8a6408f111"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

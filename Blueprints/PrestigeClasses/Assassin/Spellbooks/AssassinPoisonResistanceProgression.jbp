@@ -1,0 +1,91 @@
+{
+  "AssetId": "21b21e7df5fd8bd4f8580d5188534412",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "ea1067e7-2a03-4b43-9671-8c96dcf17f2b",
+      "m_OwnerString": "21b21e7df5fd8bd4f8580d5188534412",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Assassin/AssassinPoisonResistance_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "b3897d7a-ff74-4d74-be69-9c63f76c8723",
+      "m_OwnerString": "21b21e7df5fd8bd4f8580d5188534412",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Assassin/AssassinPoisonResistance_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": [],
+    "m_Classes": [
+      {
+        "m_Class": "!bp_eb284ea8d40a2d045911f525eb96c43d",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_4e600de3bede421469bd0c8911eaf1d6"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_4e600de3bede421469bd0c8911eaf1d6"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_4e600de3bede421469bd0c8911eaf1d6"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_4e600de3bede421469bd0c8911eaf1d6"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_4e600de3bede421469bd0c8911eaf1d6"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeaturesRankIncrease": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

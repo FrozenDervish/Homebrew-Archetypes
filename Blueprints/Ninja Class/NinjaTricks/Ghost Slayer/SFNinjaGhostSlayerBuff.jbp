@@ -1,0 +1,59 @@
+{
+  "AssetId": "63cdc409dfe005d41bfa8dbdc9c1eca4",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$WeaponReality$7e3ed999-10f0-4de4-a256-40e79a586e63"
+    ],
+    "Components": [
+      {
+        "$type": "271fc6f7786c7bf4087c196cc8556738, WeaponReality",
+        "name": "$WeaponReality$7e3ed999-10f0-4de4-a256-40e79a586e63",
+        "m_Overrides": [],
+        "Reality": "Ghost"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesNinjaTrick_GhostSlayer",
+      "m_OwnerString": "63cdc409dfe005d41bfa8dbdc9c1eca4",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesNinjaTrick_GhostSlayerDesc",
+      "m_OwnerString": "63cdc409dfe005d41bfa8dbdc9c1eca4",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "6af16306335a290458118f59a6459c3e",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "ea8ddc3e798aa25458e2c8a15e484c68"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

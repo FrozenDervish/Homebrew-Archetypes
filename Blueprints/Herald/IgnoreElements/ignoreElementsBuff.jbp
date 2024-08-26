@@ -1,0 +1,98 @@
+{
+  "AssetId": "0c60839130d5c2340bdda9c0a94f1887",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "25d172d2be8f52f468b2050d14d59806, AddFactContextActions",
+        "m_Flags": 0,
+        "name": "$AddFactContextActions$2bbaa0c8-1e8f-4e40-bd22-9abd11a7958a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Activated": {
+          "Actions": []
+        },
+        "Deactivated": {
+          "Actions": [
+            {
+              "$type": "23ddfb172c2d3c144ab007dec380d712, ContextActionRemoveBuff",
+              "name": "$ContextActionRemoveBuff$a488d974-0f13-4e2b-85c4-b9d7ba3b3d11",
+              "m_Buff": "!bp_a3cd65b68292df742af560a57b65fbec",
+              "RemoveRank": false,
+              "ToCaster": false,
+              "OnlyFromCaster": false
+            },
+			{
+              "$type": "23ddfb172c2d3c144ab007dec380d712, ContextActionRemoveBuff",
+              "name": "$ContextActionRemoveBuff$a488d974-0f13-4e2b-85c4-b9d7ba3b3d12",
+              "m_Buff": "!bp_8f1954860ebcacc499537b3c0bf58c0a",
+              "RemoveRank": false,
+              "ToCaster": false,
+              "OnlyFromCaster": false
+            },
+			{
+              "$type": "23ddfb172c2d3c144ab007dec380d712, ContextActionRemoveBuff",
+              "name": "$ContextActionRemoveBuff$a488d974-0f13-4e2b-85c4-b9d7ba3b3d13",
+              "m_Buff": "!bp_521440d87e7b5ec46999286a081e01be",
+              "RemoveRank": false,
+              "ToCaster": false,
+              "OnlyFromCaster": false
+            },
+			{
+              "$type": "23ddfb172c2d3c144ab007dec380d712, ContextActionRemoveBuff",
+              "name": "$ContextActionRemoveBuff$a488d974-0f13-4e2b-85c4-b9d7ba3b3d14",
+              "m_Buff": "!bp_39792fbf287b2084c8ce2cff9519fae3",
+              "RemoveRank": false,
+              "ToCaster": false,
+              "OnlyFromCaster": false
+            }
+          ]
+        },
+        "NewRound": {
+          "Actions": []
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "d76fdfbe770ab054b9e1bd37a2cf4821",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "HiddenInUi, StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

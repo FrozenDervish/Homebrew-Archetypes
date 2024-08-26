@@ -1,0 +1,64 @@
+{
+  "AssetId": "d79740f55260fd94ba3ebd15e436fe98",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$Blindsense$3a9daab6-1fd9-4682-becc-229855f1fcd5"
+    ],
+    "Components": [
+      {
+        "$type": "ebb7391b65152c34a9a35d2bb73abf67, Blindsense",
+        "m_Flags": 0,
+        "name": "$Blindsense$3a9daab6-1fd9-4682-becc-229855f1fcd5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Range": {
+          "m_Value": 30.0
+        },
+        "Blindsight": false,
+        "HasExceptions": false,
+        "m_ExceptionFacts": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HellcatKiScent",
+      "m_OwnerString": "d79740f55260fd94ba3ebd15e436fe98",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HellcatKiScentDesc",
+      "m_OwnerString": "d79740f55260fd94ba3ebd15e436fe98",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "0edae92ab4f67ae4c923baa6bce318ef",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Minutes",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

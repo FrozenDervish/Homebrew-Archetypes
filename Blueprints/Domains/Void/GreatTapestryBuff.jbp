@@ -1,0 +1,65 @@
+{
+  "AssetId": "a5c888cbc67978f4d87433a2ebe05c57",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "305101c17be4ab540ba629cb531dea3b, OnSpawnBuff",
+        "name": "$OnSpawnBuff$6b85958d-f39d-4a03-9df3-50649a77a20a",
+        "m_Overrides": [],
+        "m_IfHaveFact": null,
+        "CheckSummonedUnitFact": false,
+        "m_IfSummonHaveFact": null,
+        "CheckSummonedUnitAlignment": false,
+        "SummonedAlignment": "None",
+        "m_buff": "!bp_a38d60935197cab4198322da3c85785a",
+        "CheckDescriptor": false,
+        "SpellDescriptor": {
+          "m_IntValue": 0
+        },
+        "IsInfinity": true,
+        "duration": {
+          "m_Value": 0
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ClericDomainVoidGreaterAbilityDarkTapestry",
+      "m_OwnerString": "a5c888cbc67978f4d87433a2ebe05c57",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ClericDomainVoidGreaterAbilityDarkTapestryDesc",
+      "m_OwnerString": "a5c888cbc67978f4d87433a2ebe05c57",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "44c5cc5e262e0c340bcab0567343b0bc",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "AssetId": "41e4ff53054ef3e4899b6c8fff6a0b26",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "f2efec85de75f5e4894158b16f8441ec, IncreaseResourceAmount",
+        "m_Flags": 0,
+        "name": "$IncreaseResourceAmount$df3d3b0b-e516-4dbc-95d2-bd97fd84c17d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Resource": "!bp_c87ebc92464e4d7fbd48809b38617e54",
+        "Value": 5
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FalseProphetFabricationofVirtueName",
+      "m_OwnerString": "41e4ff53054ef3e4899b6c8fff6a0b26",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FalseProphetFabricationofVirtueDesc",
+      "m_OwnerString": "41e4ff53054ef3e4899b6c8fff6a0b26",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "9e7a63a40688bd142b219a755d3c206b",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

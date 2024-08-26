@@ -1,0 +1,119 @@
+{
+  "AssetId": "9f5f2c7457819f845a4574f2ae094afc",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$BuffExtraEffects$b93929de-24a4-4fc2-b807-49134fb75a4c"
+    ],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$3dca3f23-ac09-49c8-91ee-e70a86cb5bc2",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_42e3e979857a1db4aad83b5e7a066659"
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$4ddcaf8a-34d3-47cb-ae5c-eb1702ea52ff",
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_f7d7eb166b3dd594fb330d085df41853",
+        "Level": 12
+      },
+      {
+        "$type": "682c71964f9bf3d4d97232b9016eafc8, PrerequisiteArchetypeLevel",
+        "name": "$PrerequisiteArchetypeLevel$57cac1df-4b86-4e21-9bcc-3cdafc5af0e5",
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d77e67a814d686842802c9cfd8ef8499",
+        "m_Archetype": "!bp_4d588290ed0736e4f8cd3f4c3beacd69",
+        "Level": 12
+      },
+	  {
+        "$type": "682c71964f9bf3d4d97232b9016eafc8, PrerequisiteArchetypeLevel",
+        "name": "$PrerequisiteArchetypeLevel$57cac1df-4b86-4e21-9bcc-3cdafc5af0e6",
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_cda0615668a6df14eb36ba19ee881af6",
+        "m_Archetype": "!bp_13f56f8740e2e1f47bba9724de8d4e9b",
+        "Level": 12
+      },
+	  {
+        "$type": "682c71964f9bf3d4d97232b9016eafc8, PrerequisiteArchetypeLevel",
+        "name": "$PrerequisiteArchetypeLevel$57cac1df-4b86-4e21-9bcc-3cdafc5af0e7",
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_48ac8db94d5de7645906c7d0ad3bcfbd",
+        "m_Archetype": "!bp_23d88af5a9470b845b893b31895b20c9",
+        "Level": 15
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$40b0e73e-5c96-45f0-a780-813e8846fe7f",
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_6afa347d804838b48bda16acb0573dc0",
+        "Level": 12
+      },
+      {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$b93929de-24a4-4fc2-b807-49134fb75a4c",
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_3503190af25065d40b6301c780025bb7",
+        "m_ExtraEffectBuff": "!bp_84ac0412038ff864884fd9b076e27674"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "ffe674b5-d277-4b0a-b3e1-e6be7fd3a3aa",
+      "m_OwnerString": "5bccc86dd1f187a4a99f092dc054c755",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/PowerfulStancePowers/WreckingBlowsFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "885eeafd-b263-439b-b060-e7a5010c8bdf",
+      "m_OwnerString": "5bccc86dd1f187a4a99f092dc054c755",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/PowerfulStancePowers/WreckingBlowsFeature_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "3e226b19d88198345a011ffd463904d4",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "RagePower"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

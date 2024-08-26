@@ -1,0 +1,74 @@
+{
+  "AssetId": "471c25b12d0bccc49af8e1461c3e41bd",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_BarbarianArchetypePrimalHunter",
+      "m_OwnerString": "471c25b12d0bccc49af8e1461c3e41bd",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_BarbarianArchetypePrimalHunterDesc",
+      "m_OwnerString": "471c25b12d0bccc49af8e1461c3e41bd",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_977b129e70fe0304692911ec55db418a"
+        ]
+      },
+	  {
+        "Level": 11,
+        "m_Features": [
+          "!bp_5d391abe9a3bb7c4b82b9d332f04146a"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_7b1247474a32b7347adcf2e810269430"
+        ]
+      }
+    ],
+    "RemoveFeatures": [],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

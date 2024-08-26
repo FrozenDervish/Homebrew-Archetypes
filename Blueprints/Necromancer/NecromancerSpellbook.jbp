@@ -1,0 +1,44 @@
+{
+  "AssetId": "d9ed1268ff643b140a7e5aaa2270a94c",
+  "Data": {
+    "$type": "a42bdead3c333d744a3f0354bbe6c27c, BlueprintSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "Name": {
+      "m_Key": "HomebrewArchtypes_NecromancerClassSpellbook",
+      "m_OwnerString": "d9ed1268ff643b140a7e5aaa2270a94c",
+      "m_OwnerPropertyPath": "Name",
+      "m_JsonPath": "",
+      
+    },
+    "IsMythic": false,
+    "m_SpellsPerDay": "!bp_cf740704a34e6ed439aeb6946a6a6ce5",
+    "m_SpellsKnown": "!bp_fb54595e5aa4a5f408e3888819c8c6e6",
+    "m_SpellSlots": null,
+    "m_SpellList": "!bp_a45417f02647fed4695f5144fd0be07b",
+    "m_MythicSpellList": null,
+    "m_CharacterClass": "!bp_d908dd701956b6f459b41256067d3758",
+    "CastingAttribute": "Charisma",
+    "Spontaneous": true,
+    "SpellsPerLevel": 0,
+    "AllSpellsKnown": false,
+    "CantripsType": "Cantrips",
+    "CasterLevelModifier": 0,
+    "CanCopyScrolls": false,
+    "IsArcane": true,
+    "IsArcanist": false,
+    "HasSpecialSpellList": false,
+    "SpecialSpellListName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "AssetId": "b1ab935a1b65dae4c9d8fbf6e257efe7",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "4c36aacebf153574eb39757fc3965edb, AddCondition",
+        "name": "$AddCondition$f1ef7f24-989b-44f6-a814-eb76fd3d6871",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Condition": "Sickened"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ClericElderMythosCultistMaddeningGaze",
+      "m_OwnerString": "b1ab935a1b65dae4c9d8fbf6e257efe7",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ClericElderMythosCultistMaddeningGazeLvl1Succ",
+      "m_OwnerString": "b1ab935a1b65dae4c9d8fbf6e257efe7",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "1d8dd2ecf9f0fd04c908394765cb61cf",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "0843a2479096a2f48baccb8a6408f111"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

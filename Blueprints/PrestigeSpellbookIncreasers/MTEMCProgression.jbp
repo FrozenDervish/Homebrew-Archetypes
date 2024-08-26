@@ -1,0 +1,155 @@
+{
+  "AssetId": "207c602bc4c433347a1aa8d51091fade",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$PrerequisiteArchetypeLevel$4049b11a-5f1c-4e98-9fc1-7e8978d5e41f"
+    ],
+    "Components": [
+      {
+        "$type": "34c98fa5c2369684aba66f3b11581388, PrerequisiteClassSpellLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassSpellLevel$dd5c7aea-4c4b-4e70-a1d8-a64d2712ee7a",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "RequiredSpellLevel": 2
+      },
+      {
+        "$type": "682c71964f9bf3d4d97232b9016eafc8, PrerequisiteArchetypeLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteArchetypeLevel$4049b11a-5f1c-4e98-9fc1-7e8978d5e41f",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "m_Archetype": "!bp_b7b9138f2e19b9f45a6ca457f6467710",
+        "Level": 1
+      },
+      {
+        "$type": "bf8cd98633eaef94188fd45f6e6abf14, MysticTheurgeSpellbook",
+        "m_Flags": 0,
+        "name": "$MysticTheurgeSpellbook$0298dd73-92e1-4c4d-babb-c3756ab96ef7",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "m_MysticTheurge": "!bp_0920ea7e4fd7a404282e3d8b0ac41838"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HellKnightSpellbookSelectionCleric",
+      "m_OwnerString": "207c602bc4c433347a1aa8d51091fade",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_MysticTheurgeSpellbookSelectionDesc",
+      "m_OwnerString": "207c602bc4c433347a1aa8d51091fade",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "Groups": [
+      "MysticTheurgeDivineSpellbook"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [
+      {
+        "m_Class": "!bp_0920ea7e4fd7a404282e3d8b0ac41838",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_534f8ecd3be86bb46b8504197911f976"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeaturesRankIncrease": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

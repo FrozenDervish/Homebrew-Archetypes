@@ -1,0 +1,114 @@
+{
+  "AssetId": "e614c701d08f2204daf7e3e41e5fffec",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_MonkoftheMantis",
+      "m_OwnerString": "e614c701d08f2204daf7e3e41e5fffec",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_MonkoftheMantisDesc",
+      "m_OwnerString": "e614c701d08f2204daf7e3e41e5fffec",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": true,
+    "AddFeatures": [
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_83c660407a4b7f84caa1e80337a063b0"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_06216bef8c460864c9b02ebc84d99d93"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_1f69d4672e4f999458ea78bca8d3d143"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_ac3b7f5c11bce4e44aeb332f66b75bab"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_b993f42cb119b4f40ac423ae76394374",
+		  "!bp_3049386713ff04245a38b32483362551"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_1051170c612d5b844bfaa817d6f4cfff",
+		  "!bp_3049386713ff04245a38b32483362551"
+        ]
+      },
+	  {
+        "Level": 14,
+        "m_Features": [
+          "!bp_1051170c612d5b844bfaa817d6f4cfff"
+        ]
+      },
+	  {
+        "Level": 18,
+        "m_Features": [
+          "!bp_1051170c612d5b844bfaa817d6f4cfff"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 461,
+    "m_StartingItems": [
+      "!bp_6d40d84e239bdf345b349ff52e3c00a9",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91"
+    ],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

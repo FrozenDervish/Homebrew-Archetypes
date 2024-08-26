@@ -1,0 +1,81 @@
+{
+  "AssetId": "fe59eb1868206684cb1c94eac6b21a23",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d15",
+      "$IncreaseResourceAmount$df3d3b0b-e516-4dbc-95d2-bd97fd84c17d"
+    ],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d15",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_f71e473ff47ca8049bd57db2e1348ea8"
+      },
+      {
+        "$type": "f2efec85de75f5e4894158b16f8441ec, IncreaseResourceAmount",
+        "name": "$IncreaseResourceAmount$df3d3b0b-e516-4dbc-95d2-bd97fd84c17d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Resource": "!bp_ec3385b200aadfc4fa18502764736933",
+        "Value": 2
+      },
+      {
+        "$type": "6d43a0c88e994d04bd2859978dec9337, FeatureTagsComponent",
+        "name": "$FeatureTagsComponent$db0d27e5-a21c-48dd-b123-4663dc9c3624",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "FeatureTags": "ClassSpecific"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_SwordDevilExtraDeathVow",
+      "m_OwnerString": "fe59eb1868206684cb1c94eac6b21a23",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_SwordDevilExtraDeathVowDesc",
+      "m_OwnerString": "fe59eb1868206684cb1c94eac6b21a23",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Feat"
+    ],
+    "Ranks": 10,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

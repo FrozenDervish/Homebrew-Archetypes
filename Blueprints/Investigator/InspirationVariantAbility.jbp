@@ -1,0 +1,119 @@
+{
+  "AssetId": "5a7d7c2ca2ad1ea47ab48f7451d45e97",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AbilityVariants$2c60fc39-39cf-43f0-a1e5-a4e4a506fa8a"
+    ],
+    "Components": [
+      {
+        "$type": "1bf4aff684fadda4c85160390570fdf2, AbilityVariants",
+        "name": "$AbilityVariants$2c60fc39-39cf-43f0-a1e5-a4e4a506fa8a",
+        "m_Overrides": [],
+        "m_Variants": [
+          "!bp_4959359178d6b97449bd20e3a2d1884c",
+          "!bp_a09ee6cbed7d304469f845b770b3b761",
+          "!bp_3d65fbed0814dcd45b8c79b5bff1a9bc",
+		  "!bp_4d500a1bf57b06c4d8ef550d3cafa030",
+		  "!bp_200f8e987af1d264a80af2a5e7bc4041",
+		  "!bp_ad7d07dc9fbcd274e8d8179cd3b961cc",
+		  "!bp_a5b1a6455cc8e7e4e9cdab080c981272",
+		  "!bp_a6d37f06076653a488a9e3ad1c1a4048",
+		  "!bp_cecf0873130842b42aefb79693536f9f",
+		  "!bp_049add1376ef19644a70acea2eb329b0",
+		  "!bp_24aac51ee15ec6548aae5d2d67b6b5ab",
+		  "!bp_45a037a37e03e4948b17c45df9629bc5",
+		  "!bp_f0e64f7ede3ba6542b5f27e1ea8cf927",
+		  "!bp_bae1943441a7f2b4182b0bacc597f0d6",
+		  "!bp_0fcff4ffc87399f4eb6dd1b04dbdb387",
+		  "!bp_cb80fdadb531f5541bbe679663b3f3a1",
+		  "!bp_680d3fdb220073843919c6fce6e531d4",
+		  "!bp_414d3d8328955fa4e9d30f9a5e526cb9",
+		  "!bp_c592f4d1caa79e34987c38259fb6a92e",
+		  "!bp_acc5ff01e4c818445ad640613fa246d7",
+		  "!bp_10e50d267c6d3ac499e8e3140b6ad61d",
+		  "!bp_287ed0a760381194fa759b25434dfb28",
+		  "!bp_a12f6b0c12c90844f81e909b1c450027",
+		  "!bp_0eba3b239b8916e47b959ba217abfa8a",
+		  "!bp_b3aa1d49a384f124ca3f158a6990118d",
+		  "!bp_6125e08da0def42448d0550ea549ecbc"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassInspiration",
+      "m_OwnerString": "5a7d7c2ca2ad1ea47ab48f7451d45e97",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassInspirationDesc",
+      "m_OwnerString": "5a7d7c2ca2ad1ea47ab48f7451d45e97",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Special",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Omni",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionOmni",
+    "m_TargetMapObjects": false,
+    "ActionType": "Move",
+    "AvailableMetamagic": "Quicken",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  }
+}

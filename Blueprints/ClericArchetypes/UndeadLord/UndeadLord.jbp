@@ -1,0 +1,97 @@
+{
+  "AssetId": "af842d0a0fa41454cbe6a8ae629c2ffd",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_ClericUndeadLord",
+      "m_OwnerString": "af842d0a0fa41454cbe6a8ae629c2ffd",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_ClericUndeadLordDesc",
+      "m_OwnerString": "af842d0a0fa41454cbe6a8ae629c2ffd",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+		  "!bp_82e186d68d74a314f957c05e2f725ca9",
+		  "!bp_4804f156290b19b4c972c045e0c7b445"
+		]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+		  "!bp_6b890bae5745d9f4c980c7178c4b0284"
+		]
+      },
+      {
+        "Level": 10,
+        "m_Features": []
+      },
+      {
+        "Level": 16,
+        "m_Features": [
+		  "!bp_74116a0b1bc5307488747a73241754fe"
+		]
+      },
+      {
+        "Level": 20,
+        "m_Features": []
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+		  "!bp_43281c3d7fe18cc4d91928395837cd1e",
+		  "!bp_48525e5da45c9c243a343fc6545dbdb9"
+		]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": true,
+    "RecommendedAttributes": [
+      "Strength",
+      "Constitution",
+      "Wisdom"
+    ],
+    "NotRecommendedAttributes": [
+      "Intelligence"
+    ],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "AssetId": "2a3843b5f4b98a746be52df743e7de0a",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteNoFeature$4a3fa92c-7284-48e9-9145-b33e60176b44"
+    ],
+    "Components": [
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$4a3fa92c-7284-48e9-9145-b33e60176b44",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_bcf615513e7512a4ca4601ab3b0bc630"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$2e98e7c7-d75a-46cb-86d4-31012e21c947",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_efffc52e646f330428ca0d40d36693fc"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$93a40a23-b2b5-4e88-b626-bba49d28c9b4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_c3768b23b988c76409325b517b39a01d"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$4371555c-c8c0-4664-9975-bd6a927848b7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_12282219ab40c2e40a12fd546c794a7f"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "0fcfc2c9-ef83-4f74-a5f3-bc27a26c03c1",
+      "m_OwnerString": "d99dfc9238a8a6646b32be09057c1729",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/BeastTotemLesserFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "37ff35a5-69b6-4869-a26a-b0d68cedd08b",
+      "m_OwnerString": "d99dfc9238a8a6646b32be09057c1729",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/BeastTotemLesserFeature_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "925d5125654409f44b455def2d0b0f2a",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "RagePower"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_f6c05ec8d725bd8489b3075d61539afd"
+    ]
+  }
+}

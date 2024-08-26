@@ -1,0 +1,64 @@
+{
+  "AssetId": "239fecb9fa950794885b53d5f359f0d7",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_SwordDevilSlashingFury",
+      "m_OwnerString": "239fecb9fa950794885b53d5f359f0d7",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_SwordDevilSlashingFuryDesc",
+      "m_OwnerString": "239fecb9fa950794885b53d5f359f0d7",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": true,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "OnlyNew",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_c5dcb4779a411d248825caecfd274bc9",
+	  "!bp_9659dfbc8fb42e54cb17ab84dc0b7518",
+	  "!bp_6fff9b92cdb6b4c48bc23d9c01c6ca9c",
+	  "!bp_81233377183dc324b89fac22bc2e5f22",
+	  "!bp_47ce882f07023f944a6957eaf1d8f097",
+	  "!bp_ab806dbbf62b3534b9315e2205ce4f03",
+	  "!bp_43e5f32ccb31d3943bfa6bef35415756",
+	  "!bp_ad522be54c987504c8ff01689bf31c1c",
+	  "!bp_9ea0076897935ab4189e0ce52e6ba7ae",
+	  "!bp_aa4ab636e5454634c9db07bddb46cb44",
+	  "!bp_d0fd3b58dd4f737438e925f5767861fe",
+	  "!bp_5d2fb95330aad1942aff80bc079ff8ff",
+	  "!bp_85b3d259b8519e34b8788dda30b2036a",
+	  "!bp_da70c9f54684d0843ab6876f82a60c5e"
+    ]
+  }
+}

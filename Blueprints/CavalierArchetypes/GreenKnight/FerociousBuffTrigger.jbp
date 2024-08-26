@@ -1,0 +1,71 @@
+{
+  "AssetId": "422242c0abace3c4eb137250cf733e37",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "3577eb7fd5b1caa4ca13855b16201704, BuffDescriptorImmunity",
+        "name": "$BuffDescriptorImmunity$5a6d35f8-e303-4c89-ab53-ebdf6b243c89",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 1048576
+        },
+        "m_IgnoreFeature": null,
+        "CheckFact": false,
+        "m_FactToCheck": null
+      },
+	  {
+        "$type": "a914ea12032148b88cab1824e59f4744, RemoveWhenCombatEnded",
+        "m_Flags": 0,
+        "name": "$RemoveWhenCombatEnded$4cf7e617-8fcc-467d-ae66-9e9924e6eaa9",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_CavalierArchetypeGreenKnightOakenFerocious",
+      "m_OwnerString": "422242c0abace3c4eb137250cf733e37",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_CavalierArchetypeGreenKnightOakenFerociousDesc",
+      "m_OwnerString": "422242c0abace3c4eb137250cf733e37",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "ef075f9e062a6464fa67961e33c9fd6b",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

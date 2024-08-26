@@ -1,0 +1,65 @@
+{
+  "AssetId": "c471a296b107ee148a7e9a959575d37c",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ActivatableAbilityResourceLogic$dd20a50c-fc29-4e16-88bc-ac038c5e147c"
+    ],
+    "Components": [
+      {
+        "$type": "22c7a9a55d4f5724b89759d342784915, ActivatableAbilityResourceLogic",
+        "name": "$ActivatableAbilityResourceLogic$dd20a50c-fc29-4e16-88bc-ac038c5e147c",
+        "m_Overrides": [],
+        "SpendType": "OncePerMinute",
+        "m_RequiredResource": "!bp_0a24c15e51f3a2f4f9d54d132cf7bb75",
+        "m_FreeBlueprint": null,
+        "Categories": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesNokizaruTrick_KiBlade",
+      "m_OwnerString": "c471a296b107ee148a7e9a959575d37c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesNokizaruTrick_KiBladeDesc",
+      "m_OwnerString": "c471a296b107ee148a7e9a959575d37c",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ce0962e7437e5c448b4b4ea2dd40e4a0",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_55cf1efeb6c8a0b4a88cf8506f3f6df3",
+    "Group": "None",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": true,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "WithUnitCommand",
+    "m_ActivateWithUnitCommand": "Swift",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  }
+}

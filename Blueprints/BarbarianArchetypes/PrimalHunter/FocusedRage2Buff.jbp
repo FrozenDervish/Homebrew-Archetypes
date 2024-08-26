@@ -1,0 +1,96 @@
+{
+  "AssetId": "23edb771faecab043b63b88011462cc4",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "85fa3fbf0d4ee06478d09e259695eba8, WeaponAttackTypeDamageBonus",
+        "m_Flags": 0,
+        "name": "$WeaponAttackTypeDamageBonus$04be5acf-c1b4-480e-a549-4b6200193def",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Type": "Ranged",
+        "AttackBonus": 1,
+        "Descriptor": "UntypedStackable",
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 1,
+          "ValueRank": "StatBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level"
+        }
+      },
+      {
+        "$type": "54dcc8678a9e1ea409ffd1d24a957b31, AttackTypeAttackBonus",
+        "m_Flags": 0,
+        "name": "$AttackTypeAttackBonus$838556b9-8bb1-4689-91fe-51233dbd73e3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Type": "Ranged",
+        "AllTypesExcept": false,
+        "AttackBonus": 1,
+        "Descriptor": "UntypedStackable",
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 1,
+          "ValueRank": "StatBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level"
+        },
+        "CheckFact": false,
+        "m_RequiredFact": null
+      }
+    ],
+	"Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BarbarianArchetypePrimalHunterFocusedRage",
+      "m_OwnerString": "23edb771faecab043b63b88011462cc4",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "3d158b1cd624ce7499aaa43a56ea07e4",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "HiddenInUi",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "AssetId": "7a848afb92875094e8ad83928774aa96",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$42d2d500-dce2-47b3-9b12-a740b6178723",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_86f7e78694844c142a66ee797ff4e039",
+		  "!bp_76e747df0ef2b324e91b23b9853740d4",
+		  "!bp_4583e86bd35f9f84a97061c71c26d2c1",
+		  "!bp_3212a14c564387f4a8fa99cc4740af01",
+		  "!bp_a9f9e0c68a7d1d34b84d1090694e7384",
+		  "!bp_ae3243abf46ea014393c376c974c8b67",
+		  "!bp_05571352992b1b947bbdd5f4a72eb39d",
+		  "!bp_e22f0351fc26f1349ae9a0ce98bd3d25",
+		  "!bp_a25e4f075b7f0bf4caea8b61d117158e"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "2cce340653d34214890c280958a6bfee, AddFeatureOnAlignment",
+        "name": "$AddFeatureOnAlignment$926ad5e3-ffcf-4585-afee-abf345ca495d",
+        "m_Overrides": [],
+        "Alignment": "Good",
+        "m_Facts": [
+          "!bp_0f14eb7074c712743bb505cf2bd1bfe9",
+		  "!bp_36c0db38db247cc408e31133cf7922bb"
+        ]
+      },
+      {
+        "$type": "2cce340653d34214890c280958a6bfee, AddFeatureOnAlignment",
+        "name": "$AddFeatureOnAlignment$cf8e3cdc-4456-488d-b434-d48324f6732a",
+        "m_Overrides": [],
+        "Alignment": "Evil",
+        "m_Facts": [
+          "!bp_0faa20cad072174479448533a1df90af"
+        ]
+      },
+      {
+        "$type": "2cce340653d34214890c280958a6bfee, AddFeatureOnAlignment",
+        "name": "$AddFeatureOnAlignment$5b1d5365-746e-4e6c-bcec-d4790bbe338c",
+        "m_Overrides": [],
+        "Alignment": "Lawful",
+        "m_Facts": [
+          "!bp_20d4de65abc5dd144a4d7dca6be0ef95"
+        ]
+      },
+      {
+        "$type": "2cce340653d34214890c280958a6bfee, AddFeatureOnAlignment",
+        "name": "$AddFeatureOnAlignment$d7dd0ddc-125d-42cc-a0cc-ce295050ea0e",
+        "m_Overrides": [],
+        "Alignment": "Chaotic",
+        "m_Facts": [
+          "!bp_a461798ee59e6874cb94510bfca8973f"
+        ]
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrath",
+      "m_OwnerString": "0ea4bd293eff62c43af2e2019820ea82",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathDesc",
+      "m_OwnerString": "0ea4bd293eff62c43af2e2019820ea82",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "437fd3ba18904234696faf0f93c17aac",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

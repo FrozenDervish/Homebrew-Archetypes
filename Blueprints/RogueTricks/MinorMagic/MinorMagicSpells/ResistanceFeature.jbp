@@ -1,0 +1,101 @@
+{
+  "AssetId": "f02ebaa574696e74695670a4e9198ac2",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$e4eb907e-f159-435f-90ea-e134077206d1",
+      "$AddAbilityResources$a3f77df7-bc1d-45b5-859c-7eee7b845508"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$e4eb907e-f159-435f-90ea-e134077206d1",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_10456fe9a0e5b3b4ba4e0995cfb67308"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$e4eb907e-f159-435f-90ea-e134077206d2",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_e8e80533ed9cb8d418597cb4804bfa44"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "04406431439974e489cc8fdea779cf46, PrerequisiteStatValue",
+        "name": "$PrerequisiteStatValue$d9b07e84-68dd-41fb-8ec9-16e9a4d5a8b7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Stat": "Intelligence",
+        "Value": 10
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$a3f77df7-bc1d-45b5-859c-7eee7b845508",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_1ba66cce4b472b84c8f4804f537e0452",
+        "Amount": 0,
+        "RestoreAmount": false,
+        "RestoreOnLevelUp": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_RogueTalentMinorMagicResistance",
+      "m_OwnerString": "f02ebaa574696e74695670a4e9198ac2",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_RogueTalentMinorMagicResistanceDesc",
+      "m_OwnerString": "f02ebaa574696e74695670a4e9198ac2",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "b3355206cc666b543addf8d60df20299",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

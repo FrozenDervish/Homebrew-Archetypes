@@ -1,0 +1,84 @@
+{
+  "AssetId": "791674c6e866c214e955bd1ee2e871aa",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ActivableAbilityResourceLogic$b5a44341-ab7b-4264-81c2-2aabc0c9387a",
+      "$ActionPanelLogic$579e9b72-2edb-4b5e-a308-47e5c440c071"
+    ],
+    "Components": [
+      {
+        "$type": "22c7a9a55d4f5724b89759d342784915, ActivatableAbilityResourceLogic",
+        "name": "$ActivableAbilityResourceLogic$b5a44341-ab7b-4264-81c2-2aabc0c9387a",
+        "m_Overrides": [],
+        "SpendType": "NewRound",
+        "m_RequiredResource": "!bp_e190ba276831b5c4fa28737e5e49e6a6",
+        "m_FreeBlueprint": null,
+        "Categories": []
+      },
+      {
+        "$type": "0e059d6e61c843769f77ed36b3bf86b2, ActionPanelLogic",
+        "name": "$ActionPanelLogic$579e9b72-2edb-4b5e-a308-47e5c440c071",
+        "m_Overrides": [],
+        "Priority": 3,
+        "AutoFillConditions": {
+          "Operation": "And",
+          "Conditions": []
+        },
+        "AutoCastConditions": {
+          "Operation": "And",
+          "Conditions": []
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_Quake",
+      "m_OwnerString": "4fd592bfce394664a8cc297269231e6a",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_QuakeDesc",
+      "m_OwnerString": "4fd592bfce394664a8cc297269231e6a",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "7b5c350aabee3114ba67bd45d258d83d",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_998e8429bd5e6f247af777bcf4a41e3c",
+    "Group": "BardicPerformance",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": true,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": false,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": true,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "WithUnitCommand",
+    "m_ActivateWithUnitCommand": "Standard",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": [
+      "39da71647ad4747468d41920d0edd721",
+      "20caf000cd4c3434da00a74f4a49dccc",
+      "f00bbb092bd65a4468e72869b99f1d66"
+    ]
+  }
+}

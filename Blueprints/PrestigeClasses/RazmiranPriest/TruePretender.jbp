@@ -1,0 +1,64 @@
+{
+  "AssetId": "986acba074e044a43bfb32adc5c2bd51",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d71",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_89bdaad95f999ce44b707176a8e524a5",
+        "m_Feature": "!bp_7975f3475233f7b41b616c5c1f1cdf86",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d81",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_5f5b5cd0b34ce2c49b96e2aacdf9e517",
+        "m_Feature": "!bp_c92b71c94fef2dc41b9990bbac9bd4cf",
+        "Not": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_PrestigeClassRazmiranPriestTruePretender",
+      "m_OwnerString": "986acba074e044a43bfb32adc5c2bd51",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_PrestigeClassRazmiranPriestTruePretenderDesc",
+      "m_OwnerString": "986acba074e044a43bfb32adc5c2bd51",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "636f55d7ac7635e459967e29e1c71cdd",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "ChannelEnergy"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

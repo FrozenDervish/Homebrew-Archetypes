@@ -1,0 +1,329 @@
+{
+  "AssetId": "b133869b79516de468f32518c64cbd78",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$PrerequisiteNoFeature$d6c88f8d-f0c2-4581-a11b-8b69e9383fc9",
+      "$PrerequisiteFeature$106d84c5-8608-4132-80b4-c1d6c1a03ec3",
+	  "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a63",
+	  "$PrerequisiteFeature$af7fbcc2-f570-4f35-8559-d2c65c81bb47",
+	  "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a64"
+    ],
+    "Components": [
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$d6c88f8d-f0c2-4581-a11b-8b69e9383fc9",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_62b33ac8ceb18dd47ad4c8f06849bc01"
+      },
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$106d84c5-8608-4132-80b4-c1d6c1a03ec3",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_9f4ea90e9b9c27c48b541dbef184b3b7"
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a63",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_24bef8d1bee12274686f6da6ccbc8914"
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a64",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_94c29f69cdc34594a6a4677441ed7375"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$af7fbcc2-f570-4f35-8559-d2c65c81bb47",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a1a8bf61cadaa4143b2d4966f2d1142e"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$cf30cc30-f614-44cd-bd98-3a1eb1c5d13e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_6127949882384a5cb75074e4d77ceae3"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$28043a5f-f201-43b9-86e6-08887e7f4994",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_3da0972ad5574bfd8a7de9bc5460e7e9"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$33010013-f178-4ab9-b7dc-fbe2f5653471",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_47f3f1a3349349fe9a7f68f8d2b6da5d"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$87610225-62ea-4941-a70d-36f105b9daaa",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_df2807f0649c4237ab7c4d62a2acaaee"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$54cbbcb6-c4dd-4ba7-a040-e5695c513c8d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_416ee6e6b4834bb8bd5afe8b08a69865"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$44b5cc77-fb64-44ac-8063-d30c61d14e96",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_5172cdce55b2455f878ff8c74c964a1e"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$4ea85ccb-a0de-466c-81d6-bfabc135a1f4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_db69413e69184b099f7825092c5dbc4f"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$96bb2e05-241f-4bf6-b463-f65ca101b640",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_267dbd4789fa4b75a44294c7d1625bba"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$ae6a9df9-1f38-465b-9708-0746a114faa2",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_b6a90286e6894c7b8fbd52a29dda9f48"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$c406dbe1-3b02-4860-b938-945d775db2f8",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_1bdad91f7210419b9e5b4801d084e14b"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "b63347671f7fce24ebf23fb07e00d85f",
+        "stringkey": "b8925dab-c90e-4567-8c0d-26e6a8ca68a0"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "5161c2d41ea7fef49adb145df3da2f59",
+        "stringkey": "9b3ca45a-7ff3-48fb-8ffb-083413417aca"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "b069494fb2e8d7640b1be7b64dfbeeab",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "BloodLine"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [
+      {
+        "m_Class": "!bp_b3a505fb61437dc4097f43c3f8f9a4cf",
+        "AdditionalLevel": 0
+      },
+      {
+        "m_Class": "!bp_45a4607686d96a1498891b3286121780",
+        "AdditionalLevel": 0
+      },
+	  {
+        "m_Class": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [
+      {
+        "m_Archetype": "!bp_d078b2ef073f2814c9e338a789d97b73",
+        "AdditionalLevel": 0
+      },
+	  {
+        "m_Archetype": "!bp_83fa4fdbcabbf0840be393785e637025",
+        "AdditionalLevel": 0
+      }
+    ],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_a7d560014a1eadf46bf89967562f4583",
+          "!bp_1a5e7191279e7cd479b17a6ca438498c",
+          "!bp_8a59e4af9f32950418260034c8b477fa"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_fd5f14d44e82f464196fdf0ea82347cc"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_ea2aa0b1d2b548849a4aae9c2d83ca74",
+          "!bp_fd5f14d44e82f464196fdf0ea82347cc"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_9c41aa48c547d484a99f9dfbc918eba8"
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+          "!bp_dd5cffe0376788544a8f2b907c56186d"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_dd5cffe0376788544a8f2b907c56186d",
+          "!bp_b3e403ebbdad8314386270fefc4b4cc8"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeatureRankIncrease": null
+  }
+}

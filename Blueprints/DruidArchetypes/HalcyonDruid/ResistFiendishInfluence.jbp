@@ -1,0 +1,57 @@
+{
+  "AssetId": "4d83a973388554b41add86d1a2905452",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$SavingThrowBonusAgainstFact$aa61cf6d-d18b-406a-8b85-56b13a22d877"
+    ],
+    "Components": [
+      {
+        "$type": "11ec481f283cbc74f98221b1890b30d9, SavingThrowBonusAgainstFact",
+        "name": "$SavingThrowBonusAgainstFact$aa61cf6d-d18b-406a-8b85-56b13a22d877",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_9054d3988d491d944ac144e27b6bc318",
+        "Descriptor": "None",
+        "Value": 4,
+        "Alignment": "Evil"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidResistFiendishInfluence",
+      "m_OwnerString": "4d83a973388554b41add86d1a2905452",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidResistFiendishInfluenceDesc",
+      "m_OwnerString": "4d83a973388554b41add86d1a2905452",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "d4960a0f7e7cc6843bf6d675985fd381",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "AssetId": "b273ed6f633f19e4483bb2e68b28b9a3",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddInitiatorAttackWithWeaponTrigger$d483dd65-a4eb-4126-916d-dba43e6d7106",
+      "$AddInitiatorAttackWithWeaponTrigger$6223fcd5-037e-40ea-a5bc-c1df54858d5e",
+      "$PrerequisiteFeaturesFromList$58583654-2f9d-4d4c-b8c1-536cef983bff"
+    ],
+    "Components": [
+      {
+        "$type": "bdbdc2afaa197d4479e112a32f9bdab5, AddInitiatorAttackWithWeaponTrigger",
+        "name": "$AddInitiatorAttackWithWeaponTrigger$d483dd65-a4eb-4126-916d-dba43e6d7106",
+        "m_Overrides": [],
+        "WaitForAttackResolve": true,
+        "OnlyHit": true,
+        "OnMiss": false,
+        "OnlyOnFullAttack": false,
+        "OnlyOnFirstAttack": false,
+        "OnlyOnFirstHit": false,
+        "CriticalHit": true,
+        "OnAttackOfOpportunity": false,
+        "NotCriticalHit": false,
+        "OnlySneakAttack": false,
+        "NotSneakAttack": false,
+        "m_WeaponType": null,
+        "CheckWeaponCategory": true,
+        "Category": "Ray",
+        "CheckWeaponGroup": false,
+        "Group": "None",
+        "CheckWeaponRangeType": false,
+        "RangeType": "Melee",
+        "ActionsOnInitiator": false,
+        "ReduceHPToZero": false,
+        "CheckDistance": false,
+        "DistanceLessEqual": {
+          "m_Value": 0.0
+        },
+        "AllNaturalAndUnarmed": false,
+        "DuelistWeapon": false,
+        "NotExtraAttack": false,
+        "OnCharge": false,
+        "Action": {
+          "Actions": [
+            {
+              "$type": "e08f8adb906a0c140a386268829db0d2, ContextActionCombatManeuver",
+              "name": "$ContextActionCombatManeuver$1628bac4-e131-4263-9525-0004110247e8",
+              "Type": "Trip",
+              "IgnoreConcealment": true,
+              "OnSuccess": {
+                "Actions": []
+              },
+              "ReplaceStat": true,
+              "NewStat": "Charisma",
+              "UseKineticistMainStat": false,
+              "UseCastingStat": false,
+              "UseCasterLevelAsBaseAttack": false,
+              "UseBestMentalStat": false,
+              "BatteringBlast": false
+            }
+          ]
+        }
+      },
+      {
+        "$type": "bdbdc2afaa197d4479e112a32f9bdab5, AddInitiatorAttackWithWeaponTrigger",
+        "name": "$AddInitiatorAttackWithWeaponTrigger$6223fcd5-037e-40ea-a5bc-c1df54858d5e",
+        "m_Overrides": [],
+        "WaitForAttackResolve": true,
+        "OnlyHit": true,
+        "OnMiss": false,
+        "OnlyOnFullAttack": false,
+        "OnlyOnFirstAttack": false,
+        "OnlyOnFirstHit": false,
+        "CriticalHit": true,
+        "OnAttackOfOpportunity": false,
+        "NotCriticalHit": false,
+        "OnlySneakAttack": false,
+        "NotSneakAttack": false,
+        "m_WeaponType": null,
+        "CheckWeaponCategory": true,
+        "Category": "Touch",
+        "CheckWeaponGroup": false,
+        "Group": "None",
+        "CheckWeaponRangeType": false,
+        "RangeType": "Melee",
+        "ActionsOnInitiator": false,
+        "ReduceHPToZero": false,
+        "CheckDistance": false,
+        "DistanceLessEqual": {
+          "m_Value": 0.0
+        },
+        "AllNaturalAndUnarmed": false,
+        "DuelistWeapon": false,
+        "NotExtraAttack": false,
+        "OnCharge": false,
+        "Action": {
+          "Actions": [
+            {
+              "$type": "e08f8adb906a0c140a386268829db0d2, ContextActionCombatManeuver",
+              "name": "$ContextActionCombatManeuver$5bf4c6ea-57a7-47eb-aa73-e8fab6d93a3a",
+              "Type": "Trip",
+              "IgnoreConcealment": true,
+              "OnSuccess": {
+                "Actions": []
+              },
+              "ReplaceStat": true,
+              "NewStat": "Charisma",
+              "UseKineticistMainStat": false,
+              "UseCastingStat": false,
+              "UseCasterLevelAsBaseAttack": false,
+              "UseBestMentalStat": false,
+              "BatteringBlast": false
+            }
+          ]
+        }
+      },
+      {
+        "$type": "24d005ae28c58444bb8db4b94c9165cc, PrerequisiteFeaturesFromList",
+        "name": "$PrerequisiteFeaturesFromList$58583654-2f9d-4d4c-b8c1-536cef983bff",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Features": [
+          "!bp_7bb4bb3e7fd26f34e8ca035a27e03e85",
+          "!bp_2127c37ccc7986e4083665552d6ecd5c",
+          "!bp_09106dcc03321154f955e2d0296a082e",
+		  "!bp_506d85404dbaaec46afba2109dd146b4"
+        ],
+        "Amount": 1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "19fa3425-a94e-46db-ba3b-f8979c703f69",
+      "m_OwnerString": "b830f7ed7a68fa349a08cccc35975bdd",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Oracle/OracleRevelations/OracleRevelationClobberingStrike_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "602ffd77-0bc7-435e-a6d9-bb68f3beea56",
+      "m_OwnerString": "b830f7ed7a68fa349a08cccc35975bdd",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Oracle/OracleRevelations/OracleRevelationClobberingStrike_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "60fe3c2dbd23eae45843f2334f960ec5",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "OracleRevelation"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

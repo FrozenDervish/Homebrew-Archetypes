@@ -1,0 +1,78 @@
+{
+  "AssetId": "0c1e60ec6b0f0594284072febe856d60",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$930303f7-e3ee-4559-b552-bef1823a7b7a",
+        "m_Overrides": [],
+        "Descriptor": "Profane",
+        "Stat": "SkillLoreReligion",
+        "Multiplier": 2,
+        "Value": {
+          "ValueType": "Rank",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$930303f7-e3ee-4559-b552-bef1823a7b7b",
+        "m_Overrides": [],
+        "Descriptor": "Profane",
+        "Stat": "SkillKnowledgeArcana",
+        "Multiplier": 2,
+        "Value": {
+          "ValueType": "Rank",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ClericElderMythosCultistForbiddenKnowledge",
+      "m_OwnerString": "0c1e60ec6b0f0594284072febe856d60",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ClericElderMythosCultistForbiddenKnowledgeDesc",
+      "m_OwnerString": "0c1e60ec6b0f0594284072febe856d60",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "f1caa0aa81d2e7d469e00c793f284b07",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": true,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

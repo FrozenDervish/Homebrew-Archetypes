@@ -1,0 +1,58 @@
+{
+  "AssetId": "43ae867987b8cd946be59fe18bf24a14",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$FavoredTerrain$f52c8218-36e9-4cf7-bc41-5927042eddc1"
+    ],
+    "Components": [
+      {
+        "$type": "a6f87157dd911384281dc7bbb82fbac2, FavoredTerrain",
+        "name": "$FavoredTerrain$f52c8218-36e9-4cf7-bc41-5927042eddc1",
+        "m_Overrides": [],
+        "Setting": "Abyss"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "c332bbd4-80f0-4285-83be-be34ce201769",
+      "m_OwnerString": "b3f10ef830d9fc44eab628ca1c1ed4fb",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Ranger/FavoriteTerrain/FavoriteTerrainAbyss_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "06142942b60e16a42b6f1674c6f8b782",
+        "stringkey": "6f8b209e-170a-465a-aa16-515fca0f7e6f"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "FavoriteTerrain"
+    ],
+    "Ranks": 10,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_c0fdbea534083554ab79f5654e4d2032"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "AssetId": "ef38f7755c5c0aa4ebe9f12b19a01ccd",
+  "Data": {
+    "$type": "43f1ee69992dc1848b97e623487f6442, BlueprintFeatureReplaceSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$PrerequisiteArchetypeLevel$5ba61aec-f8fb-4d55-9495-6c284cb99bab"
+    ],
+    "Components": [
+      {
+        "$type": "682c71964f9bf3d4d97232b9016eafc8, PrerequisiteArchetypeLevel",
+        "name": "$PrerequisiteArchetypeLevel$5ba61aec-f8fb-4d55-9495-6c284cb99bab",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_adb9e138bee9ecc4db246b64d563f900",
+        "m_Archetype": "!bp_f3b56671b5f78f04c8229ca5debad6de",
+        "Level": 1
+      },
+      {
+        "$type": "34c98fa5c2369684aba66f3b11581388, PrerequisiteClassSpellLevel",
+        "name": "$PrerequisiteClassSpellLevel$b9ea1056-d950-4adb-9b05-641bd37d6b2e",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_adb9e138bee9ecc4db246b64d563f900",
+        "RequiredSpellLevel": 2
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeQuestioner",
+      "m_OwnerString": "ef38f7755c5c0aa4ebe9f12b19a01ccd",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ArcaneTricksterSpellbookSelectionDesc",
+      "m_OwnerString": "ef38f7755c5c0aa4ebe9f12b19a01ccd",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "DlcType": "None",
+    "Groups": [
+      "ArcaneTricksterSpellbook"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Spellbook": "!bp_bd4eb3c70704b8d40a3e7f07d64ab610"
+  }
+}

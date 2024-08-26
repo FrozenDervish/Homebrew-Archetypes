@@ -1,0 +1,207 @@
+{
+  "AssetId": "1fbebd6cc0acc794ba27112b4ca2edf1",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$6a97d159-fa49-434d-af4c-89336b9b6cf6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": true,
+        "HideInUI": false,
+        "m_Feature": "!bp_1dc20e195581a804890ddc74218bfd8e"
+      }
+	],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_WitchArchetypeScarredWitchDoctor",
+      "m_OwnerString": "1fbebd6cc0acc794ba27112b4ca2edf1",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_WitchArchetypeScarredWitchDoctorDesc",
+      "m_OwnerString": "1fbebd6cc0acc794ba27112b4ca2edf1",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": "!bp_96c5cb8552a023146bc51167a71bcd54",
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_14cb3cdbb374b4d4f8a5cb25052b6acc",
+		  "!bp_fe5e8901261b2eb48a2d7803abe55533"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 8,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 12,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 14,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 18,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_be50fd9b775b64f4ba7b94cbe92fb557"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_29a333b7ccad3214ea3a51943fa0d8e9",
+		  "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 2,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 8,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 12,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 14,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 18,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_9846043cf51251a4897728ed6e24e76f"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": true,
+    "RecommendedAttributes": [
+      "Constitution"
+    ],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "AssetId": "d741b7289c3303c4cb84cde0dc4bbf92",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "12a48211ea743204e958350b082ecd52, SavingThrowBonusAgainstSchool",
+        "name": "$SavingThrowBonusAgainstSchool$28308899-3bb7-4839-8378-97e2215ed6af",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "School": "Enchantment",
+        "ModifierDescriptor": "Competence",
+        "Value": 1
+      },
+	  {
+        "$type": "12a48211ea743204e958350b082ecd52, SavingThrowBonusAgainstSchool",
+        "name": "$SavingThrowBonusAgainstSchool$28308899-3bb7-4839-8378-97e2215ed6ae",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "School": "Illusion",
+        "ModifierDescriptor": "Competence",
+        "Value": 1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeJinyiweiCelestialInsight",
+      "m_OwnerString": "d741b7289c3303c4cb84cde0dc4bbf92",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeJinyiweiCelestialInsightDesc",
+      "m_OwnerString": "d741b7289c3303c4cb84cde0dc4bbf92",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "efdb8e3899fcdd044bc3eeab8e127ee6",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 6,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

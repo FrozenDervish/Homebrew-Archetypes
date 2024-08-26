@@ -1,0 +1,266 @@
+{
+  "AssetId": "9489ded7ec0339240be170ffb2bc6ec2",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$SpellComponent$4a2bdbc8-7070-4b7a-94f6-8b4f53dad5d1",
+      "$AbilityEffectRunAction$8ea45acb-762e-4279-bc16-535978e7763c"
+    ],
+    "Components": [
+      {
+        "$type": "bbf7e743804d40a47bde0b27174f33a9, SpellComponent",
+        "m_Flags": 0,
+        "name": "$SpellComponent$4a2bdbc8-7070-4b7a-94f6-8b4f53dad5d1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "School": "Transmutation"
+      },
+      {
+        "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
+        "m_Flags": 0,
+        "name": "$AbilityEffectRunAction$8ea45acb-762e-4279-bc16-535978e7763c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "SavingThrowType": "Unknown",
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+              "name": "$Conditional$69d980fd-531e-4360-b210-99b227b9f071",
+              "Comment": "",
+              "ConditionsChecker": {
+                "Operation": "And",
+                "Conditions": [
+                  {
+                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                    "name": "$AbilityConditionHasFact$11c478cb-55dc-46e6-8912-9dc13a0017be",
+                    "Not": false,
+                    "m_Fact": "!bp_4f139d125bb602f48bfaec3d3e1937cb"
+                  }
+                ]
+              },
+              "IfTrue": {
+                "Actions": [
+                  {
+                    "$type": "23ddfb172c2d3c144ab007dec380d712, ContextActionRemoveBuff",
+                    "name": "$AbilityActionRemoveBuff$68b1250c-86c8-44f2-ad8d-9cbe8455cef9",
+                    "m_Buff": "!bp_4f139d125bb602f48bfaec3d3e1937cb",
+                    "RemoveRank": false,
+                    "ToCaster": false
+                  }
+                ]
+              },
+              "IfFalse": {
+                "Actions": [
+                  {
+                    "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                    "name": "$AbilityActionApplyBuff$9ae72bc1-21dd-48f4-83af-143b5b59034d",
+                    "m_Buff": "!bp_6da0859bd05b67b42a9679ce7475309a",
+                    "Permanent": false,
+                    "UseDurationSeconds": false,
+                    "DurationValue": {
+                      "Rate": "Hours",
+                      "DiceType": "Zero",
+                      "DiceCountValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                      },
+                      "BonusValue": {
+                        "ValueType": "Rank",
+                        "Value": 1,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                      },
+                      "m_IsExtendable": true
+                    },
+                    "DurationSeconds": 0.0,
+                    "IsFromSpell": true,
+                    "IsNotDispelable": false,
+                    "ToCaster": false,
+                    "AsChild": false,
+                    "SameDuration": false
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+{
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "m_Flags": 0,
+        "name": "$ContextRankConfig$eb568078-bdd8-4533-8a0c-6d26a1c70472",
+        "m_Overrides": [],
+        "m_Type": "Default",
+        "m_BaseValueType": "CasterLevel",
+        "m_Feature": null,
+        "m_FeatureList": [],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_Progression": "AsIs",
+        "m_CustomProgression": [],
+        "m_StartLevel": 0,
+        "m_StepLevel": 0,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": true,
+        "m_Max": 1,
+        "m_ExceptClasses": false,
+        "Archetype": null,
+        "m_AdditionalArchetypes": [],
+        "m_Class": [],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      },
+      {
+        "$type": "c788cf748ec86bc45b986ac4de28cf45, AbilitySpawnFx",
+        "m_Flags": 0,
+        "name": "$AbilitySpawnFx$82860c75-1d05-43f2-b43e-31967ce323df",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "PrefabLink": {
+          "AssetId": "352469f228a3b1f4cb269c7ab0409b8e"
+        },
+        "Time": "OnApplyEffect",
+        "Anchor": "SelectedTarget",
+        "WeaponTarget": "None",
+        "DestroyOnCast": false,
+        "Delay": 0.0,
+        "PositionAnchor": "None",
+        "OrientationAnchor": "None",
+        "OrientationMode": "Copy"
+      },
+      {
+        "$type": "471113ce4758b9b4d8a3162276d8d570, AbilityTargetHasFact",
+        "m_Flags": 0,
+        "name": "$AbilityTargetHasFact$47205452-010c-43ab-95d7-0cef365e08f6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedFacts": [
+          "!bp_3bec99efd9a363242a6c8d9957b75e91",
+          "!bp_a95311b3dc996964cbaa30ff9965aaf6",
+          "!bp_fd389783027d63343b4a5634bd81645f",
+          "!bp_455ac88e22f55804ab87c2467deff1d6",
+          "!bp_018af8005220ac94a9a4f47b3e9c2b4e",
+          "!bp_625827490ea69d84d8e599a33929fdc6",
+          "!bp_57614b50e8d86b24395931fffc5e409b",
+          "!bp_9054d3988d491d944ac144e27b6bc318",
+          "!bp_706e61781d692a042b35941f14bc41c5",
+          "!bp_09478937695300944a179530664e42ec",
+          "!bp_734a29b693e9ec346ba2951b27987e33"
+        ],
+        "Inverted": true
+      },
+	  {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "name": "$AbilityResourceLogic$573d0274-ce73-42b6-bfaa-69ec01ecd972",
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_0a24c15e51f3a2f4f9d54d132cf7bb75",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 2,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesNinjaAbility_AlterSelf",
+      "m_OwnerString": "9489ded7ec0339240be170ffb2bc6ec2",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesNinjaAbility_AlterSelfDesc",
+      "m_OwnerString": "9489ded7ec0339240be170ffb2bc6ec2",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "238ae9088a6ddaf4e91984aa40548b3e",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Spell",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "SelfTouch",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionDirectional",
+    "m_TargetMapObjects": false,
+    "ActionType": "Standard",
+    "AvailableMetamagic": "Quicken, Extend, Heighten, Reach, CompletelyNormal",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "SwarmFilesNinjaTimer_Hour",
+      "m_OwnerString": "9489ded7ec0339240be170ffb2bc6ec2",
+      "m_OwnerPropertyPath": "LocalizedDuration",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": [
+      "352469f228a3b1f4cb269c7ab0409b8e"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

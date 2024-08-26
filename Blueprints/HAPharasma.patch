@@ -1,0 +1,35 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$a8a4d239-9cf4-44a1-91ce-70b8d439e179",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_772c83a25e2268e448e841dcd548235f",
+        "m_Archetype": "!bp_832d3316fea524e4c8218bdcf38933b5"
+      },
+	  {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "name": "$PrerequisiteNoArchetype$a8a4d239-9cf4-44a1-91ce-70b8d439e189",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "m_Archetype": "!bp_b7b9138f2e19b9f45a6ca457f6467710"
+      },
+    ],
+	}

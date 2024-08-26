@@ -1,0 +1,74 @@
+{
+  "AssetId": "74116a0b1bc5307488747a73241754fe",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AutoMetamagicOnSpellList$66daf04a-b1fe-4ff9-8e4b-1a8621a61a73"
+    ],
+    "Components": [
+      {
+        "$type": "b51a712035f3d98459e516a34fda37bf, AutoMetamagic",
+        "name": "$AutoMetamagicOnSpellList$66daf04a-b1fe-4ff9-8e4b-1a8621a61a73",
+        "m_Overrides": [],
+        "m_AllowedAbilities": "SpellOnly",
+        "Metamagic": "Maximize",
+        "Abilities": [
+          "!bp_e5af3674bb241f14b9a9f6b0c7dc3d27",
+          "!bp_65f0b63c45ea82a4f8b8325768a3832d",
+          "!bp_bd5da98859cf2b3418f6d68ea66cabbe",
+          "!bp_651110ed4f117a948b41c05c5c7624c0",
+          "!bp_9da37873d79ef0a468f969e4e5116ad2",
+          "!bp_03944622fbe04824684ec29ff2cec6a7",
+          "!bp_820170444d4d2a14abc480fcbdb49535",
+          "!bp_5ee395a2423808c4baf342a4f8395b19",
+		  "!bp_cc09224ecc9af79449816c45bc5be218"
+        ],
+        "Descriptor": {
+          "m_IntValue": 0
+        },
+        "Once": false,
+        "MaxSpellLevel": 0,
+        "School": "None",
+        "CheckSpellbook": false,
+        "m_Spellbook": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ClericUndeadLordUnlifeHealer",
+      "m_OwnerString": "74116a0b1bc5307488747a73241754fe",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ClericUndeadLordUnlifeHealerDesc",
+      "m_OwnerString": "74116a0b1bc5307488747a73241754fe",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "fc8297727159f35409badd61a74fd0aa",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "AssetId": "0aa69dcaf146d794ea3100827e2d1e8b",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$b395f8ed-9adf-4e62-85a9-74d047689f7c"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$b395f8ed-9adf-4e62-85a9-74d047689f7c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_b735ea11d5fafc249b1fee1045971d0d"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "42d8d2ba-cd2a-4078-8c82-0c6766ae26b6",
+      "m_OwnerString": "efb97e482f53f064dab85a9eeaf01085",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/GuardedStancePowers/GuardedStanceFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "6f517d5c8e58fb94f9cfdf3db4fb8e01",
+        "stringkey": "e25c368c-1372-4fbd-bc59-18beeabc4dec"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "ef075f9e062a6464fa67961e33c9fd6b",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "RagePower"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_acc8ba1cb2cce7e46b6363327693cc5e",
+      "!bp_a6770f30b4ae91d47ad7aaa38efbb9d3",
+      "!bp_414540ad082a6ad4480c1467f535b571"
+    ]
+  }
+}

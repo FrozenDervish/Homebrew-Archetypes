@@ -1,0 +1,52 @@
+{
+  "AssetId": "83e44f679e6d46f45950e709ad73568b",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "33c6c6711d174884ba995663e0f64b63, AuraFeatureComponent",
+        "name": "$AuraFeatureComponent$1a931668-7e39-4917-a25b-e47accea7d37",
+        "m_Overrides": [],
+        "m_Buff": "!bp_6dd9ccee1033c8d4b921262a6dc24ad5"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassDoctrineWarWordsofWar",
+      "m_OwnerString": "83e44f679e6d46f45950e709ad73568b",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassDoctrineWarWordsofWarDesc",
+      "m_OwnerString": "83e44f679e6d46f45950e709ad73568b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "5a6809fa5735a3843ba97c64b9e5d835",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "AssetId": "ed9e814abda649444b18bcefe45178ca",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2000",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_f58e8500ebc8594499bd804b0277cdd8",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2001",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_b4027a834204042409248889cc8abf67",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2002",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_8618d4515685b6d4197f254b7f56a68c",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2003",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_ab81563882fcf3a41bc657e0c6677ea2",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2004",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_6d0a82635b9167a4584ff74f5cd50315",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2005",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_555930f121b364a4e82670b433028728",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2006",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_83eab9b139717ad478d84bbf48ab457f",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2007",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_998e8429bd5e6f247af777bcf4a41e3c",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2008",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_053ac5f6f7295f049859d259f17f15f9",
+        "m_ExtraEffectBuff": "!bp_0387d52bac9935e469b2098ff0dc40b6"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_Tremor",
+      "m_OwnerString": "6b4a01ddc645fa8438db290137e43df9",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_TremorDesc",
+      "m_OwnerString": "6b4a01ddc645fa8438db290137e43df9",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "2ad211e0d415b1e43b6566a3dd9d3129",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

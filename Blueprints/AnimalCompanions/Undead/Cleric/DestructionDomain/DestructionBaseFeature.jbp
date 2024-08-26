@@ -1,0 +1,87 @@
+{
+  "AssetId": "52405832949e2324688b652618bac7e9",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$a8a5ff6f-c2e1-4d47-901d-9f1e4b58ea9b",
+      "$AddAbilityResources$c1435122-db5d-4720-a29d-493577192f9b"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$a8a5ff6f-c2e1-4d47-901d-9f1e4b58ea9b",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_8df8a37b2ea633141b76d13e6461f01e"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$c1435122-db5d-4720-a29d-493577192f9b",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_9acceeadcc1538544ac5176eb168b4a1",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$65fe96c6-51b9-4727-a41d-382113fab02a",
+        "m_Overrides": [],
+        "m_Class": "!bp_f4248bf69918b974c828a0d4c1fc2d9e",
+        "Level": 1,
+        "m_Feature": "!bp_831bb04d6fff0eb47a44a535333ea8d5",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "6215fd22-d8eb-44c4-a63b-853a13dc4286",
+      "m_OwnerString": "2d3b9491bc05a114ab10e5b1b30dc86a",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/Destruction/DestructionDomainBaseFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "0c6de0cad59574949b9d1e790eebe94b",
+        "stringkey": "c53696d6-4888-4e30-a852-7eb1c678c2bc"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "f5063c4db99f251449c60135f97c94ad",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

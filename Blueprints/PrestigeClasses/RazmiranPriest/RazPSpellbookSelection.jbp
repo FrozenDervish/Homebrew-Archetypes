@@ -1,0 +1,89 @@
+{
+  "AssetId": "7e72ea5394887f04a8cc48b305d3a6ac",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "ba214f1f19c3f804189da610a52ff2a5",
+        "stringkey": "2851f2b7-53e9-475d-bc0f-59a6e7725ed0"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "cd3807e19ce72c1488cc3cc4fdf0b90f",
+        "stringkey": "bf9c1e4a-5753-4705-9617-1a54ac291dfc"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": true,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_328dcca261c9b2f4d8756d4518ee05f4",
+	  "!bp_95b83d09b17f9e444bae53171e569c92",
+	  "!bp_c9f9703ef0b71f14e8d52af8ee3d0242",
+	  "!bp_afe173d703800704f8e18cf2c73e7f4e",
+	  "!bp_917c1f866e01fba4ea3544f9e6e619cb",
+	  "!bp_0fd8d0eed8e3b474ab0ae6d476d9fed1",
+	  "!bp_8848a8dff31931e4ba20b48af77e4598",
+	  "!bp_2781d69fab2e5af488af64d7e6fcc267",
+	  "!bp_6b16d5f808afdc34780a4356578a6102",
+	  "!bp_53cd9638b6d8fcd4e9e4394d6657fbb9",
+	  "!bp_d3ec59acaf7d2a64499da613d9f6c161",
+	  "!bp_16ccb6523d0f12146bb682cbd7e1cd05",
+	  "!bp_2106fce072344bb4b8ed2899228abb16",
+	  "!bp_47ab0ae5d2d49e74ab7752d1f66212ab",
+	  "!bp_a4661d62bb27d6f4ca780fe4df57a090",
+	  "!bp_2b71be7d83afcd7489cc19586559cb8f",
+	  "!bp_1dae1aac4f9c4394eabaeda68e4206da",
+	  "!bp_95174c17be6d57a478b85466e94f1e61",
+	  "!bp_ad45601abf2a1494a91af9a622dbba46",
+	  "!bp_882cb62ab6d3c874391bd512b55bf32d",
+	  "!bp_09f4f1043e5509e4dbdf3596bd5feb6b",
+	  "!bp_f01b0c3b0b8705240ae4e30b34af93c6",
+	  "!bp_3cdfd3ea9471a154b9c4f86bbf89a76c",
+	  "!bp_86554dc402c07ac4ba18d9eaf530c62c",
+	  "!bp_dfcce06595c851a44823ebed1bc26133",
+	  "!bp_f6d66655d44c1a749a06491ea29e90ac",
+	  "!bp_db7f79a90e0b06444b8ab7e958c826ef",
+	  "!bp_a7f63d835160df14c979411e6f511af2",
+	  "!bp_4eda68ac71c0cac44a30923164b60bc5",
+	  "!bp_8316893a2d1efb0469ae8eae677e94e3"
+    ],
+    "ShowThisSelection": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

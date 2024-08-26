@@ -1,0 +1,69 @@
+{
+  "AssetId": "da89239cc5859a1478007cd5e6d44f67",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassTalent",
+      "m_OwnerString": "da89239cc5859a1478007cd5e6d44f67",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassTalentDesc",
+      "m_OwnerString": "da89239cc5859a1478007cd5e6d44f67",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "ed9b1a97cb614b44883755a04df47351",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_80c3fd96e00c8364e8c24139d622c84b",
+	  "!bp_e841e17acd3918545a8ced3f66d65521",
+	  "!bp_268eb20df1fea574d9225030b0d57112",
+	  "!bp_9951edba72bb1f94abbd2aa878841492",
+	  "!bp_2885cbaf40b531e45b17a06182b5536e",
+	  "!bp_2e1ac887b2e3f384fae1f0875544281a",
+	  "!bp_e706c839d139e6a4281fb5c3e316408e",
+	  "!bp_e3bc416aceb3d8445a89144b8f2d7a95",
+	  "!bp_56323e0c3d28d9a428d30189e93b5e68",
+	  "!bp_20c725db6c9c7f14d82ee7feb762a068",
+	  "!bp_4f497e31844a1004087cf1b97330ed72",
+	  "!bp_01e76de8d3649374f8a21f54d4637b44",
+	  "!bp_27ac309cb4aa14241a7d550991262084",
+	  "!bp_f68b959943348034d8469c165442e019",
+	  "!bp_53fc21b8368da464cb7a147d5cd16cf8",
+	  "!bp_479059726b159c544989e9f83935c709"
+    ]
+  }
+}

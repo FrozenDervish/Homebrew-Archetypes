@@ -1,0 +1,361 @@
+{
+  "AssetId": "dff4ee6c9a66c8146b30a8af6f7feebf",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$1d537ae8-86db-4df4-b28f-789a7c7b031c"
+    ],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632389",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_c3461b5a92bdb174dbda4fd427315c18"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632489",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_2dbac4ec7b1595642bd024fab3ad4206"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632589",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_1a871294410971745bba12ef11e41f6e"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632689",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_7d49d7f590dc9a948b3bd1c8b7979854"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632789",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_b8ec9dccc0e7ef74fb4072b0679c2aec"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632889",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_eb388d17f07e0b44d9f83ada0148cc69"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632989",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_c464ab12993745c44a7d21f386562cb6"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632999",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_cb6d55dda5ab906459d18a435994a760"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8642999",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_4bf9a9afadca5304e89bf52f2ac2d236"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3d0c8642999",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a79013ff4bcd4864cb669622a29ddafb"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8742999",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_d332c1748445e8f4f9e92763123e31bd"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8652999",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a54d0e2bdb08a474c9ab241dc1f6a10b"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0d9752999",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_4d4f00bb16467144780538107387af78"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0d9752000",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_e7237c71cb830364ba2b3eb0a0a53272"
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d41",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_d332c1748445e8f4f9e92763123e31bd",
+        "m_Feature": "!bp_42ecff675798f5e43813f0555030e2a2",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d51",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_c3461b5a92bdb174dbda4fd427315c18",
+        "m_Feature": "!bp_42ecff675798f5e43813f0555030e2a2",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d61",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_2dbac4ec7b1595642bd024fab3ad4206",
+        "m_Feature": "!bp_42ecff675798f5e43813f0555030e2a2",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d71",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_4bf9a9afadca5304e89bf52f2ac2d236",
+        "m_Feature": "!bp_143e6a1c04465da419d4cac4b8c66562",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d81",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_a54d0e2bdb08a474c9ab241dc1f6a10b",
+        "m_Feature": "!bp_143e6a1c04465da419d4cac4b8c66562",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d91",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_7d49d7f590dc9a948b3bd1c8b7979854",
+        "m_Feature": "!bp_32c5a227af92e474a864051431cde6bb",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d42",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_c464ab12993745c44a7d21f386562cb6",
+        "m_Feature": "!bp_a8a68411f69da064187eefd19c9f29fd",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d43",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_cb6d55dda5ab906459d18a435994a760",
+        "m_Feature": "!bp_d98833cb389cf1947ad83a0839261c2e",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d44",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_b8ec9dccc0e7ef74fb4072b0679c2aec",
+        "m_Feature": "!bp_4659b75889eab5e4e9a52f7b758d1830",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d45",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_eb388d17f07e0b44d9f83ada0148cc69",
+        "m_Feature": "!bp_af58d544b5819b24a8b36d8bc50e307b",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d46",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_1a871294410971745bba12ef11e41f6e",
+        "m_Feature": "!bp_0a547c8501c617442a0edc779ee169ae",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57079a5b3d46",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_a79013ff4bcd4864cb669622a29ddafb",
+        "m_Feature": "!bp_0a547c8501c617442a0edc779ee169ae",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57089a5b3d46",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_a79013ff4bcd4864cb669622a29ddafb",
+        "m_Feature": "!bp_42ecff675798f5e43813f0555030e2a2",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57089b6b3d46",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_4d4f00bb16467144780538107387af78",
+        "m_Feature": "!bp_0a547c8501c617442a0edc779ee169ae",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57089b6b3d00",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_e7237c71cb830364ba2b3eb0a0a53272",
+        "m_Feature": "!bp_805f75c85a20d1a48baad7a578dda12b",
+        "Not": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BasicFeatChannelSmite",
+      "m_OwnerString": "dff4ee6c9a66c8146b30a8af6f7feebf",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_BasicFeatChannelSmiteDesc",
+      "m_OwnerString": "dff4ee6c9a66c8146b30a8af6f7feebf",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

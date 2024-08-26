@@ -1,0 +1,115 @@
+{
+  "AssetId": "3c8eda2092036e641b790a1861858d8c",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AbilityVariants$2c60fc39-39cf-43f0-a1e5-a4e4a506fa8a"
+    ],
+    "Components": [
+      {
+        "$type": "1bf4aff684fadda4c85160390570fdf2, AbilityVariants",
+        "name": "$AbilityVariants$2c60fc39-39cf-43f0-a1e5-a4e4a506fa8a",
+        "m_Overrides": [],
+        "m_Variants": [
+          "!bp_5fac1d5652f7b3d418c5b0193cd00b3e",
+          "!bp_c2ac2c4e8fd097b4693b82d820ab3372",
+		  "!bp_1fb24e3074712a1448d1985108e3ea16",
+		  "!bp_fc46fa091ac37994aa4da57736e320c9",
+		  "!bp_019e4257a3eb9754ab156517f6e4e4e3",
+		  "!bp_bf1af1382005eb348b8d81a350aa7570",
+		  "!bp_c10fd18232028ad439dd6e513526a247",
+		  "!bp_82c0ef691ddca3f418a93142bed3adab",
+		  "!bp_f739a3829880ef94884c76574d081813",
+		  "!bp_e0ea5ecc0e61eda4bb75e2d82dd8909e",
+		  "!bp_bcec984057751d84ea70bc4853df5497",
+		  "!bp_6c13b58bd5b5bcf4fae95189ba2b4ca3",
+		  "!bp_c8262aaaef5d0f54a852441b0314185d",
+		  "!bp_cecc428b8e8c1d145bca3fb7b97e4bf6",
+		  "!bp_aba630de0863fa44d8c4e7b15f08bdc4",
+		  "!bp_5be442ed0564f904aad201690b28e55b",
+		  "!bp_3f36ab3694dedb04085c49394edae268",
+		  "!bp_483c2b7012e852f4b85b4b6a7067f4ae",
+		  "!bp_193849c31eb93cc48ba5b04afb416ed9",
+		  "!bp_4bd588afa3450b54aa99c7df8fc1a40a",
+		  "!bp_92ea3b542d698c140970c5d1c234a753",
+		  "!bp_4ca62acc3e0ff164fb6b3f1d063b94a9"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassStudiedCombat",
+      "m_OwnerString": "3c8eda2092036e641b790a1861858d8c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassStudiedCombatDesc",
+      "m_OwnerString": "3c8eda2092036e641b790a1861858d8c",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "534e7634a27b6f74a8773dfb82092da8",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Special",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Omni",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionOmni",
+    "m_TargetMapObjects": false,
+    "ActionType": "Move",
+    "AvailableMetamagic": "Quicken",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  }
+}

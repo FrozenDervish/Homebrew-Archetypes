@@ -1,0 +1,48 @@
+{
+  "AssetId": "e18c740af69d85446a8cbf2b20014354",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ACBonusAgainstFactOwner$0db22eeb-6ab3-4987-a00f-f76cda7d2446",
+      "$DamageBonusAgainstFactOwner$57b1da48-060e-428d-8880-0b169a9bd4a6"
+    ],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "534e7634a27b6f74a8773dfb82092da8",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "RemoveOnRest, HiddenInUi",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "AssetId": "f840a52f4cff41349832fa8a0cef018c",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "571f8434d98560c43935e132df65fe76",
+    "m_Overrides": [
+      "Group",
+      "m_AllFeatures",
+      "m_Features"
+    ],
+    "Components": [
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "name": "$AddFeatureOnApply$869bfe89-f97c-4a47-b60d-74577b5e5f8a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [
+          "m_Feature"
+        ],
+        "m_Feature": "!bp_cfe04e28ff7ad194382c4c6c5924459e"
+      },
+      {
+        "$type": "0a53ee09075a237408f1347648c1e91a, AddFeatureOnApply",
+        "name": "$AddFeatureOnApply$0ab66faa-c5ec-48f4-a562-35957b72ff8b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_65af7290b4efd5f418132141aaa36c1b"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_UndeadCompanion",
+      "m_OwnerString": "f840a52f4cff41349832fa8a0cef018c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_UndeadCompanionDesc",
+      "m_OwnerString": "f840a52f4cff41349832fa8a0cef018c",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "9fde21ec42b9ac5439d9ac5dea4cb190",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [
+      "!bp_8c8213c68326f48489143e4dc7488c58",
+	  "!bp_f4e39f9d187ec5c4c8f093e1e837e4c5",
+	  "!bp_b2432e8ae90dc274682154cbafa1f72e",
+	  "!bp_951e25969578a8f4db1f8f9f4da4810f"
+    ],
+    "m_AllFeatures": [
+      "!bp_8c8213c68326f48489143e4dc7488c58",
+	  "!bp_f4e39f9d187ec5c4c8f093e1e837e4c5",
+	  "!bp_b2432e8ae90dc274682154cbafa1f72e",
+	  "!bp_951e25969578a8f4db1f8f9f4da4810f"
+    ]
+  }
+}

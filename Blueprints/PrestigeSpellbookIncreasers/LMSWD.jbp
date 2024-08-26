@@ -1,0 +1,79 @@
+{
+  "AssetId": "f03db87e2871bd744b5cae9a41717085",
+  "Data": {
+    "$type": "43f1ee69992dc1848b97e623487f6442, BlueprintFeatureReplaceSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$PrerequisiteArchetypeLevel$6cde078f-2b66-4a69-977b-8ec9119c124c"
+    ],
+    "Components": [
+      {
+        "$type": "34c98fa5c2369684aba66f3b11581388, PrerequisiteClassSpellLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassSpellLevel$de0762f1-41e2-4cca-bbb8-f56556ffea28",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_1b9873f1e7bfe5449bc84d03e9c8e3cc",
+        "RequiredSpellLevel": 1
+      },
+      {
+        "$type": "682c71964f9bf3d4d97232b9016eafc8, PrerequisiteArchetypeLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteArchetypeLevel$6cde078f-2b66-4a69-977b-8ec9119c124c",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_1b9873f1e7bfe5449bc84d03e9c8e3cc",
+        "m_Archetype": "!bp_1fbebd6cc0acc794ba27112b4ca2edf1",
+        "Level": 3
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ArcaneTricksterSpellbookSelectionWitch",
+      "m_OwnerString": "f03db87e2871bd744b5cae9a41717085",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_LoreMasterSpellbookSelectionClericDesc",
+      "m_OwnerString": "f03db87e2871bd744b5cae9a41717085",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "Groups": [
+      "MythicAdditionalProgressions"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Spellbook": "!bp_96c5cb8552a023146bc51167a71bcd54"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "AssetId": "69501f3904b1ee745b2a1161c7802784",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$FavoredTerrain$15e68835-82ca-4afb-b89f-0ea12f025ca8"
+    ],
+    "Components": [
+      {
+        "$type": "a6f87157dd911384281dc7bbb82fbac2, FavoredTerrain",
+        "name": "$FavoredTerrain$15e68835-82ca-4afb-b89f-0ea12f025ca8",
+        "m_Overrides": [],
+        "Setting": "Highlands"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "ca10ccdf-6b7d-4ff5-bcec-c11fdea9e33f",
+      "m_OwnerString": "8dc89bc3543a8724895477cd1472f591",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Ranger/FavoriteTerrain/FavoriteTerrainHighlands_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "06142942b60e16a42b6f1674c6f8b782",
+        "stringkey": "6f8b209e-170a-465a-aa16-515fca0f7e6f"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "FavoriteTerrain"
+    ],
+    "Ranks": 10,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_3dc48f3b99dae6d41a0f533a02a2a6b2"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "AssetId": "f134bf66e01303e419bf8d5598c1a777",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": null,
+    "m_Overrides": [
+		"$PrerequisiteIsPet$6422361f-b463-46b3-a621-17a1170270d9"
+	],
+    "Components": [
+		{
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$0a9f40f9-0c5f-44a1-84f4-97219437d558",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "name": "$PrerequisiteIsPet$6422361f-b463-46b3-a621-17a1170270d9",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      }
+	],
+    "Comment": null,
+    "LocalizedName": { "m_Key": "SwarmFilesClass_Ninja" },
+    "LocalizedDescription": { "m_Key": "SwarmFilesClass_NinjaDesc" },
+    "LocalizedDescriptionShort": { "m_Key": "SwarmFilesClass_NinjaShort" },
+    "m_Icon": null,
+    "SkillPoints": 5,
+    "HitDie": "D8",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "m_IsHigherMythic": false,
+    "m_BaseAttackBonus": "!bp_4c936de4249b61e419a3fb775b9f2581",
+    "m_FortitudeSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_ReflexSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_WillSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_Progression": "!bp_eec3f4f49f4521a499522a52e5ef532e",
+    "m_Spellbook": null,
+    "ClassSkills": [ 
+	"SkillPerception",
+	"SkillThievery",
+	"SkillMobility",
+	"SkillAthletics",
+	"SkillPersuasion",
+	"SkillKnowledgeWorld",
+	"SkillStealth",
+	"SkillUseMagicDevice"
+	],
+
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [
+		"!bp_2e8b7ba3dc0b55544b3c98f13c0c23f7",
+		"!bp_e9df9f6bc527b8a44bdb7f64b402f1f8",
+		"!bp_c6a1999818f2c034dac850a9facda6fa"
+	],
+    "StartingGold": 411,
+    "m_StartingItems": [
+	  "!bp_afbe88d27a0eb544583e00fa78ffb2c7",
+      "!bp_511c97c1ea111444aa186b1a58496664",
+      "!bp_08c7987d7320d1645a4a1f005ab2dfcb",
+      "!bp_0a6a7bbf0ddcebb4f8c4c7bd5d20c003",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+	  "!bp_26311e585fca1e247acb7cb396311c9d"
+	],
+    "PrimaryColor": 0,
+    "SecondaryColor": 0,
+    "m_EquipmentEntities": [
+		"!bp_af291daa6606403aa51f309c74004f38"
+		],
+    "MaleEquipmentEntities": [
+		{ "AssetId": "1f538abc2802c5649b7ce177183f88c8" },
+		{ "AssetId": "c129a9489a3148b41bc4f5e44b78acd6" }
+
+	],
+    "FemaleEquipmentEntities": [
+		{ "AssetId": "dc822f0446c675a45809202953fa52a7" },
+		{ "AssetId": "a95af774788eaf344875fd3084b17468" }
+	],
+    "m_Difficulty": 4,
+    "RecommendedAttributes": [ 
+		"Dexterity",
+		"Charisma"
+		],
+    "NotRecommendedAttributes": [ "Strength" ],
+    "m_SignatureAbilities": [
+	"!bp_e1f2ad6287a249e5bbe43e2ad8604cab",
+	"!bp_1fe8285219ef0b14a9ddc8130f649c2d",
+	"!bp_250038617b5fb5f4392226bf64e0cd4c"
+	
+	],
+    "m_DefaultBuild": "!bp_2a74f03775149194687f7ed6cfad42b3",
+    "m_AdditionalVisualSettings": null,
+    "VisualSettingsPriority": 0
+  }
+}

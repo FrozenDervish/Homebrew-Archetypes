@@ -1,0 +1,135 @@
+{
+  "AssetId": "c75c39413ea936d4cbff2912c845aa72",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$c0046ea6-d930-4cb6-a8ba-a387fe3bdefc",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "m_Flags": 0,
+        "name": "$PrerequisiteIsPet$c05937ef-c3c1-4e51-a3a4-31871e0a7997",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      }
+    ],
+    "Comment": "todo: Finish Rite of Resilience",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_HeraldClass",
+      "m_OwnerString": "c75c39413ea936d4cbff2912c845aa72",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_HeraldClassDesc",
+      "m_OwnerString": "c75c39413ea936d4cbff2912c845aa72",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "HomebrewArchtypes_HeraldClassDescShort",
+      "m_OwnerString": "c75c39413ea936d4cbff2912c845aa72",
+      "m_OwnerPropertyPath": "LocalizedDescriptionShort",
+      "m_JsonPath": "",
+    },
+    "m_Icon": null,
+    "SkillPoints": 4,
+    "HitDie": "D8",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "m_IsHigherMythic": false,
+    "m_BaseAttackBonus": "!bp_4c936de4249b61e419a3fb775b9f2581",
+    "m_FortitudeSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_ReflexSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_WillSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_Progression": "!bp_06fd71bf362b94a4883040768c056032",
+    "m_Spellbook": "!bp_f028e62970527ef43a4534e7088f469b",
+    "ClassSkills": [
+      "SkillMobility",
+      "SkillAthletics",
+      "SkillPersuasion",
+      "SkillThievery",
+      "SkillLoreNature",
+      "SkillPerception",
+      "SkillStealth",
+      "SkillUseMagicDevice",
+      "SkillLoreReligion",
+      "SkillKnowledgeWorld",
+      "SkillKnowledgeArcana"
+    ],
+    "IsDivineCaster": true,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_201f6150321e09048bd59e9b7f558cb0",
+      "!bp_f713232cb92bde747aa32dc6b45f1ca7",
+      "!bp_a85d51d0fb905f940b951eec60388bac",
+      "!bp_d7963e1fcf260c148877afd3252dbc91",
+      "!bp_ec619484fb1a13441b30f6d08e1c5b6f"
+    ],
+    "PrimaryColor": 9,
+    "SecondaryColor": 9,
+    "m_EquipmentEntities": [
+      "!bp_8a229ebb7b294cbb9bd984e0d1342423",
+      "!bp_aa116de3d7ca46668694d5b544d8c5e1"
+    ],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "da4d4f059cef00d419c6b1974bc78ffb"
+      },
+      {
+        "AssetId": "cc29bd5f9dc0a1641897f4e45abd5984"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "e49676c703785c749bea0aa63ba79cfd"
+      },
+      {
+        "AssetId": "166ac63e67358ce42abb2ac3292f19c1"
+      }
+    ],
+    "m_Difficulty": 3,
+    "RecommendedAttributes": [
+      "Charisma"
+    ],
+    "NotRecommendedAttributes": [
+      "Wisdom",
+      "Intelligence"
+    ],
+    "m_SignatureAbilities": [
+      "!bp_9825a357c2b1cc44589b7cdea5b6503d",
+      "!bp_ae95f11b4c2cc4041a87141e22499df2",
+      "!bp_1a8fb6a11ecf5904087b1923116c0d0d"
+    ],
+    "m_DefaultBuild": "!bp_0717e6dae6dac6c4ba1c5b2636b148e1",
+    "m_AdditionalVisualSettings": null,
+    "VisualSettingsPriority": 0
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

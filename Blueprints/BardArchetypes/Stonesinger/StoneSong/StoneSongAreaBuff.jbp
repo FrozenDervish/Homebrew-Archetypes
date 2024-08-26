@@ -1,0 +1,81 @@
+{
+  "AssetId": "5f2db62440a6a8f438a174e21452f8a4",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "ebb7391b65152c34a9a35d2bb73abf67, Blindsense",
+        "name": "$Blindsense$83b3db3d-79c5-46d7-bf11-4c3010f683f6",
+        "m_Overrides": [],
+        "Range": {
+          "m_Value": 30.0
+        },
+        "Blindsight": true,
+        "HasExceptions": false,
+        "m_ExceptionFacts": []
+      },
+	  {
+        "$type": "2fcb3a86db6cbf846bb0252ef04ba9b8, SpellImmunityToSpellDescriptor",
+        "name": "$SpellImmunityToSpellDescriptor$5f14b07a-28b6-4653-ad3f-d7886720e38c",
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 140737488355328
+        },
+        "m_CasterIgnoreImmunityFact": null
+      },
+      {
+        "$type": "3577eb7fd5b1caa4ca13855b16201704, BuffDescriptorImmunity",
+        "name": "$BuffDescriptorImmunity$f50a4808-3a62-406b-bd6c-0ab187bc40a6",
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 140737488355328
+        },
+        "m_IgnoreFeature": null,
+        "CheckFact": false,
+        "m_FactToCheck": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_Stonesong",
+      "m_OwnerString": "5f2db62440a6a8f438a174e21452f8a4",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_StonesongDesc",
+      "m_OwnerString": "5f2db62440a6a8f438a174e21452f8a4",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "3d7633270d8a4764085cac3081afff97",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "45622cc69bf53fc4b88fea9c0209407d"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "45622cc69bf53fc4b88fea9c0209407d"
+    ]
+  }
+}

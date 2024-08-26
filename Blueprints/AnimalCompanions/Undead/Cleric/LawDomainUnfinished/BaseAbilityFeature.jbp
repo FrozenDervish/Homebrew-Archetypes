@@ -1,0 +1,23 @@
+{
+  "AssetId": "7e9ee840aa822ff499cb6bf2c9bb5958",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": null,
+    "Comment": null,
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": null,
+    "m_Description": null,
+    "m_DescriptionShort": null,
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": null
+  }
+}

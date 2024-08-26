@@ -1,0 +1,137 @@
+{
+  "AssetId": "cfd5b82d506197844904287e45619f5e",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddCalculatedWeapon$a0bcf4e3-497e-4c68-9c42-c0bdc54a3b3e",
+      "$BindAbilitiesToClass$1716ad41-4f5c-4b0b-8fda-cff4937a19c3",
+      "$FactSinglify$990dfc69-2e85-427e-8b0d-7367899ce2bb"
+    ],
+    "Components": [
+      {
+        "$type": "4cc38c8a3e3ea5d44afe498c6fa228c3, AddCalculatedWeapon",
+        "name": "$AddCalculatedWeapon$a0bcf4e3-497e-4c68-9c42-c0bdc54a3b3e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Weapon": {
+          "m_Weapon": "!bp_2cf2b133203b6404c8f0927c854c444c",
+          "ReplacedDamage": true,
+          "DamageFormula": {
+            "m_Rolls": 1,
+            "m_Dice": "D6"
+          },
+          "ReplacedDamageStat": true,
+          "DamageBonusStat": "Charisma",
+          "ReplaceDamageWithText": false
+        },
+        "ScaleDamageByRank": true
+      },
+      {
+        "$type": "5646a44d96fbb984f9cf53242d69f02b, BindAbilitiesToClass",
+        "name": "$BindAbilitiesToClass$1716ad41-4f5c-4b0b-8fda-cff4937a19c3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_Abilites": [
+          "!bp_a64a3f4c8370e3646ada9e140e28f7fb",
+          "!bp_526aa6319e9174e4ab2026e0f299b011",
+          "!bp_b94ee802dc1574b4fb71215a4a6f11dc",
+          "!bp_557898e059f5ff644848b0a4df087391",
+          "!bp_2b76e3bd89b4fa0419853a69fec0785f",
+          "!bp_f80896af0e10d7c4f9454cf1ce50ada4",
+          "!bp_3ac7286a18ba6234a908ae5d8b84d107",
+          "!bp_1fc8b4eccde6c9f49bef1dbd6d702547",
+          "!bp_00376414ceff5d34dac42e2be8537cfd",
+          "!bp_197624a197c10cb48bc4dcb229efb91b",
+          "!bp_0fcbed386deb18b428825605796d5a15",
+          "!bp_17041de68a89a5f4b92889c3ed475c00",
+          "!bp_bd05918a568c41e49aed7b9526ba596b",
+          "!bp_fd101fbc4aacf5d48b76a65e3aa5db6d",
+          "!bp_5fa0111ac60ed194db82d3110a9d0352"
+        ],
+        "Cantrip": false,
+        "m_CharacterClass": "!bp_f134bf66e01303e419bf8d5598c1a777",
+        "Stat": "Charisma",
+        "m_AdditionalClasses": [],
+        "m_Archetypes": [],
+        "LevelStep": 2,
+        "Odd": true,
+        "FullCasterChecks": true
+      },
+      {
+        "$type": "8f6114e9bccfa6f49a393e99b21e3b23, FactSinglify",
+        "name": "$FactSinglify$990dfc69-2e85-427e-8b0d-7367899ce2bb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_OldFacts": [],
+        "m_NewFacts": [
+          "!bp_c65b2fcdead689147ab7f40fa92c4dc6",
+          "!bp_c367e11e0b5d4814b8f09ce4fea99e5a"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesNinjaAbility_Bombs",
+      "m_OwnerString": "cfd5b82d506197844904287e45619f5e",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesNinjaAbility_BombsDesc",
+      "m_OwnerString": "cfd5b82d506197844904287e45619f5e",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "f470724d141d7954aa21ed44ea06739e",
+        "stringkey": "000a497f-c0c4-48d4-833a-15ea1328545e"
+      }
+    },
+    "m_Icon": {
+      "guid": "ae202ceef92bfcf4d832368f33f8ebe3",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 20,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_f864101ab0cdb4b418c7d62d2b24eee5",
+      "!bp_54c57ce67fa1d9044b1b3edc459e05e2",
+      "!bp_1ee30ffd28843b84282b04e5d4e8bc7b",
+      "!bp_c3da68b2222768b4f9352fefd29ad15c",
+      "!bp_c186762d98c6a96459cc9302c6f49258",
+      "!bp_b3c6cb76d5b11cf4c8314d7b1c7b9b8b",
+      "!bp_bf8f80f3a492e7946924e1cd9c4b0867",
+      "!bp_92085b99a3fd6e34b85f0e2bb67a17ba",
+      "!bp_1d0e812131f345742adca6431d5bc4fe",
+      "!bp_bfbaa0dd74b9909459e462cd8b091177",
+      "!bp_92cfb5ab50e2d9948b0577ba94b56bb2",
+      "!bp_1747eefb19e4e6649be836c5ae4ccc60",
+      "!bp_e1e0928b6ab2ae44fafb05b725b82b4f",
+      "!bp_b3c99d01b29d836498595c1cfadc07aa"
+    ]
+  }
+}

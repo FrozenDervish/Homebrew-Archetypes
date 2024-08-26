@@ -1,0 +1,61 @@
+{
+  "AssetId": "0ee376ab78e587d46aad59fbd1dc68ef",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFreedomFinesseName",
+      "m_OwnerString": "0ee376ab78e587d46aad59fbd1dc68ef",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFreedomFinesseDesc",
+      "m_OwnerString": "0ee376ab78e587d46aad59fbd1dc68ef",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "ExceptWhiteListed": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+	  "!bp_04a6763b5c0b4994287738e9e61276bf",
+	  "!bp_15ecc596ceef5734c8f429c8bef2fd9e",
+	  "!bp_78e54692821de3246a0eb2f2e1f17ee2",
+	  "!bp_5b5861e4bbd65fa4b920b3b6efaf615e",
+	  "!bp_08b8b62beb458294ab1aae90382cb202",
+	  "!bp_f1bbcf06e3e1b584f98acc0bc5fb8598",
+	  "!bp_5d0392550ccf62643a0b2512e8e0d24f",
+	  "!bp_cb5fe302a59b5c44786a7b68e9c69d71",
+	  "!bp_46343a65cec497a45bf28b7d17e8b148",
+	  "!bp_10aa25886d1d8cb4fbdc912c92e6faca"
+    ],
+    "ShowThisSelection": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

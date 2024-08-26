@@ -1,0 +1,51 @@
+{
+  "AssetId": "cc6a62dd682ecef43be36f18b99be7b6",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "33c6c6711d174884ba995663e0f64b63, AuraFeatureComponent",
+        "name": "$AuraFeatureComponent$1a931668-7e39-4917-a25b-e47accea7d37",
+        "m_Overrides": [],
+        "m_Buff": "!bp_27a9badd459a7ce4f8c6d962798675ad"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonSerenadeofSpellPiercing",
+      "m_OwnerString": "cc6a62dd682ecef43be36f18b99be7b6",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonSerenadeofSpellPiercingDesc",
+      "m_OwnerString": "cc6a62dd682ecef43be36f18b99be7b6",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": {
+      "guid": "fca17227026aa5346993963496450fbb",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

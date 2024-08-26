@@ -1,0 +1,110 @@
+{
+  "AssetId": "fa9536381003ea64594dcedfcc256cc8",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d15",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_49b140496b28b3146b4118395b5e3602"
+      },
+      {
+        "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+        "m_Flags": 0,
+        "name": "$AddMechanicsFeature$4e0e5df0-e8e4-4100-bb81-a54dceffe5d9",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "LingeringPerformance"
+      },
+      {
+        "$type": "04406431439974e489cc8fdea779cf46, PrerequisiteStatValue",
+        "m_Flags": 0,
+        "name": "$PrerequisiteStatValue$d107c72f-84b3-4f80-8657-7412b995d6f1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Stat": "Intelligence",
+        "Value": 3
+      },
+      {
+        "$type": "6d43a0c88e994d04bd2859978dec9337, FeatureTagsComponent",
+        "m_Flags": 0,
+        "name": "$FeatureTagsComponent$3b1fc227-6dcd-420c-835d-4b83ace31591",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "FeatureTags": "ClassSpecific"
+      },
+      {
+        "$type": "e1040f75a72eccb44927903b586b3171, RecommendationHasFeature",
+        "m_Flags": 0,
+        "name": "$RecommendationHasFeature$89b658e1-80b2-405e-bbb6-4e65f5a1b7d3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "!bp_49b140496b28b3146b4118395b5e3602",
+        "Mandatory": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassLingeringSermon",
+      "m_OwnerString": "fa9536381003ea64594dcedfcc256cc8",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassLingeringSermonDesc",
+      "m_OwnerString": "fa9536381003ea64594dcedfcc256cc8",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": {
+      "guid": "6f1a14b17a56459478a06a6654bd417a",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Feat"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

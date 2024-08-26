@@ -1,0 +1,56 @@
+{
+  "AssetId": "ea397d72abeff8e40b6f3c86b8e900a2",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisCrueltyStaggered",
+      "m_OwnerString": "ea397d72abeff8e40b6f3c86b8e900a2",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisCrueltyStaggeredDesc",
+      "m_OwnerString": "ea397d72abeff8e40b6f3c86b8e900a2",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": {
+      "guid": "990cc5572d19fac4fa5839bb92514415",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_cc86764a738f04f49a74be43c90e8bc3",
+    "Group": "DrovierAspect",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActionBarAutoFillIgnored": true,
+    "IsRuntimeOnly": true,
+    "HiddenInUI": false,
+    "ActivationType": "Immediately",
+    "m_ActivateWithUnitCommand": "Swift",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

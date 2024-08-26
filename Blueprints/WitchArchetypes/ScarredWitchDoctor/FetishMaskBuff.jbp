@@ -1,0 +1,24 @@
+{
+  "AssetId": "5e87a85baa2a28340a89902637ab3362",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": null,
+    "Comment": null,
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": null,
+    "m_Description": null,
+    "m_DescriptionShort": null,
+    "m_Icon": null,
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": null
+  }
+}

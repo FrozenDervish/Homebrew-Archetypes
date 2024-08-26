@@ -1,0 +1,95 @@
+{
+  "AssetId": "f8834c92219b071449d8177e50ba5424",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$BuffInvisibility$d626d20a-09dc-4e48-9d45-17aa80954fa4"
+    ],
+    "Components": [
+      {
+        "$type": "90ad7cd428ee00b40834f378e9613708, BuffInvisibility",
+        "m_Flags": 0,
+        "name": "$BuffInvisibility$d626d20a-09dc-4e48-9d45-17aa80954fa4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "NotDispellAfterOffensiveAction": false,
+        "m_StealthBonus": 20,
+        "DispelWithAChance": false,
+        "Chance": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+	  {
+        "$type": "c710f226e81f95242bff17f7ac9783fe, AddConcealment",
+        "m_Flags": 0,
+        "name": "$AddConcealment$f63b4abf-5709-49a6-b559-892df44180e4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "Displacement",
+        "Concealment": "Partial",
+        "CheckWeaponRangeType": false,
+        "RangeType": "Melee",
+        "CheckDistance": false,
+        "DistanceGreater": {
+          "m_Value": 0.0
+        },
+        "OnlyForAttacks": true
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HellcatKiGhostlyFlame",
+      "m_OwnerString": "f8834c92219b071449d8177e50ba5424",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HellcatKiGhostlyFlameDesc",
+      "m_OwnerString": "f8834c92219b071449d8177e50ba5424",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "024fe757860cd2b48b2fc85aaa30472b",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "f6968be15a69dac4982887ec01dc8c97"
+    },
+    "FxOnRemove": {
+      "AssetId": "c8a27802aeafc8747bf979f0c6c467f6"
+    },
+    "ResourceAssetIds": [
+	  "f6968be15a69dac4982887ec01dc8c97",
+      "c8a27802aeafc8747bf979f0c6c467f6"
+	]
+  }
+}

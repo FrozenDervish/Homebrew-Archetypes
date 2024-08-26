@@ -1,0 +1,14 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+      {
+        "$type": "f2efec85de75f5e4894158b16f8441ec, IncreaseResourceAmount",
+        "name": "$IncreaseResourceAmount$f162e1f7-d36b-47a5-b85a-6df057d64032",
+        "m_Overrides": [],
+        "m_Resource": "!bp_d7bd6333b2e7e4b4a90c52c32862973e",
+        "Value": 1
+      }
+    ],
+	}

@@ -1,0 +1,613 @@
+{
+  "AssetId": "00d6c763adc72704999b76ea957b4c89",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$8b53d555-ee5e-4430-80bb-597aef9588ae",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillPersuasion",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1ab",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillUseMagicDevice",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1ac",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillMobility",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1ad",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillAthletics",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1ae",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillThievery",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1af",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillLoreNature",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1ag",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillPerception",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1ah",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillStealth",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1ai",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillLoreReligion",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1aj",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillKnowledgeWorld",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$139c06c6-4a32-4189-876b-f64985f7b1ak",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "SkillKnowledgeArcana",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "a6777ad03deb60a4e8ef6b7067ac836b, ContextCalculateSharedValue",
+        "m_Flags": 0,
+        "name": "$ContextCalculateSharedValue$b8da9069-eee1-4ca9-bdd3-df0263eb324f",
+        "m_Overrides": [],
+        "ValueType": "Damage",
+        "Value": {
+          "DiceType": "D8",
+          "DiceCountValue": {
+            "ValueType": "Simple",
+            "Value": 1,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          },
+          "BonusValue": {
+            "ValueType": "Simple",
+            "Value": 0,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          }
+        },
+        "Modifier": 1.0
+      },
+      {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf6",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillMobility",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5f"
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf7",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillLoreNature",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5e"
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf8",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillAthletics",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5g"
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf9",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillThievery",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5h"
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf1",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillPerception",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5i"
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf2",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillStealth",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5j"
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf3",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillLoreReligion",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5k"
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf4",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillKnowledgeWorld",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5l"
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$c101d628-8fa7-4d49-b4b8-d2b4d1933cf5",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillKnowledgeArcana",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$d8d4f19b-66b4-465f-a20c-ca23904ecd5m"
+            }
+          ]
+        }
+      },
+      {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$676cea0b-be6f-47d3-8036-02ad5cec0111",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillPersuasion",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$33f21c22-728b-4d96-bd3e-baa0f751f19d"
+            }
+          ]
+        }
+      },
+      {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$87809ba4-aa17-4baa-80d6-a1333e643b01",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "SkillUseMagicDevice",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$23d3506f-1423-49f5-93f2-45ea3aedf8ba"
+            }
+          ]
+        }
+      },
+      {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$2ff43522-028d-48bc-8d1b-f4afede75d55",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "CheckBluff",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$ba118aa6-bcbc-44df-a1b6-eda94d65e681"
+            }
+          ]
+        }
+      },
+      {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$185ae24b-615c-4172-a0d8-434d2a48582b",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "CheckDiplomacy",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$a8353ffd-ee5f-4437-b12d-5e94ad2ea2f8"
+            }
+          ]
+        }
+      },
+      {
+        "$type": "4e6fe9e1395573f458bafaa76364f65d, AddInitiatorSkillRollTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorSkillRollTrigger$39f5f240-f839-4090-984c-d6d827d29cc0",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "OnlySuccess": false,
+        "Skill": "CheckIntimidate",
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$c7257f9d-9863-4318-9ad5-143aaf671cf3"
+            }
+          ]
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassInspirationSKL",
+      "m_OwnerString": "00d6c763adc72704999b76ea957b4c89",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassTalentAmazingInspirationDesc",
+      "m_OwnerString": "00d6c763adc72704999b76ea957b4c89",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Hours",
+    "FxOnStart": {
+      "AssetId": "9425f10c02c4c614f8f2013d4a718756"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "9425f10c02c4c614f8f2013d4a718756"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

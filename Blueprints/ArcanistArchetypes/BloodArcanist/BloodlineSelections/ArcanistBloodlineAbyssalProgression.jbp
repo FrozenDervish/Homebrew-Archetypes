@@ -1,0 +1,342 @@
+{
+  "AssetId": "f6c557248fbac1b4b87fca2a8f1b89e2",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "Description",
+      "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a62",
+      "$PrerequisiteFeature$af7fbcc2-f570-4f35-8559-d2c65c81bb46",
+	  "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a63",
+	  "$PrerequisiteFeature$af7fbcc2-f570-4f35-8559-d2c65c81bb47",
+	  "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a64"
+
+    ],
+    "Components": [
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a62",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_62b33ac8ceb18dd47ad4c8f06849bc01"
+      },
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$af7fbcc2-f570-4f35-8559-d2c65c81bb46",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_55d5bbf4b5ae1744ab26c71be98067f9"
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a63",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_24bef8d1bee12274686f6da6ccbc8914"
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$b0ca1758-bd5b-4226-a347-28f4cb818a64",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_94c29f69cdc34594a6a4677441ed7375"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$af7fbcc2-f570-4f35-8559-d2c65c81bb47",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_d3a4cb7be97a6694290f0dcfbd147113"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$b036d5ba-9398-4c71-be47-b14a3a63c07f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_6127949882384a5cb75074e4d77ceae3"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$ad986a9f-526a-4f7b-9719-7039fb4b650a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_3da0972ad5574bfd8a7de9bc5460e7e9"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$4a460ffa-66da-41a6-996b-710239899c0e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_47f3f1a3349349fe9a7f68f8d2b6da5d"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$7d6a8577-b69c-49a9-8ddd-3b1b848e8162",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_df2807f0649c4237ab7c4d62a2acaaee"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$3d2d7d19-eda9-47c2-8308-cf518589f93d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_416ee6e6b4834bb8bd5afe8b08a69865"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$c19201bc-967a-4e2b-87ce-b0b942c9d16b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_5172cdce55b2455f878ff8c74c964a1e"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$8fd80952-224a-4b66-ab44-4684a46929f7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_db69413e69184b099f7825092c5dbc4f"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$830d9c53-7692-4a58-bfe6-ed14a7883376",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_267dbd4789fa4b75a44294c7d1625bba"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$b8f7f736-949e-495e-8dc1-d13ceb877f4a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_b6a90286e6894c7b8fbd52a29dda9f48"
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$6bb6d25b-6c49-4b0d-a17c-0fc6c5a3dd1e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_1bdad91f7210419b9e5b4801d084e14b"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "824469ee8e767fd46930013e3c5a12ae",
+        "stringkey": "01e8dc85-41f2-408c-aa8c-fdd9159bf83a"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "3f3307330b36d484988f8f356ad69e5f",
+        "stringkey": "575ede28-6044-4ba4-a271-40a26a67b1dd"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "a836c08b3c34e694886c94a6b9ddfb16",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "BloodLine"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [
+      {
+        "m_Class": "!bp_b3a505fb61437dc4097f43c3f8f9a4cf",
+        "AdditionalLevel": 0
+      },
+      {
+        "m_Class": "!bp_45a4607686d96a1498891b3286121780",
+        "AdditionalLevel": 0
+      },
+	  {
+        "m_Class": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [
+      {
+        "m_Archetype": "!bp_d078b2ef073f2814c9e338a789d97b73",
+        "AdditionalLevel": 0
+      },
+	  {
+        "m_Archetype": "!bp_83fa4fdbcabbf0840be393785e637025",
+        "AdditionalLevel": 0
+      }
+    ],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_0049c29f39e30c94983b9ca8fe1050d6",
+		  "!bp_4e2356fdf245aa141a9bdc9bc8d4817f",
+          "!bp_b09b58c7f8efff244a33269489abeac6"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_85aa3eb9c5965db40a56e2d42708783a"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_dfa89d9489b25294388ef491b8e67e4f"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_7bccf613083bcfd4d90cbf9d3434de27"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_d0877e45091ee3b47829f0df5b31837e"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_4dace71f399866d44aa7914ee4a529aa"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_de24d9e57d7bad24dbada7389eebcd65",
+          "!bp_36db25d9e0848f04da604ff9e3d931af"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_5c1c2ed7fe5f99649ab00605610b775b"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeatureRankIncrease": null
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "AssetId": "9783d2b9848db0f459efd38f72ae8361",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [
+	  "$AddFactContextActions$e25d08e2-5f4e-42c1-874e-b624f12ca2cb",
+      "$BuffAllSkillsBonusAbilityValue$a17bf90a-f0ea-430e-b608-39c9bf2397f3",
+      "$TemporaryHitPointsConstitutionBased$380ff651-1681-437f-bcde-a46995025a32"
+    ],
+    "Components": [
+      {
+        "$type": "25d172d2be8f52f468b2050d14d59806, AddFactContextActions",
+        "name": "$AddFactContextActions$e25d08e2-5f4e-42c1-874e-b624f12ca2cb",
+        "m_Overrides": [],
+        "Activated": {
+          "Actions": [
+            {
+              "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+              "name": "$Conditional$87fd4c51-12cc-419b-b01a-2d5a8b4be236",
+              "Comment": "",
+              "ConditionsChecker": {
+                "Operation": "And",
+                "Conditions": [
+                  {
+                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                    "name": "$ContextConditionHasFact$5f5b9505-8ffc-4425-8684-b92cdf138822",
+                    "Not": false,
+                    "m_Fact": "!bp_e53dc52f4277f28498280c434aee42d9"
+                  }
+                ]
+              },
+              "IfTrue": {
+                "Actions": [
+                  {
+                    "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                    "name": "$ContextActionApplyBuff$d4d11c0f-691e-4878-bddf-8bd418fc0798",
+                    "m_Buff": "!bp_5692a4b31a1768e48aeed4f431abcfe8",
+                    "Permanent": false,
+                    "UseDurationSeconds": false,
+                    "DurationValue": {
+                      "Rate": "Rounds",
+                      "DiceType": "Zero",
+                      "DiceCountValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                      },
+                      "BonusValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                      },
+                      "m_IsExtendable": true
+                    },
+                    "DurationSeconds": 0.0,
+                    "IsFromSpell": false,
+                    "IsNotDispelable": false,
+                    "ToCaster": false,
+                    "AsChild": true,
+                    "SameDuration": true
+                  }
+                ]
+              },
+              "IfFalse": {
+                "Actions": []
+              }
+            }
+			   ]
+        },
+        "Deactivated": {
+          "Actions": []
+        },
+        "NewRound": {
+          "Actions": []
+        }
+      },
+	  {
+        "$type": "8e0e6abb344a9fe4dbee758733d89479, TemporaryHitPointsConstitutionBased",
+        "name": "$TemporaryHitPointsConstitutionBased$380ff651-1681-437f-bcde-a46995025a32",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "StatBonus",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "BonusMultiplier": 4,
+        "Descriptor": "None"
+      },
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$4669c9f6-33e3-49d6-b149-b6c04a7610d9",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "Competence",
+        "Stat": "AdditionalAttackBonus",
+        "Multiplier": 4,
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 1,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$8b402e33-9ea6-49f7-947e-3d96d5202c25",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "Competence",
+        "Stat": "SaveFortitude",
+        "Multiplier": 2,
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 1,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+      {
+        "$type": "91216784d99a12e428bf782c8a8c7f5c, SpellDescriptorComponent",
+        "name": "$SpellDescriptorComponent$0ef5e15a-d3cc-4f26-ab64-5942fcd2d426",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 274877906944
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_DervishofDawnBattleDanceofGreatness",
+      "m_OwnerString": "9783d2b9848db0f459efd38f72ae8361",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_DervishofDawnBattleDanceofGreatnessDesc",
+      "m_OwnerString": "9783d2b9848db0f459efd38f72ae8361",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "db949c48bfd50584bbf1d9189947aec3",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "c87c798cd0a410c419ee4bafd4adb68f"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "c87c798cd0a410c419ee4bafd4adb68f",
+      "3a0228650295f6a40bc335385a929a07"
+    ]
+  }
+}

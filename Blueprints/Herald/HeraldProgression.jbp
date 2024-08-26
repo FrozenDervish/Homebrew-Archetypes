@@ -1,0 +1,183 @@
+{
+  "AssetId": "06fd71bf362b94a4883040768c056032",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "06fd71bf362b94a4883040768c056032",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "06fd71bf362b94a4883040768c056032",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "m_Classes": [
+      {
+        "m_Class": "!bp_c75c39413ea936d4cbff2912c845aa72",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_1be02ae349f40f24a9d1b0c0deef47a7",
+		  "!bp_19b006b67ece34244a069964408e5c4b"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_5d6546d7985924644b2bc0c74f078ab0",
+		  "!bp_72b554d1fab9ce94a87b8bb69748e4aa"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_49b140496b28b3146b4118395b5e3602",
+		  "!bp_52c5907cb462da941a75b76fce919f9f"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_49b140496b28b3146b4118395b5e3602"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_52c5907cb462da941a75b76fce919f9f"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_49b140496b28b3146b4118395b5e3602",
+		  "!bp_126d538e47cd27147b5c09bcd58c5348"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_49b140496b28b3146b4118395b5e3602",
+		  "!bp_52c5907cb462da941a75b76fce919f9f"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+		"!bp_44c8b6455f5d29343a7a6d36ffbb6142"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_49b140496b28b3146b4118395b5e3602"
+        ]
+      },
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_52c5907cb462da941a75b76fce919f9f"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_49b140496b28b3146b4118395b5e3602",
+		  "!bp_069a582e9c6535a4e996bf9a4d75799d"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_49b140496b28b3146b4118395b5e3602",
+		  "!bp_52c5907cb462da941a75b76fce919f9f"
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+		  "!bp_49b140496b28b3146b4118395b5e3602"
+		]
+      },
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_52c5907cb462da941a75b76fce919f9f"
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_49b140496b28b3146b4118395b5e3602"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_266bef60d52b65e4d8bdafde4e7aee15"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "m_Features": []
+      },
+      {
+        "m_Features": []
+      },
+      {
+        "m_Features": []
+      },
+      {
+        "m_Features": []
+      },
+      {
+        "m_Features": []
+      },
+      {
+        "m_Features": []
+      },
+      {
+        "m_Features": []
+      }
+    ],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeaturesRankIncrease": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

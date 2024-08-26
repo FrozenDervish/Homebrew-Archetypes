@@ -1,0 +1,102 @@
+{
+  "AssetId": "0e12d21642d6ddb4188dea6b77203635",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$SpontaneousSpellConversion$16b84ac8-7ef9-407f-bdb5-2de48d7d858d"
+    ],
+    "Components": [
+      {
+        "$type": "e62f4123f61beec4e98aa95e41c9a697, SpontaneousSpellConversion",
+        "name": "$SpontaneousSpellConversion$16b84ac8-7ef9-407f-bdb5-2de48d7d858d",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_ba34257984f4c41408ce1dc2004e342e",
+        "m_SpellsByLevel": [
+          null,
+          "!bp_e5af3674bb241f14b9a9f6b0c7dc3d27",
+          "!bp_0b101dd5618591e478f825f0eef155b4",
+          "!bp_8a28a811ca5d20d49a863e832c31cce1",
+          "!bp_4b76d32feb089ad4499c3a1ce8e1ac27",
+          "!bp_4fbd47525382517419c66fb548fe9a67",
+          "!bp_a89dcbbab8f40e44e920cc60636097cf",
+          "!bp_6f1dcf6cfa92d1948a740195707c0dbe",
+          "!bp_b4afacd337dac4a40a769a567c038ab7",
+          "!bp_37302f72b06ced1408bf5bb965766d46"
+        ]
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532226",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_ba34257984f4c41408ce1dc2004e342e",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_57fcf8016cf04da4a8b33d2add14de7e",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_ba34257984f4c41408ce1dc2004e342e",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_4b76d32feb089ad4499c3a1ce8e1ac27",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532225",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_ba34257984f4c41408ce1dc2004e342e",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_76a11b460be25e44ca85904d6806e5a3",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532227",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_ba34257984f4c41408ce1dc2004e342e",
+        "SpellLevel": 7,
+        "m_Spell": "!bp_8ba9b6e4df4c46a597154e2b8e7e6e4a",
+        "m_Archetype": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_WizardUndeadMasterReanimator",
+      "m_OwnerString": "0e12d21642d6ddb4188dea6b77203635",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_WizardUndeadMasterReanimatorDesc",
+      "m_OwnerString": "0e12d21642d6ddb4188dea6b77203635",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "b069494fb2e8d7640b1be7b64dfbeeab",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "AssetId": "06ac55c61456e6442b5fa6c8a1c1416c",
+  "Data": {
+    "$type": "973c613b8443cf14495c283e293d35f9, BlueprintAbilityResource",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "14b8937cec1233349a9d0d7044323cc2",
+      "fileid": 21300000
+    },
+    "m_MaxAmount": {
+      "BaseValue": 1,
+      "IncreasedByLevel": false,
+      "m_Class": [
+        null
+      ],
+      "m_Archetypes": [],
+      "LevelIncrease": 0,
+      "IncreasedByLevelStartPlusDivStep": false,
+      "StartingLevel": 0,
+      "StartingIncrease": 0,
+      "LevelStep": 0,
+      "PerStepIncrease": 0,
+      "MinClassLevelIncrease": 0,
+      "m_ClassDiv": [
+        null
+      ],
+      "m_ArchetypesDiv": [],
+      "OtherClassesModifier": 0.0,
+      "IncreasedByStat": false,
+      "ResourceBonusStat": "Unknown"
+    },
+    "m_UseMax": true,
+    "m_Max": 2,
+    "m_Min": 2
+  }
+}

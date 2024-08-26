@@ -1,0 +1,68 @@
+{
+  "AssetId": "b3487d7ac3ef197448b0b1e57ff646b2",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0ce9229398e1f634eb9e1a105594968d, TemporaryHitPointsFromAbilityValue",
+        "m_Flags": 0,
+        "name": "$TemporaryHitPointsFromAbilityValue$a11fd209-4f35-4a0d-902f-1e1100b3b753",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "None",
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 200,
+          "ValueRank": "Default",
+          "ValueShared": "Heal",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "RemoveWhenHitPointsEnd": true
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ChampionOathUnconqueredUnbreakableDefenderName",
+      "m_OwnerString": "b3487d7ac3ef197448b0b1e57ff646b2",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionOathUnconqueredUnbreakableDefenderDesc",
+      "m_OwnerString": "b3487d7ac3ef197448b0b1e57ff646b2",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "245ce16ad32a3ad43bfae7fa30658e5b",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "78a678a47f859574684dfef5f62b8492"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

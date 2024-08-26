@@ -1,0 +1,41 @@
+{
+  "AssetId": "b7730253036b8f14eb489124f0f35e34",
+  "Data": {
+    "$type": "a42bdead3c333d744a3f0354bbe6c27c, BlueprintSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "Name": {
+      "m_Key": "SwarmFilesSpellbook_Nokizaru",
+      "m_OwnerString": "b7730253036b8f14eb489124f0f35e34",
+      "m_OwnerPropertyPath": "Name",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "IsMythic": false,
+    "m_SpellsPerDay": "!bp_0a8eec9ca5c0dc64795243ab3c55d924",
+    "m_SpellsKnown": "!bp_90de6b4f591d1184497fbfbae6e16547",
+    "m_SpellSlots": null,
+    "m_SpellList": "!bp_44b5854cb2e540f41bd7e0a2ac285efb",
+    "m_MythicSpellList": null,
+    "m_CharacterClass": "!bp_f134bf66e01303e419bf8d5598c1a777",
+    "CastingAttribute": "Charisma",
+    "Spontaneous": true,
+    "SpellsPerLevel": 0,
+    "AllSpellsKnown": false,
+    "CantripsType": "Cantrips",
+    "CasterLevelModifier": 0,
+    "CanCopyScrolls": false,
+    "IsArcane": true,
+    "IsArcanist": false,
+    "HasSpecialSpellList": false,
+    "SpecialSpellListName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    }
+  }
+}

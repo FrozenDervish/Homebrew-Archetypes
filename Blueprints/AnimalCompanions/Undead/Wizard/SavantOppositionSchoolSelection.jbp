@@ -1,0 +1,58 @@
+{
+  "AssetId": "d09718dd4f5958849a990e1364ac7ccb",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "7cdd77c5-20dc-4642-846d-56f41e2e2435",
+      "m_OwnerString": "6c29030e9fea36949877c43a6f94ff31",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Wizard/OppositionSchoolSelection_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "c17d559c-4cdd-44e3-b46f-7748896db308",
+      "m_OwnerString": "6c29030e9fea36949877c43a6f94ff31",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Wizard/OppositionSchoolSelection_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "OppositionSchool",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_697074402cc929a48b2050d51da3062b",
+      "!bp_0ce4db028b00b6d4e983e140899f0f26",
+      "!bp_8387d5460ee5baa4eac03a55768e1cf0",
+      "!bp_10e5a9a30af6c5d49b37c842507ab3b4",
+      "!bp_13671fba5a1e4c04893c1b496679579e",
+      "!bp_92ce70878de20344d8c250735021aec0",
+      "!bp_3c4dbb033d5ebc345960f35454614e09",
+      "!bp_6e770c3ad80517a4dbc55acd3306ad99"
+    ]
+  }
+}

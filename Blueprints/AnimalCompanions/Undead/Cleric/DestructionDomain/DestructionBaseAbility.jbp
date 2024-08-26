@@ -1,0 +1,68 @@
+{
+  "AssetId": "8df8a37b2ea633141b76d13e6461f01e",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ActivableAbilityResourceLogic$de6a11a1-7b1b-4607-a3da-f893c519227d"
+    ],
+    "Components": [
+      {
+        "$type": "22c7a9a55d4f5724b89759d342784915, ActivatableAbilityResourceLogic",
+        "name": "$ActivableAbilityResourceLogic$de6a11a1-7b1b-4607-a3da-f893c519227d",
+        "m_Overrides": [],
+        "SpendType": "Attack",
+        "m_RequiredResource": "!bp_9acceeadcc1538544ac5176eb168b4a1",
+        "m_FreeBlueprint": null,
+        "Categories": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "dc24c2ddc95989146991c6ac426f2df8",
+        "stringkey": "568be610-738c-4d5a-908f-5e2ade5192a7"
+      }
+    },
+    "m_Description": {
+      "m_Key": "551c0586-28ef-4f11-8869-b853aedbf171",
+      "m_OwnerString": "e69898f762453514780eb5e467694bdb",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/Destruction/DestructionDomainBaseActivateableAbility_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "f5063c4db99f251449c60135f97c94ad",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_5012198d0f0800d40b1b8585b74bb1c3",
+    "Group": "None",
+    "WeightInGroup": 1,
+    "IsOnByDefault": true,
+    "DeactivateIfCombatEnded": true,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "OnUnitAction",
+    "m_ActivateWithUnitCommand": "Free",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  }
+}

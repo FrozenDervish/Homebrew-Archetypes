@@ -1,0 +1,120 @@
+{
+  "AssetId": "d966b245530431c418c44d17bbd347f4",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteIsPet$8912e98a-4c7a-4f31-a374-b10f28599fd1"
+    ],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$5ccff733-95bb-4e53-b4b5-880bbd02eb0c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "name": "$PrerequisiteIsPet$8912e98a-4c7a-4f31-a374-b10f28599fd1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      }
+    ],
+    "Comment": "todo: Weapon Training Stacking",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_NPCAdept",
+      "m_OwnerString": "d966b245530431c418c44d17bbd347f4",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_NPCAdeptDesc",
+      "m_OwnerString": "d966b245530431c418c44d17bbd347f4",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "HomebrewArchtypes_NPCAdeptDescShort",
+      "m_OwnerString": "d966b245530431c418c44d17bbd347f4",
+      "m_OwnerPropertyPath": "LocalizedDescriptionShort",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "SkillPoints": 2,
+    "HitDie": "D6",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "DlcType": "None",
+    "m_BaseAttackBonus": "!bp_0538081888b2d8c41893d25d098dee99",
+    "m_FortitudeSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_ReflexSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_WillSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_Progression": "!bp_e1cdfa41254079744889f8d2075c3c64",
+    "m_Spellbook": "!bp_6ec85ddfe896c614fbf64f7fc8385cd0",
+    "ClassSkills": [
+	  "SkillKnowledgeArcana",
+      "SkillKnowledgeWorld",
+      "SkillLoreNature"
+    ],
+    "IsDivineCaster": true,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_d7963e1fcf260c148877afd3252dbc91",
+      "!bp_533e10c8b4c6a4940a3767d096f4f05d",
+      "!bp_f4cef3ba1a15b0f4fa7fd66b602ff32b",
+      "!bp_201f6150321e09048bd59e9b7f558cb0",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91"
+    ],
+    "PrimaryColor": 54,
+    "SecondaryColor": 12,
+    "m_EquipmentEntities": [],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "78c8676607b0f604488531c4a00f5ae0"
+      },
+      {
+        "AssetId": "dc7275260882bda469d53d7f2f1a73d1"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "3e695b3fbf0bba746b1296135f757212"
+      },
+      {
+        "AssetId": "27ead771b0074234186b6f790929f081"
+      }
+    ],
+    "m_Difficulty": 5,
+    "RecommendedAttributes": [
+      "Wisdom",
+      "Constitution"
+    ],
+    "NotRecommendedAttributes": [
+      "Strength",
+	  "Dexterity"
+    ],
+    "m_SignatureAbilities": [],
+    "m_DefaultBuild": "!bp_6cd7d1c27f8ba6441be8f2cdb6afe908",
+    "m_AdditionalVisualSettings": null
+  }
+}

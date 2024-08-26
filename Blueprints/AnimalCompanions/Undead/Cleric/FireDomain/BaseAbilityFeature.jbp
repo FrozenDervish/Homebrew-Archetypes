@@ -1,0 +1,98 @@
+{
+  "AssetId": "8125a6f5559409d4485a3f028f315068",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$e3da7669-5184-44e0-b9a5-adf653bf739c",
+      "$AddAbilityResources$3031c843-d8a5-4366-95db-4f9259343aa8",
+      "$ReplaceAbilitiesStat$3c3e7c65-874b-4cc0-9402-19c351becc60",
+      "$AddFeatureOnClassLevel$28cafd5e-c236-431d-b2ba-dfd5e8939f8d"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$e3da7669-5184-44e0-b9a5-adf653bf739c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_08197fbd37e3a7244b67102a2a3841d9"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$3031c843-d8a5-4366-95db-4f9259343aa8",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_c65febce6d0dbde408de41d663a3bcb8",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "9dff5bcf215699249ae87d8924357fe3, ReplaceAbilitiesStat",
+        "name": "$ReplaceAbilitiesStat$3c3e7c65-874b-4cc0-9402-19c351becc60",
+        "m_Overrides": [],
+        "m_Ability": [
+          "!bp_08197fbd37e3a7244b67102a2a3841d9"
+        ],
+        "Stat": "Wisdom"
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$28cafd5e-c236-431d-b2ba-dfd5e8939f8d",
+        "m_Overrides": [],
+        "m_Class": "!bp_f4248bf69918b974c828a0d4c1fc2d9e",
+        "Level": 1,
+        "m_Feature": "!bp_29fdcfa4b58912b498183da1045d4f2a",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "f23da0f6-b129-47ec-b7ec-21faf344ae0b",
+      "m_OwnerString": "42cc125d570c5334c89c6499b55fc0a3",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/Fire/FireDomainBaseFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "d0a45686f34eff94ea5366d5c8a203a0",
+        "stringkey": "7ca578bb-0489-445b-a97e-8b8424c7a1a7"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "5da95ed7c940cfb4aa1d6302d1ec2def",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

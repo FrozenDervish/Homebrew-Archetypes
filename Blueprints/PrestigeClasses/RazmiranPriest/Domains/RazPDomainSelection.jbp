@@ -1,0 +1,67 @@
+{
+  "AssetId": "d990d2e817bb0b849a835d803fa14577",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$NoSelectionIfAlreadyHasFeature$1003dd9f-d026-4808-bd9b-a1e6e0b651ee"
+    ],
+    "Components": [
+      {
+        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
+        "name": "$NoSelectionIfAlreadyHasFeature$1003dd9f-d026-4808-bd9b-a1e6e0b651ee",
+        "m_Overrides": [],
+        "AnyFeatureFromSelection": true,
+        "m_Features": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_PrestigeClassRazmiranPriestDomainofRazmir",
+      "m_OwnerString": "d990d2e817bb0b849a835d803fa14577",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_PrestigeClassRazmiranPriestDomainofRazmirDesc",
+      "m_OwnerString": "d990d2e817bb0b849a835d803fa14577",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "ad05c2b9c08927f47ad7236f6bacd11f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "Domain",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_ce40310d3562d644eb6248de44aa9c3e",
+      "!bp_c2a2b9cd74bbe9843929953660d0f996",
+      "!bp_668d7db51d6677843929177c3d9a6758",
+      "!bp_81f79dad03628344da1fb81c925702ef"
+    ]
+  }
+}

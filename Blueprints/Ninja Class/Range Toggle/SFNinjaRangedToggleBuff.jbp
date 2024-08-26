@@ -1,0 +1,71 @@
+{
+  "AssetId": "6b53d6ded0eacc74e9c8fb686b324c85",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddContextStatBonus$bfc57bae-a718-4886-b728-9264c155ad64",
+      "$AttackTypeChange$60499f0e-a44e-4e5d-afad-70d46d516093"
+    ],
+    "Components": [
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$bfc57bae-a718-4886-b728-9264c155ad64",
+        "m_Overrides": [],
+        "Descriptor": "None",
+        "Stat": "Reach",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 30,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+      {
+        "$type": "b93d46606d441d646b8099c9e3461f26, AttackTypeChange",
+        "name": "$AttackTypeChange$60499f0e-a44e-4e5d-afad-70d46d516093",
+        "m_Overrides": [],
+        "NeedsWeapon": true,
+        "ChangeAllTypes": false,
+        "OriginalType": "Melee",
+        "NewType": "Ranged"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "IsClassFeature": false,
+    "m_Flags": "HiddenInUi",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

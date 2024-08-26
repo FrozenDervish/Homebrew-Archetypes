@@ -1,0 +1,718 @@
+{
+  "AssetId": "17e0d2c5d6855ef47b60439f2581c6ff",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_8bc64d869456b004b9db255cdd1ea734",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532205",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_90e59f4a4ada87243b7b3535a06d0638",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532206",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_5590652e1c2225c4ca30c4a699ab3649",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532207",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_9d5d2d3ffdd73c648af3eb3e585b1113",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532208",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_fbdd8c455ac4cde4a9a3e18c84af9485",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532209",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_e5af3674bb241f14b9a9f6b0c7dc3d27",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532210",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_183d5bb91dea3a1489a6db6c9cb64445",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532211",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_dd2a5a6e76611c04e9eac6254fcf8c6b",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532212",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_03a9630394d10164a9410882d31572f0",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532213",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_c36c1d11771b0584f8e100b92ee5475b",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532214",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_9a7e3cd1323dfe347a6dcce357844769",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532215",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_6b90c773a6543dc49b2505858ce33db5",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532216",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_65f0b63c45ea82a4f8b8325768a3832d",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532217",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_e84fc922ccf952943b5240293669b171",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532218",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_3361c5df793b4c8448756146a88026ad",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532219",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_bd5da98859cf2b3418f6d68ea66cabbe",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532220",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_faabd2cc67efa4646ac58c7bb3e40fcc",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532221",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_bf0accce250381a44b857d4af6c8e10d",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532222",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_2a6eda8ef30379142a4b75448fb214a3",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532223",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_9779c8578acd919419f563c33d7b2af5",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532224",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_c42ac3feb96d1e54e9bc77c84082f05f",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532225",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_41c9016596fe1de4faf67425ed691203",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532226",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_e9cc9378fd6841f48ad59384e79e9953",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532227",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_ef16771cb05d1344989519e87f25b3c5",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532228",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_0087fc2d64b6095478bc7b8d7d512caf",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532229",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_ad5ed5ea4ec52334a94e975a64dad336",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532230",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_651110ed4f117a948b41c05c5c7624c0",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532231",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_f2115ac1148256b4ba20788f7e966830",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532232",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_a02cf51787df937489ef5d4cf5970335",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532233",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_d5847cad0b0e54c4d82d6c59a3cda6b0",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532234",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_1bc83efec9f8c4b42a46162d72cbf494",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532235",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_be2062d6d85f4634ea4f26e9e858c3b8",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532236",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_3fce8e988a51a2a4ea366324d6153001",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532237",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_5d3d689392e4ff740a761ef346815074",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532238",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_5d3d689392e4ff740a761ef346815074",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532239",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_f9910c76efc34af41b6e43d5d8752f0f",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532240",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_9da37873d79ef0a468f969e4e5116ad2",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532241",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_4fbd47525382517419c66fb548fe9a67",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532241",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_4fbd47525382517419c66fb548fe9a67",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532242",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_265582bc494c4b12b5860b508a2f89a2",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532243",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_f8cea58227f59c64399044a82c9735c4",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532244",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_332ad68273db9704ab0e92518f2efd1c",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532245",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_571221cc141bc21449ae96b3944652aa",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532246",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_cc09224ecc9af79449816c45bc5be218",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532247",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_5da172c4c89f9eb4cbb614f3a67357d3",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532248",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_03944622fbe04824684ec29ff2cec6a7",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532249",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_a9a52760290591844a96d0109e30e04d",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532250",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_d361391f645db984bbf58907711a146a",
+        "m_Archetype": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FalseProphetMiraclesName",
+      "m_OwnerString": "17e0d2c5d6855ef47b60439f2581c6ff",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FalseProphetMiraclesDesc",
+      "m_OwnerString": "17e0d2c5d6855ef47b60439f2581c6ff",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "80734c869101d0f4180822596fe8af91",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

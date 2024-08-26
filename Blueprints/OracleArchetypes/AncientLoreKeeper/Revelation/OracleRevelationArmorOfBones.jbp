@@ -1,0 +1,108 @@
+{
+  "AssetId": "6e851764e6f91b0458792b58c3083f57",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddAbilityResources$0119a250-f2de-41e6-add4-9c71ca56f4a8",
+      "$AddFacts$e4f67c87-35e8-4f6a-af5d-292d47e6cca7"
+    ],
+    "Components": [
+      {
+        "$type": "24d005ae28c58444bb8db4b94c9165cc, PrerequisiteFeaturesFromList",
+        "name": "$PrerequisiteFeaturesFromList$da1f71ca-77a0-49c3-9ec4-59f52f792388",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Features": [
+          "!bp_067b175d3df0d1a408efd7eee2b36b9b",
+          "!bp_511ee1f805f8d1445b64f4c8398ca938",
+          "!bp_e083bd3fa7dfc924fb4e6ab371eda368",
+		  "!bp_8ebe3ccffb8aee04091bcd55773f3864"
+        ],
+        "Amount": 1
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$0119a250-f2de-41e6-add4-9c71ca56f4a8",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_b6b9157eca8c6c24f9e5651f7be23273",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$e4f67c87-35e8-4f6a-af5d-292d47e6cca7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_d13b9f5172d8ddd458581fca2416a5ac"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "5f59b0a563834514eb9b48a3ce70e8a2",
+        "stringkey": "908e1672-99d8-4b9d-ad59-65d631eb5b36"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "ff7e4b9b62029e14b858abb44e211e39",
+        "stringkey": "5c106ef4-22e3-4a50-b59b-efb9a8400bce"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "81f7cf6d5cf30e642967d9e4244a0b0c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "OracleRevelation"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

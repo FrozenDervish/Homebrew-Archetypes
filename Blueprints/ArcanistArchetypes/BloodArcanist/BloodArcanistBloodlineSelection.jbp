@@ -1,0 +1,89 @@
+{
+  "AssetId": "ea6f9b858a657774b87e02b22be709a3",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
+        "m_Flags": 0,
+        "name": "$NoSelectionIfAlreadyHasFeature$4b7f9312-4d2f-4af5-9885-86221b9a1acb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "AnyFeatureFromSelection": true,
+        "m_Features": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BloodArcanistBloodline",
+      "m_OwnerString": "ea6f9b858a657774b87e02b22be709a3",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_BloodArcanistBloodlineDesc",
+      "m_OwnerString": "ea6f9b858a657774b87e02b22be709a3",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_3f806db3d38f98445928e5a67feccb8d",
+      "!bp_0290ca8dbac50ee468ad9a3bafd38d9d"
+    ],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "BloodLine",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_f6c557248fbac1b4b87fca2a8f1b89e2",
+      "!bp_68f54ac1115f1ac4b924c34841077904",
+      "!bp_4cbf41eca006a2e46adb4218b289a0e9",
+	  "!bp_a5857e1650ab5654cb4e04a16f83e6cb",
+      "!bp_2d3a83f558af8184ca5b2e917baa60b5",
+      "!bp_79665100828852144bf726173e9700b4",
+      "!bp_c2d6c13845a58b14c9866e44259c422d",
+      "!bp_e5b61233da2e56149ae8fbfa6e3f3a7a",
+      "!bp_b6606dc32c009f1449d060983ee3c851",
+      "!bp_470908ab828d1394da79ef775375c3ce",
+      "!bp_6f02cfa51c4c6744da69d1430bac2b26",
+      "!bp_516cb977b6bad2743b93dcbb998c4eb0",
+      "!bp_36705fa032d7f8641bc7c2a87856bd61",
+      "!bp_b23869fa1f0068c408c66ca010d356e9",
+      "!bp_e3a8c29119e447c47b6ec2fb208e1b24",
+      "!bp_1d22adc56e150aa4abb65c17edffdbc3",
+      "!bp_2dc61cf9f428edd45ae3dd416411593d",
+      "!bp_c512308fb725c9e42ac4dcb262299d46",
+      "!bp_71044e0be593aa041bf857e6eed7a41a",
+      "!bp_a01655e456339654f9322c9e7ec422bc",
+      "!bp_b133869b79516de468f32518c64cbd78"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

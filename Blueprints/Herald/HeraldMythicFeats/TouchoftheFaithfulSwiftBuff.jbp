@@ -1,0 +1,65 @@
+{
+  "AssetId": "26ec9a852058dde498d4b46f066d2eef",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b51a712035f3d98459e516a34fda37bf, AutoMetamagic",
+        "name": "$AutoMetamagicOnSpellList$d5339ef2-ab96-4455-a180-df4116272852",
+        "m_Overrides": [],
+        "m_AllowedAbilities": "Any",
+        "Metamagic": "Quicken",
+        "Abilities": [
+          "!bp_e43398335ecbf5f43b2ca91de949b1be",
+		  "!bp_85b00e7b9c69cae4087cd4e55ffa78e8",
+		  "!bp_39a7d9083b5c7434dbaa42fa2e181b22",
+		  "!bp_82f4b535cbdc8384ab449b104e72fb53"
+
+        ],
+        "Descriptor": {
+          "m_IntValue": 0
+        },
+        "Once": false,
+        "MaxSpellLevel": 0,
+        "School": "None",
+        "CheckSpellbook": false,
+        "m_Spellbook": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulSwift",
+      "m_OwnerString": "26ec9a852058dde498d4b46f066d2eef",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulSwiftDesc",
+      "m_OwnerString": "26ec9a852058dde498d4b46f066d2eef",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": {
+      "guid": "ed900c6a7b1c40341b9aa325c6068e37",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

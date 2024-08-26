@@ -1,0 +1,168 @@
+{
+  "AssetId": "20f615fdc424e68409c493aeaa2d3284",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "m_Flags": 0,
+        "name": "$AddFacts$e4eb907e-f159-435f-90ea-e134077206d1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_4ebaf39efb8ffb64baf92784808dc49c",
+          "!bp_00b6d36e31548dc4ab0ac9d15e64a980",
+          "!bp_583bd14fef73a5e49a0b11dcbba56075",
+          "!bp_487af80cdfbaad74b8c2fd644c538233",
+          "!bp_1bb08308c9f6a5e4697887cd438b7221",
+          "!bp_15d3b21354c105b498a0b1b293280ded",
+          "!bp_ad61fc9dec7822b45891c78c9da5d5da"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "m_Flags": 0,
+        "name": "$AddAbilityResources$a3f77df7-bc1d-45b5-859c-7eee7b845508",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_394088e9e54ccd64698c7bd87534027f",
+        "Amount": 0,
+        "RestoreAmount": false,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnClassLevel$1703af56-9682-45ca-9b8a-35eb6f18be83",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "Level": 10,
+        "m_Feature": "!bp_5557debac323606498a4dd8569165e7d",
+        "BeforeThisLevel": true,
+        "m_AdditionalClasses": [
+          "!bp_34ecd1b5e1b90b9498795791b0855239"
+        ],
+        "m_Archetypes": [
+          "!bp_339659f6b09b4136bf8c2b2c3df87c65"
+        ]
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnClassLevel$4ce7f4a0-ca77-4910-8989-ee76b8285611",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "Level": 10,
+        "m_Feature": "!bp_112314658d0848645b34555a41def2ff",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [
+          "!bp_34ecd1b5e1b90b9498795791b0855239"
+        ],
+        "m_Archetypes": [
+          "!bp_339659f6b09b4136bf8c2b2c3df87c65"
+        ]
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnClassLevel$bb3460e8-543f-494f-8762-ccdbb8b5ab04",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "Level": 6,
+        "m_Feature": "!bp_6b96f8db83d8e754cb0c1993c71c39d0",
+        "BeforeThisLevel": true,
+        "m_AdditionalClasses": [
+          "!bp_34ecd1b5e1b90b9498795791b0855239"
+        ],
+        "m_Archetypes": [
+          "!bp_339659f6b09b4136bf8c2b2c3df87c65"
+        ]
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnClassLevel$7351bada-11ba-4fe5-84ae-842f9a6d71e0",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "Level": 6,
+        "m_Feature": "!bp_5d7ba4fad7dc44c4280c78f1fee0099d",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [
+          "!bp_34ecd1b5e1b90b9498795791b0855239"
+        ],
+        "m_Archetypes": [
+          "!bp_339659f6b09b4136bf8c2b2c3df87c65"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerJudgement",
+      "m_OwnerString": "20f615fdc424e68409c493aeaa2d3284",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerJudgementDesc",
+      "m_OwnerString": "20f615fdc424e68409c493aeaa2d3284",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "49c7d448bff859744a0aa4bf3c58cd5b",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_f069b6557a2013544ac3636219186632",
+      "!bp_4a6dc772c9a7fe742a65820007107f03"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

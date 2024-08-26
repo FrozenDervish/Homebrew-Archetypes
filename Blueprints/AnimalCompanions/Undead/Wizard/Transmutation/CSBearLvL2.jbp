@@ -1,0 +1,71 @@
+{
+  "AssetId": "2d4e6062cd2104940bf01d24fb19ae21",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ActivatableAbilityResourceLogic$5e848036-0916-4804-86df-7b0c7dfc7aec"
+    ],
+    "Components": [
+      {
+        "$type": "22c7a9a55d4f5724b89759d342784915, ActivatableAbilityResourceLogic",
+        "name": "$ActivatableAbilityResourceLogic$5e848036-0916-4804-86df-7b0c7dfc7aec",
+        "m_Overrides": [],
+        "SpendType": "NewRound",
+        "m_RequiredResource": "!bp_bb9229852d1500142b9e88d78133839c",
+        "m_FreeBlueprint": null,
+        "Categories": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "d3d0c69963811c740ba784b811f1501a",
+        "stringkey": "e5a116dc-7e40-4b6c-8b25-7d9c1c9e2c9b"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "c0ee62c6557c41341a643a66d8ba485c",
+        "stringkey": "5d4772ba-d3cf-435f-ac7a-5103e8ac76c4"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "b7d95a8bf93cd8a4e95adbaa4ac0954b",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_a5d38d44a92ff4a44b9583d1d196ba64",
+    "Group": "ChangeShape",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": true,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": true,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "WithUnitCommand",
+    "m_ActivateWithUnitCommand": "Free",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  }
+}

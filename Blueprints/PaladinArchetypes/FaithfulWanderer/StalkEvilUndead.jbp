@@ -1,0 +1,63 @@
+{
+  "AssetId": "834403c2304540345931de10376dc846",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "e2a84427930194b4b88a7981bc787493, FavoredEnemy",
+        "m_Flags": 0,
+        "name": "$AddFavoredEnemy$d66ebf1d-c39e-48a6-ad46-04356af797cc",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_CheckedFacts": [
+          "!bp_734a29b693e9ec346ba2951b27987e33"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeFaithfulWandererStalkEvil",
+      "m_OwnerString": "0ee92869384b8334496cb8ce7f5b9dcf",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeFaithfulWandererStalkEvilDesc",
+      "m_OwnerString": "0ee92869384b8334496cb8ce7f5b9dcf",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "61c915891c95ccf488dcc89f260b5702",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "FavoriteEnemy"
+    ],
+    "Ranks": 5,
+    "ReapplyOnLevelUp": true,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

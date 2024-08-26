@@ -1,0 +1,87 @@
+{
+  "AssetId": "59e9a1c3739586647a317d975321ea9e",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
+        "m_Flags": 0,
+        "name": "$NoSelectionIfAlreadyHasFeature$4b7f9312-4d2f-4af5-9885-86221b9a1acb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "AnyFeatureFromSelection": true,
+        "m_Features": []
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$87ea90bc-bba5-4829-a380-7d95af11f794",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_e8e80533ed9cb8d418597cb4804bfa44"
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_RogueTalentMinorMagic",
+      "m_OwnerString": "ea6f9b858a657774b87e02b22be709a3",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_RogueTalentMinorMagicDesc",
+      "m_OwnerString": "ea6f9b858a657774b87e02b22be709a3",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "RogueTalent",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_b0636c261cfca404f9e3396b3ae2bfab",
+	  "!bp_401021f2240f9724e9b21852963010ae",
+	  "!bp_d8ff0c29a735b4247b092acdd031c51b",
+	  "!bp_1492710abf2e9494894df8fe50b65685",
+	  "!bp_7bb5dde2038ab174d968a21d14b299a6",
+	  "!bp_251f96f125f00f0469668bed8ce0d6f3",
+	  "!bp_89021b9d12dc18f49a7fd62c7c54f19d",
+	  "!bp_ab854ebe087472a4da3424e0a50f263d"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

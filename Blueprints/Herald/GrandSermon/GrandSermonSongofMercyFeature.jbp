@@ -1,0 +1,51 @@
+{
+  "AssetId": "538e35aa80a5a2c4288925ab7602c0c7",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "33c6c6711d174884ba995663e0f64b63, AuraFeatureComponent",
+        "name": "$AuraFeatureComponent$1a931668-7e39-4917-a25b-e47accea7d37",
+        "m_Overrides": [],
+        "m_Buff": "!bp_522b9f62ecafd3540ac654be132fcc5f"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassDoctrineMercySongofMercy",
+      "m_OwnerString": "538e35aa80a5a2c4288925ab7602c0c7",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassDoctrineMercySongofMercyDesc",
+      "m_OwnerString": "538e35aa80a5a2c4288925ab7602c0c7",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": {
+      "guid": "494cc3f31fcb2a24cb7e69ec5df0055c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "AssetId": "72edcc1184c7bc748b5f1c9901530520",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteNotProficient$294d0e8d-f0f7-4e40-a9cd-f1a2b54861fd",
+      "$PrerequisiteStatValue$a857369b-5130-41c2-bda0-d83e319d5e0a",
+      "$RecommendationNoFeatFromGroup$0e7aee82-a82e-44f4-b743-74404883c111",
+      "$PrerequisiteIsPet$b5a87d1f-f277-49cb-846d-46104ee30f4e"
+    ],
+    "Components": [
+      {
+        "$type": "8e6b3a77f08a57042bd423dd80723887, PrerequisiteNotProficient",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNotProficient$294d0e8d-f0f7-4e40-a9cd-f1a2b54861fd",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "ArmorProficiencies": [],
+        "WeaponProficiencies": [
+          "Dagger",
+          "LightMace",
+          "PunchingDagger",
+          "Sickle",
+          "Club",
+          "HeavyMace",
+          "Shortspear",
+          "Dart",
+          "HeavyCrossbow",
+          "Javelin",
+          "LightCrossbow",
+          "Sling",
+          "Greatclub",
+          "Longspear",
+          "Quarterstaff",
+          "Spear"
+        ]
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "m_Flags": 0,
+        "name": "$PrerequisiteIsPet$b5a87d1f-f277-49cb-846d-46104ee30f4e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Not": true
+      },
+      {
+        "$type": "6d43a0c88e994d04bd2859978dec9337, FeatureTagsComponent",
+        "m_Flags": 0,
+        "name": "$FeatureTagsComponent$39c31b03-8f45-4180-a675-a04078dde083",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "FeatureTags": "Melee, Ranged"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_NPCCommonerProficiencies",
+      "m_OwnerString": "72edcc1184c7bc748b5f1c9901530520",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_NPCCommonerProficienciesDesc",
+      "m_OwnerString": "72edcc1184c7bc748b5f1c9901530520",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "11ab2b30adcd57341827dc076a172994",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Feat",
+      "CombatFeat"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_b776c19291928cf4184d4dc65f09f3a6",
+      "!bp_d0a788c77b0eae948944fa424125c120",
+      "!bp_a13839f75ac30cc48945c96ef1c98e1c",
+      "!bp_7b4c0488057fa2e42b8a92bac3304eb9",
+      "!bp_2c343b1606bc68248891bd53d38a3d18",
+      "!bp_3f18330d717ea0148b496ee8cc291a60",
+      "!bp_0c10b4bbcbcb6a942a77a6804682c7d8",
+      "!bp_f029268a6639a0745a849e5147734088",
+      "!bp_3d96feeabdfb1ff45b63af77b545813f",
+      "!bp_8e85b6347caa4e84fa67d71f65a6a990",
+      "!bp_28ccd31b222f6954490f4c19c5c5576b",
+      "!bp_9c7b33404dc0ac1449ee2732657b722a",
+      "!bp_aed4f88b52ae0fb468895f90da854ad4"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

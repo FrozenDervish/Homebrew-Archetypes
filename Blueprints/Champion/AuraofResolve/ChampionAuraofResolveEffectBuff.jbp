@@ -1,0 +1,67 @@
+{
+  "AssetId": "ee0a05dd25995a843b0f7c2c2ee7b4c5",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "3819276ccd091df42818bb86295941c1, SavingThrowBonusAgainstDescriptor",
+        "name": "$SavingThrowBonusAgainstDescriptor$e37f20ec-c808-4367-8468-2558d7a36975",
+        "m_Overrides": [],
+        "SpellDescriptor": {
+          "m_IntValue": 32768
+        },
+        "ModifierDescriptor": "Morale",
+        "Value": 4,
+        "Bonus": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "OnlyPositiveValue": false,
+        "m_DisablingFeature": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "5aed5e05b8eb44e46861e760dff4963c",
+        "stringkey": "94bd1fe5-e370-4e27-aaa9-5cd2ca20f2ac"
+      }
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionAuraofResolveDesc",
+      "m_OwnerString": "ee0a05dd25995a843b0f7c2c2ee7b4c5",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "80afc29b4d3cdf44a96d7d5ab7038b14",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "HiddenInUi",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

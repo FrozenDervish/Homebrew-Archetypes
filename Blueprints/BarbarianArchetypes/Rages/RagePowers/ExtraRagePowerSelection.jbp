@@ -1,0 +1,118 @@
+{
+  "AssetId": "9aadccf3ca706fa4891d30961c56265a",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteFeature$dc256326-6a55-42ae-bfc1-30e61c5d5230"
+    ],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$dc256326-6a55-42ae-bfc1-30e61c5d5230",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_fbedfd5cb9e6c6a4eb5a3e9343de87b9"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$dc256326-6a55-42ae-bfc1-30e61c5d5231",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_f3f4399e9bd93c6459a82aee386339c3"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "973a2f4a-aa7f-4796-baca-dc3491abacea",
+      "m_OwnerString": "0c7f01fbbe687bb4baff8195cb02fe6a",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/ExtraRagePowerSelection_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "888053ce-c565-42a4-8045-b0031ca2170c",
+      "m_OwnerString": "0c7f01fbbe687bb4baff8195cb02fe6a",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/ExtraRagePowerSelection_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "43d879a24572174429b4f79a0873dd60",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Feat"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "RagePower",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_0a0d85226ecf87a4f9670531d9ec1213",
+      "!bp_f6c05ec8d725bd8489b3075d61539afd",
+      "!bp_b75d05499dea91949aa4c77a68fb99fd",
+      "!bp_2a3843b5f4b98a746be52df743e7de0a",
+      "!bp_cd1a60a6c7d921c419eeeea4b800e2e8",
+      "!bp_a01f318f5d897394ba47790029165110",
+      "!bp_efffc52e646f330428ca0d40d36693fc",
+      "!bp_69b65a6fcee40b746b66dc814f4259bf",
+      "!bp_a66deb754911ade44ac39dcf50f742b6",
+      "!bp_c3768b23b988c76409325b517b39a01d",
+      "!bp_f0f90cabe217faf46afb4143fd599119",
+      "!bp_4fc24295daef937468c1b94ba3f43360",
+      "!bp_d3beb7e8312070246a6d324909eaf6f7",
+      "!bp_bcf615513e7512a4ca4601ab3b0bc630",
+      "!bp_0aa69dcaf146d794ea3100827e2d1e8b",
+      "!bp_acc8ba1cb2cce7e46b6363327693cc5e",
+      "!bp_a6770f30b4ae91d47ad7aaa38efbb9d3",
+      "!bp_414540ad082a6ad4480c1467f535b571",
+      "!bp_47e02bc15e318d346a1ab615f71ae44d",
+      "!bp_bcd8e8732bd49264995431499048d2ac",
+      "!bp_8d9d899777d9c4744bff00b2cd999b1b",
+      "!bp_b09376c42af384f46a8282d344060193",
+      "!bp_54a1401cb753caf4e850960941325b8c",
+      "!bp_42e3e979857a1db4aad83b5e7a066659",
+      "!bp_9f5f2c7457819f845a4574f2ae094afc",
+      "!bp_77a557224b3a94144afc3053a77fdb48",
+      "!bp_132fc7f9b4f6a3d4db47534012c42f6f",
+      "!bp_0b1ff3f9db58aab41990096d5f736a4c",
+      "!bp_6e5d57a733d1eea46a9022a304f2c728",
+      "!bp_7df32d4e9bd2cdc48b0f69b03a57754a"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

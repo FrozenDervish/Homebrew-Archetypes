@@ -1,0 +1,84 @@
+{
+  "AssetId": "8d75e6c0c8b511c4d908b5ec7bd89f90",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$a8a5ff6f-c2e1-4d47-901d-9f1e4b58ea9b",
+      "$AddAbilityResources$c1435122-db5d-4720-a29d-493577192f9b"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$a8a5ff6f-c2e1-4d47-901d-9f1e4b58ea9b",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_c7ef8e638d6287149893f7c2d919263f"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$c1435122-db5d-4720-a29d-493577192f9b",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_27f08408c3e237f43a6ca56d4236b8fe",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$65fe96c6-51b9-4727-a41d-382113fab02a",
+        "m_Overrides": [],
+        "m_Class": "!bp_f4248bf69918b974c828a0d4c1fc2d9e",
+        "Level": 1,
+        "m_Feature": "!bp_2899409c18331ab4a8566be23005f5cf",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "32a2ec55-e6c1-4c5d-938b-9985f7473255",
+      "m_OwnerString": "640c20da7d6fcbc43b0d30a0a762f122",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/War/WarDomainBaseFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "25df484d-13c9-46ef-a594-4ca55714c037",
+      "m_OwnerString": "640c20da7d6fcbc43b0d30a0a762f122",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/War/WarDomainBaseFeature_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "5b972d20bb6f39140b70b6bf6535f98c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

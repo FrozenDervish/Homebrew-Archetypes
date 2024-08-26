@@ -1,0 +1,56 @@
+{
+  "AssetId": "d04c736f82c81984daaf8a2a65595158",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "81726826-8427-4001-aea6-5d0eb8c8b07d",
+      "m_OwnerString": "4ee08802b8a2b9b448d21f61e208a306",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/RecklessStancePowers/RecklessStanceToggleAbility_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "e1779bb1350a4da46acb25c33176cbf2",
+        "stringkey": "cfbd1d89-db28-469c-969b-dc5af4550b54"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "fe103f364993db74ca9c0f59eba2134c",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_d931be38ffe4a9d48a037e295ee20309",
+    "Group": "BarbarianStance",
+    "WeightInGroup": 1,
+    "IsOnByDefault": true,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": false,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "Immediately",
+    "m_ActivateWithUnitCommand": "Standard",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  }
+}

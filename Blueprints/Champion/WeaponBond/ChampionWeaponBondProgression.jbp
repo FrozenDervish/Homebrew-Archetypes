@@ -1,0 +1,111 @@
+{
+  "AssetId": "60320b49c0b0b484689493b6d4658345",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "cefda382-d0e0-49c8-803d-c1f2c56e94e1",
+      "m_OwnerString": "60320b49c0b0b484689493b6d4658345",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Paladin/WeaponBond/WeaponBondProgression_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionDivineWeaponBondDesc",
+      "m_OwnerString": "60320b49c0b0b484689493b6d4658345",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "437fd3ba18904234696faf0f93c17aac",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": [],
+    "m_Classes": [
+      {
+        "m_Class": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_4b439c6ecaa5ad841a49fb41cab1d30d"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_06d26d7f793d6ee4ebbc0170f8cf719d"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_961dff7eaaf1e094aab11a459b5985bf"
+        ]
+      },
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_7a60e1c9e64941d488045eb39d056dc5"
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+          "!bp_b35dfee7afedc8641807eea02bf8460d",
+          "!bp_bec19499e32c5764cb492590ff517c1c"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_7b5bfa7c82d860c4a83df946bcea239b"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_bec19499e32c5764cb492590ff517c1c"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_bec19499e32c5764cb492590ff517c1c"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeaturesRankIncrease": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

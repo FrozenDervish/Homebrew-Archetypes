@@ -1,0 +1,56 @@
+{
+  "AssetId": "fcb6fa4cc4ecec043aa8f40d2431a7e0",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "ba47a98d-0b4a-4242-bf1e-b85471703110",
+      "m_OwnerString": "43696e91d2a67e34981925f0c62bff40",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/LethalStancePowers/LethalStanceToggleAbility_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "7f98636ec17934245a9fc2de55cb80b0",
+        "stringkey": "bc006973-1ef8-40b1-bd6b-f8f2646589a7"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "51bc526eda8130149bd06d116ec8e300",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_6691acf812bf8a648818c5a81b0f85b4",
+    "Group": "BarbarianStance",
+    "WeightInGroup": 1,
+    "IsOnByDefault": true,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": false,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "Immediately",
+    "m_ActivateWithUnitCommand": "Standard",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  }
+}

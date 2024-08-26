@@ -1,0 +1,32 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+      {
+        "$type": "b51a712035f3d98459e516a34fda37bf, AutoMetamagic",
+        "m_Flags": 0,
+        "name": "$AutoMetamagic$d21ec9fe-7ebb-4118-a2d7-1e71a9c6894d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_AllowedAbilities": "Any",
+        "Metamagic": "Quicken",
+        "Abilities": [
+          "!bp_9c7a3a3bd3fe1294ba9cb10d2308cc97"
+        ],
+        "Descriptor": {
+          "m_IntValue": 0
+        },
+        "Once": false,
+        "MaxSpellLevel": 0,
+        "School": "None",
+        "CheckSpellbook": false,
+        "m_Spellbook": null,
+        "m_IncludeClasses": [],
+        "m_ExcludeClasses": []
+      },
+    ],
+	}

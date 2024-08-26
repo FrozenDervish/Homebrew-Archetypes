@@ -1,0 +1,120 @@
+{
+  "AssetId": "608a981a2446be5479fbb9227fd8cf1f",
+  "Data": {
+    "$type": "1585acbfcc93f0a439fa39dde12070c3, BlueprintSpellList",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "IsMythic": false,
+    "SpellsByLevel": [
+      {
+        "SpellLevel": 0,
+        "m_Spells": [
+		  "!bp_97a23111df7547fd8f6417f9ba9b9775",
+		  "!bp_95f206566c5261c42aa5b3e7e0d1e36c",
+		  "!bp_c3a8f31778c3980498d8f00c980be5f5",
+		  "!bp_5bf3315ce1ed4d94e8805706820ef64d"
+		]
+      },
+      {
+        "SpellLevel": 1,
+        "m_Spells": [
+          "!bp_4783c3709a74a794dbe7c8e7e0b1b038",
+		  "!bp_90e59f4a4ada87243b7b3535a06d0638",
+		  "!bp_bd81a3931aa285a4f9844585b5d97e51",
+		  "!bp_feb70aab86cc17f4bb64432c83737ac2",
+		  "!bp_47808d23c67033d4bbab86a1070fd62f",
+		  "!bp_c3aafbbb6e8fc754fb8c82ede3280051",
+		  "!bp_2ac7637daeb2aa143a3bae860095b63e",
+		  "!bp_eee384c813b6d74498d1b9cc720d61f4",
+		  "!bp_1eaf1020e82028d4db55e6e464269e00",
+		  "!bp_bb7ecad2d3d2c8247a38f44855c99061",
+		  "!bp_e9f974b82fb01e148b2d833b154216e2"
+        ]
+      },
+      {
+        "SpellLevel": 2,
+        "m_Spells": [
+          "!bp_03a9630394d10164a9410882d31572f0",
+		  "!bp_a900628aea19aa74aad0ece0e65d091a",
+		  "!bp_4c3d08935262b6544ae97599b3a9556d",
+		  "!bp_de7a025d48ad5da4991e7d3c682cf69d",
+		  "!bp_1c1ebf5370939a9418da93176cc44cd9",
+		  "!bp_b48b4c5ffb4eab0469feba27fc86a023",
+		  "!bp_89940cde01689fb46946b2f8cd7b66b7",
+		  "!bp_3e4ab69ada402d145a5e0ad3ad4b8564",
+		  "!bp_21ffef7791ce73f468b6fca4d9371e8b",
+		  "!bp_cdb106d53c65bbc4086183d54c3b97c7",
+		  "!bp_30e5dc243f937fc4b95d2f8f4e1b7ff3",
+		  "!bp_134cb6d492269aa4f8662700ef57449f"
+        ]
+      },
+      {
+        "SpellLevel": 3,
+        "m_Spells": [
+          "!bp_4b76d32feb089ad4499c3a1ce8e1ac27",
+		  "!bp_989ab5c44240907489aba0a8568d0603",
+		  "!bp_48e2744846ed04b4580be1a3343a5d3d",
+		  "!bp_6e81a6679a0889a429dec9cedcf3729c",
+		  "!bp_d2cff9243a7ee804cb6d5be47af30c73",
+		  "!bp_e7240516af4241b42b2cd819929ea9da",
+		  "!bp_b48674cef2bff5e478a007cf57d8345b",
+		  "!bp_4093d5a0eb5cae94e909eb1e0e1a6b36"
+        ]
+      },
+      {
+        "SpellLevel": 4,
+        "m_Spells": [
+          "!bp_0d657aa811b310e4bbd8586e60156a2d",
+		  "!bp_93d9d74dac46b9b458d4d2ea7f4b1911",
+		  "!bp_f2115ac1148256b4ba20788f7e966830",
+		  "!bp_c66e86905f7606c4eaa5c774f0357b2b"
+        ]
+      },
+      {
+        "SpellLevel": 5,
+        "m_Spells": [
+		  "!bp_3105d6e9febdc3f41a08d2b7dda1fe74",
+		  "!bp_7792da00c85b9e042a0fdfc2b66ec9a8",
+		  "!bp_ff8f1534f66559c478448723e16b6624",
+		  "!bp_a0fc99f0933d01643b2b8fe570caa4c5",
+		  "!bp_b3da3fbee6a751d4197e446c7e852bcb"
+		]
+      },
+      {
+        "SpellLevel": 6,
+        "m_Spells": []
+      },
+      {
+        "SpellLevel": 7,
+        "m_Spells": []
+      },
+      {
+        "SpellLevel": 8,
+        "m_Spells": []
+      },
+      {
+        "SpellLevel": 9,
+        "m_Spells": []
+      },
+      {
+        "SpellLevel": 10,
+        "m_Spells": []
+      }
+    ],
+    "m_FilteredList": null,
+    "FilterByMaxLevel": 0,
+    "FilterByDescriptor": false,
+    "Descriptor": {
+      "m_IntValue": 0
+    },
+    "FilterBySchool": true,
+    "ExcludeFilterSchool": false,
+    "FilterSchool": "None",
+    "FilterSchool2": "None"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

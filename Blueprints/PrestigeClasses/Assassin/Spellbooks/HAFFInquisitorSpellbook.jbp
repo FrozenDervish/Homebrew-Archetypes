@@ -1,0 +1,61 @@
+{
+  "AssetId": "70cec6b80af63394b81f1d59dee70c4c",
+  "Data": {
+    "$type": "43f1ee69992dc1848b97e623487f6442, BlueprintFeatureReplaceSpellbook",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "34c98fa5c2369684aba66f3b11581388, PrerequisiteClassSpellLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassSpellLevel$de0762f1-41e2-4cca-bbb8-f56556ffea28",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "RequiredSpellLevel": 1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_AssassinInquisitorSpellbook",
+      "m_OwnerString": "70cec6b80af63394b81f1d59dee70c4c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_AssassinSpellbookDesc",
+      "m_OwnerString": "70cec6b80af63394b81f1d59dee70c4c",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "m_Spellbook": "!bp_57fab75111f377248810ece84193a5a5"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "AssetId": "6d5078c1e87ac9249bec4b7594858e1f",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddAbilityResources$8d22abf3-8389-4bc0-941a-c5e645c87244",
+      "$AddFacts$6154d7fc-ef8d-4c88-95fd-bc9355fad3eb",
+      "$AddFeatureOnClassLevel$7d9198da-6d4a-4c36-a3c9-a82c497fe94c"
+    ],
+    "Components": [
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$8d22abf3-8389-4bc0-941a-c5e645c87244",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_bb9229852d1500142b9e88d78133839c",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$6154d7fc-ef8d-4c88-95fd-bc9355fad3eb",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_c4eed8c75135ff147a25ab846fee7998",
+          "!bp_8011204903721204fbb2d2e0f25df650",
+          "!bp_d00a0129a819cf54692008d85ee54b1d",
+          "!bp_5bf8ca217ae9067488faf72cbaf6d90b",
+          "!bp_1af733d222d32444aba05c924124e47d"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$7d9198da-6d4a-4c36-a3c9-a82c497fe94c",
+        "m_Overrides": [],
+        "m_Class": "!bp_297c8ab5637e8cc4298b4d608b20a4a5",
+        "Level": 12,
+        "m_Feature": "!bp_e2ea3cec13034034ca025cf60d4cc91a",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [
+		  "!bp_52dbfd8505e22f84fad8d702611f60b7"
+		],
+        "m_Archetypes": [
+		  "!bp_d8bbe8991bb7a0740939e499935b09cd"
+		]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

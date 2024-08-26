@@ -1,0 +1,178 @@
+{
+  "AssetId": "c5d2251379cb3804b88f542ec25fd3f3",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$1d537ae8-86db-4df4-b28f-789a7c7b031c"
+    ],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$c1b2ca5e-c601-4fbe-94b3-e3c0c8632389",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_dff4ee6c9a66c8146b30a8af6f7feebf"
+      },
+	  {
+        "$type": "04406431439974e489cc8fdea779cf46, PrerequisiteStatValue",
+        "m_Flags": 0,
+        "name": "$PrerequisiteStatValue$27a240ad-5227-4b06-9072-a65845264d9a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Stat": "BaseAttackBonus",
+        "Value": 8
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d41",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_d332c1748445e8f4f9e92763123e31bd",
+        "m_Feature": "!bp_6870e1c4641933147aba56e4c68a0991",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d51",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_c3461b5a92bdb174dbda4fd427315c18",
+        "m_Feature": "!bp_6870e1c4641933147aba56e4c68a0991",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d61",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_2dbac4ec7b1595642bd024fab3ad4206",
+        "m_Feature": "!bp_6870e1c4641933147aba56e4c68a0991",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d71",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_4bf9a9afadca5304e89bf52f2ac2d236",
+        "m_Feature": "!bp_c6f6393e7dc28f648b548097283e9905",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d81",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_a54d0e2bdb08a474c9ab241dc1f6a10b",
+        "m_Feature": "!bp_c6f6393e7dc28f648b548097283e9905",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d91",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_7d49d7f590dc9a948b3bd1c8b7979854",
+        "m_Feature": "!bp_6bc0880fc1981c440b757f85b1c64fce",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d42",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_c464ab12993745c44a7d21f386562cb6",
+        "m_Feature": "!bp_48d77e7b51323e541a30136593b1a7de",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d43",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_cb6d55dda5ab906459d18a435994a760",
+        "m_Feature": "!bp_e7a1de4b287cda34083380a166a2f20a",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d44",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_b8ec9dccc0e7ef74fb4072b0679c2aec",
+        "m_Feature": "!bp_c43a4ceb2adaa4241bcdf7921deb8265",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d45",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_eb388d17f07e0b44d9f83ada0148cc69",
+        "m_Feature": "!bp_f33699ed503c388409fc5365be029c78",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57069a5b3d46",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_1a871294410971745bba12ef11e41f6e",
+        "m_Feature": "!bp_32c85569d1a100f49aa99c04cb77d8c2",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57089b6b3d46",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_4d4f00bb16467144780538107387af78",
+        "m_Feature": "!bp_32c85569d1a100f49aa99c04cb77d8c2",
+        "Not": false
+      },
+	  {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "name": "$AddFeatureIfHasFact$b6453ea9-57f2-40f8-b628-57089b6b3d00",
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_e7237c71cb830364ba2b3eb0a0a53272",
+        "m_Feature": "!bp_91639b02db9535d4a8bc13c05afd3ccb",
+        "Not": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BasicFeatGreaterChannelSmite",
+      "m_OwnerString": "c5d2251379cb3804b88f542ec25fd3f3",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_BasicFeatGreaterChannelSmiteDesc",
+      "m_OwnerString": "c5d2251379cb3804b88f542ec25fd3f3",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

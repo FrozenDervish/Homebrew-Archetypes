@@ -1,0 +1,88 @@
+{
+  "AssetId": "e9f19437801125a4fb247b2f8c9b1378",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFeatureOnClassLevel$5749151e-9427-444c-ae66-5ef4406eeb91",
+      "$AddFacts$36120583-1eca-46c8-ba3e-ec5259dd82f7"
+    ],
+    "Components": [
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$5749151e-9427-444c-ae66-5ef4406eeb91",
+        "m_Overrides": [],
+        "m_Class": "!bp_20ce9bf8af32bee4c8557a045ab499b1",
+        "Level": 7,
+        "m_Feature": "!bp_6b548b3a41f7c1744af46e12520c7f98",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$36120583-1eca-46c8-ba3e-ec5259dd82f7",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_81a05b91b391fc44ab4e5bb7c3118243"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "24d005ae28c58444bb8db4b94c9165cc, PrerequisiteFeaturesFromList",
+        "name": "$PrerequisiteFeaturesFromList$6fbb5a3a-14d7-4a3d-9544-34cbcef70847",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Features": [
+          "!bp_067b175d3df0d1a408efd7eee2b36b9b",
+          "!bp_511ee1f805f8d1445b64f4c8398ca938",
+          "!bp_e083bd3fa7dfc924fb4e6ab371eda368",
+		  "!bp_8ebe3ccffb8aee04091bcd55773f3864"
+        ],
+        "Amount": 1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "f460eece-d314-4b79-8af7-24a09491c16e",
+      "m_OwnerString": "96649fb9694c1164caf7b836898685aa",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Oracle/OracleRevelations/OracleRevelationNearDeath_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "fd730993-0a58-456c-9835-784225a4fd23",
+      "m_OwnerString": "96649fb9694c1164caf7b836898685aa",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Oracle/OracleRevelations/OracleRevelationNearDeath_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "OracleRevelation"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

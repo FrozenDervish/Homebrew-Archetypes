@@ -1,0 +1,65 @@
+{
+  "AssetId": "52c5907cb462da941a75b76fce919f9f",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisSelection",
+      "m_OwnerString": "52c5907cb462da941a75b76fce919f9f",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisSelectionDesc",
+      "m_OwnerString": "52c5907cb462da941a75b76fce919f9f",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_d91afcbeb27582b40a776ffe9ab8bb03",
+	  "!bp_452546323d597534f84d2aa23ac49c21",
+	  "!bp_faaae77fdfe0fed46b308359ce32de58",
+	  "!bp_9b3293e4d445a34438d90a4bb2c555df",
+	  "!bp_e154531f5f6f46b478b7ca510326d694",
+	  "!bp_63cbcb0173ff9b2468ca29646acf94a0",
+	  "!bp_4cf5bd4f83827924c9a0ec1be1d70e7c",
+	  "!bp_248617ed47df03c4aac9ea11239aba86",
+	  "!bp_4f70356e21bb0934aab18f1a33bdfe9f",
+	  "!bp_e8333c838fed5f441a3922c0cdc8cb31",
+	  "!bp_42f2c105f3004ff488d689d84cbd9a4e",
+	  "!bp_12904a1f3fc16da419654d3df4bb8705"
+    ],
+    "ShowThisSelection": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

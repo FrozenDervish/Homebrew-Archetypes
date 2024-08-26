@@ -1,0 +1,55 @@
+{
+  "AssetId": "14b4e29d5d01f9c4b967bb69cc5a48e9",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$MonkNoArmorFeatureUnlock$2a35fe96-21ad-46e6-b538-2d5ab1c45f41"
+    ],
+    "Components": [
+      {
+        "$type": "f0b3c7a3d8538c24b8d56b1c3d86e7c2, MonkNoArmorFeatureUnlock",
+        "m_Flags": 0,
+        "name": "$MonkNoArmorFeatureUnlock$2a35fe96-21ad-46e6-b538-2d5ab1c45f41",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_NewFact": "!bp_bd250c9250fb0f444850f9f98babf9f9"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_SwordDevilUntouchable",
+      "m_OwnerString": "14b4e29d5d01f9c4b967bb69cc5a48e9",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_SwordDevilUntouchableDesc",
+      "m_OwnerString": "14b4e29d5d01f9c4b967bb69cc5a48e9",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

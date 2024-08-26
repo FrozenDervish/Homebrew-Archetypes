@@ -1,0 +1,107 @@
+{
+  "AssetId": "f864393581c0f5543b7ca68a678568ee",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ActivableAbilityResourceLogic$de6a11a1-7b1b-4607-a3da-f893c519227d",
+      "$RestrictionHasUnitCondition$3eed0658-bbaf-435a-80d3-1031728b5614",
+      "$RestrictionHasFact$8f9bc0f1-0142-4dee-a41f-010cb452e1bf"
+    ],
+    "Components": [
+      {
+        "$type": "22c7a9a55d4f5724b89759d342784915, ActivatableAbilityResourceLogic",
+        "name": "$ActivableAbilityResourceLogic$de6a11a1-7b1b-4607-a3da-f893c519227d",
+        "m_Overrides": [],
+        "SpendType": "NewRound",
+        "m_RequiredResource": "!bp_498f22c188082b3449f0635930d4d28d",
+        "m_FreeBlueprint": "!bp_5cb58e6e406525342842a073fb70d068",
+        "Categories": []
+      },
+      {
+        "$type": "8d32cf270a3f8df438c65ac197fca2d2, RestrictionHasUnitCondition",
+        "name": "$RestrictionHasUnitCondition$3eed0658-bbaf-435a-80d3-1031728b5614",
+        "m_Overrides": [],
+        "Condition": "Fatigued",
+        "Invert": true
+      },
+      {
+        "$type": "8d32cf270a3f8df438c65ac197fca2d2, RestrictionHasUnitCondition",
+        "name": "$RestrictionHasUnitCondition$ea6200d7-b163-4fc9-b55c-eb96f563d529",
+        "m_Overrides": [],
+        "Condition": "Exhausted",
+        "Invert": true
+      },
+      {
+        "$type": "74999d4fdbb7037469dcc37ac14a67f5, RestrictionHasFact",
+        "name": "$RestrictionHasFact$8f9bc0f1-0142-4dee-a41f-010cb452e1bf",
+        "m_Overrides": [],
+        "m_Feature": "!bp_36ca5ecd8e755a34f8da6b42ad4c965f",
+        "Not": true
+      },
+      {
+        "$type": "0e059d6e61c843769f77ed36b3bf86b2, ActionPanelLogic",
+        "name": "$ActionPanelLogic$220e6c98-ea45-4c62-9901-03c940168459",
+        "m_Overrides": [],
+        "Priority": 3,
+        "AutoFillConditions": {
+          "Operation": "And",
+          "Conditions": []
+        },
+        "AutoCastConditions": {
+          "Operation": "And",
+          "Conditions": []
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_WildStalkerRageoftheWild",
+      "m_OwnerString": "f864393581c0f5543b7ca68a678568ee",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "9d7323f12d2b9554ba29cfbf908b60c5",
+        "stringkey": "6ec561bd-f295-4df3-8ce6-c1fbcb479be7"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "e50a89f2ba396f44489e16b06713612f",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_8d1b293062b5b3e44b0948228a74b283",
+    "Group": "None",
+    "WeightInGroup": 1,
+    "IsOnByDefault": true,
+    "DeactivateIfCombatEnded": true,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": false,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": true,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "Immediately",
+    "m_ActivateWithUnitCommand": "Free",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": [
+      "53c86872d2be80b48afc218af1b204d7"
+    ]
+  }
+}

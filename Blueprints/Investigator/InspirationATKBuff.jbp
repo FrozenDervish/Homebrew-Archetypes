@@ -1,0 +1,98 @@
+{
+  "AssetId": "e4f9c2718f7f8414e8c0ebdd01e7755c",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$8d226d24-4ae9-4316-a53f-8cabc9d653de",
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "AdditionalAttackBonus",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 1,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+	  {
+        "$type": "a6777ad03deb60a4e8ef6b7067ac836b, ContextCalculateSharedValue",
+        "m_Flags": 0,
+        "name": "$ContextCalculateSharedValue$b8da9069-eee1-4ca9-bdd3-df0263eb324f",
+        "m_Overrides": [],
+        "ValueType": "Damage",
+        "Value": {
+          "DiceType": "D6",
+          "DiceCountValue": {
+            "ValueType": "Simple",
+            "Value": 1,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          },
+          "BonusValue": {
+            "ValueType": "Simple",
+            "Value": 0,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          }
+        },
+        "Modifier": 1.0
+      },
+	  {
+        "$type": "fe32c97ec5dc90a4fb58f0ce607a9117, RemoveBuffOnAttack",
+        "name": "$RemoveBuffOnEventDidTrigger$e6c6c623-0ce8-418a-9e93-1f78e8563d1c",
+        "m_Overrides": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassInspirationATK",
+      "m_OwnerString": "e4f9c2718f7f8414e8c0ebdd01e7755c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassInspirationATKDesc",
+      "m_OwnerString": "e4f9c2718f7f8414e8c0ebdd01e7755c",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "45622cc69bf53fc4b88fea9c0209407d"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "45622cc69bf53fc4b88fea9c0209407d"
+    ]
+  }
+}

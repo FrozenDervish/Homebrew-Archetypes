@@ -1,0 +1,119 @@
+{
+  "AssetId": "8323bda0d6fb7ba4296e59e9947163c3",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
+        "m_Flags": 0,
+        "name": "$NoSelectionIfAlreadyHasFeature$4b7f9312-4d2f-4af5-9885-86221b9a1acb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "AnyFeatureFromSelection": false,
+        "m_Features": []
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$b96457f8-c9d1-4d82-8684-512005c9726b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_0635706b50b90194a8ae4bd7d719c178"
+      },
+	  {
+        "$type": "f4c04a72ef8a5e94e828de578da166d2, PrerequisiteCasterTypeSpellLevel",
+        "name": "$PrerequisiteCasterTypeSpellLevel$9b01425a-5b0b-4bc5-832d-a419d450aa7c",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsArcane": false,
+        "OnlySpontaneous": false,
+        "RequiredSpellLevel": 1
+      },
+	  {
+        "$type": "04406431439974e489cc8fdea779cf46, PrerequisiteStatValue",
+        "name": "$PrerequisiteStatValue$d9b07e84-68dd-41fb-8ec9-16e9a4d5a8b7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Stat": "Charisma",
+        "Value": 13
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$87ea90bc-bba5-4829-a380-7d95af11f794",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_247f783576188e84b87e10382f81a416"
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BasicFeatAdeptChannel",
+      "m_OwnerString": "90defe72b89cb7f448736f4d0a3335e8",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_BasicFeatAdeptChannelDesc",
+      "m_OwnerString": "90defe72b89cb7f448736f4d0a3335e8",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_3656627fdf21da04f800825db8c64758",
+	  "!bp_2c0af47b36317894fa1b5451df78b210"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "AssetId": "01ff99413431f3149ac6e35f70562cea",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeDreadInvestigator",
+      "m_OwnerString": "01ff99413431f3149ac6e35f70562cea",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeDreadInvestigatorDesc",
+      "m_OwnerString": "01ff99413431f3149ac6e35f70562cea",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_f840a52f4cff41349832fa8a0cef018c"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 2,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [
+      
+    ],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "AssetId": "4775b1d028237d04c85fca5e1cc6b693",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionName",
+      "m_OwnerString": "4775b1d028237d04c85fca5e1cc6b693",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionDesc",
+      "m_OwnerString": "4775b1d028237d04c85fca5e1cc6b693",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "8ed3ea1ce2b0a8d4698797aaa11021ef",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "ExceptWhiteListed": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+	  "!bp_41c8486641f7d6d4283ca9dae4147a9f",
+	  "!bp_c074a5d615200494b8f2a9c845799d93",
+	  "!bp_62fc5b3e56342df46861f60cb9e70d3e",
+	  "!bp_024f1b13756e9a5418a96ad3e9fdc828",
+	  "!bp_257b9b0531ce5954aaf94733471677d2",
+	  "!bp_19b7188fc0dd4ff42a6ccc3e024fd751",
+	  "!bp_9bb1b821ddb00cb45b5f6e0377981ca3",
+	  "!bp_910fb1145d8d45a448d3cec06e75375b",
+	  "!bp_f252650ce1fc53741a97d8e9902d05de",
+	  "!bp_703abd8be686a6b4ea0b0a13d6b77488",
+	  "!bp_51a0466574f18d3499696e4df422122a"
+    ],
+    "ShowThisSelection": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

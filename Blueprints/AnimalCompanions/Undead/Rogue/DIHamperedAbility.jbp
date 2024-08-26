@@ -1,0 +1,61 @@
+{
+  "AssetId": "e094e78779e713640b820cdb83946b85",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "e0559cc2504ccdc44a80e9b4b08feb65",
+        "stringkey": "e705c760-06f7-49e6-8f8c-89e1a95e597b"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "fae11a798d4a64540b3ea780c1681d65",
+        "stringkey": "79f919e1-fc31-4009-b9e1-5c7b1824b8d8"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "0059beaa9b3a9c64b8360a13a9b42aa2",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_1ce32af0d94b6fd4486e81e77c409e89",
+    "Group": "DebilitatingStrike",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "Immediately",
+    "m_ActivateWithUnitCommand": "Free",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": [
+      "8b816ee44e55e2a4e821a5ff9d8fcf94"
+    ]
+  }
+}

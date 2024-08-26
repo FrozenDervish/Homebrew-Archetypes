@@ -1,0 +1,125 @@
+{
+  "AssetId": "f88632b91750f4d4b8621d45ce0efd90",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "a1d2cd2c99d5ea2428dfe069d71945b0, AddOutgoingPhysicalDamageProperty",
+        "name": "$AddOutgoingDamageWeaponProperty$6e66cc28-b7dc-4d8d-9913-4a0034fd252f",
+        "m_Overrides": [],
+        "AffectAnyPhysicalDamage": false,
+        "NaturalAttacks": false,
+        "AddMagic": false,
+        "AddMaterial": true,
+        "Material": "ColdIron",
+        "AddForm": false,
+        "Form": 0,
+        "AddAlignment": false,
+        "Alignment": "Good",
+        "MyAlignment": false,
+        "AddReality": false,
+        "Reality": "Ghost",
+        "CheckWeaponType": false,
+        "m_WeaponType": "!bp_fcca8e6b85d19b14786ba1ab553e23ad",
+        "CheckRange": false,
+        "IsRanged": false,
+        "AgainstFactOwner": false,
+        "m_UnitFact": null
+      },
+      {
+        "$type": "a1d2cd2c99d5ea2428dfe069d71945b0, AddOutgoingPhysicalDamageProperty",
+        "name": "$AddOutgoingDamageWeaponProperty$021f4dd2-ca0e-4395-a357-e8bf241fd3c0",
+        "m_Overrides": [],
+        "AffectAnyPhysicalDamage": false,
+        "NaturalAttacks": false,
+        "AddMagic": false,
+        "AddMaterial": true,
+        "Material": "Silver",
+        "AddForm": false,
+        "Form": 0,
+        "AddAlignment": false,
+        "Alignment": "Good",
+        "MyAlignment": false,
+        "AddReality": false,
+        "Reality": "Ghost",
+        "CheckWeaponType": false,
+        "m_WeaponType": "!bp_fcca8e6b85d19b14786ba1ab553e23ad",
+        "CheckRange": false,
+        "IsRanged": false,
+        "AgainstFactOwner": false,
+        "m_UnitFact": null
+      },
+	  {
+        "$type": "a1d2cd2c99d5ea2428dfe069d71945b0, AddOutgoingPhysicalDamageProperty",
+        "name": "$AddOutgoingDamageWeaponProperty$021f4dd2-ca0e-4395-a357-e8bf241fd3c1",
+        "m_Overrides": [],
+        "AffectAnyPhysicalDamage": false,
+        "NaturalAttacks": false,
+        "AddMagic": false,
+        "AddMaterial": false,
+        "Material": "Silver",
+        "AddForm": false,
+        "Form": 0,
+        "AddAlignment": true,
+        "Alignment": "Good",
+        "MyAlignment": false,
+        "AddReality": false,
+        "Reality": "Ghost",
+        "CheckWeaponType": false,
+        "m_WeaponType": "!bp_fcca8e6b85d19b14786ba1ab553e23ad",
+        "CheckRange": false,
+        "IsRanged": false,
+        "AgainstFactOwner": false,
+        "m_UnitFact": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "2ff8e68e9c35018458dabcf42e188ad7",
+        "stringkey": "09438d4a-6bbf-4519-8dec-2141a025a9be"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "82cb7c40b4fa77b40b22c09170790a1a",
+        "stringkey": "538ecf3e-224a-4390-8cac-12f0e51f2b18"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "ca3c9eb264e969e44a9eb2b105793706",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "HiddenInUi",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "c7e1609eb3da9f446bc4a69622c486dc"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "c7e1609eb3da9f446bc4a69622c486dc"
+    ]
+  }
+}

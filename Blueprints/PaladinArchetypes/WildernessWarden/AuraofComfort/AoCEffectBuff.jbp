@@ -1,0 +1,70 @@
+{
+  "AssetId": "d04b93eb0479b0848b662eb98c39bb5b",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddStatBonusAbilityValue$c87c0575-f48b-45d8-9628-703f69e1bc53",
+      "$AddStatBonusAbilityValue$ff5b4a47-9a6b-489b-bb69-0f8c3371a8a4",
+      "$SavingThrowBonusAgainstDescriptor$e37f20ec-c808-4367-8468-2558d7a36975"
+    ],
+    "Components": [
+      {
+        "$type": "3819276ccd091df42818bb86295941c1, SavingThrowBonusAgainstDescriptor",
+        "name": "$SavingThrowBonusAgainstDescriptor$e37f20ec-c808-4367-8468-2558d7a36975",
+        "m_Overrides": [],
+        "SpellDescriptor": {
+          "m_IntValue": 8912896
+        },
+        "ModifierDescriptor": "UntypedStackable",
+        "Value": 4,
+        "Bonus": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "OnlyPositiveValue": false,
+        "m_DisablingFeature": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeWildernessWardenAuraofComfort",
+      "m_OwnerString": "d04b93eb0479b0848b662eb98c39bb5b",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeWildernessWardenAuraofComfortDesc",
+      "m_OwnerString": "d04b93eb0479b0848b662eb98c39bb5b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "df02f67a537a44144b6914015d8c2ea1",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "HiddenInUi",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

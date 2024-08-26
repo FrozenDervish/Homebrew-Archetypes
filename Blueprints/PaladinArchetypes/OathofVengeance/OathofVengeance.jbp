@@ -1,0 +1,87 @@
+{
+  "AssetId": "3bff72fa74b46ee40b92d26dbff25e00",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeOathofVengeance",
+      "m_OwnerString": "3bff72fa74b46ee40b92d26dbff25e00",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeOathofVengeanceDesc",
+      "m_OwnerString": "3bff72fa74b46ee40b92d26dbff25e00",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_30c4f8737113bee47b52751fa1a9377c"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_85f09eca1137c5345a6c8fb89286a1f7"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_cb6d55dda5ab906459d18a435994a760"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_9f13fdd044ccb8a439f27417481cb00e"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 411,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [
+      "Strength",
+      "Charisma"
+    ],
+    "NotRecommendedAttributes": [
+      "Intelligence",
+      "Wisdom"
+    ],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

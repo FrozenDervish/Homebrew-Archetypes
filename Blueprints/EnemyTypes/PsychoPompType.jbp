@@ -1,0 +1,84 @@
+{
+  "AssetId": "b4f596521b1a8744fbf1473ec5927b51",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$23284b5c-41e3-4dc7-90ac-71856fed6980",
+      "$BuffDescriptorImmunity$0cecc410-cea6-4481-af38-3e9470cf3bd6"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$23284b5c-41e3-4dc7-90ac-71856fed6980",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_41d5e076fcea3fa4a9158ffded9185f7",
+          "!bp_9e0051f85452c0f4689eee2eda041bb3",
+          "!bp_daf27e1f12e736d4294b525489e99de4",
+          "!bp_a5049e0d1b1a1454aa1a221a6e20b714",
+          "!bp_8e66c89fa286eeb43b7f4a4bde568d4e"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "3577eb7fd5b1caa4ca13855b16201704, BuffDescriptorImmunity",
+        "name": "$BuffDescriptorImmunity$0cecc410-cea6-4481-af38-3e9470cf3bd6",
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 536887296
+        },
+        "m_IgnoreFeature": null,
+        "CheckFact": false,
+        "m_FactToCheck": null
+      },
+      {
+        "$type": "2fcb3a86db6cbf846bb0252ef04ba9b8, SpellImmunityToSpellDescriptor",
+        "name": "$SpellImmunityToSpellDescriptor$2903468b-a180-45dc-9c8a-942be0cbec60",
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 536887296
+        },
+        "m_CasterIgnoreImmunityFact": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "39a56627-78f4-41c8-a0d5-02725e55bca5",
+      "m_OwnerString": "32f002cbe2eccd84586b7fd2b6701d80",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/CreatureAbilities/Subtypes/SubtypePsychopomp_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "e209bf54-d003-4131-8268-547aa59cc6cf",
+      "m_OwnerString": "32f002cbe2eccd84586b7fd2b6701d80",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/CreatureAbilities/Subtypes/SubtypePsychopomp_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": null
+  }
+}

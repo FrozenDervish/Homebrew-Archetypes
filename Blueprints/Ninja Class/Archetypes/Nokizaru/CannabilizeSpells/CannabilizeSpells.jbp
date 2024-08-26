@@ -1,0 +1,82 @@
+{
+  "AssetId": "ab4bc16c48a4be64d92ec2d68355d294",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddAbilityResources$d1d24b29-058a-425c-ab8d-28044c95b026",
+      "$SpontaneousSpellConversion$bf8ff82f-a950-4497-8003-69f55d0fe05c"
+    ],
+    "Components": [
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$d1d24b29-058a-425c-ab8d-28044c95b026",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_ce005863461f5ac438912fbdd65ae116",
+        "Amount": 1,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": true
+      },
+      {
+        "$type": "e62f4123f61beec4e98aa95e41c9a697, SpontaneousSpellConversion",
+        "name": "$SpontaneousSpellConversion$bf8ff82f-a950-4497-8003-69f55d0fe05c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_f134bf66e01303e419bf8d5598c1a777",
+        "m_SpellsByLevel": [
+          null,
+          "!bp_2fd257bd3ef619b4eb8ad176a6db47e8",
+          "!bp_0d8dcb6248d3d274eb4cd1c93b6f5252",
+          "!bp_8caa17ff0c4ce904ab88637bfa5ef0d6",
+          "!bp_d349975c75ea97c479addaaf3c4d20f7",
+          "!bp_01f1ce6e73d5dbf4ab883939428c1ab5",
+          "!bp_06b8baf0b3361a041b4cdac5ab25dfcd"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesNokizaruTrick_CannibalizeMagic",
+      "m_OwnerString": "ab4bc16c48a4be64d92ec2d68355d294",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesNokizaruTrick_CannibalizeMagicDesc",
+      "m_OwnerString": "ab4bc16c48a4be64d92ec2d68355d294",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "75adafb59a8fa904f885a9a4fa16fc95",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

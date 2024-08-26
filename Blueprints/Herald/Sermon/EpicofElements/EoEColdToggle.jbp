@@ -1,0 +1,66 @@
+{
+  "AssetId": "b2d962fdc31d54a4596de795b71b2ac6",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "22c7a9a55d4f5724b89759d342784915, ActivatableAbilityResourceLogic",
+        "name": "$ActivableAbilityResourceLogic$b5a44341-ab7b-4264-81c2-2aabc0c9387a",
+        "m_Overrides": [],
+        "SpendType": "NewRound",
+        "m_RequiredResource": "!bp_c66bf3b976be86b4f872289d3437ce40",
+        "m_FreeBlueprint": null,
+        "Categories": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonEpicofElementsCold",
+      "m_OwnerString": "b2d962fdc31d54a4596de795b71b2ac6",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonEpicofElementsDesc",
+      "m_OwnerString": "b2d962fdc31d54a4596de795b71b2ac6",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "b7f3ee62bee490c448f9e0546b4f93b5",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_27d1265a086768341b9dbb0aa2cb10bb",
+    "Group": "BardicPerformance",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": true,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": false,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": true,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "WithUnitCommand",
+    "m_ActivateWithUnitCommand": "Standard",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": [
+      "c87c798cd0a410c419ee4bafd4adb68f",
+      "79665f3d500fdf44083feccf4cbfc00a"
+    ]
+  }
+}

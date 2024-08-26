@@ -1,0 +1,129 @@
+{
+  "AssetId": "452546323d597534f84d2aa23ac49c21",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$86b59ea2-82e2-43f1-81e6-a19421d76daa",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_1837d0c4a2302824cbeaec9190c0db50"
+      },
+	  {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$3814a2c8-3c3d-4b57-9ee9-a5636a6dfe65",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_b4274c5bb0bf2ad4190eb7c44859048b",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$4bc5b132-5307-4648-b5b1-a7e5330beff8",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_45f7c823872c92b45936cbbb1948b52e"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnClassLevel$4ce7f4a0-ca77-4910-8989-ee76b8285611",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_c75c39413ea936d4cbff2912c845aa72",
+        "Level": 9,
+        "m_Feature": "!bp_0f5c99ffb9c084545bbbe960b825d137",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+	  {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnClassLevel$4ce7f4a0-ca77-4910-8989-ee76b8285612",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_c75c39413ea936d4cbff2912c845aa72",
+        "Level": 14,
+        "m_Feature": "!bp_0f5c99ffb9c084545bbbe960b825d137",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+	  {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnClassLevel$4ce7f4a0-ca77-4910-8989-ee76b8285613",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_c75c39413ea936d4cbff2912c845aa72",
+        "Level": 19,
+        "m_Feature": "!bp_0f5c99ffb9c084545bbbe960b825d137",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisDivineMight",
+      "m_OwnerString": "452546323d597534f84d2aa23ac49c21",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisDivineMightDesc",
+      "m_OwnerString": "452546323d597534f84d2aa23ac49c21",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

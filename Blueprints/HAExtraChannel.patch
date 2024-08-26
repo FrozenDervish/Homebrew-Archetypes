@@ -1,0 +1,33 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d23",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_c3461b5a92bdb174dbda4fd427315c18"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835235d23",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_2dbac4ec7b1595642bd024fab3ad4206"
+      }
+    ],
+	}

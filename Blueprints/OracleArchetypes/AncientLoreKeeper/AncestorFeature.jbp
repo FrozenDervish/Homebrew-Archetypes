@@ -1,0 +1,89 @@
+{
+  "AssetId": "4eeb4214793efef46a9266bcc7d61ba9",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddFeatureOnClassLevel$0621952c-037e-46d4-be8e-192b2a54ce30"
+    ],
+    "Components": [
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$0621952c-037e-46d4-be8e-192b2a54ce30",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_20ce9bf8af32bee4c8557a045ab499b1",
+        "Level": 20,
+        "m_Feature": "!bp_933b4d571a31b9a43aa424eac0a22068",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+      {
+        "$type": "d349027bb3984883bf9d583b659c025a, AddFeaturesFromSelectionToDescription",
+        "name": "$AddFeaturesFromSelectionToDescription$500bfc45-5378-44de-a55c-9a7d2e2b8b62",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Introduction": {
+          "m_Key": "",
+          "m_OwnerString": "",
+          "m_OwnerPropertyPath": "",
+          "m_JsonPath": "",
+          
+        },
+        "m_FeatureSelection": "!bp_60008a10ad7ad6543b1f63016741a5d2",
+        "OnlyIfRequiresThisFeature": true
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "05698694399e5f14fba6124e5aab154d",
+        "stringkey": "d7ec488c-d139-4a9e-9f8e-9436d1e1b478"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "692e026901ccc374a88d0353217622ad",
+        "stringkey": "7bd8e612-62f6-433a-a24a-820cc0e014fd"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "dcb8b3fc481058d4a8ab70890e0a20ae",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "OracleMystery"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

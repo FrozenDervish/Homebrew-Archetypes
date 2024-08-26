@@ -1,0 +1,129 @@
+{
+  "AssetId": "651de1acaee4e664f83871a0875bbbe3",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$654b088d-7323-4a22-82b0-82d013a541c6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "m_Flags": 0,
+        "name": "$PrerequisiteIsPet$ad5636dd-0661-4dbf-abcd-9a37c62e0b0a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      }
+    ],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_SpellbladeName",
+      "m_OwnerString": "651de1acaee4e664f83871a0875bbbe3",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": ""
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_SpellbladeDesc",
+      "m_OwnerString": "651de1acaee4e664f83871a0875bbbe3",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": ""
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "HomebrewArchtypes_SpellbladeShort",
+      "m_OwnerString": "651de1acaee4e664f83871a0875bbbe3",
+      "m_OwnerPropertyPath": "LocalizedDescriptionShort",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "SkillPoints": 2,
+    "HitDie": "D10",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "m_IsHigherMythic": false,
+    "m_BaseAttackBonus": "!bp_b3057560ffff3514299e8b93e7648a9d",
+    "m_FortitudeSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_ReflexSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_WillSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_Progression": "!bp_764ccc6d92c18fb479fd8df3f8f21f2a",
+    "m_Spellbook": "!bp_33903fe5c4abeaa45bc249adb9d98848",
+    "ClassSkills": [
+      "SkillKnowledgeArcana",
+      "SkillKnowledgeWorld",
+      "SkillLoreReligion",
+      "SkillLoreNature",
+      "SkillUseMagicDevice"
+    ],
+    "IsDivineCaster": false,
+    "IsArcaneCaster": true,
+    "m_Archetypes": [],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_511c97c1ea111444aa186b1a58496664",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_e8308a74821762e49bc3211358e81016",
+      "!bp_63caf94a780472b448f50d0bc183c38f",
+      "!bp_fbf7f9d21c12146479a5c261743afbde"
+    ],
+    "PrimaryColor": 54,
+    "SecondaryColor": 69,
+    "m_EquipmentEntities": [
+      "!bp_af291daa6606403aa51f309c74004f38"
+    ],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "65e7ae8b40be4d64ba07d50871719259"
+      },
+      {
+        "AssetId": "04244d527b8a1f14db79374bc802aaaa"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "11266d19b35cb714d96f4c9de08df48e"
+      },
+      {
+        "AssetId": "64abd9c4d6565de419f394f71a2d496f"
+      }
+    ],
+    "m_Difficulty": 4,
+    "RecommendedAttributes": [
+      "Intelligence",
+      "Charisma",
+      "Dexterity"
+    ],
+    "NotRecommendedAttributes": [
+      "Strength"
+    ],
+    "m_SignatureAbilities": [
+      "!bp_885ad0ab44eb4f56a2faeae8c9aa08b9",
+      "!bp_45feafde36644d03b183110905cb85c7",
+      "!bp_b2c20b73ae2b4e66948acc6637ecde1a"
+    ],
+    "m_DefaultBuild": "!bp_ee2faa196c184f7a8857693cbf36de03",
+    "m_AdditionalVisualSettings": null,
+    "VisualSettingsPriority": 0
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

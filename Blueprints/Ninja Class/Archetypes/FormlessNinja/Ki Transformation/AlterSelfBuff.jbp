@@ -1,0 +1,65 @@
+{
+  "AssetId": "6da0859bd05b67b42a9679ce7475309a",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ChangeUnitSize$285fd461-72a9-47fe-b6f4-0797cbdc7cf9",
+      "$AddGenericStatBonus$dbd5c936-7ae7-4e17-9a26-d4ef159bcad2"
+    ],
+    "Components": [
+      {
+        "$type": "bd6e075c1c773114ab6e34c72f5d8d94, ChangeUnitSize",
+        "name": "$ChangeUnitSize$285fd461-72a9-47fe-b6f4-0797cbdc7cf9",
+        "m_Overrides": [],
+        "m_Type": "Delta",
+        "SizeDelta": -1,
+        "Size": "Fine"
+      },
+      {
+        "$type": "a0c7e67ead2fb1b469484150184b3d4a, AddGenericStatBonus",
+        "name": "$AddGenericStatBonus$dbd5c936-7ae7-4e17-9a26-d4ef159bcad2",
+        "m_Overrides": [],
+        "Descriptor": "Size",
+        "Stat": "Dexterity",
+        "Value": 2
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "238ae9088a6ddaf4e91984aa40548b3e",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

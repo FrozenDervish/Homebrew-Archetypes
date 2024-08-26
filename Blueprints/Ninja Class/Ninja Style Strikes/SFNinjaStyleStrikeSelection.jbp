@@ -1,0 +1,73 @@
+{
+  "AssetId": "89cb1d465770d2842919c666b6978575",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFeatureOnClassLevel$d21f39b1-b3cd-4c92-a3bf-0edc0f137082"
+    ],
+    "Components": [
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$d21f39b1-b3cd-4c92-a3bf-0edc0f137082",
+        "m_Overrides": [],
+        "m_Class": "!bp_f134bf66e01303e419bf8d5598c1a777",
+        "Level": 15,
+        "m_Feature": "",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesAbility_StyleStrike",
+      "m_OwnerString": "89cb1d465770d2842919c666b6978575",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesAbility_StyleStrikeDesc",
+      "m_OwnerString": "89cb1d465770d2842919c666b6978575",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [
+      "!bp_22071cd87462dbf42aaf7ef6d32f7f11",
+      "!bp_50f43d97c33fc5a44b01debdf98036d4",
+      "!bp_c83417ac58a61ba4baad1dcf4a0c49cf",
+      "!bp_855479a8a1ef0b34985c07b0aca8e214"
+    ],
+    "m_AllFeatures": [
+      "!bp_22071cd87462dbf42aaf7ef6d32f7f11",
+      "!bp_50f43d97c33fc5a44b01debdf98036d4",
+      "!bp_c83417ac58a61ba4baad1dcf4a0c49cf",
+      "!bp_855479a8a1ef0b34985c07b0aca8e214"
+    ]
+  }
+}

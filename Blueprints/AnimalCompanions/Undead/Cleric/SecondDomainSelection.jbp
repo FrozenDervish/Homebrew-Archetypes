@@ -1,0 +1,72 @@
+{
+  "AssetId": "1958ee94d9a849e4dbf8313df2221703",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "93109bf9dd381394297ea896a91fe7fc",
+        "stringkey": "30118877-1233-417d-893b-c0970f8204d5"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "0e0c60997efae2646b2a83eefe014634",
+        "stringkey": "27c48b13-1613-4df4-9806-d88378f62225"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "ad05c2b9c08927f47ad7236f6bacd11f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "ClericSecondaryDomain",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_ebeb1f0f27609674b91f380d06282e61",
+	  "!bp_4835509f57632ea448e960a366068329",
+	  "!bp_210ed9a3159fc874ebfedf5cd3f85d2f",
+	  "!bp_68a368246ce293c4084d8d8c9f3ac66f",
+	  "!bp_9dd200387b8ccee4f96aca1bebe3847b",
+	  "!bp_b368ee1af5a5db84e95a3fada4ca8a92",
+	  "!bp_f7f723c8998aee74ca7ca81f43759c99",
+	  "!bp_10f5e7851be2488478d0633e720851e8",
+	  "!bp_a9a0644b080867746a68db63e8be154c",
+	  "!bp_f6ce03c49d2896d4ab42e1a321655bdc",
+	  "!bp_1d2c314143b08dc44b3498ff94f95c3b",
+	  "!bp_78d856624d00b7d4ea3f68a53661af6e",
+	  "!bp_41bd0dae6069bcc448af8e62626422e3"
+    ]
+  }
+}

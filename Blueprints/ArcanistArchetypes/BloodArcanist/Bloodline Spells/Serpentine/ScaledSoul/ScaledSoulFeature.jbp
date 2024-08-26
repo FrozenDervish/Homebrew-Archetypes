@@ -1,0 +1,132 @@
+{
+  "AssetId": "b45cade1af7d07e4bbc09c45c4948614",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$BuffDescriptorImmunity$b0b33228-263b-4e22-872b-ae0dacebf44e",
+      "$PrerequisiteFeature$252406d1-68a2-40b5-bb2c-cffb9f2d7f82",
+      "$PrerequisiteFeature$a86b871b-8ae6-486b-9067-28b4bb866a63",
+      "$FactSinglify$126fec83-70f1-42d3-9c33-b66b15f4dc60"
+    ],
+    "Components": [
+      {
+        "$type": "8f6114e9bccfa6f49a393e99b21e3b23, FactSinglify",
+        "name": "$FactSinglify$126fec83-70f1-42d3-9c33-b66b15f4dc60",
+        "m_Overrides": [],
+        "m_OldFacts": [
+          "!bp_27be8b5bf08000440847b8e3ad5c55bd",
+          "!bp_7df5f2f8a5deb8945a8a905fe8f6ab9f",
+          "!bp_189a2ef5cb010bd4fbb8ab0638862bcc",
+          "!bp_fc32cdc3adc796946872a5d1e8b0001d",
+          "!bp_775c478828dda8f46b1b9ba30651e8eb",
+          "!bp_9da471a664bf3884ab1dc38e4b3fe04e",
+          "!bp_e3418d593cb193449b740c7b0c75b0fe",
+          "!bp_4b773e1dcc4e61148acf390773a8d446",
+          "!bp_ad5efe19b89289f49b01c73f8eb73494",
+          "!bp_1745d9a62e4275f4287f355e2c1613ab",
+          "!bp_a270ed272d8f12141a302ea7ab6a10d4",
+          "!bp_a9cd7ff3081605648add336ef282885d"
+        ],
+        "m_NewFacts": [
+          "!bp_e3a336e6b6a83854fa448db7f3b541a2",
+          "!bp_cc8dafd7908356545b3bd5e3d12d4a12",
+          "!bp_43a200582251a4f4fb934afbd7d2ed0c",
+          "!bp_9d23adbc61f06dc458c76c3f00c25c3a",
+          "!bp_196e330a411802f4795c75cfeb4cc77f",
+          "!bp_7d2d0316d97cbab47bbdb5880235dab1"
+        ]
+      },
+      {
+        "$type": "3577eb7fd5b1caa4ca13855b16201704, BuffDescriptorImmunity",
+        "name": "$BuffDescriptorImmunity$b0b33228-263b-4e22-872b-ae0dacebf44e",
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 33554688
+        },
+        "m_IgnoreFeature": null,
+        "CheckFact": false,
+        "m_FactToCheck": null
+      },
+      {
+        "$type": "018ffdf3c815bfa4189c0fc4cf1c9b19, RecalculateOnStatChange",
+        "name": "$RecalculateOnStatChange$3d71714f-cab0-4c37-af09-3126fb09995c",
+        "m_Overrides": [],
+        "UseKineticistMainStat": false,
+        "Stat": "Constitution"
+      },
+      {
+        "$type": "c1058e0291443ae4390e0b4b94ca93dd, ContextCalculateAbilityParams",
+        "name": "$ContextCalculateAbilityParams$9640b096-0fa3-45ac-b7dc-4ee8b1e2829e",
+        "m_Overrides": [],
+        "UseKineticistMainStat": false,
+        "StatType": "Constitution",
+        "StatTypeFromCustomProperty": false,
+        "m_CustomProperty": null,
+        "ReplaceCasterLevel": false,
+        "CasterLevel": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "ReplaceSpellLevel": false,
+        "SpellLevel": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$a86b871b-8ae6-486b-9067-28b4bb866a63",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_233d0e5bdd25a7f44a56c09c8b5041e7"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "0c584c28-11d5-4a16-b106-dd40d8f4003d",
+      "m_OwnerString": "18436c3dfd2000142ae087bf03740fdf",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineScaledSoulFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "3dcd6d50-a24e-44dd-85b5-fc8c246e7c9a",
+      "m_OwnerString": "18436c3dfd2000142ae087bf03740fdf",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Sorcerer/SerpentineBloodline/BloodlineSerpentineScaledSoulFeature_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "e4db95ce4ea816b499231eaea69abc2d",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

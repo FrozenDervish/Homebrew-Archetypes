@@ -1,0 +1,76 @@
+{
+  "AssetId": "eff588d54e322344584934d183e65cf1",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_1296f17a00b6916488cc9b72386977a2",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_8e34127b09464cc40bae5da2cfe36e51",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532205",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_1296f17a00b6916488cc9b72386977a2",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_2cadf6c6350e4684baa109d067277a45",
+        "m_Archetype": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_PrestigeClassRazmiranPriestSecondRitual",
+      "m_OwnerString": "eff588d54e322344584934d183e65cf1",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_PrestigeClassRazmiranPriestSecondRitualDesc",
+      "m_OwnerString": "eff588d54e322344584934d183e65cf1",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "15d11c952fdc96b45849f312f3931192",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

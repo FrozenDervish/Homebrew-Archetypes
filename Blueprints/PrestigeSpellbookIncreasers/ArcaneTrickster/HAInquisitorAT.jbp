@@ -1,0 +1,55 @@
+{
+  "AssetId": "168d56a2b49129242959bc04e029c618",
+  "Data": {
+    "$type": "43f1ee69992dc1848b97e623487f6442, BlueprintFeatureReplaceSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "34c98fa5c2369684aba66f3b11581388, PrerequisiteClassSpellLevel",
+        "name": "$PrerequisiteClassSpellLevel$85c9e0f2-97ce-4e3c-9808-402a1110e9a3",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce",
+        "RequiredSpellLevel": 1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ArcaneTricksterInquisitorSpellbook",
+      "m_OwnerString": "2a1ccbf877b923e44a4a5efd6bc29ce5",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ArcaneTricksterSpellbookSelectionDesc",
+      "m_OwnerString": "168d56a2b49129242959bc04e029c618",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "DlcType": "None",
+    "Groups": [
+      "ArcaneTricksterSpellbook"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Spellbook": "!bp_57fab75111f377248810ece84193a5a5"
+  }
+}

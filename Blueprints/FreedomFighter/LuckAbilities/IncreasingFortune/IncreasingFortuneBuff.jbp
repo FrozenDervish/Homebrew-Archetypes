@@ -1,0 +1,114 @@
+{
+  "AssetId": "aa406ac4b8fd360449a6639b9a4caf2f",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "149337b6a93e55a4a81aa2010c8e1c58, ModifyD20",
+        "m_Flags": 0,
+        "name": "$ModifyD20$5653ba5c-e7a8-41b8-8d1b-27adb7de4c3c",
+        "m_Overrides": [],
+        "Rule": "AttackRoll, SkillCheck, SavingThrow, Maneuver",
+        "DispellMagicCheckType": "None",
+        "Replace": false,
+        "RollsAmount": 1,
+        "TakeBest": true,
+        "RollResult": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "AddBonus": false,
+        "Bonus": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "BonusDescriptor": "None",
+        "WithChance": false,
+        "Chance": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "RerollOnlyIfFailed": false,
+        "RerollOnlyIfSuccess": false,
+        "RollCondition": "None",
+        "ValueToCompareRoll": null,
+        "DispellOnRerollFinished": false,
+        "DispellOn20": false,
+        "AgainstAlignment": false,
+        "Alignment": "None",
+        "TargetAlignment": false,
+        "SpecificSkill": false,
+        "Skill": [],
+        "m_SavingThrowType": "All",
+        "SpecificDescriptor": false,
+        "SpellDescriptor": {
+          "m_IntValue": 0
+        },
+        "AddSavingThrowBonus": false,
+        "ModifierDescriptor": "None",
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "TandemTrip": false,
+        "m_TandemTripFeature": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneName",
+      "m_OwnerString": "aa406ac4b8fd360449a6639b9a4caf2f",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneDesc",
+      "m_OwnerString": "aa406ac4b8fd360449a6639b9a4caf2f",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "a755af816c12aae43a11524f7141208a"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

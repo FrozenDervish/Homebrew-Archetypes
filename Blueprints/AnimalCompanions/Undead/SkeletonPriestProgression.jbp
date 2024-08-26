@@ -1,0 +1,75 @@
+{
+  "AssetId": "7f665a1de10cf4a4181429c51cfbce5f",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "c7784cdabf146e74cba9af50742ad091",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "c7784cdabf146e74cba9af50742ad091",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [
+      {
+        "m_Class": "!bp_f4248bf69918b974c828a0d4c1fc2d9e",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+		  "!bp_8c971173613282844888dc20d572cfc9",
+		  "!bp_3e8529b9129a88743a2de1014ad85caf",
+		  "!bp_1958ee94d9a849e4dbf8313df2221703",
+		  "!bp_0212b0ef27565bd48b3be155db510c3a",
+		  "!bp_d3e6275cfa6e7a04b9213b7b292a011c",
+		  "!bp_62ef1cdb90f1d654d996556669caf7fa",
+		  "!bp_9fc9813f569e2e5448ddc435abf774b3",
+		  "!bp_37b002d6cae9b5c4ab956c7af0914de2",
+		  "!bp_ee0b69e90bac14446a4cf9a050f87f2e"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeaturesRankIncrease": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

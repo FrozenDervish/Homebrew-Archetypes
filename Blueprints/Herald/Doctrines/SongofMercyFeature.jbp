@@ -1,0 +1,81 @@
+{
+  "AssetId": "92c7500a2c79b784090025e3d816ab29",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$1d537ae8-86db-4df4-b28f-789a7c7b031c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_5c985a5f137b7be4b8746653cd6f3ea6"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$00b88455-af27-4260-8a0f-7307d9d68028",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_c66bf3b976be86b4f872289d3437ce40",
+        "Amount": 0,
+        "RestoreAmount": false,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "56737ee5357759b4885a4222547b218c, IncreaseResourcesByClass",
+        "name": "$IncreaseResourcesByClass$26d5a988-8d27-47b8-b175-7f47a5b35ce0",
+        "m_Overrides": [],
+        "m_Resource": "!bp_c66bf3b976be86b4f872289d3437ce40",
+        "m_CharacterClass": "!bp_c75c39413ea936d4cbff2912c845aa72",
+        "m_Archetype": null,
+        "Stat": "Charisma",
+        "BaseValue": 2
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassDoctrineMercySongofMercy",
+      "m_OwnerString": "92c7500a2c79b784090025e3d816ab29",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassDoctrineMercySongofMercyDesc",
+      "m_OwnerString": "92c7500a2c79b784090025e3d816ab29",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": {
+      "guid": "494cc3f31fcb2a24cb7e69ec5df0055c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

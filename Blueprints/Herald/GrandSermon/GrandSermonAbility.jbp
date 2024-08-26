@@ -1,0 +1,142 @@
+{
+  "AssetId": "7d90641acddfb6642ad72df80c56ef77",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "5a2c5281a8af4ebf91766d12fc9f55dd, AbilityApplyFact",
+        "name": "$AbilityApplyFact$5dc9e543-bbcb-4ed5-b3e4-f6ed5d2ee19d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Restriction": "CasterHasNoFact",
+        "m_Facts": [
+          "!bp_7573f8a1470647e47a77a917b3ec33c1",
+		  "!bp_cc6a62dd682ecef43be36f18b99be7b6",
+		  "!bp_f7e70bb5e633bd14091262e8610fee8d",
+		  "!bp_7a2e83e60ed61164ea0ff460e2695617",
+		  "!bp_7bdef2a6b6de0454eb02ae2e19e70983",
+		  "!bp_36654bd1959755e4ea3de38437006865",
+		  "!bp_a3d64c463cee1af4caf1602d58b41659",
+		  "!bp_ea5237a9bc1f724439625691363d37fd",
+		  "!bp_08a4f3afe91f98f449553db7252aa3d6",
+		  "!bp_d0489c388805e334cbd319b4e4e10289",
+		  "!bp_c39fc41ff6233214a9c32e4b6bbfa810",
+		  "!bp_83e44f679e6d46f45950e709ad73568b"
+        ],
+        "m_HasDuration": false,
+        "m_Duration": {
+          "Rate": "Rounds",
+          "DiceType": "Zero",
+          "DiceCountValue": {
+            "ValueType": "Simple",
+            "Value": 0,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          },
+          "BonusValue": {
+            "ValueType": "Simple",
+            "Value": 0,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          },
+          "m_IsExtendable": true
+        }
+      },
+      {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "name": "$AbilityResourceLogic$3d468d30-9881-414e-96c6-6ab6fcfd1c67",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_83e62a98dc436f74097b219b29fd1ed9",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 1,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassGrandSermon",
+      "m_OwnerString": "7d90641acddfb6642ad72df80c56ef77",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassGrandSermonDesc",
+      "m_OwnerString": "7d90641acddfb6642ad72df80c56ef77",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": {
+      "guid": "5895704fc09cae446b64117e3c52e06b",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Supernatural",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Omni",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionOmni",
+    "m_TargetMapObjects": false,
+    "ActionType": "Standard",
+    "AvailableMetamagic": "Quicken, Heighten, CompletelyNormal",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": true,
+    "ResourceAssetIds": []
+  }
+}

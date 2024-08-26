@@ -1,0 +1,49 @@
+{
+  "AssetId": "d4f8f43ecf7673342b012255229cac34",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "f0b3c7a3d8538c24b8d56b1c3d86e7c2, MonkNoArmorFeatureUnlock",
+        "name": "$MonkNoArmorFeatureUnlock$2a35fe96-21ad-46e6-b538-2d5ab1c45f41",
+        "m_Overrides": [],
+        "m_NewFact": "!bp_8fa6856e717d06e4f8e6dc052283bd7c"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ChampionOathUnconqueredOathofArmorName",
+      "m_OwnerString": "d4f8f43ecf7673342b012255229cac34",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionOathUnconqueredOathofArmorDesc",
+      "m_OwnerString": "d4f8f43ecf7673342b012255229cac34",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "270c587be2af35043827b6a1afa558f6",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

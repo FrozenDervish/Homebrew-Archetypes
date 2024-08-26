@@ -1,0 +1,85 @@
+{
+  "AssetId": "dce92f6a5c6f5ab448b2aee7a24d2f95",
+  "Data": {
+    "$type": "1585acbfcc93f0a439fa39dde12070c3, BlueprintSpellList",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "IsMythic": false,
+    "SpellsByLevel": [
+      {
+        "SpellLevel": 0,
+        "m_Spells": []
+      },
+      {
+        "SpellLevel": 1,
+        "m_Spells": [
+          "!bp_f3c0b267dd17a2a45a40805e31fe3cd1"
+        ]
+      },
+      {
+        "SpellLevel": 2,
+        "m_Spells": [
+          "!bp_1724061e89c667045a6891179ee2e8e7"
+        ]
+      },
+      {
+        "SpellLevel": 3,
+        "m_Spells": [
+          "!bp_045351f1421ee3f449a9143db701d192"
+        ]
+      },
+      {
+        "SpellLevel": 4,
+        "m_Spells": [
+          "!bp_4a648b57935a59547b7a2ee86fb4f26a"
+        ]
+      },
+      {
+        "SpellLevel": 5,
+        "m_Spells": [
+          "!bp_630c8b85d9f07a64f917d79cb5905741"
+        ]
+      },
+      {
+        "SpellLevel": 6,
+        "m_Spells": [
+          "!bp_41cf93453b027b94886901dbfc680cb9"
+        ]
+      },
+      {
+        "SpellLevel": 7,
+        "m_Spells": [
+          "!bp_368d7cf2fb69d8a46be5a650f5a5a173"
+        ]
+      },
+      {
+        "SpellLevel": 8,
+        "m_Spells": [
+          "!bp_d3ac756a229830243a72e84f3ab050d0"
+        ]
+      },
+      {
+        "SpellLevel": 9,
+        "m_Spells": [
+          "!bp_52b5df2a97df18242aec67610616ded0"
+        ]
+      },
+      {
+        "SpellLevel": 10,
+        "m_Spells": []
+      }
+    ],
+    "m_FilteredList": null,
+    "FilterByMaxLevel": 0,
+    "FilterByDescriptor": false,
+    "Descriptor": {
+      "m_IntValue": 0
+    },
+    "FilterBySchool": true,
+    "ExcludeFilterSchool": false,
+    "FilterSchool": "None",
+    "FilterSchool2": "None"
+  }
+}

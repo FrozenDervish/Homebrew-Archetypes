@@ -1,0 +1,64 @@
+{
+  "AssetId": "5d737b06e07345b45a4ce158ebd21783",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_AssassinFatalisticFaith",
+      "m_OwnerString": "5d737b06e07345b45a4ce158ebd21783",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_AssassinSpellbookDesc",
+      "m_OwnerString": "5d737b06e07345b45a4ce158ebd21783",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "9adc084dc47b0c44eaf3bd92e7732c34",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_67f51f09bc2dced41967ea369adcd5d8",
+	  "!bp_c1e208ac6a344f0409e3d7e036e6382a",
+	  "!bp_858099a8fc425db4c905780ab9da2041",
+	  "!bp_70cec6b80af63394b81f1d59dee70c4c",
+	  "!bp_0bde68fdf1453ee4a8b1ec69f6c28645",
+	  "!bp_b9a91d67f39116440bf6b9a313ec4f9b",
+	  "!bp_59725eaee153d2245967e3697c904736",
+	  "!bp_24c9a92c74f9fa94bab2b7b38c600619",
+	  "!bp_f3c61a9561a18f24e8def44ff5db7f2d",
+	  "!bp_bb52461e579e26b49b512fd9f842a920",
+      "!bp_21b21e7df5fd8bd4f8580d5188534412"
+    ]
+  }
+}

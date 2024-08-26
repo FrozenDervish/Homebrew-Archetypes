@@ -1,0 +1,80 @@
+{
+  "AssetId": "024f1b13756e9a5418a96ad3e9fdc828",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$77534cd6-a858-468e-a372-9301ecd27d6c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_5df7777ebc858444e899b213949fb797",
+          "!bp_9d84eda6af3f49a42bc7103078fb3387",
+		  "!bp_f47b7d8a68fe5874fa2910d96c61ed94",
+		  "!bp_b2e88ad42a6df914c9791182cc8dabc5",
+		  "!bp_fb0d318be18439040a6c265820303f82",
+		  "!bp_0629079cc6353b14e862421810340b90",
+		  "!bp_38ac011fb03b49e408db25e46bbb02fd",
+		  "!bp_5f7bd59b0b0148d48a0f9f60a3e58904",
+		  "!bp_66e42a285be6b5647ba334f93fb08148",
+		  "!bp_9f482f5381ea9424f9c1fc05489785a8",
+		  "!bp_c35e11251b6aeeb459d367ed45e7ad8f",
+		  "!bp_070c455946774e64980da0cdb56e338b",
+		  "!bp_070d7bae1cf40a34b93392068f8b0fa6",
+		  "!bp_7eeecbfcbc7e127429fd545d60005d6d",
+		  "!bp_556ce372e0ef14247bf781f45e2f8a90",
+		  "!bp_0f25e6ed611778d4bb3da0c7e20d6c8d",
+		  "!bp_0398f54c93add10499cd4d168a3962de",
+		  "!bp_11c58f4af64cd7645a4d3e6fd9585f0f",
+		  "!bp_e60c6e98059bea14fae5b66765a2972b",
+		  "!bp_d4be1adf932983c45b8b68bab0b944a9",
+		  "!bp_20111a7cb9451f0438de36bc77ee956a",
+		  "!bp_48545476ad69fee4197cabb36bf301f5",
+		  "!bp_f34bfae8f5eb5644abf251ad017fdf08",
+		  "!bp_8ae21025de8b34147b22033a6e4cfee9",
+		  "!bp_a211cf772f9d1c94bbdd6c9fd53895e8"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityFavortheBoldName",
+      "m_OwnerString": "024f1b13756e9a5418a96ad3e9fdc828",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityFavortheBoldDesc",
+      "m_OwnerString": "024f1b13756e9a5418a96ad3e9fdc828",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

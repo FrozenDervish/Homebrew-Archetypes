@@ -1,0 +1,85 @@
+{
+  "AssetId": "3656627fdf21da04f800825db8c64758",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$5a1e750e-7598-4564-9200-84ad92acfea1"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$5a1e750e-7598-4564-9200-84ad92acfea1",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_a8ac5ca272e6919478b3507134752484",
+          "!bp_02726a22dfe687247a26aaa5e8ea70ef",
+		  "!bp_247f783576188e84b87e10382f81a416"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$8416810c-ca4e-4bf3-a93c-be7b663a8647",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_8c769102f3996684fb6e09a2c4e7e5b9"
+      },
+	  {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$4622087f-9ab2-4752-b9d0-4ea131bd9035",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_b3e155fcf7736ec488067893d5a4d33c",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BasicFeatAdeptChannelPositive",
+      "m_OwnerString": "3656627fdf21da04f800825db8c64758",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_BasicFeatAdeptChannelPositiveDesc",
+      "m_OwnerString": "3656627fdf21da04f800825db8c64758",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "636f55d7ac7635e459967e29e1c71cdd",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+	 "ChannelEnergy"
+	],
+    "Ranks": 10,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

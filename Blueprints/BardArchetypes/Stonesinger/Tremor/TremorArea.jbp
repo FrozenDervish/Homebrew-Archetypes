@@ -1,0 +1,90 @@
+{
+  "AssetId": "0c138ead1abe8454394065b3a4622760",
+  "Data": {
+    "$type": "4e19ee98b71c98b40ba235cfa715b760, BlueprintAbilityAreaEffect",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "ebc9e186f0894144d9c1327dab36124a, AbilityAreaEffectBuff",
+        "name": "$AbilityAreaEffectBuff$d675f641-78c5-402b-ba15-5985a98b69bf",
+        "m_Overrides": [],
+        "Condition": {
+          "Operation": "And",
+          "Conditions": [
+            {
+              "$type": "b0c4370c781db0142b035f14ca13a6a5, ContextConditionIsEnemy",
+              "name": "$ContextConditionIsEnemy$447180a8-c818-4b87-b49f-1ac60ebd96ea",
+              "Not": false
+            },
+			{
+              "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+              "name": "$ContextConditionHasFact$acea3cef-5a76-4888-8c46-733d4b91c639",
+              "Not": true,
+              "m_Fact": "!bp_70cffb448c132fa409e49156d013b175"
+            },
+			{
+              "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+              "name": "$ContextConditionCasterHasFact$ca2ce53e-a159-4ed6-a817-28902b4ec9bb",
+              "Not": true,
+              "m_Fact": "!bp_69fad80df0d44dfea19aef513db959c2"
+            }
+          ]
+        },
+        "CheckConditionEveryRound": false,
+        "m_Buff": "!bp_7a05d40d69beb0d4bb997a4de4b8552e"
+      },
+	  {
+        "$type": "ebc9e186f0894144d9c1327dab36124a, AbilityAreaEffectBuff",
+        "m_Flags": 0,
+        "name": "$AbilityAreaEffectBuff$93c4c4ba-566f-4b70-acb6-4ae76e55f977",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Condition": {
+          "Operation": "And",
+          "Conditions": [
+            {
+              "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+              "name": "$ContextConditionHasFact$acea3cef-5a76-4888-8c46-733d4b91c649",
+              "Not": true,
+              "m_Fact": "!bp_70cffb448c132fa409e49156d013b175"
+            },
+            {
+              "$type": "b0c4370c781db0142b035f14ca13a6a5, ContextConditionIsEnemy",
+              "name": "$ContextConditionIsEnemy$447180a8-c818-4b87-b49f-1ac60ebd96es",
+              "Not": false
+            },
+			{
+              "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+              "name": "$ContextConditionCasterHasFact$ca2ce53e-a159-4ed6-a817-28902b4ec9bc",
+              "Not": false,
+              "m_Fact": "!bp_69fad80df0d44dfea19aef513db959c2"
+            }
+          ]
+        },
+        "CheckConditionEveryRound": false,
+        "m_Buff": "!bp_622a798bf2d30b8448955d143d0dd8df"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_TargetType": "Any",
+    "SpellResistance": false,
+    "AffectEnemies": true,
+    "AggroEnemies": true,
+    "AffectDead": false,
+    "IgnoreSleepingUnits": false,
+    "Shape": "Cylinder",
+    "Size": {
+      "m_Value": 30.0
+    },
+    "Fx": {
+      "AssetId": "2f93a2909cb766f4d961aee34a3c84c2"
+    },
+    "CanBeUsedInTacticalCombat": false,
+    "m_SizeInCells": 0
+  }
+}

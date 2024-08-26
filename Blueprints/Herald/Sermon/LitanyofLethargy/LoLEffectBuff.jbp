@@ -1,0 +1,138 @@
+{
+  "AssetId": "fc26846434af6504ba3f01c16c802dba",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$904add4b-db59-4639-bc24-1a25f2cd3ced",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "Dodge",
+        "Stat": "AC",
+        "Value": -1,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$48e82514-02f8-48d5-9d8c-6dc37cf84c82",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "Dodge",
+        "Stat": "SaveReflex",
+        "Value": -1,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$114eb6ac-57d8-4087-a4e2-32e760feaed0",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "AdditionalAttackBonus",
+        "Value": -1,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "91216784d99a12e428bf782c8a8c7f5c, SpellDescriptorComponent",
+        "m_Flags": 0,
+        "name": "$SpellDescriptorComponent$83a67b3f-1a5f-455f-a640-326497d76fdd",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 562949954469888
+        }
+      },
+      {
+        "$type": "4c36aacebf153574eb39757fc3965edb, AddCondition",
+        "m_Flags": 0,
+        "name": "$AddCondition$cc7984eb-79f7-44f0-96de-0a0bdd4ae610",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Condition": "Staggered",
+        "Exceptions": null
+      },
+      {
+        "$type": "4c36aacebf153574eb39757fc3965edb, AddCondition",
+        "m_Flags": 0,
+        "name": "$AddCondition$8fde3f63-1a7d-4aed-af6d-6fcaa3fc2ab2",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Condition": "Slowed",
+        "Exceptions": null
+      },
+      {
+        "$type": "6e30704b447c407a9ca5623a0afb8939, ChangeImpatience",
+        "m_Flags": 0,
+        "name": "$ChangeImpatience$d97ab896-0394-4165-ae46-ac9df7f37b31",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Delta": -1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonLitanyofLethargy",
+      "m_OwnerString": "fc26846434af6504ba3f01c16c802dba",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonLitanyofLethargyDesc",
+      "m_OwnerString": "fc26846434af6504ba3f01c16c802dba",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "97f3658a72847324c8f7d4e2b1c52594",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "72e115990e2d31c40b9573f3d50ec60a"
+    ]
+  }
+}

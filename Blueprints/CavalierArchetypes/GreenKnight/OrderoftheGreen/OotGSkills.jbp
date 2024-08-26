@@ -1,0 +1,51 @@
+{
+  "AssetId": "400ff8b6faf5d4641b48e2f0c224329e",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddClassSkill$5965f629-4b0a-4973-b65f-a530e49ef9d4"
+    ],
+    "Components": [
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$5965f629-4b0a-4973-b65f-a530e49ef9d4",
+        "m_Overrides": [],
+        "Skill": "SkillLoreNature"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_CavalierArchetypeGreenKnightOrderofGreenSkills",
+      "m_OwnerString": "400ff8b6faf5d4641b48e2f0c224329e",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_CavalierArchetypeGreenKnightOrderofGreenSkillsDesc",
+      "m_OwnerString": "400ff8b6faf5d4641b48e2f0c224329e",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": true,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

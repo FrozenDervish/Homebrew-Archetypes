@@ -1,0 +1,91 @@
+{
+  "AssetId": "74139de3f92c91f40ae9be93e64329c2",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$e3da7669-5184-44e0-b9a5-adf653bf739c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_11ec9cb386dad89469b80fec7a26b8de"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$3031c843-d8a5-4366-95db-4f9259343aa8",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_d6feacf6e1f86ad4eb6d847364371c40",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "9dff5bcf215699249ae87d8924357fe3, ReplaceAbilitiesStat",
+        "name": "$ReplaceAbilitiesStat$3c3e7c65-874b-4cc0-9402-19c351becc60",
+        "m_Overrides": [],
+        "m_Ability": [
+          "!bp_11ec9cb386dad89469b80fec7a26b8de"
+        ],
+        "Stat": "Charisma"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$98090d20-2c69-497c-aab2-07918c6f8ee4",
+        "m_Overrides": [],
+        "Skill": "SkillThievery"
+      },
+      {
+        "$type": "7a5d4700264de3b4aacf2514df964a14, AddClassSkill",
+        "name": "$AddClassSkill$82cb5dd3-f30a-4359-a4fc-7a69ad7569eb",
+        "m_Overrides": [],
+        "Skill": "SkillStealth"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "18a26541-4937-48d5-9538-c1ad8e391952",
+      "m_OwnerString": "74139de3f92c91f40ae9be93e64329c2",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/Trickery/TrickeryDomainBaseFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_DomainsTrickeryDomainCharismaDesc",
+      "m_OwnerString": "74139de3f92c91f40ae9be93e64329c2",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "5b8413fbd928351468c803937c1c3875",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

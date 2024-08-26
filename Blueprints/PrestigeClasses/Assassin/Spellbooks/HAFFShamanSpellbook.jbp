@@ -1,0 +1,61 @@
+{
+  "AssetId": "b9a91d67f39116440bf6b9a313ec4f9b",
+  "Data": {
+    "$type": "43f1ee69992dc1848b97e623487f6442, BlueprintFeatureReplaceSpellbook",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "34c98fa5c2369684aba66f3b11581388, PrerequisiteClassSpellLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassSpellLevel$de0762f1-41e2-4cca-bbb8-f56556ffea28",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_145f1d3d360a7ad48bd95d392c81b38e",
+        "RequiredSpellLevel": 1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_AssassinShamanSpellbook",
+      "m_OwnerString": "b9a91d67f39116440bf6b9a313ec4f9b",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_AssassinSpellbookDesc",
+      "m_OwnerString": "b9a91d67f39116440bf6b9a313ec4f9b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "m_Spellbook": "!bp_44f16931dabdff643bfe2a48138e769f"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

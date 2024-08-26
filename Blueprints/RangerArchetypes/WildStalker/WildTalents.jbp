@@ -1,0 +1,58 @@
+{
+  "AssetId": "06ab14b56f67cbf41b142dffd2726981",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_WildStalkerWildTalents",
+      "m_OwnerString": "06ab14b56f67cbf41b142dffd2726981",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_WildStalkerWildTalentsDesc",
+      "m_OwnerString": "06ab14b56f67cbf41b142dffd2726981",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_9aadccf3ca706fa4891d30961c56265a"
+    ],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "RagePower",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_fbedfd5cb9e6c6a4eb5a3e9343de87b9",
+      "!bp_627a351530fc9d14faee149120441b0a",
+	  "!bp_d29701118317fd341860f18601afad0b",
+	  "!bp_bd275087b4db4684e8b4ff0fd426e749",
+	  "!bp_055650a35cac1964f8ba8d9dd811703e",
+	  "!bp_162b7c1d26ca2974282081187742ab78"
+    ]
+  }
+}

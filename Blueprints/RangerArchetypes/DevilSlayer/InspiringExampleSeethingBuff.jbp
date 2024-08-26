@@ -1,0 +1,138 @@
+{
+  "AssetId": "5cdd0c8f9a2947d46ba913cca14be32a",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "73d6e0731a3f56c4d8e15ef77fb54e15, AttackBonusAgainstTarget",
+        "name": "$AttackBonusAgainstTarget$2bfb20a9-0fa5-4814-a6aa-ef4a82d68128",
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "DamageBonus",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "Descriptor": "UntypedStackable",
+        "CheckCaster": false,
+        "CheckCasterFriend": true,
+        "CheckRangeType": false,
+        "RangeType": "Melee"
+      },
+      {
+        "$type": "acc654ad7627bba46bef3ce196852513, DamageBonusAgainstTarget",
+        "name": "$DamageBonusAgainstTarget$a23d1e93-65da-450f-980b-48bf5462dbc0",
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "DamageBonus",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "CheckCaster": false,
+        "CheckCasterFriend": true,
+        "ApplyToSpellDamage": true
+      },
+	  {
+        "$type": "73d6e0731a3f56c4d8e15ef77fb54e15, AttackBonusAgainstTarget",
+        "name": "$AttackBonusAgainstTarget$2bfb20a9-0fa5-4814-a6aa-ef4a82d68138",
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "StatBonus",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "Descriptor": "UntypedStackable",
+        "CheckCaster": false,
+        "CheckCasterFriend": true,
+        "CheckRangeType": false,
+        "RangeType": "Melee"
+      },
+      {
+        "$type": "acc654ad7627bba46bef3ce196852513, DamageBonusAgainstTarget",
+        "name": "$DamageBonusAgainstTarget$a23d1e93-65da-450f-980b-48bf5462dbd0",
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "StatBonus",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "CheckCaster": false,
+        "CheckCasterFriend": true,
+        "ApplyToSpellDamage": true
+      },
+      {
+        "$type": "188e834654fcf9a43af76ede9ba714e7, RemoveBuffIfCasterIsMissing",
+        "name": "$RemoveBuffIfCasterIsMissing$b918f043-bce5-4be9-b1a0-193d0a2d13d9",
+        "m_Overrides": [],
+        "RemoveOnCasterDeath": true
+      },
+      {
+        "$type": "0f4abcc6f460e094eb0754103a4bdef7, UniqueBuff",
+        "name": "$UniqueBuff$f52b8401-509c-4f49-867e-006474d7d16a",
+        "m_Overrides": []
+      },
+	  {
+        "$type": "a864eea8ed142d44fb4f1b2145e9a43d, TargetCritAutoconfirm",
+        "name": "$TargetCritAutoconfirm$b681c7fb-379a-4a5f-a537-6c238af3f47c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_SwordDevilInspiringExample",
+      "m_OwnerString": "5cdd0c8f9a2947d46ba913cca14be32a",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_SwordDevilInspiringExampleDesc",
+      "m_OwnerString": "5cdd0c8f9a2947d46ba913cca14be32a",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "4918bc76a78b4c64c8f85a848e5ed1c2",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Stack",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "72c6fa2ea53dc9846a6957986e490633"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "5b4cdc22715305949a1bd80fab08302b"
+    ]
+  }
+}

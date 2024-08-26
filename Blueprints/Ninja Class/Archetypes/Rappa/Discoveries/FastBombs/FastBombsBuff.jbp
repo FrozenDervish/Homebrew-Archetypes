@@ -1,0 +1,74 @@
+{
+  "AssetId": "82149fc1aa7a72c4bb4c66c7a1bb634b",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "0f916968728513d49a92fe438b00b485, FastBombs",
+        "name": "$FastBombs$0aae2266-3be2-4f15-a476-4bac9b9ed7ff",
+        "m_Overrides": [],
+        "m_Abilities": [
+          "!bp_c367e11e0b5d4814b8f09ce4fea99e5a",
+          "!bp_759e6f82269c0de4ea4d2697f294f149",
+          "!bp_0c040f2746fe25c409104d7380fd6a9b",
+          "!bp_781a065e68c4f26438535ea4f6e3555c",
+          "!bp_64cfd7a7d7ac5ae45b140431961b36c2",
+          "!bp_9b0de51c3e3d83c4fb385af775f2be77",
+          "!bp_ba621d9e233d48c4e994d23f8837f332",
+          "!bp_9bbc817972789164e91f2668ba181982",
+          "!bp_fa3fc2424b8cfef47ac90e97b2699450",
+          "!bp_e02a0aafa0769944fbcd0249c36662c1",
+          "!bp_31f241ce9ba9ead43aa5ad4bfd9f4ae6",
+          "!bp_1be2227694cd09e4398a9dbee7542343",
+          "!bp_483c5d92c075a1d4b80371d9af01c018",
+          "!bp_2ca5a8e651028044cbc02b8d6ed63790",
+          "!bp_13a5bb0df4b12cf459fa30829b5b4f1a"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "e62b4c33b6708d44eb7a103a78bc0b61",
+        "stringkey": "49c33851-bd58-4556-bf51-7aec530509d8"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "dcceb9d792d88e24ba9783ae4eb9f1f5",
+        "stringkey": "a61b974a-0664-418f-a814-adf8a69cfddd"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "6f6a162a4a979e54d83409a94f4cf04e",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "HiddenInUi, StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

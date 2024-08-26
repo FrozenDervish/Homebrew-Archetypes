@@ -1,0 +1,67 @@
+{
+  "AssetId": "0a0d85226ecf87a4f9670531d9ec1213",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddCalculatedWeapon$8b36add9-bf8a-4424-a352-56213e354d61"
+    ],
+    "Components": [
+      {
+        "$type": "4cc38c8a3e3ea5d44afe498c6fa228c3, AddCalculatedWeapon",
+        "name": "$AddCalculatedWeapon$8b36add9-bf8a-4424-a352-56213e354d61",
+        "m_Overrides": [],
+        "Weapon": {
+          "m_Weapon": "!bp_8c01e7fccbb829947bc5894f63fb389a",
+          "ReplacedDamage": false,
+          "DamageFormula": {
+            "m_Rolls": 0,
+            "m_Dice": "Zero"
+          },
+          "ReplacedDamageStat": false,
+          "DamageBonusStat": "Unknown",
+          "ReplaceDamageWithText": false
+        },
+        "ScaleDamageByRank": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "eff28a46-88e3-4ab6-9da6-7170de663eca",
+      "m_OwnerString": "25954b1652bebc2409f9cb9d5728bceb",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/AnimalFuryFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "a90910fc-9106-48e4-8dba-05956d6e82d7",
+      "m_OwnerString": "25954b1652bebc2409f9cb9d5728bceb",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/RagePowers/AnimalFuryFeature_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "480c8427655869b4ea2f932f4c49d2f0",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "RagePower"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

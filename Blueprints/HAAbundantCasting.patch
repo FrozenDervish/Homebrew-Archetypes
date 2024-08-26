@@ -1,0 +1,21 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$87ea90bc-bba5-4829-a380-7d95af11f794",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_e778bbdc1a6dca740a87296b62172d16"
+      }
+    ],
+	}

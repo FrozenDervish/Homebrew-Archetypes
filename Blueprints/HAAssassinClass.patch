@@ -1,0 +1,24 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "9dd8259077734df4e85d18e2e144426b, SkipLevelsForSpellProgression",
+        "m_Flags": 0,
+        "name": "$SkipLevelsForSpellProgression$b1e2d463-dd58-46fb-958b-53de63294ea7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Levels": [
+          1,
+          3,
+		  5,
+		  7,
+		  9
+        ]
+      },
+    ],
+	}

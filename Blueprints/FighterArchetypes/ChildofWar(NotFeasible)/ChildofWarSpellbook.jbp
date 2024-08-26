@@ -1,0 +1,41 @@
+{
+  "AssetId": "39d8bd663d9c52344b30c938921412e7",
+  "Data": {
+    "$type": "a42bdead3c333d744a3f0354bbe6c27c, BlueprintSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "Name": {
+      "m_Key": "HomebrewArchtypes_ChildofWarSpellBook",
+      "m_OwnerString": "39d8bd663d9c52344b30c938921412e7",
+      "m_OwnerPropertyPath": "Name",
+      "m_JsonPath": "",
+      
+    },
+    "IsMythic": false,
+    "m_SpellsPerDay": "!bp_c97320b7fa81fee468db474d33caebcb",
+    "m_SpellsKnown": "!bp_ea52612b24736dc47a120fb2bc0a57dd",
+    "m_SpellSlots": null,
+    "m_SpellList": "!bp_a5bece8e017e82043a328483cda96c7b",
+    "m_MythicSpellList": null,
+    "m_CharacterClass": "!bp_48ac8db94d5de7645906c7d0ad3bcfbd",
+    "CastingAttribute": "Intelligence",
+    "Spontaneous": false,
+    "SpellsPerLevel": 0,
+    "AllSpellsKnown": false,
+    "CantripsType": "Cantrips",
+    "CasterLevelModifier": 0,
+    "CanCopyScrolls": true,
+    "IsArcane": true,
+    "IsArcanist": false,
+    "HasSpecialSpellList": false,
+    "SpecialSpellListName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    }
+  }
+}

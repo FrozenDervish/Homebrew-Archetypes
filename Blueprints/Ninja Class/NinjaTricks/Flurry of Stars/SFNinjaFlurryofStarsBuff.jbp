@@ -1,0 +1,73 @@
+{
+  "AssetId": "00acfa9665e139844a0280ddf71337ce",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+	"$WeaponParametersAttackBonus$5297766c-a557-406e-bf13-31ec159f396d",
+      "$BuffExtraAttack$be82441e-d2eb-4c9e-afca-9b2aee16db81"
+    ],
+    "Components": [
+      {
+        "$type": "5ebeb0d0867c2d54eb395d4c4d1eb1e2, WeaponParametersAttackBonus",
+        "name": "$WeaponParametersAttackBonus$5297766c-a557-406e-bf13-31ec159f396d",
+        "m_Overrides": [],
+        "OnlyFinessable": false,
+        "CanBeUsedWithFightersFinesse": false,
+        "m_FightersFinesse": null,
+        "Ranged": true,
+        "OnlyTwoHanded": false,
+        "AttackBonus": -2,
+        "Descriptor": "UntypedStackable",
+        "ScaleByBasicAttackBonus": true,
+        "OnlyForFullAttack": true,
+        "m_MultiplierFact": null,
+        "Multiplier": 1
+      },
+	  {
+        "$type": "853cad01823c4104da3a3f14d0f301e4, BuffExtraAttack",
+        "name": "$BuffExtraAttack$be82441e-d2eb-4c9e-afca-9b2aee16db81",
+        "m_Overrides": [],
+        "Number": 2,
+        "Haste": false
+
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesAbility_FlurryofStars",
+      "m_OwnerString": "00acfa9665e139844a0280ddf71337ce",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": 
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesAbility_FlurryofStarsDesc",
+      "m_OwnerString": "00acfa9665e139844a0280ddf71337ce",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": 
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "2d67ab7134a7076459922955330f78e9",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

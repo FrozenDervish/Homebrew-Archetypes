@@ -1,0 +1,153 @@
+{
+  "AssetId": "cb5fe302a59b5c44786a7b68e9c69d71",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteClassLevel$00014e91-7fd0-45ac-bea3-9c472626ed92",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 1,
+        "Not": false
+      },
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$5b085e8e-ff8f-4577-b861-29a43ee661df",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_90e54424d682d104ab36436bd527af09"
+      },
+      {
+        "$type": "37a48fead7a0ee341b7fe39f1166349d, WeaponTrainingAttackStatReplacement",
+        "m_Flags": 0,
+        "name": "$WeaponTrainingAttackStatReplacement$9da3b9ed-6691-401d-bfc0-2dde058782ae",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "ReplacementStat": "Dexterity"
+      },
+      {
+        "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+        "m_Flags": 0,
+        "name": "$AddFeatureIfHasFact$98c0028e-5420-4522-aba8-55a9ca75ece9",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedFact": "!bp_d791af1bc179e0e44a0ca1fa6c418993",
+        "m_Feature": "!bp_d55f530e9b0047af9dd888b543a8e9a0",
+        "Not": false
+      },
+	  {
+        "$type": "f50fa19122620204fb6133a41dfacc22, WeaponGroupAttackBonus",
+        "m_Flags": 0,
+        "name": "$WeaponGroupAttackBonus$f1fc5e14-7895-40f3-bdb7-54f9990831c4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "WeaponGroup": "Natural",
+        "AttackBonus": 0,
+        "Descriptor": "WeaponTraining",
+        "multiplyByContext": false,
+        "contextMultiplier": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level"
+        }
+      },
+      {
+        "$type": "1fe7ffa19c7c9c74599eb2102bc03bfa, WeaponGroupDamageBonus",
+        "m_Flags": 0,
+        "name": "$WeaponGroupDamageBonus$26e6c0c9-e6d2-40e2-8692-90260e450cb3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "WeaponGroup": "Natural",
+        "DamageBonus": 0,
+        "AdditionalValue": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level"
+        },
+        "Descriptor": "WeaponTraining"
+      },
+      {
+        "$type": "e856315a825069046ad77fd5b7209766, WeaponTraining",
+        "m_Flags": 0,
+        "name": "$WeaponTraining$c63b4666-3028-48a1-aec5-250ca3315433",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseNaturalWeaponsName",
+      "m_OwnerString": "cb5fe302a59b5c44786a7b68e9c69d71",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseScimitarNameDesc",
+      "m_OwnerString": "cb5fe302a59b5c44786a7b68e9c69d71",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "WeaponTraining"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "AssetId": "528f53fc0c644a143812edef2c963406",
+  "Data": {
+    "$type": "4e19ee98b71c98b40ba235cfa715b760, BlueprintAbilityAreaEffect",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "ebc9e186f0894144d9c1327dab36124a, AbilityAreaEffectBuff",
+        "m_Flags": 0,
+        "name": "$AbilityAreaEffectBuff$37d2a71f-29fe-4006-bcdf-253f305cffbf",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Condition": {
+          "Operation": "And",
+          "Conditions": [
+            {
+              "$type": "c5b3b6002404ca249add2943e99f366a, ContextConditionIsAlly",
+              "name": "$ContextConditionIsAlly$88bc5f0f-e893-4398-bfc1-59ced7a66323",
+              "Not": false
+            }
+          ]
+        },
+        "CheckConditionEveryRound": false,
+        "m_Buff": "!bp_5ba2131a942e37342a75cbe0a12386a9"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_TargetType": "Ally",
+    "m_Tags": "None",
+    "SpellResistance": false,
+    "AffectEnemies": false,
+    "AggroEnemies": false,
+    "AffectDead": false,
+    "IgnoreSleepingUnits": false,
+    "Shape": "Cylinder",
+    "Size": {
+      "m_Value": 33.0
+    },
+    "Fx": null,
+    "CanBeUsedInTacticalCombat": false,
+    "m_SizeInCells": 0,
+    "m_TickRoundAfterSpawn": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

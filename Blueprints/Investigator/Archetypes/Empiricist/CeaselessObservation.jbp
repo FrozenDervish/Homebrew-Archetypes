@@ -1,0 +1,79 @@
+{
+  "AssetId": "a52916194a1692146ba0996c64264985",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddClassSkill$54b03bd1-ec2b-431c-98fd-8d176c7ba2a6",
+      "$ReplaceStatBaseAttribute$b0ae66cf-1331-4ac0-9330-0641bd57d896"
+    ],
+    "Components": [
+      {
+        "$type": "1c1315a505494aed84a6570a8111a6ec, ReplaceStatBaseAttribute",
+        "name": "$ReplaceStatBaseAttribute$b0ae66cf-1331-4ac0-9330-0641bd57d896",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "TargetStat": "SkillUseMagicDevice",
+        "BaseAttributeReplacement": "Intelligence"
+      },
+	  {
+        "$type": "1c1315a505494aed84a6570a8111a6ec, ReplaceStatBaseAttribute",
+        "name": "$ReplaceStatBaseAttribute$b0ae66cf-1331-4ac0-9330-0641bd57d897",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "TargetStat": "SkillThievery",
+        "BaseAttributeReplacement": "Intelligence"
+      },
+	  {
+        "$type": "1c1315a505494aed84a6570a8111a6ec, ReplaceStatBaseAttribute",
+        "name": "$ReplaceStatBaseAttribute$b0ae66cf-1331-4ac0-9330-0641bd57d898",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "TargetStat": "SkillPerception",
+        "BaseAttributeReplacement": "Intelligence"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeEmpiricistCeaselessObservation",
+      "m_OwnerString": "a52916194a1692146ba0996c64264985",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeEmpiricistCeaselessObservationDesc",
+      "m_OwnerString": "a52916194a1692146ba0996c64264985",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

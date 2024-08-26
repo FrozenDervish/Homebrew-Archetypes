@@ -1,0 +1,82 @@
+{
+  "AssetId": "27be8b5bf08000440847b8e3ad5c55bd",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFeatureOnClassLevel$db66af54-2de7-4182-888e-a4a6a3730173",
+      "$AddAbilityResources$26ba462e-5ab7-4b5c-b610-0cd125c42785"
+    ],
+    "Components": [
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$db66af54-2de7-4182-888e-a4a6a3730173",
+        "m_Overrides": [],
+        "m_Class": "!bp_b3a505fb61437dc4097f43c3f8f9a4cf",
+        "Level": 5,
+        "m_Feature": "!bp_775c478828dda8f46b1b9ba30651e8eb",
+        "BeforeThisLevel": true,
+        "m_AdditionalClasses": [
+          "!bp_45a4607686d96a1498891b3286121780",
+		  "!bp_52dbfd8505e22f84fad8d702611f60b7"
+        ],
+        "m_Archetypes": [
+          "!bp_d078b2ef073f2814c9e338a789d97b73",
+		  "!bp_83fa4fdbcabbf0840be393785e637025"
+        ]
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$26ba462e-5ab7-4b5c-b610-0cd125c42785",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_9a87d61125473df4e8b4529108ea479b",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "cca3dd3e395212b4581f555d8bb66923",
+        "stringkey": "5a80433e-eed3-4042-99e7-4b6a8cc870e8"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "8f70fb9d9acc39f4eb596f8dfc54c21b",
+        "stringkey": "65e06a2b-1df2-4d7b-9364-554bc9b51f31"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "e4db95ce4ea816b499231eaea69abc2d",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

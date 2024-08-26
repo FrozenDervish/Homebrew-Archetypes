@@ -1,0 +1,133 @@
+{
+  "AssetId": "ae84f2e9e8144c342bfe9e8432c71ab7",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+      "$PrerequisiteNoArchetype$1d97dfc8-37e6-4dfc-bf49-7e62bccb5884"
+    ],
+    "Components": [
+      {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_eee384c813b6d74498d1b9cc720d61f4",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532205",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_93f391b0c5a99e04e83bbfbe3bb6db64",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532206",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_faabd2cc67efa4646ac58c7bb3e40fcc",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532207",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_cc0aeb74b35cb7147bff6c53538bbc76",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532208",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 5,
+        "m_Spell": "!bp_1bc83efec9f8c4b42a46162d72cbf494",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532209",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 6,
+        "m_Spell": "!bp_e740afbab0147944dab35d83faa0ae1c",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532210",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 7,
+        "m_Spell": "!bp_4737294a66c91b844842caee8cf505c8",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532211",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 8,
+        "m_Spell": "!bp_808ab74c12df8784ab4eeaf6a107dbea",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532212",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "SpellLevel": 9,
+        "m_Spell": "!bp_52b5df2a97df18242aec67610616ded0",
+        "m_Archetype": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "f2c70f7ff0b403848ac6023f960c850b",
+        "stringkey": "bb757b0f-ba68-4003-a5a7-9d4b6de7b14b"
+      }
+    },
+    "m_Description": {
+      "m_Key": "7b60b35f-3af4-4df9-9f52-d03c7baf0048",
+      "m_OwnerString": "1af03b45f73153540ad4a08a646d4789",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Sorcerer/ArcaneBloodline/BloodlineArcaneSpellLevel1_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "27854775588ed38478599af5cbb73556",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

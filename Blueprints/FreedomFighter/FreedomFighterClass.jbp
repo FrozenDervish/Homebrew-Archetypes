@@ -1,0 +1,143 @@
+{
+  "AssetId": "d1277f75d49b6d648a3007abd0c0b145",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$5ccff733-95bb-4e53-b4b5-880bbd02eb0c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "m_Flags": 0,
+        "name": "$PrerequisiteIsPet$8912e98a-4c7a-4f31-a374-b10f28599fd1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "IsFeatureSelectionWhiteList": false,
+        "Not": true
+      }
+    ],
+    "Comment": "todo: Weapon Training Stacking",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterName",
+      "m_OwnerString": "d1277f75d49b6d648a3007abd0c0b145",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": ""
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDesc",
+      "m_OwnerString": "d1277f75d49b6d648a3007abd0c0b145",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": ""
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterShort",
+      "m_OwnerString": "d1277f75d49b6d648a3007abd0c0b145",
+      "m_OwnerPropertyPath": "LocalizedDescriptionShort",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "SkillPoints": 4,
+    "HitDie": "D8",
+    "HideIfRestricted": false,
+    "HideInUI": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "DontAddCasterLevels": false,
+    "m_IsHigherMythic": false,
+    "m_BaseAttackBonus": "!bp_b3057560ffff3514299e8b93e7648a9d",
+    "m_FortitudeSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_ReflexSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_WillSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_Progression": "!bp_7bb9b4c077c7b894aa902737c5d0b673",
+    "m_Spellbook": null,
+    "ClassSkills": [
+      "SkillAthletics",
+	  "SkillMobility",
+      "SkillKnowledgeWorld",
+      "SkillLoreNature",
+      "SkillPersuasion",
+	  "SkillThievery",
+	  "SkillPerception",
+	  "SkillStealth",
+	  "SkillUseMagicDevice"
+    ],
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_d7963e1fcf260c148877afd3252dbc91",
+      "!bp_ed7e22f153240d645af7a56c5bcf7faf",
+      "!bp_ed7e22f153240d645af7a56c5bcf7faf",
+      "!bp_201f6150321e09048bd59e9b7f558cb0",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91"
+    ],
+    "PrimaryColor": 54,
+    "SecondaryColor": 12,
+    "m_EquipmentEntities": [
+	  "!bp_4f578a8cdc6241dcb0b68f9f07677eb9"
+	],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "eb4318c808dcb2e45a7184db61ab1c29"
+      },
+      {
+        "AssetId": "cddd5bd766c85af40ab49d38eaf5bdea"
+      },
+      {
+        "AssetId": "d94181b08236abd4fbfd1e9680bdc0a3"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "436762cf39551fb48a0c540430666c18"
+      },
+      {
+        "AssetId": "7a1655ab75173f74a93b6b369618f013"
+      },
+      {
+        "AssetId": "d94181b08236abd4fbfd1e9680bdc0a3"
+      }
+    ],
+    "m_Difficulty": 1,
+    "RecommendedAttributes": [
+      "Strength",
+	  "Dexterity",
+      "Constitution"
+    ],
+    "NotRecommendedAttributes": [
+      "Charisma"
+    ],
+    "m_SignatureAbilities": [
+      "!bp_e483c6ff55422914ca6071cdafdd2d7e",
+      "!bp_334f4b5839031ae44aded25aa09086c6",
+      "!bp_e52aa4151b214d00b720e682fbb4538b"
+    ],
+    "m_DefaultBuild": "!bp_6cd7d1c27f8ba6441be8f2cdb6afe908",
+    "m_AdditionalVisualSettings": null,
+    "VisualSettingsPriority": 0
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "AssetId": "d20bb68536b0d554486814eab599901c",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "22c7a9a55d4f5724b89759d342784915, ActivatableAbilityResourceLogic",
+        "name": "$ActivableAbilityResourceLogic$b5a44341-ab7b-4264-81c2-2aabc0c9387a",
+        "m_Overrides": [],
+        "SpendType": "NewRound",
+        "m_RequiredResource": "!bp_c66bf3b976be86b4f872289d3437ce40",
+        "m_FreeBlueprint": null,
+        "Categories": []
+      },
+      {
+        "$type": "0e059d6e61c843769f77ed36b3bf86b2, ActionPanelLogic",
+        "name": "$ActionPanelLogic$579e9b72-2edb-4b5e-a308-47e5c440c071",
+        "m_Overrides": [],
+        "Priority": 3,
+        "AutoFillConditions": {
+          "Operation": "And",
+          "Conditions": []
+        },
+        "AutoCastConditions": {
+          "Operation": "And",
+          "Conditions": []
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonRiteofResilienceAlignmentEvil",
+      "m_OwnerString": "d20bb68536b0d554486814eab599901c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonRiteofResilienceDesc",
+      "m_OwnerString": "d20bb68536b0d554486814eab599901c",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "4e342c7b90bddf147bad2357e449c04e",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_c22483de5bd75d6409187ac14521f20c",
+    "Group": "BardicPerformance",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": true,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": false,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": true,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "WithUnitCommand",
+    "m_ActivateWithUnitCommand": "Standard",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": [
+      "9353083f430e5a44a8e9d6e26faec248",
+      "2f93a2909cb766f4d961aee34a3c84c2"
+    ]
+  }
+}

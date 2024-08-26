@@ -1,0 +1,113 @@
+{
+  "AssetId": "ca9063600070d4d4692c1b1173a3449e",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ChampionOathChampionName",
+      "m_OwnerString": "ca9063600070d4d4692c1b1173a3449e",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionOathChampionDesc",
+      "m_OwnerString": "ca9063600070d4d4692c1b1173a3449e",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "451ae0023182ffa4b8f6fe684dadc812",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "m_Classes": [
+      {
+        "m_Class": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_3c714fc0095097f46a2e756f72915c01"
+        ]
+      },
+	  {
+        "Level": 5,
+        "m_Features": [
+          "!bp_49d1e188b7ae4fc45adb6889544cee88"
+        ]
+      },
+	  {
+        "Level": 8,
+        "m_Features": [
+          "!bp_3054232b4e377c34589e5dff3270ea1d"
+        ]
+      },
+	  {
+        "Level": 11,
+        "m_Features": [
+          "!bp_b8a94f70811b53c4e805dbc2170980c8"
+        ]
+      },
+	  {
+        "Level": 14,
+        "m_Features": [
+          "!bp_4fe91868fb1833543af8804aad095c0c"
+        ]
+      },
+	  {
+        "Level": 17,
+        "m_Features": [
+          "!bp_a1eb6ea3c97ad4a47b2039e48592a7f5"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_6bcb19073dc7e7649b29cd9d05b68064"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "m_Features": []
+      },
+      {
+        "m_Features": []
+      }
+    ],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeaturesRankIncrease": [
+      "!bp_5e9edb9d48e04f90bce23b2ddd402c66"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

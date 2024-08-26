@@ -1,0 +1,66 @@
+{
+  "AssetId": "987f6b3803751544e9effc843ae8b672",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$SpontaneousSpellConversion$16b84ac8-7ef9-407f-bdb5-2de48d7d858d"
+    ],
+    "Components": [
+      {
+        "$type": "e62f4123f61beec4e98aa95e41c9a697, SpontaneousSpellConversion",
+        "name": "$SpontaneousSpellConversion$16b84ac8-7ef9-407f-bdb5-2de48d7d858d",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "m_SpellsByLevel": [
+          null,
+          "!bp_eee384c813b6d74498d1b9cc720d61f4",
+          "!bp_93f391b0c5a99e04e83bbfbe3bb6db64",
+          "!bp_faabd2cc67efa4646ac58c7bb3e40fcc",
+          "!bp_cc0aeb74b35cb7147bff6c53538bbc76",
+          "!bp_1bc83efec9f8c4b42a46162d72cbf494",
+          "!bp_36c8971e91f1745418cc3ffdfac17b74",
+          "!bp_4737294a66c91b844842caee8cf505c8",
+          "!bp_808ab74c12df8784ab4eeaf6a107dbea",
+          "!bp_abc63094ac6af614e8b3f7c07eef79e2"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidSpontaneousCasting",
+      "m_OwnerString": "987f6b3803751544e9effc843ae8b672",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidSpontaneousCastingDesc",
+      "m_OwnerString": "987f6b3803751544e9effc843ae8b672",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "972c1a8e1687dd845a6e924db801f690",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

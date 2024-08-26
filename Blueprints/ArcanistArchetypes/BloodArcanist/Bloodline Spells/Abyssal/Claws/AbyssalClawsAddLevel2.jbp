@@ -1,0 +1,78 @@
+{
+  "AssetId": "dfa89d9489b25294388ef491b8e67e4f",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddFeatureOnClassLevel$db66af54-2de7-4182-888e-a4a6a3730173"
+    ],
+    "Components": [
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "m_Flags": 0,
+        "name": "$AddFeatureOnClassLevel$db66af54-2de7-4182-888e-a4a6a3730173",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Class": "!bp_b3a505fb61437dc4097f43c3f8f9a4cf",
+        "Level": 7,
+        "m_Feature": "!bp_e43fb8923be64d147981f912828657f9",
+        "BeforeThisLevel": true,
+        "m_AdditionalClasses": [
+          "!bp_45a4607686d96a1498891b3286121780",
+		  "!bp_52dbfd8505e22f84fad8d702611f60b7"
+        ],
+        "m_Archetypes": [
+          "!bp_d078b2ef073f2814c9e338a789d97b73",
+		  "!bp_83fa4fdbcabbf0840be393785e637025"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "0b0d56dff9e561049bfaa783024a05cd",
+        "stringkey": "64dc2e99-343f-4d0b-94a2-43591baad2ac"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "811489fb975101d4ea18dc7b66ca81cb",
+        "stringkey": "255d4ce4-6a07-47ae-ba98-6f3f9404e357"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "9100e5f2e80631d47822697ae833a4b6",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

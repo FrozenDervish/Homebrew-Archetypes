@@ -1,0 +1,117 @@
+{
+  "AssetId": "f3cc27738f7a5014aa91f484e7fdc907",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d15",
+      "$AddMechanicsFeature$4e0e5df0-e8e4-4100-bb81-a54dceffe5d9",
+      "$PureRecommendation$7e1de919-a33e-4913-9bb4-1d523d2f49b6",
+      "$PrerequisiteStatValue$d107c72f-84b3-4f80-8657-7412b995d6f1"
+    ],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d15",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_8ba4962b1a4b4344ba5dbcb041ab0efa"
+      },
+      {
+        "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+        "m_Flags": 0,
+        "name": "$AddMechanicsFeature$4e0e5df0-e8e4-4100-bb81-a54dceffe5d9",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "LingeringPerformance"
+      },
+      {
+        "$type": "0596deabaca35e541a675eddb6a84e53, PureRecommendation",
+        "m_Flags": 0,
+        "name": "$PureRecommendation$7e1de919-a33e-4913-9bb4-1d523d2f49b6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Priority": "Good"
+      },
+      {
+        "$type": "04406431439974e489cc8fdea779cf46, PrerequisiteStatValue",
+        "m_Flags": 0,
+        "name": "$PrerequisiteStatValue$d107c72f-84b3-4f80-8657-7412b995d6f1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Stat": "Intelligence",
+        "Value": 3
+      },
+      {
+        "$type": "6d43a0c88e994d04bd2859978dec9337, FeatureTagsComponent",
+        "m_Flags": 0,
+        "name": "$FeatureTagsComponent$3b1fc227-6dcd-420c-835d-4b83ace31591",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "FeatureTags": "ClassSpecific"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "888abd45-cec1-4396-90bf-4252f0b5476d",
+      "m_OwnerString": "17239b298065efc459cffe2220ecb559",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Feats/LingeringPerformance_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "af83669e-46d4-4b66-b6c9-256ab93738f0",
+      "m_OwnerString": "17239b298065efc459cffe2220ecb559",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Feats/LingeringPerformance_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "6f1a14b17a56459478a06a6654bd417a",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Feat"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

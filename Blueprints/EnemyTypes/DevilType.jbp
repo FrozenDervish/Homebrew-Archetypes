@@ -1,0 +1,61 @@
+{
+  "AssetId": "7eb12161c94e4fd48b45d8303e37788a",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$23284b5c-41e3-4dc7-90ac-71856fed6980"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$23284b5c-41e3-4dc7-90ac-71856fed6980",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_11ac3433adfa74642a93111624376070",
+          "!bp_daf27e1f12e736d4294b525489e99de4",
+          "!bp_64e647c10eece1545b00a442330f49da"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "c0e39e5f-33a0-4bb4-90f3-38aebe877f76",
+      "m_OwnerString": "6026db1a1a84ac14d9e94404af3baf0a",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/CreatureAbilities/Subtypes/SubtypeDevil_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "f80669c0-a2a6-4a98-9ac8-49795fc03af0",
+      "m_OwnerString": "6026db1a1a84ac14d9e94404af3baf0a",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/CreatureAbilities/Subtypes/SubtypeDevil_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": null
+  }
+}

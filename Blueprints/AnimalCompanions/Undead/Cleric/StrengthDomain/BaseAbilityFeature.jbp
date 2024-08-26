@@ -1,0 +1,84 @@
+{
+  "AssetId": "6b7fd94098a020841815c351303618ff",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$a8a5ff6f-c2e1-4d47-901d-9f1e4b58ea9b",
+      "$AddAbilityResources$c1435122-db5d-4720-a29d-493577192f9b"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$a8a5ff6f-c2e1-4d47-901d-9f1e4b58ea9b",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_995af4165d7d7964888fd25df4971683"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$c1435122-db5d-4720-a29d-493577192f9b",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_95525809d6e672a4880ea629ca5b58ab",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$65fe96c6-51b9-4727-a41d-382113fab02a",
+        "m_Overrides": [],
+        "m_Class": "!bp_f4248bf69918b974c828a0d4c1fc2d9e",
+        "Level": 1,
+        "m_Feature": "!bp_5f9e807663e3eed459bef4a3dc5a2ce8",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "89bde3a9-a294-4a78-b41e-c9c87eaac7a4",
+      "m_OwnerString": "526f99784e9fe4346824e7f210d46112",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/Strength/StrengthDomainBaseFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "9221df25-d5ed-45d5-9208-23a52b7bd989",
+      "m_OwnerString": "526f99784e9fe4346824e7f210d46112",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/Strength/StrengthDomainBaseFeature_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "519fc0a48aa1eef48af4233eab473150",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

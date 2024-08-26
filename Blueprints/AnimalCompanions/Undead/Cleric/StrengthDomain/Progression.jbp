@@ -1,0 +1,121 @@
+{
+  "AssetId": "5b3d58a1014605846898b2fb6a2bfdf4",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$LearnSpellList$05db4c4e-80b1-4b83-9a87-c29521c6f6cf"
+    ],
+    "Components": [
+      {
+        "$type": "ac2215a9c7722d24982e74626ceebbbd, LearnSpellList",
+        "m_Flags": 0,
+        "name": "$LearnSpellList$ee56e143-2865-4634-9847-4e5ae715a333",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_f4248bf69918b974c828a0d4c1fc2d9e",
+        "m_SpellList": "!bp_03db76fd27428004482f9314c334d1ab",
+        "m_Archetype": null
+      },
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$ff52ea91-40c2-4e8e-a56d-f48d52dfeaf3",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_f6ce03c49d2896d4ab42e1a321655bdc"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "e9f644a7c1755de4db32343b088b0a1a",
+        "stringkey": "007fa8f1-e39a-4c91-8b18-6f221b2ecdab"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "ea6e4a8e2ec9a404eb6ea81e9463403c",
+        "stringkey": "abfb000f-9992-4d8d-a95f-589ed29c183f"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Domain"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "m_Classes": [
+      {
+        "m_Class": "!bp_f4248bf69918b974c828a0d4c1fc2d9e",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_6b7fd94098a020841815c351303618ff"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_e42a926ac0d112642ad2e93f9b3c92cb"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "m_Features": [
+          "!bp_6b7fd94098a020841815c351303618ff",
+          "!bp_e42a926ac0d112642ad2e93f9b3c92cb"
+        ]
+      }
+    ],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeaturesRankIncrease": [
+      "!bp_3758edaa5cc54cb88b0d87a9f4a34df1",
+      "!bp_899566469d7a4eedbba4efb3928392b7"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

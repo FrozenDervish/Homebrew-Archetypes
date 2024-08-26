@@ -1,0 +1,163 @@
+{
+  "AssetId": "cf0b2cbc5023086428c6084e38cccf50",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AbilityResourceLogic$0c372a4e-5b02-4272-908a-95b4d7ba9333",
+      "$ContextCalculateAbilityParams$356e30d0-a005-4fbd-859d-d306977fe815",
+      "$AbilityCustomDimensionDoor$bce156e1-086b-458c-9eac-4328d26ba8ed"
+    ],
+    "Components": [
+      {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "name": "$AbilityResourceLogic$0c372a4e-5b02-4272-908a-95b4d7ba9333",
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_0a24c15e51f3a2f4f9d54d132cf7bb75",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 1,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      },
+      {
+        "$type": "c1058e0291443ae4390e0b4b94ca93dd, ContextCalculateAbilityParams",
+        "name": "$ContextCalculateAbilityParams$356e30d0-a005-4fbd-859d-d306977fe815",
+        "m_Overrides": [],
+        "UseKineticistMainStat": false,
+        "StatType": "Charisma",
+        "StatTypeFromCustomProperty": false,
+        "m_CustomProperty": null,
+        "ReplaceCasterLevel": false,
+        "CasterLevel": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "ReplaceSpellLevel": false,
+        "SpellLevel": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+      {
+        "$type": "8b78916f3ef04702a5773a7b14bb3adc, AbilityCustomDimensionDoor",
+        "name": "$AbilityCustomDimensionDoor$bce156e1-086b-458c-9eac-4328d26ba8ed",
+        "m_Overrides": [],
+        "Radius": {
+          "m_Value": 0.0
+        },
+        "PortalFromPrefab": {
+          "guid": "382a57043c80f914681c0b0f04fe63ec",
+          "fileid": 1886751171485164
+        },
+        "PortalToPrefab": {
+          "guid": "dde3273425ddf5f4b902116fdf27edb9",
+          "fileid": 1886751171485164
+        },
+        "PortalBone": "Offset",
+        "CasterDisappearFx": {
+          "guid": "9535b8cda5cb3164eb9e53a621e53a60",
+          "fileid": 1588132095308112
+        },
+        "CasterAppearFx": {
+          "guid": "7e864434489d2ac4da4d4eb22793e5d3",
+          "fileid": 1886751171485164
+        },
+        "SideDisappearFx": {
+          "guid": "9535b8cda5cb3164eb9e53a621e53a60",
+          "fileid": 1588132095308112
+        },
+        "SideAppearFx": {
+          "guid": "7e864434489d2ac4da4d4eb22793e5d3",
+          "fileid": 1886751171485164
+        },
+        "m_CasterDisappearProjectile": "!bp_b9a3f1855ab08bf42a8b119818bcc6dd",
+        "m_CasterAppearProjectile": "!bp_4125f30c999bddc4492bf91d73c4cf64",
+        "m_SideDisappearProjectile": "!bp_cdaff4fd8665656409ddffe42fbc07c1",
+        "m_SideAppearProjectile": "!bp_6c72207ef86803543b4b13352bcc5cf6"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesAbility_StepThroughShadows",
+      "m_OwnerString": "cf0b2cbc5023086428c6084e38cccf50",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesAbility_Step Through Shadows",
+      "m_OwnerString": "cf0b2cbc5023086428c6084e38cccf50",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "fbca144bd0f43c543932158f73a6130a",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Supernatural",
+    "Range": "Long",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": true,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": false,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "Harmful",
+    "EffectOnEnemy": "Harmful",
+    "m_Parent": null,
+    "Animation": "Directional",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionOmni",
+    "m_TargetMapObjects": false,
+    "ActionType": "Standard",
+    "AvailableMetamagic": 0,
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "AssetId": "4f70356e21bb0934aab18f1a33bdfe9f",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$86b59ea2-82e2-43f1-81e6-a19421d76daa",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_61ad83a0a3f940449bf25b62264f3362"
+      },
+	  {
+        "$type": "1c2eac83b528cef478121194c8c7f502, AddAbilityUseTrigger",
+        "m_Flags": 0,
+        "name": "$AddAbilityUseTrigger$7d78b5b6-5b08-4e4e-b84a-539d0f040a71",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Action": {
+          "Actions": [
+            {
+              "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+              "name": "$Conditional$44e952ce-32c4-45bf-b172-af8cbc2153a6",
+              "Comment": "",
+              "ConditionsChecker": {
+                "Operation": "And",
+                "Conditions": [
+                  {
+                    "$type": "c5b3b6002404ca249add2943e99f366a, ContextConditionIsAlly",
+                    "name": "$ContextConditionIsAlly$a3116ce2-cb02-44cf-bee2-84e449e85fad",
+                    "Not": false
+                  }
+                ]
+              },
+              "IfTrue": {
+                "Actions": [
+				  {
+                    "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                    "name": "$Conditional$44e952ce-32c4-45bf-b172-af8cbc2153a7",
+                    "Comment": "",
+                    "ConditionsChecker": {
+                    "Operation": "Or",
+                    "Conditions": [
+				      {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697401",
+                        "Not": false,
+                        "m_Fact": "!bp_aa999d98d77b0b2439e84ed2c4f1fd59"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697402",
+                        "Not": false,
+                        "m_Fact": "!bp_459ecb22db8705446b9039bd754a6146"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697403",
+                        "Not": false,
+                        "m_Fact": "!bp_56464326bf8b90045969518969f942bb"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697404",
+                        "Not": false,
+                        "m_Fact": "!bp_909d695ceeee46741896e3c072ffaf35"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697405",
+                        "Not": false,
+                        "m_Fact": "!bp_2ee4ee26654b4c64789fef13217b32a2"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697406",
+                        "Not": false,
+                        "m_Fact": "!bp_e10d4b4f5a01e6943bad017f5c08df65"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697407",
+                        "Not": false,
+                        "m_Fact": "!bp_a60b3c275008a0a45a8012dd3ba00be3"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697408",
+                        "Not": false,
+                        "m_Fact": "!bp_43b7ab923ad672348902eeaecacb0fcd"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697409",
+                        "Not": false,
+                        "m_Fact": "!bp_1eaa680b0e8089949b9c552faa7f2411"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697410",
+                        "Not": false,
+                        "m_Fact": "!bp_df8d42c833e12854a8b828241c0d2072"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697411",
+                        "Not": false,
+                        "m_Fact": "!bp_a3cd65b68292df742af560a57b65fbec"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697412",
+                        "Not": false,
+                        "m_Fact": "!bp_8f1954860ebcacc499537b3c0bf58c0a"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697413",
+                        "Not": false,
+                        "m_Fact": "!bp_521440d87e7b5ec46999286a081e01be"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697414",
+                        "Not": false,
+                        "m_Fact": "!bp_39792fbf287b2084c8ce2cff9519fae3"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697415",
+                        "Not": false,
+                        "m_Fact": "!bp_420432bdb655ebe4ea8821c53c2e5572"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697416",
+                        "Not": false,
+                        "m_Fact": "!bp_4f51bf86e9c96f24bb6140e8a597033a"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697417",
+                        "Not": false,
+                        "m_Fact": "!bp_90ea0f6472ded0f40ab783f24daa4463"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697418",
+                        "Not": false,
+                        "m_Fact": "!bp_304a6680bf8f28347b709d5b48c2cd59"
+                      },
+					  {
+                        "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                        "name": "$ContextConditionCasterHasFact$9811b6f8-8661-4cdb-b2f2-6c9fca697419",
+                        "Not": false,
+                        "m_Fact": "!bp_9bcaed100e3826749b2608eb7458f237"
+                      }
+                     ]
+                   },
+				   "IfTrue": {
+                     "Actions": [
+                  {
+              "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+              "name": "$ContextActionApplyBuff$d5ffd151-d456-4344-85cf-0eb1e80a43e1",
+              "m_Buff": "!bp_48f1fdef5789af54a82234938c15978a",
+              "Permanent": false,
+              "UseDurationSeconds": false,
+              "DurationValue": {
+                "Rate": "Minutes",
+                "DiceType": "Zero",
+                "DiceCountValue": {
+                  "ValueType": "Simple",
+                  "Value": 0,
+                  "ValueRank": "Default",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null
+                },
+                "BonusValue": {
+                  "ValueType": "Simple",
+                  "Value": 1,
+                  "ValueRank": "Default",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null
+                },
+                "m_IsExtendable": true
+              },
+              "DurationSeconds": 0.0,
+              "IsFromSpell": false,
+              "IsNotDispelable": false,
+              "ToCaster": false,
+              "AsChild": true,
+              "SameDuration": false
+            }
+                ]
+              },
+              "IfFalse": {
+                "Actions": []
+              }
+            }
+                ]
+              },
+              "IfFalse": {
+                "Actions": []
+              }
+            }
+          ]
+        },
+        "ActionsOnAllTargets": true,
+        "AfterCast": false,
+        "ActionsOnTarget": true,
+        "FromSpellbook": false,
+        "m_Spellbooks": [],
+        "ForOneSpell": false,
+        "m_Ability": null,
+        "ForMultipleSpells": false,
+        "Abilities": [],
+        "MinSpellLevel": false,
+        "MinSpellLevelLimit": 6,
+        "ExactSpellLevel": false,
+        "ExactSpellLevelLimit": 0,
+        "CheckAbilityType": true,
+        "Type": "Spell",
+        "CheckDescriptor": false,
+        "SpellDescriptor": {
+          "m_IntValue": 0
+        },
+        "CheckAoE": false,
+        "IsAoE": false,
+        "CheckSpellSchool": false,
+        "IsSpellSchool": "None",
+        "CheckRange": false,
+        "Range": "Touch",
+        "UseCastRule": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisAblativeArcana",
+      "m_OwnerString": "4f70356e21bb0934aab18f1a33bdfe9f",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisAblativeArcanaDesc",
+      "m_OwnerString": "4f70356e21bb0934aab18f1a33bdfe9f",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

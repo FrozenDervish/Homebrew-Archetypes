@@ -1,0 +1,66 @@
+{
+  "AssetId": "c4f124dc337aa5547ae9b029032bd63b",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$IncreaseActivatableAbilityGroupSize$0a2a6e1e-3f20-4c67-98b6-7ffd5a0e89c2"
+    ],
+    "Components": [
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$5e170799-8eac-42fe-80fd-21abf07e0fc9",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_772c83a25e2268e448e841dcd548235f",
+        "Level": 9
+      },
+      {
+        "$type": "886514ed5ee24e0da4cda44316d3904b, IncreaseActivatableAbilityGroupSize",
+        "name": "$IncreaseActivatableAbilityGroupSize$0a2a6e1e-3f20-4c67-98b6-7ffd5a0e89c2",
+        "m_Overrides": [],
+        "Group": "BardicPerformance"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityDoublePerformance",
+      "m_OwnerString": "c4f124dc337aa5547ae9b029032bd63b",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityDoublePerformanceDesc",
+      "m_OwnerString": "c4f124dc337aa5547ae9b029032bd63b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "6f1a14b17a56459478a06a6654bd417a",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "MythicAbility"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

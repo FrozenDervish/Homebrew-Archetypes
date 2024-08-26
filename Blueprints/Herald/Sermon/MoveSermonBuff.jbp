@@ -1,0 +1,52 @@
+{
+  "AssetId": "6ba0b3cdeaa452d40b7f5eb7739a1a7d",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+        "name": "$AddMechanicsFeature$465c6466-7a54-4cfc-9944-124a3bfa7519",
+        "m_Overrides": [],
+        "m_Feature": "QuickenPerformance1"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonMove",
+      "m_OwnerString": "6ba0b3cdeaa452d40b7f5eb7739a1a7d",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonMoveDesc",
+      "m_OwnerString": "6ba0b3cdeaa452d40b7f5eb7739a1a7d",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "10ef9d0fc57354943adb2c1dbc78062f",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "f439d4b1ce5e85f45b997367fd1deb83"
+    ]
+  }
+}

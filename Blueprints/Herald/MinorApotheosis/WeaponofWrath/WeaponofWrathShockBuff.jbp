@@ -1,0 +1,53 @@
+{
+  "AssetId": "ff4d89b6917bc594c80e739b69f9ac2c",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "becdd538f95c737409f4381b6a073504, AddBondProperty",
+        "name": "$AddBondProperty$31d790f6-bf58-474e-b90a-34a156afbecf",
+        "m_Overrides": [],
+        "EnchantPool": "DivineWeaponBond",
+        "m_Enchant": "!bp_7bda5277d36ad114f9f9fd21d0dab658"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathShockBuff",
+      "m_OwnerString": "ff4d89b6917bc594c80e739b69f9ac2c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "59cd817bcd3bcbe4f9ee4617b899b522",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "HiddenInUi, StayOnDeath",
+    "Stacking": "Stack",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

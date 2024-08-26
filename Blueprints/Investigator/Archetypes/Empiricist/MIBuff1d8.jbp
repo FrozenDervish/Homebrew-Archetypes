@@ -1,0 +1,103 @@
+{
+  "AssetId": "ad46856da9a984d44bfd45b74add84ea",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$8b53d555-ee5e-4430-80bb-597aef9588ae",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "Initiative",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 0,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+	  {
+        "$type": "a6777ad03deb60a4e8ef6b7067ac836b, ContextCalculateSharedValue",
+        "m_Flags": 0,
+        "name": "$ContextCalculateSharedValue$b8da9069-eee1-4ca9-bdd3-df0263eb324f",
+        "m_Overrides": [],
+        "ValueType": "Damage",
+        "Value": {
+          "DiceType": "D8",
+          "DiceCountValue": {
+            "ValueType": "Simple",
+            "Value": 1,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          },
+          "BonusValue": {
+            "ValueType": "Simple",
+            "Value": 0,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          }
+        },
+        "Modifier": 1.0
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeEmpiricistMasterIntellectAbility",
+      "m_OwnerString": "ad46856da9a984d44bfd45b74add84ea",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeEmpiricistMasterIntellectAbilitydeight",
+      "m_OwnerString": "ad46856da9a984d44bfd45b74add84ea",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Hours",
+    "FxOnStart": {
+      "AssetId": "9425f10c02c4c614f8f2013d4a718756"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "9425f10c02c4c614f8f2013d4a718756"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

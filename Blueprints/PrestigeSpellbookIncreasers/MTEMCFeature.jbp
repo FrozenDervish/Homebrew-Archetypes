@@ -1,0 +1,47 @@
+{
+  "AssetId": "534f8ecd3be86bb46b8504197911f976",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "ebfcb261aeec4f84abe1a0261efd11ff, AddSpellbookLevel",
+        "name": "$AddSpellbookLevel$13430ddc-c53c-4665-acfc-d1e0a2c8b3c6",
+        "m_Overrides": [],
+        "m_Spellbook": "!bp_b5aa580154c719a4192afa07354b71ad"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HellKnightSpellbookSelectionCleric",
+      "m_OwnerString": "534f8ecd3be86bb46b8504197911f976",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_MysticTheurgeSpellbookSelectionDesc",
+      "m_OwnerString": "534f8ecd3be86bb46b8504197911f976",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 10,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+      {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$aa1d02d0-3fc4-40d7-bee7-1425d4729e0f",
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_8d1b293062b5b3e44b0948228a74b283",
+        "m_ExtraEffectBuff": "!bp_6aae86b192b0d1e4da1dcf6936f97f98"
+      }
+    ],
+	}

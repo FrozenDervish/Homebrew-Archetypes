@@ -1,0 +1,99 @@
+{
+  "AssetId": "21a9b2bab46bb4e4c91e3f9f1cc88f41",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532201",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_ef768022b0785eb43a18969903c537c4",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532203",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+        "SpellLevel": 2,
+        "m_Spell": "!bp_d2f116cfe05fcdd4a94e80143b67046f",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532205",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+        "SpellLevel": 3,
+        "m_Spell": "!bp_0087fc2d64b6095478bc7b8d7d512caf",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532207",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+        "SpellLevel": 4,
+        "m_Spell": "!bp_36c8971e91f1745418cc3ffdfac17b74",
+        "m_Archetype": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ChampionOathUnconqueredOathSpellsName",
+      "m_OwnerString": "21a9b2bab46bb4e4c91e3f9f1cc88f41",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionOathUnconqueredOathSpellsDesc",
+      "m_OwnerString": "21a9b2bab46bb4e4c91e3f9f1cc88f41",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "95c4bb72353edb34082f088a5bd18cb2",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b0793b41",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_8d1b293062b5b3e44b0948228a74b283",
+        "m_ExtraEffectBuff": "!bp_808fdbbfaf2ca9f4c805458290d7b66b",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b0793b42",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_3513326cd64f475781799685c57fa452",
+        "m_ExtraEffectBuff": "!bp_808fdbbfaf2ca9f4c805458290d7b66b",
+        "m_ExceptionFact": null
+      },
+	  ],
+	}

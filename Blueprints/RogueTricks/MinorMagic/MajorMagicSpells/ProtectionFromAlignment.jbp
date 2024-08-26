@@ -1,0 +1,178 @@
+{
+  "AssetId": "402f20274454ce44e9e281082d8a769d",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$SpellComponent$963fb46b-1056-41ec-9a0f-e38e805722f1",
+      "$SpellListComponent$6f6fdfe4-7fc2-44e8-9f6c-823b4ccb79c4",
+      "$SpellListComponent$d3c541ad-9307-45a8-8ed0-51e5baa7b16f",
+      "$AbilityVariants$8236ce1c-39ae-4786-a510-ffd503da7b89",
+      "$SpellListComponent$807b984e-5356-49b1-b14e-626c0ed68304",
+      "$SpellListComponent$1a203e2e-c31c-40af-b073-418be566877f",
+      "$SpellListComponent$bdf7e948-4d92-44ec-8ab1-f89210087f2f",
+      "$SpellListComponent$ee6417a4-684a-443c-af09-bdd9fddb798f"
+    ],
+    "Components": [
+      {
+        "$type": "bbf7e743804d40a47bde0b27174f33a9, SpellComponent",
+        "m_Flags": 0,
+        "name": "$SpellComponent$963fb46b-1056-41ec-9a0f-e38e805722f1",
+        "m_Overrides": [],
+        "School": "Abjuration"
+      },
+      {
+        "$type": "1bf4aff684fadda4c85160390570fdf2, AbilityVariants",
+        "m_Flags": 0,
+        "name": "$AbilityVariants$8236ce1c-39ae-4786-a510-ffd503da7b89",
+        "m_Overrides": [],
+        "m_Variants": [
+          "!bp_14aaf26f4991df44aa1dc47664ede09f",
+          "!bp_d5ec1a761889f4d4da575e3bdb35abcb",
+          "!bp_a992fef5433f1bc478c68bc995756a72",
+          "!bp_dd8ec845890a06344b5937770d578106"
+        ]
+      },
+	  {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "name": "$AbilityResourceLogic$cebfbbbb-0b8d-492d-b6cf-f1fd3ae18341",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_06ac55c61456e6442b5fa6c8a1c1416c",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 1,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      },
+	  {
+        "$type": "c5e4f1f8df4efb84dac8de636b9e8c7b, ContextSetAbilityParams",
+        "name": "$ContextSetAbilityParams$d8c93170-0f31-400f-a9e0-50c42c352f4d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Add10ToDC": true,
+        "DC": {
+          "ValueType": "CasterCustomProperty",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": "!bp_1898cca54b7a6454c89a35ebcacb44a1"
+        },
+        "CasterLevel": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "Concentration": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "SpellLevel": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "279936b0-8e19-426f-a205-694212b40f7c",
+      "m_OwnerString": "433b1faf4d02cc34abb0ade5ceda47c4",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Spells/Level1/ProtectionFromAlignment_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "cafaccda9017c3e4eac0455b1baada2f",
+        "stringkey": "b6ea9a69-117b-48ef-bfb0-f613c95742a8"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "625a3acc2c1190c4d8a44f033d974db9",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "SpellLike",
+    "Range": "Touch",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": true,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Touch",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionTouch",
+    "m_TargetMapObjects": false,
+    "ActionType": "Standard",
+    "AvailableMetamagic": "Quicken, Extend, Heighten, Reach, CompletelyNormal",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "ba20dba183e9a4848b046cf1e766f2c5",
+        "stringkey": "00b2e4c2-aafe-487b-b890-d57473373da7"
+      }
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

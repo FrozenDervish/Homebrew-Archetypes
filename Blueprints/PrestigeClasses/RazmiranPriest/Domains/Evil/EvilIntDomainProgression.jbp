@@ -1,0 +1,86 @@
+{
+  "AssetId": "18cb80dbad7278b49951bea99b75e4b0",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$LearnSpellList$bc06aab3-5139-4465-a779-398929381aa3"
+    ],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_DomainsEvilDomainIntelligence",
+      "m_OwnerString": "18cb80dbad7278b49951bea99b75e4b0",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_DomainsEvilDomainIntelligenceDesc",
+      "m_OwnerString": "18cb80dbad7278b49951bea99b75e4b0",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Domain"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "m_Classes": [
+      {
+        "m_Class": "!bp_1296f17a00b6916488cc9b72386977a2",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_56a128500466c44418fd751fe1764129"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_eb1259e2ea6deac46aa040deed845d60"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "m_Features": [
+          "!bp_56a128500466c44418fd751fe1764129",
+          "!bp_eb1259e2ea6deac46aa040deed845d60"
+        ]
+      }
+    ],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeaturesRankIncrease": [
+      "!bp_5e6852592ebb4c218139136f60d3ac08"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

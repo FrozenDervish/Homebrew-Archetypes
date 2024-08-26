@@ -1,0 +1,10 @@
+{
+    "UniqueName": "HomebrewArchetypes",
+    "Version": "1.1Zuy",
+    "DisplayName": "Homebrew Archetypes",
+    "Description": "Adds multiple Paizo archetypes with minor changes to work with Wrath of the Righteous.",
+    "Author": "Sigurd",
+    "Repository": "",
+    "HomePage": "",
+    "Dependencies": []
+}

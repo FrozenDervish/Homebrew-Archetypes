@@ -1,0 +1,84 @@
+{
+  "AssetId": "7dccb713c52d1c54d93c6e88232ec4d8",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [
+	"$PrerequisiteFeature$8b36b358-e037-4a00-945a-ab94f6e583d4"
+	],
+    "Components": [
+	{
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$8b36b358-e037-4a00-945a-ab94f6e583d4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a33b99f95322d6741af83e9381b2391c"
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "896c84da8d21d674ca758866d419eb55",
+        "stringkey": "6d5cd8ed-fe1a-4cfb-9da9-96949eff3080"
+      }
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesAbility_KiPowerSelection",
+      "m_OwnerString": "7dccb713c52d1c54d93c6e88232ec4d8",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "c62236db837b42a429010ff1a2f399e0",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "KiPowers",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_6a8cf66dafb274f488cf4f0a7d95541e",
+      "!bp_a209448240cdadb49860632d625b27bd",
+      "!bp_5be2fd024e9000e4f90c18efe32afcab",
+      "!bp_661c926e67bb3464989107632f2e04a9",
+      "!bp_40fb5bdf7fc2bbe46834520255c7a35c",
+      "!bp_891b906bf2e4c3c489c219cff18ce092",
+      "!bp_c7422952cc8df6a40bbf3adf5b23a649",
+      "!bp_81940d12887348b46b4ed04a6721518a",
+      "!bp_d6fd0799291e9cd42a9d72f0b5fff802",
+      "!bp_8054dbcabebd08f4ca48303a0c93d558",
+      "!bp_961bdbd3a2c5b474d9c5efb6783db350",
+      "!bp_def22d581c228a74597365ac7f80df95"
+    ]
+  }
+}

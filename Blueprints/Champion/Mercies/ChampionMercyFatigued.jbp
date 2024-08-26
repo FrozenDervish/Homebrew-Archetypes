@@ -1,0 +1,46 @@
+{
+  "AssetId": "95b1b59d430c14f4fb4e47dfd17862aa",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "295c7a69-e2a6-4015-86a1-81e9b5d4ce89",
+      "m_OwnerString": "95b1b59d430c14f4fb4e47dfd17862aa",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Paladin/Mercy/MercyFatigued_m_DisplayName.json"
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionMercyFatiguedDesc",
+      "m_OwnerString": "95b1b59d430c14f4fb4e47dfd17862aa",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "fe006c9e20d2f9e4a9ff816022dd469b",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "Mercy"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_ea1172709eb825a44802f65f1d936439"
+    ]
+  }
+}

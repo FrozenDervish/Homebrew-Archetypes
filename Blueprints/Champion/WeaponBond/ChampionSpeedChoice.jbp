@@ -1,0 +1,50 @@
+{
+  "AssetId": "fe8fa3dc8320cbd488141f669be8a895",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "249b7f59-fb72-4ec5-a6c8-aa35529fb6db",
+      "m_OwnerString": "fe8fa3dc8320cbd488141f669be8a895",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Paladin/WeaponBond/WeaponBondSpeedChoice_m_DisplayName.json"
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionSpeedChoiceDesc",
+      "m_OwnerString": "fe8fa3dc8320cbd488141f669be8a895",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "faa4bcddd0084ce4793c126332c50867",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_f260f8100cd9f6749bf071c930eb287d",
+    "Group": "DivineWeaponProperty",
+    "WeightInGroup": 3,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "Immediately",
+    "m_ActivateWithUnitCommand": "Free",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  }
+}

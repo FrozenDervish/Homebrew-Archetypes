@@ -1,0 +1,125 @@
+{
+  "AssetId": "61d4a7515f32c8940b3b6d7d2ede5bd3",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "bbe1931feea2c5b49aa158c5c5f9b260, PrerequisiteAlignment",
+        "name": "$PrerequisiteAlignment$b1b46491-1a33-4f05-ab43-5d81bc74ae17",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Alignment": "Evil"
+      },
+	],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_WizardUndeadMaster",
+      "m_OwnerString": "61d4a7515f32c8940b3b6d7d2ede5bd3",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_WizardUndeadMasterDesc",
+      "m_OwnerString": "61d4a7515f32c8940b3b6d7d2ede5bd3",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_55b260dd2c9ab0040bcc134701bb5ccd",
+		  "!bp_0e12d21642d6ddb4188dea6b77203635",
+		  "!bp_e9450978cc9feeb468fb8ee3a90607e3"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_ebbc3d8af00144744b9d1f7f810ed4a5"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_03a1781486ba98043afddaabf6b7d8ff",
+		  "!bp_a8a385bf53ee3454593ce9054375a2ec",
+		  "!bp_5f838049069f1ac4d804ce0862ab5110"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_8c3102c2ff3b69444b139a98521a4899"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_8c3102c2ff3b69444b139a98521a4899"
+        ]
+      },
+	  {
+        "Level": 15,
+        "m_Features": [
+          "!bp_8c3102c2ff3b69444b139a98521a4899"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_8c3102c2ff3b69444b139a98521a4899"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": true,
+    "ClassSkills": [
+      "SkillKnowledgeWorld",
+      "SkillKnowledgeArcana",
+      "SkillLoreNature",
+      "SkillLoreReligion",
+      "SkillUseMagicDevice"
+    ],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

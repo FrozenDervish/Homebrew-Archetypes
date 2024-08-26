@@ -1,0 +1,267 @@
+{
+  "AssetId": "62287ab905e58fd47a3654c9038e378d",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d16",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_9d67b6cfbb54bf14681003ca3a1429f1"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d17",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_f99436a42791f1047b899dc42f3a1f88"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d18",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_df94b4f4fabdd194f8527cfdca08fa51"
+      },
+	  {
+        "$type": "04406431439974e489cc8fdea779cf46, PrerequisiteStatValue",
+        "name": "$PrerequisiteStatValue$18fb3ad3-514b-48d7-8fed-06d2595e9d9c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Stat": "SkillPersuasion",
+        "Value": 10
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b0793b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_6d6d9e06b76f5204a8b7856c78607d5d",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1113b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_1fa5f733fa1d77743bf54f5f3da5a6b1",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1123b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_ec38c2e60d738584983415cb8a4f508d",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1133b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_1bf7ed0b96c6433c8c6763b429fec784",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1143b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_e3ecf4c6731d39f47888214b2ea54f50",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1153b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_c948f17302871f5428573630886fb612",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1163b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_9783d2b9848db0f459efd38f72ae8361",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1173b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_c6d27b7894376db4e8de39f5eb3cdbc2",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1183b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_d71259ae788b96d4aa0311d0d97f6eea",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1193b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_11c3006a336f62e44afe3bf7037f9a76",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1203b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_56c2adb76ef5a0b48abad89737113702",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1213b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_3642ab9f37225d242bf275a9153b72c1",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "m_Flags": 0,
+        "name": "$BuffExtraEffects$54adaaa8-3df2-4122-8cfc-e3f5b1223b4f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_b25dd86b35cd8f8429b27c09b54b00ad",
+        "m_ExtraEffectBuff": "!bp_04590957b9ce9264baa2f98651e0a26d",
+        "m_ExceptionFact": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_BasicFeatDiscordantVoice",
+      "m_OwnerString": "62287ab905e58fd47a3654c9038e378d",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_BasicFeatDiscordantVoiceDesc",
+      "m_OwnerString": "62287ab905e58fd47a3654c9038e378d",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "Feat"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

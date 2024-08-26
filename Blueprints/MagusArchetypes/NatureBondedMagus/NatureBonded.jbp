@@ -1,0 +1,129 @@
+{
+  "AssetId": "a30684ba48cc9ba479ae8aa3776a2dcc",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_MagusArchetypeNatureBondedMagus",
+      "m_OwnerString": "a30684ba48cc9ba479ae8aa3776a2dcc",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_MagusArchetypeNatureBondedMagusDesc",
+      "m_OwnerString": "a30684ba48cc9ba479ae8aa3776a2dcc",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 14,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+          
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_3ce9bb90749c21249adc639031d5eed1"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_61fc0521e9992624e9c518060bf89c0f"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_0ef6ec1c2fdfc204fbd3bff9f1609490"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+          
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

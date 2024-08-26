@@ -1,0 +1,41 @@
+{
+  "AssetId": "25e8cd78f3d75d644b22277a12758ae6",
+  "Data": {
+    "$type": "a42bdead3c333d744a3f0354bbe6c27c, BlueprintSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "Name": {
+      "m_Key": "HomebrewArchtypes_UndeadClassArchetypesPriest",
+      "m_OwnerString": "25e8cd78f3d75d644b22277a12758ae6",
+      "m_OwnerPropertyPath": "Name",
+      "m_JsonPath": "",
+      
+    },
+    "IsMythic": false,
+    "m_SpellsPerDay": "!bp_41344396a1520c54d8d851c9fc674db2",
+    "m_SpellsKnown": null,
+    "m_SpellSlots": null,
+    "m_SpellList": "!bp_8443ce803d2d31347897a3d85cc32f53",
+    "m_MythicSpellList": null,
+    "m_CharacterClass": "!bp_f4248bf69918b974c828a0d4c1fc2d9e",
+    "CastingAttribute": "Wisdom",
+    "Spontaneous": false,
+    "SpellsPerLevel": 0,
+    "AllSpellsKnown": true,
+    "CantripsType": "Orisions",
+    "CasterLevelModifier": 0,
+    "CanCopyScrolls": false,
+    "IsArcane": false,
+    "IsArcanist": false,
+    "HasSpecialSpellList": false,
+    "SpecialSpellListName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "AssetId": "152ea6d8f279a73489c9dc0815e9e9b1",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$SavingThrowBonusAgainstDescriptor$837c8248-7a42-4d79-9dbb-476c6cab90e5"
+    ],
+    "Components": [
+      {
+        "$type": "3819276ccd091df42818bb86295941c1, SavingThrowBonusAgainstDescriptor",
+        "name": "$SavingThrowBonusAgainstDescriptor$837c8248-7a42-4d79-9dbb-476c6cab90e5",
+        "m_Overrides": [],
+        "SpellDescriptor": {
+          "m_IntValue": 256
+        },
+        "ModifierDescriptor": "None",
+        "Value": 2,
+        "Bonus": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "OnlyPositiveValue": false,
+        "m_DisablingFeature": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassPoisonResistance",
+      "m_OwnerString": "152ea6d8f279a73489c9dc0815e9e9b1",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassPoisonResistanceDesc",
+      "m_OwnerString": "152ea6d8f279a73489c9dc0815e9e9b1",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 3,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

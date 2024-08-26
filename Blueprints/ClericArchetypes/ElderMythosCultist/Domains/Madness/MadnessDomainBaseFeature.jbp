@@ -1,0 +1,98 @@
+{
+  "AssetId": "0b6af8ec5ebf1e4448788d32a27afb81",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddAbilityResources$3031c843-d8a5-4366-95db-4f9259343aa8",
+      "$ReplaceAbilitiesStat$3c3e7c65-874b-4cc0-9402-19c351becc60",
+      "$SavesFixerFactSinglify$9f0b02fe-001a-44b4-90f0-ebe51a4d1ffa"
+    ],
+    "Components": [
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$3031c843-d8a5-4366-95db-4f9259343aa8",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_cef5cc2e3ab1b1b4c95bb14f79b0579c",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+      {
+        "$type": "9dff5bcf215699249ae87d8924357fe3, ReplaceAbilitiesStat",
+        "name": "$ReplaceAbilitiesStat$3c3e7c65-874b-4cc0-9402-19c351becc60",
+        "m_Overrides": [],
+        "m_Ability": [
+          "!bp_083fdd8af7e44bd40a636f787cf7c8f6",
+          "!bp_908eacba052f2914883121c210ea8597",
+          "!bp_5897d49be1cb5364e85a1bb5f05012ad"
+        ],
+        "Stat": "Charisma"
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$bb8f1d4a-7910-4ea9-bd81-975bd5f268aa",
+        "m_Overrides": [],
+        "m_Class": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "Level": 1,
+        "m_Feature": "!bp_130f72a5bff6961478b07a64bac50498",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+      {
+        "$type": "8f6114e9bccfa6f49a393e99b21e3b23, FactSinglify",
+        "name": "$SavesFixerFactSinglify$9f0b02fe-001a-44b4-90f0-ebe51a4d1ffa",
+        "m_Overrides": [],
+        "m_OldFacts": [
+          "!bp_83a9fbe6084f4f74e91234e57549a169"
+        ],
+        "m_NewFacts": [
+          "!bp_083fdd8af7e44bd40a636f787cf7c8f6",
+          "!bp_908eacba052f2914883121c210ea8597",
+          "!bp_5897d49be1cb5364e85a1bb5f05012ad"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "5373f21f-5338-4eaa-b07f-fcabffe8e2f0",
+      "m_OwnerString": "84bf46e8086dbdc438bac875ab0e5c2f",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/Madness/MadnessDomainBaseFeature_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "4e5abff199c4fc24b82cf182ac551be4",
+        "stringkey": "8cc4fe67-69f8-40ef-8be0-f7197a2144bd"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "767a6ba6e391aff4388d2350778e899c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

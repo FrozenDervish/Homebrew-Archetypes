@@ -1,0 +1,64 @@
+{
+  "AssetId": "a86e13b03d0d50e4a91a8d8bf9d7d2b1",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$MonkNoArmorAndMonkWeaponFeatureUnlock$6e8785c4-2f5b-4ba8-8a99-1129071d4182"
+    ],
+    "Components": [
+      {
+        "$type": "eaf14c5a464e8a2488fbafce6d2b41a5, MonkNoArmorAndMonkWeaponFeatureUnlock",
+        "name": "$MonkNoArmorAndMonkWeaponFeatureUnlock$6e8785c4-2f5b-4ba8-8a99-1129071d4182",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_NewFact": "!bp_054e55e046917c54ca242ead72050dfb",
+        "IsZenArcher": false,
+        "m_BowWeaponTypes": [],
+        "m_RapidshotBuff": null,
+        "IsSohei": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "5b45f5f3-0a05-4da5-a876-0f12981b022e",
+      "m_OwnerString": "fd99770e6bd240a4aab70f7af103e56a",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Monk/MonkFeatureNoArmorUnlocks/MonkFlurryOfBlowstUnlock_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_WarpriestSacredFistFlurryUnlock",
+      "m_OwnerString": "a86e13b03d0d50e4a91a8d8bf9d7d2b1",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "4ee67cde629a9d14cb40a3560510d06b",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_c36562b8e7ae12d408487ba8b532d966"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "AssetId": "012bf86a92665264f8ec9e8e77ba2bda",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d15",
+      "$IncreaseResourceAmount$df3d3b0b-e516-4dbc-95d2-bd97fd84c17d"
+    ],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$13279d48-db85-4ead-bcb5-1fc835192d15",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_cfd5b82d506197844904287e45619f5e"
+      },
+      {
+        "$type": "f2efec85de75f5e4894158b16f8441ec, IncreaseResourceAmount",
+        "name": "$IncreaseResourceAmount$df3d3b0b-e516-4dbc-95d2-bd97fd84c17d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Resource": "!bp_78fd25a489b55834d8829d86aeb18722",
+        "Value": 4
+      },
+      {
+        "$type": "6d43a0c88e994d04bd2859978dec9337, FeatureTagsComponent",
+        "name": "$FeatureTagsComponent$5762773b-92ff-4219-83be-4c4110858037",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "FeatureTags": "ClassSpecific"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "88b2bf3a-7529-4e49-a39a-608085501862",
+      "m_OwnerString": "54c57ce67fa1d9044b1b3edc459e05e2",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Feats/ExtraBombs_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "7a93a852-9525-4f8a-af30-ebfab1da5682",
+      "m_OwnerString": "54c57ce67fa1d9044b1b3edc459e05e2",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Feats/ExtraBombs_m_Description.json",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "2198840df939f6a42aa616cf6373040c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "Feat"
+    ],
+    "Ranks": 10,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

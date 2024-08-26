@@ -1,0 +1,70 @@
+{
+  "AssetId": "7b97a86d988bbb5478fb7131f0cbd9ff",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "74d82bf729940b04da45d841b7b171f9, Evasion",
+        "name": "$Evasion$ec84f562-6fc6-4367-a77c-6df3642ea7cf",
+        "m_Overrides": [],
+        "SavingThrow": "Reflex"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$8b36b358-e037-4a00-945a-ab94f6e583d4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a33b99f95322d6741af83e9381b2391c"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "c490856e-9144-498b-9586-11d08d3511e9",
+      "m_OwnerString": "576933720c440aa4d8d42b0c54b77e80",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Rogue/Evasion_m_DisplayName.json"
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "3ba3cf57914b01848b676ea9cb862168",
+        "stringkey": "0cff07a9-830f-4dca-98f9-09c51d427892"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "b571fe5defdcf67489e23c8f115f1f2c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_0d35d6c4d5eef8d4790d09bd9a874e57"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

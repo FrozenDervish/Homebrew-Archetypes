@@ -1,0 +1,128 @@
+{
+  "AssetId": "6643e114543c16c4a921bdd381106f28",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "7e9c938c232d48a4eb8458e448cfff33, NoSelectionIfAlreadyHasFeature",
+        "m_Flags": 0,
+        "name": "$NoSelectionIfAlreadyHasFeature$4b7f9312-4d2f-4af5-9885-86221b9a1acb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "AnyFeatureFromSelection": true,
+        "m_Features": [
+	  "!bp_1a21944f15b5ddb4a8cd33c4430521cc",
+	  "!bp_a9fdbd456c586c24ca47d04bad057005",
+	  "!bp_3c0c9c48e50b6074187da98fb8e4344a",
+	  "!bp_4a63f0f175e169a40acc012d96211b15",
+	  "!bp_9b943d1b577d70b469787a7b4e62f895",
+	  "!bp_c79ccbe481ad29d44a06ce6237b5a66f",
+	  "!bp_4577c4810c05ae84a817021084e8cc31",
+	  "!bp_608d2f6e38fe5a24791324a47f90642e",
+	  "!bp_52f45d9d8ba16ca4badfd053546b9172"
+		]
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$87ea90bc-bba5-4829-a380-7d95af11f794",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_f0e7e42950661c6488fe214aaaa2375a"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$aa5617ea-86f7-4217-86cf-d71e41ec642b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_5a10de57f3d1a584c917f830c32742c9"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$aa5617ea-86f7-4217-86cf-d71e41ec642c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_1e1f627d26ad36f43bbd26cc2bf8ac7e"
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_GeneralFeatRangedStudy",
+      "m_OwnerString": "6643e114543c16c4a921bdd381106f28",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_GeneralFeatRangedStudyDesc",
+      "m_OwnerString": "6643e114543c16c4a921bdd381106f28",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "534e7634a27b6f74a8773dfb82092da8",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_1a21944f15b5ddb4a8cd33c4430521cc",
+	  "!bp_a9fdbd456c586c24ca47d04bad057005",
+	  "!bp_3c0c9c48e50b6074187da98fb8e4344a",
+	  "!bp_4a63f0f175e169a40acc012d96211b15",
+	  "!bp_9b943d1b577d70b469787a7b4e62f895",
+	  "!bp_c79ccbe481ad29d44a06ce6237b5a66f",
+	  "!bp_d3f386dea9ac7834ea2bb4c43b5eecab",
+	  "!bp_4577c4810c05ae84a817021084e8cc31",
+	  "!bp_608d2f6e38fe5a24791324a47f90642e",
+	  "!bp_52f45d9d8ba16ca4badfd053546b9172"
+    ]
+  }
+}

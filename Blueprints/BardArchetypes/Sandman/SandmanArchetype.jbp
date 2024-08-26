@@ -1,0 +1,182 @@
+{
+  "AssetId": "3c4b3c28b1bc97549af861bb0e997670",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_Sandman",
+      "m_OwnerString": "3c4b3c28b1bc97549af861bb0e997670",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_SandmanDesc",
+      "m_OwnerString": "3c4b3c28b1bc97549af861bb0e997670",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_4edf3c34ae86b8d41964ef1a65610ceb"
+        ]
+      },
+	  {
+        "Level": 3,
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+	  {
+        "Level": 9,
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      },
+	  {
+        "Level": 12,
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+	  {
+        "Level": 15,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
+		  "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+	  {
+        "Level": 18,
+        "m_Features": [
+          "!bp_0bcbe9e450b0e7b428f08f66c53c5136"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_65cff8410a336654486c98fd3bacd8c5",
+		  "!bp_acb4df34b25ca9043a6aba1a4c92bc69"
+        ]
+      },
+	  {
+        "Level": 3,
+        "m_Features": [
+          "!bp_6d3fcfab6d935754c918eb0e004b5ef7"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_4bea694e79a87cd4d8c14fb91578059e",
+		  "!bp_acb4df34b25ca9043a6aba1a4c92bc69"
+        ]
+      },
+	  {
+        "Level": 7,
+        "m_Features": [
+          "!bp_6d3fcfab6d935754c918eb0e004b5ef7"
+        ]
+      },
+	  {
+        "Level": 9,
+        "m_Features": [
+          "!bp_9ae0f32c72f8df84dab023d1b34641dc"
+        ]
+      },
+	  {
+        "Level": 11,
+        "m_Features": [
+          "!bp_6d3fcfab6d935754c918eb0e004b5ef7",
+		  "!bp_acb4df34b25ca9043a6aba1a4c92bc69"
+        ]
+      },
+	  {
+        "Level": 15,
+        "m_Features": [
+          "!bp_6d3fcfab6d935754c918eb0e004b5ef7",
+		  "!bp_199d6fa0de149d044a8ab622a542cc79"
+        ]
+      },
+	  {
+        "Level": 17,
+        "m_Features": [
+          "!bp_acb4df34b25ca9043a6aba1a4c92bc69"
+        ]
+      },
+	  {
+        "Level": 19,
+        "m_Features": [
+          "!bp_6d3fcfab6d935754c918eb0e004b5ef7"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_a6e13797b0a20d2458a086a8a511fd8c"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

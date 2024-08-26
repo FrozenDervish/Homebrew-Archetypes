@@ -1,0 +1,157 @@
+{
+  "AssetId": "3764be53f7932784489ee65d908f6128",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$SpellComponent$f31cab25-5807-4dfc-876a-9b6b3d95c015",
+      "$SpellDescriptorComponent$251cb148-d439-4c49-a32d-d9ca86518998",
+      "$AbilityVariants$84b30a3e-fe4a-4001-b969-e4598b41a2cf"
+    ],
+    "Components": [
+      {
+        "$type": "bbf7e743804d40a47bde0b27174f33a9, SpellComponent",
+        "m_Flags": 0,
+        "name": "$SpellComponent$f31cab25-5807-4dfc-876a-9b6b3d95c015",
+        "m_Overrides": [],
+        "School": "Transmutation"
+      },
+      {
+        "$type": "91216784d99a12e428bf782c8a8c7f5c, SpellDescriptorComponent",
+        "m_Flags": 0,
+        "name": "$SpellDescriptorComponent$251cb148-d439-4c49-a32d-d9ca86518998",
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 8589934592
+        }
+      },
+      {
+        "$type": "1bf4aff684fadda4c85160390570fdf2, AbilityVariants",
+        "m_Flags": 0,
+        "name": "$AbilityVariants$84b30a3e-fe4a-4001-b969-e4598b41a2cf",
+        "m_Overrides": [],
+        "m_Variants": [
+          "!bp_70550cf1637ab454a88478e6e49925b7",
+          "!bp_6bf2930605acc4c49a66a303a42ebe3e",
+          "!bp_89626a3281296594f9d74f3bcdf10cf0",
+          "!bp_ccb78a69749daf441b360f04cb89c7cc",
+          "!bp_df99d824f76eeb3438963fc6c03b6c99",
+          "!bp_deedde4ff6e33374ca38925fa772a083",
+          "!bp_536db9999b800764aa159a0e1942ea8a"
+        ]
+      },
+      {
+        "$type": "4b6c2ac95f357d845ae3a30d6fc6641a, RecommendationNoFeatFromGroup",
+        "m_Flags": 0,
+        "name": "$RecommendationNoFeatFromGroup$15714f85-7060-4f25-afea-6d8b2d563084",
+        "m_Overrides": [],
+        "m_Features": [
+          "!bp_7bd143ead2d6c3a409aad6ee22effe34",
+          "!bp_8a7f100c02d0b254d8f5f3affc8ef386",
+          "!bp_5f9ecbee67db8364985e9d0500eb25f1",
+          "!bp_7e0f57d8d00464441974e303b84238ac",
+          "!bp_b522759a265897b4f8f7a1a180a692e4",
+          "!bp_6c67ef823db8d7d45bb0ef82f959743d",
+          "!bp_7181be57d1cc3bc40bc4b552e4e4ce24",
+          "!bp_8c6e5b3cf12f71e43949f52c41ae70a8",
+          "!bp_c7d2f393e6574874bb3fc728a69cc73a",
+          "!bp_b0f79497a0d1f4f4b8293e82c8f8fa0c"
+        ],
+        "GoodIfNoFeature": false
+      },
+      {
+        "$type": "4b6c2ac95f357d845ae3a30d6fc6641a, RecommendationNoFeatFromGroup",
+        "m_Flags": 0,
+        "name": "$RecommendationNoFeatFromGroup$6530768a-4107-412c-974e-70b94be6cba4",
+        "m_Overrides": [],
+        "m_Features": [
+          "!bp_23ea5ade326f80b488164f75580c03af"
+        ],
+        "GoodIfNoFeature": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "037aea54cc938544abd274d80c71dc54",
+        "stringkey": "af4fc1ce-edfd-450f-8b37-6fa1f36cb377"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "4183ec782eb885545b96e5429406ff84",
+        "stringkey": "bc673837-1d65-4efa-a684-a0a0603d5adf"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "5dedfb4dfe691d74a8789a55e73be550",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Spell",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "SelfTouch",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionTouch",
+    "m_TargetMapObjects": false,
+    "ActionType": "Standard",
+    "AvailableMetamagic": "Quicken, Extend, Heighten, CompletelyNormal",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "SwarmFilesNinjaTimer_Hour",
+      "m_OwnerString": "3764be53f7932784489ee65d908f6128",
+      "m_OwnerPropertyPath": "LocalizedDuration",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

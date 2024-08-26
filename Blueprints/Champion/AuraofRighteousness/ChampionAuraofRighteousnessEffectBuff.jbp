@@ -1,0 +1,67 @@
+{
+  "AssetId": "a08e5669794b0de4191f27051c8a77d0",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "3819276ccd091df42818bb86295941c1, SavingThrowBonusAgainstDescriptor",
+        "name": "$SavingThrowBonusAgainstDescriptor$e37f20ec-c808-4367-8468-2558d7a36975",
+        "m_Overrides": [],
+        "SpellDescriptor": {
+          "m_IntValue": 64
+        },
+        "ModifierDescriptor": "Morale",
+        "Value": 4,
+        "Bonus": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "OnlyPositiveValue": false,
+        "m_DisablingFeature": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "080e6d3a747e60942a165c1759a9e477",
+        "stringkey": "d4f4f253-328d-4b82-b201-aeccff5ed240"
+      }
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionAuraofRighteousnessDesc",
+      "m_OwnerString": "a08e5669794b0de4191f27051c8a77d0",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "5895704fc09cae446b64117e3c52e06b",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "HiddenInUi",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

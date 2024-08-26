@@ -1,0 +1,26 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Progression": {
+"m_CharacterClasses": [
+        "!bp_d966b245530431c418c44d17bbd347f4",
+		"!bp_622365d7ddebe0c43b18183d5420801a",
+		"!bp_8bdd259c29d789a4689c925a73138f0c",
+		"!bp_54fbb73f494802f45933e0d79022c3a4",
+		"!bp_d0ffb2e7415a9c24ab6b5227e858e37b",
+		"!bp_adb9e138bee9ecc4db246b64d563f900",
+		"!bp_1296f17a00b6916488cc9b72386977a2",
+		"!bp_c75c39413ea936d4cbff2912c845aa72",
+		"!bp_f134bf66e01303e419bf8d5598c1a777",
+		"!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+		"!bp_d1277f75d49b6d648a3007abd0c0b145"
+    ],
+	"m_PetClasses": [
+		"!bp_659c866f044198a4e88f22d51db2029c",
+		"!bp_de019f008304a2e4793668152bb6bb08",
+		"!bp_297c8ab5637e8cc4298b4d608b20a4a5",
+		"!bp_f4248bf69918b974c828a0d4c1fc2d9e"
+      ],
+	},
+	}

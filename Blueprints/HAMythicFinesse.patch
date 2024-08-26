@@ -1,0 +1,46 @@
+{
+
+"_#ArrayMergeSettings": "Merge",
+
+"Components": [
+{
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$4617a5b2-7392-42eb-bf60-5eea421129c8",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_90e54424d682d104ab36436bd527af09"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$e4cddd05-c3c5-40a8-8939-728746a616b7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_239fecb9fa950794885b53d5f359f0d7"
+      },
+	  {
+        "$type": "0a6535818f704782acf72f64022e5fe7, AnyWeaponDamageStatReplacement",
+        "m_Flags": 0,
+        "name": "$AnyWeaponDamageStatReplacement$796c502d-20f7-4933-aab5-ab9b1c85b29f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Stat": "Dexterity",
+        "OnlyMelee": true
+      }
+	  ]
+	}

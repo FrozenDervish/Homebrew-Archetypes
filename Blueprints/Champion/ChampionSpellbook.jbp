@@ -1,0 +1,43 @@
+{
+  "AssetId": "078b94b547ff9c0459a852b158cb3de1",
+  "Data": {
+    "$type": "a42bdead3c333d744a3f0354bbe6c27c, BlueprintSpellbook",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "Name": {
+      "m_Key": "HomebrewArchtypes_ChampionName",
+      "m_OwnerString": "078b94b547ff9c0459a852b158cb3de1",
+      "m_OwnerPropertyPath": "Name",
+      "m_JsonPath": ""
+    },
+    "IsMythic": false,
+    "m_SpellsPerDay": "!bp_9aed4803e424ae8429c392d8fbfb88ff",
+    "m_SpellsKnown": null,
+    "m_SpellSlots": null,
+    "m_SpellList": "!bp_9f5be2f7ea64fe04eb40878347b147bc",
+    "m_MythicSpellList": null,
+    "m_CharacterClass": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+    "CastingAttribute": "Charisma",
+    "Spontaneous": false,
+    "SpellsPerLevel": 0,
+    "AllSpellsKnown": true,
+    "CantripsType": "Orisions",
+    "CasterLevelModifier": -3,
+    "CanCopyScrolls": false,
+    "IsArcane": false,
+    "IsArcanist": false,
+    "HasSpecialSpellList": false,
+    "SpecialSpellListName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "AssetId": "68b30ed9b183f5f47966b7441dceb47e",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesAbility_NinjaTricks",
+      "m_OwnerString": "68b30ed9b183f5f47966b7441dceb47e",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesAbility_NinjaTricksDesc",
+      "m_OwnerString": "68b30ed9b183f5f47966b7441dceb47e",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "57a5e3232472df44bac5df62ed9f8cdd",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+	"ExceptWhiteListed": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "RogueTalent",
+	"Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_71f7d67595fae1c43a53c30b9b72bcdb",
+	  "!bp_5bc1cfb65543d4146a16d3ce63d9a44a",
+	  "!bp_7db8e9e8d94a01445a40b1e5806efa10",
+	  "!bp_3fee4b646f6121f4593e5c14d6070f2d",
+	  "!bp_c8000ff0d5889b84ba6738f8c575862b",
+	  "!bp_2668027b17d5e75489c150f630e21bee",
+	  "!bp_8dee1e886b22a4545bc19e4c0f005092",
+	  "!bp_90f5743d3909f8044a958c27aca56f5e",
+	  "!bp_cda901bde0f25c541b219ee4ae223755",
+	  "!bp_aac421ce03bb2c34e81ce6a03edc8400",
+	  "!bp_26f22646c0a1434419b02b49148b65e3",
+	  "!bp_90272ffd525589a48b7d5fd9d7480667",
+	  "!bp_16ed0cdd73b89904d89486abe22bfd1c",
+	  "!bp_7b97a86d988bbb5478fb7131f0cbd9ff",
+	  "!bp_f8c66524e0da6bb4e9ccb1655ea87c2a",
+	  "!bp_7dccb713c52d1c54d93c6e88232ec4d8",
+	  "!bp_6c3d0adfe3df9bb47b7d6217b1e888f9",
+	  "!bp_40dfd2781aed5594b849df68624e981b",
+	  "!bp_d501b279e9eb62d45beeb3265d8121ea",
+	  "!bp_a5aad1c134137314e8db9094ac6da438",
+	  "!bp_e803a65d7e485c143b96bc2e653926d5",
+	  "!bp_62cab32f65659ec4f9dad33c78bb6828",
+	  "!bp_56f2b29850accc742a5f51e6278fd458"
+    ],
+	"ShowThisSelection": false
+   },
+   "Meta": {
+    "ShadowDeleted": false
+  }
+}

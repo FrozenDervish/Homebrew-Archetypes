@@ -1,0 +1,106 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2000",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_c948f17302871f5428573630886fb612",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2001",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_e3ecf4c6731d39f47888214b2ea54f50",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2002",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_9783d2b9848db0f459efd38f72ae8361",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2003",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_c6d27b7894376db4e8de39f5eb3cdbc2",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2004",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_d71259ae788b96d4aa0311d0d97f6eea",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2005",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_11c3006a336f62e44afe3bf7037f9a76",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2006",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_56c2adb76ef5a0b48abad89737113702",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2007",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_3642ab9f37225d242bf275a9153b72c1",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      },
+	  {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$0eaf5638-071c-48ea-85b7-b2f31cfd2008",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_b25dd86b35cd8f8429b27c09b54b00ad",
+        "m_ExtraEffectBuff": "!bp_2ac1f04db1e7da34cab38a32f9794e28"
+      }
+    ],
+	}

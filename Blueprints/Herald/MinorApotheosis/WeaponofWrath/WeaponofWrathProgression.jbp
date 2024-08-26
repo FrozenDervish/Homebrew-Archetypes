@@ -1,0 +1,115 @@
+{
+  "AssetId": "4cf5bd4f83827924c9a0ec1be1d70e7c",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$86b59ea2-82e2-43f1-81e6-a19421d76daa",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_1837d0c4a2302824cbeaec9190c0db50"
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrath",
+      "m_OwnerString": "4cf5bd4f83827924c9a0ec1be1d70e7c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathDesc",
+      "m_OwnerString": "4cf5bd4f83827924c9a0ec1be1d70e7c",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "437fd3ba18904234696faf0f93c17aac",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": [],
+    "m_Classes": [
+      {
+        "m_Class": "!bp_c75c39413ea936d4cbff2912c845aa72",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_894e08a179394a546bea2737738cbd17"
+        ]
+      },
+      {
+        "Level": 5,
+        "m_Features": [
+          "!bp_e111cde75d0d45346b3fe52fdb92a536"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_7a848afb92875094e8ad83928774aa96"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_0f5a5265a83241b4f90cee1a7cc1dd0f"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_710a5e025869b774ab2f2f0fe972db8a"
+        ]
+      },
+      {
+        "Level": 17,
+        "m_Features": [
+          "!bp_0ea4bd293eff62c43af2e2019820ea82"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": true,
+    "m_FeaturesRankIncrease": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

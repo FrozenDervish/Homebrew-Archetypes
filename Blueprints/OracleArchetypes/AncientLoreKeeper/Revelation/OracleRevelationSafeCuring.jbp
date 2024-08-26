@@ -1,0 +1,87 @@
+{
+  "AssetId": "658cc1f9e63158444a3eced13c398d9b",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$IgnoreAttacksOfOpportunityForSpellList$c62a11dc-ac32-4c3c-b53d-43f705b3167e"
+    ],
+    "Components": [
+      {
+        "$type": "24d005ae28c58444bb8db4b94c9165cc, PrerequisiteFeaturesFromList",
+        "name": "$PrerequisiteFeaturesFromList$28b28e5c-b11d-4cbe-89df-332ed66f0547",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Features": [
+          "!bp_a5458a1c316d1f24e8d9770f4fc179fa",
+          "!bp_db8b731dfb6c9974b8bf67a19aefe225",
+          "!bp_45472076126dc154f9386b0bc4d8416c",
+		  "!bp_538d40ea9af6b4a4fb0c90aca7db8076"
+        ],
+        "Amount": 1
+      },
+      {
+        "$type": "1e9b95c1bf6717945ae03aaeeccc994d, IgnoreAttacksOfOpportunityForSpellList",
+        "name": "$IgnoreAttacksOfOpportunityForSpellList$c62a11dc-ac32-4c3c-b53d-43f705b3167e",
+        "m_Overrides": [],
+        "m_Abilities": [
+          "!bp_5590652e1c2225c4ca30c4a699ab3649",
+          "!bp_6b90c773a6543dc49b2505858ce33db5",
+          "!bp_3361c5df793b4c8448756146a88026ad",
+          "!bp_41c9016596fe1de4faf67425ed691203",
+          "!bp_5d3d689392e4ff740a761ef346815074",
+          "!bp_571221cc141bc21449ae96b3944652aa",
+          "!bp_0cea35de4d553cc439ae80b3a8724397",
+          "!bp_1f173a16120359e41a20fc75bb53d449",
+          "!bp_5da172c4c89f9eb4cbb614f3a67357d3",
+          "!bp_867524328b54f25488d371214eea0d90",
+          "!bp_d5847cad0b0e54c4d82d6c59a3cda6b0",
+          "!bp_788d72e7713cf90418ee1f38449416dc"
+        ],
+        "CheckSchool": false,
+        "School": "None",
+        "CheckDescriptor": false,
+        "SpellDescriptor": {
+          "m_IntValue": 0
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "6ba3c1ff-5366-48c5-9067-148e67ed6ac5",
+      "m_OwnerString": "3fa75c1a809882a4697db75daf8803e3",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Oracle/OracleRevelations/OracleRevelationSafeCuring_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "b0652ca9-fe81-4977-8b6f-21f1ff748fcc",
+      "m_OwnerString": "3fa75c1a809882a4697db75daf8803e3",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Oracle/OracleRevelations/OracleRevelationSafeCuring_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "DlcType": "None",
+    "Groups": [
+      "OracleRevelation"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": null
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "AssetId": "376c39d646708a04abe6df9a337c0cca",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$EmptyHandWeaponOverride$795d8fe9-0c4e-4660-a2b4-543be994be94"
+    ],
+    "Components": [
+      {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoFeature$f58750f5-ed4b-43f5-8cca-6a5a76ec26d5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_2d153d12aab2d1d47b8d1015f83f5894"
+      },
+	  {
+        "$type": "c931a94977f21cd44bd6de612544bf67, EmptyHandWeaponOverride",
+        "name": "$EmptyHandWeaponOverride$795d8fe9-0c4e-4660-a2b4-543be994be94",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Weapon": "!bp_118fdd03e569a66459ab01a20af6811a",
+        "IsPermanent": true,
+        "IsMonkUnarmedStrike": true
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HellcatAspectoftheBeastClawsoftheBeast",
+      "m_OwnerString": "376c39d646708a04abe6df9a337c0cca",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HellcatAspectoftheBeastClawsoftheBeastDesc",
+      "m_OwnerString": "376c39d646708a04abe6df9a337c0cca",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

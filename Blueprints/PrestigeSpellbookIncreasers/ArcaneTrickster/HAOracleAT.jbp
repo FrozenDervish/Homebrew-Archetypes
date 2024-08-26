@@ -1,0 +1,55 @@
+{
+  "AssetId": "68a7a59842d253b42a9df1b1ea323b74",
+  "Data": {
+    "$type": "43f1ee69992dc1848b97e623487f6442, BlueprintFeatureReplaceSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "34c98fa5c2369684aba66f3b11581388, PrerequisiteClassSpellLevel",
+        "name": "$PrerequisiteClassSpellLevel$85c9e0f2-97ce-4e3c-9808-402a1110e9a3",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_20ce9bf8af32bee4c8557a045ab499b1",
+        "RequiredSpellLevel": 1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ArcaneTricksterOracleSpellbook",
+      "m_OwnerString": "2a1ccbf877b923e44a4a5efd6bc29ce5",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ArcaneTricksterSpellbookSelectionDesc",
+      "m_OwnerString": "68a7a59842d253b42a9df1b1ea323b74",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": true,
+    "DlcType": "None",
+    "Groups": [
+      "ArcaneTricksterSpellbook"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Spellbook": "!bp_6c03364712b415941a98f74522a81273"
+  }
+}

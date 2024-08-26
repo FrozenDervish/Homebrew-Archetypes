@@ -1,0 +1,230 @@
+{
+
+"_#ArrayMergeSettings": "Replace",
+
+"Components": [
+      {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "name": "$AbilityResourceLogic$81bbc3bc-b822-41d9-b90e-fa72a1f38161",
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_3b163587f010382408142fc8a97852b6",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 1,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      },
+      {
+        "$type": "c788cf748ec86bc45b986ac4de28cf45, AbilitySpawnFx",
+        "name": "$AbilitySpawnFx$3ac43b20-ccc5-4c5e-9ab1-1cfffeaca491",
+        "m_Overrides": [],
+        "PrefabLink": {
+          "AssetId": "b5fc8209a9e75ff47acfd132540e0ba6"
+        },
+        "Time": "OnApplyEffect",
+        "Anchor": "Caster",
+        "WeaponTarget": "None",
+        "DestroyOnCast": false,
+        "Delay": 0.0,
+        "PositionAnchor": "None",
+        "OrientationAnchor": "None",
+        "OrientationMode": "Copy"
+      },
+      {
+        "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
+        "name": "$AbilityEffectRunAction$67afa7ce-6ea9-44cd-80f1-e0c1d7059d29",
+        "m_Overrides": [],
+        "SavingThrowType": "Unknown",
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+              "name": "$Conditional$f9cc37b8-6a38-494e-8c57-0f8507285f49",
+              "Comment": "",
+              "ConditionsChecker": {
+                "Operation": "And",
+                "Conditions": [
+                  {
+                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                    "name": "$ContextConditionHasFact$4afc2a4c-44c3-46b4-ae54-0698bc599ba7",
+                    "Not": false,
+                    "m_Fact": "!bp_75ba281feb2b96547a3bfb12ecaff052"
+                  }
+                ]
+              },
+              "IfTrue": {
+                "Actions": [
+                  {
+                    "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                    "name": "$ContextActionApplyBuff$d69654e9-52f1-4663-8ca6-58a0e4bde0f1",
+                    "m_Buff": "!bp_f2be3d538b5d75c409289d35399723c4",
+                    "Permanent": false,
+                    "UseDurationSeconds": false,
+                    "DurationValue": {
+                      "Rate": "Hours",
+                      "DiceType": "Zero",
+                      "DiceCountValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                      },
+                      "BonusValue": {
+                        "ValueType": "Rank",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                      },
+                      "m_IsExtendable": true
+                    },
+                    "DurationSeconds": 0.0,
+                    "IsFromSpell": false,
+                    "IsNotDispelable": false,
+                    "ToCaster": false,
+                    "AsChild": true,
+                    "SameDuration": false
+                  }
+                ]
+              },
+              "IfFalse": {
+                "Actions": [
+                  {
+                    "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                    "name": "$ContextActionApplyBuff$8c6064ad-b9b3-4403-943a-c1e55ba6dfa4",
+                    "m_Buff": "!bp_f2be3d538b5d75c409289d35399723c4",
+                    "Permanent": false,
+                    "UseDurationSeconds": false,
+                    "DurationValue": {
+                      "Rate": "TenMinutes",
+                      "DiceType": "Zero",
+                      "DiceCountValue": {
+                        "ValueType": "Simple",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                      },
+                      "BonusValue": {
+                        "ValueType": "Rank",
+                        "Value": 0,
+                        "ValueRank": "Default",
+                        "ValueShared": "Damage",
+                        "Property": "None",
+                        "m_CustomProperty": null
+                      },
+                      "m_IsExtendable": true
+                    },
+                    "DurationSeconds": 0.0,
+                    "IsFromSpell": false,
+                    "IsNotDispelable": false,
+                    "ToCaster": false,
+                    "AsChild": true,
+                    "SameDuration": false
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$type": "f76a531c7ae74454847a03a66acde435, AbilityCasterNotPolymorphed",
+        "name": "$AbilityCasterNotPolymorphed$5e850906-5af6-481c-97a5-0f6a4aeb36a9",
+        "m_Overrides": []
+      },
+      {
+        "$type": "0e059d6e61c843769f77ed36b3bf86b2, ActionPanelLogic",
+        "name": "$ActionPanelLogic$775a8580-9b24-4265-9cf4-2f6fed6dab4e",
+        "m_Overrides": [],
+        "Priority": 0,
+        "AutoFillConditions": {
+          "Operation": "And",
+          "Conditions": [
+            {
+              "$type": "c5dd77fc57484bbba4bbc75f37fff18a, ContextConditionCompare",
+              "name": "$ContextConditionCompare$11af8f1f-4d79-4111-94e0-94666695c8d4",
+              "Not": false,
+              "m_Type": "GreaterOrEqual",
+              "CheckValue": {
+                "ValueType": "CasterProperty",
+                "Value": 0,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "StatDexterity",
+                "m_CustomProperty": null
+              },
+              "TargetValue": {
+                "ValueType": "CasterProperty",
+                "Value": 0,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "StatStrength",
+                "m_CustomProperty": null
+              }
+            },
+            {
+              "$type": "c5dd77fc57484bbba4bbc75f37fff18a, ContextConditionCompare",
+              "name": "$ContextConditionCompare$c110dd49-b80a-44bd-9383-05c299c3b9c3",
+              "Not": false,
+              "m_Type": "GreaterOrEqual",
+              "CheckValue": {
+                "ValueType": "CasterProperty",
+                "Value": 0,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "StatDexterity",
+                "m_CustomProperty": null
+              },
+              "TargetValue": {
+                "ValueType": "CasterProperty",
+                "Value": 0,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "StatConstitution",
+                "m_CustomProperty": null
+              }
+            }
+          ]
+        },
+        "AutoCastConditions": {
+          "Operation": "And",
+          "Conditions": []
+        }
+      },
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "name": "$ContextRankConfig$aee31361-8a8b-4156-9813-05b2242ef0ac",
+        "m_Overrides": [],
+        "m_Type": "Default",
+        "m_BaseValueType": "SummClassLevelWithArchetype",
+        "m_Feature": null,
+        "m_FeatureList": [],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_Progression": "AsIs",
+        "m_CustomProgression": [],
+        "m_StartLevel": 0,
+        "m_StepLevel": 0,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": "!bp_758e0061a077e54409a3bf0eb51511e5",
+        "m_AdditionalArchetypes": [],
+        "m_Class": [
+          "!bp_48ac8db94d5de7645906c7d0ad3bcfbd",
+          "!bp_0937bec61c0dabc468428f496580c721",
+		  "!bp_adb9e138bee9ecc4db246b64d563f900"
+        ],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      }
+    ],
+	}

@@ -1,0 +1,180 @@
+{
+  "AssetId": "44b5854cb2e540f41bd7e0a2ac285efb",
+  "Data": {
+    "$type": "1585acbfcc93f0a439fa39dde12070c3, BlueprintSpellList",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "IsMythic": false,
+    "SpellsByLevel": [
+      {
+        "SpellLevel": 0,
+        "m_Spells": [
+          
+          "!bp_652739779aa05504a9ad5db1db6d02ae",
+          "!bp_0c852a2405dd9f14a8bbcfaf245ff823",
+          "!bp_97a23111df7547fd8f6417f9ba9b9775",
+          "!bp_7bc8e27cba24f0e43ae64ed201ad5785",
+          "!bp_5bf3315ce1ed4d94e8805706820ef64d"
+          
+        ]
+      },
+      {
+        "SpellLevel": 1,
+        "m_Spells": [
+          "!bp_9f10909f0be1f5141bf1c102041f93d9",
+          "!bp_f001c73999fb5a543a199f890108d936",
+          "!bp_91da41b9793a4624797921f221db653c",
+          "!bp_ef768022b0785eb43a18969903c537c4",
+          "!bp_95810d2829895724f950c8c4086056e7",
+          "!bp_2c38da66e5a599347ac95b3294acbe00",
+          "!bp_95851f6e85fe87d4190675db0419d112",
+          "!bp_450af0402422b0b4980d9c2175869612",
+		  "!bp_9e1ad5d6f87d19e4d8883d63a6e35568",
+		  "!bp_433b1faf4d02cc34abb0ade5ceda47c4",
+		  "!bp_fa3078b9976a5b24caf92e20ee9c0f54",
+		  "!bp_a5ec7892fb1c2f74598b3a82f3fd679f",
+		  "!bp_8fd74eddd9b6c224693d9ab241f25e84",
+		  "!bp_bd81a3931aa285a4f9844585b5d97e51"
+        ]
+      },
+      {
+        "SpellLevel": 2,
+        "m_Spells": [
+          "!bp_5181c2ed0190fc34b8a1162783af5bf4",
+          "!bp_9a46dfd390f943647ab4395fc997936d",
+          "!bp_ce7dad2b25acf85429b6c9550787b2d9",
+          "!bp_14ec7a4e52e90fa47a4c8d63c69fd5c1",
+          "!bp_3e4ab69ada402d145a5e0ad3ad4b8564",
+          "!bp_134cb6d492269aa4f8662700ef57449f",
+          "!bp_89940cde01689fb46946b2f8cd7b66b7",
+		  "!bp_46fd02ad56c35224c9c91c88cd457791",
+		  "!bp_b7731c2b4fa1c9844a092329177be4c3",
+		  "!bp_0b101dd5618591e478f825f0eef155b4",
+		  "!bp_29ccc62632178d344ad0be0865fd3113",
+		  "!bp_7a5b5bf845779a941a67251539545762",
+		  "!bp_dee3074b2fbfb064b80b973f9b56319e",
+		  "!bp_2cadf6c6350e4684baa109d067277a45",
+		  "!bp_c28de1f98a3f432448e52e5d47c73208",
+		  "!bp_21ffef7791ce73f468b6fca4d9371e8b",
+		  "!bp_08cb5f4c3b2695e44971bf5c45205df0",
+		  "!bp_30e5dc243f937fc4b95d2f8f4e1b7ff3",
+		  "!bp_82962a820ebc0e7408b8582fdc3f4c0c",
+		  "!bp_1724061e89c667045a6891179ee2e8e7",
+		  "!bp_970c6db48ff0c6f43afc9dbb48780d03"
+
+
+        ]
+      },
+      {
+        "SpellLevel": 3,
+        "m_Spells": [
+          "!bp_8a28a811ca5d20d49a863e832c31cce1",
+          "!bp_903092f6488f9ce45a80943923576ab3",
+          "!bp_68a9e6d7256f1354289a39003a46d826",
+          "!bp_92681f181b507b34ea87018e8f7a528a",
+          "!bp_8eead52509987034ea9025d60cc05985",
+		  "!bp_96c9d98b6a9a7c249b6c4572e4977157",
+		  "!bp_d2f116cfe05fcdd4a94e80143b67046f",
+		  "!bp_1a045f845778dc54db1c2be33a8c3c0a",
+		  "!bp_5d61dde0020bbf54ba1521f7ca0229dc",
+		  "!bp_46097f610219ac445b4d6403fc596b9f",
+		  "!bp_7bb0c402f7f789d4d9fae8ca87b4c7e2"
+        ]
+      },
+      {
+        "SpellLevel": 4,
+        "m_Spells": [
+          "!bp_4a648b57935a59547b7a2ee86fb4f26a",
+          "!bp_c66e86905f7606c4eaa5c774f0357b2b",
+          "!bp_6717dbaef00c0eb4897a1c908a75dfe5",
+          "!bp_ecaa0def35b38f949bd1976a6c9539e0",
+		  "!bp_b48674cef2bff5e478a007cf57d8345b",
+		  "!bp_989ab5c44240907489aba0a8568d0603",
+		  "!bp_48e2744846ed04b4580be1a3343a5d3d",
+		  "!bp_4b8265132f9c8174f87ce7fa6d0fe47b",
+		  "!bp_f2f1efac32ea2884e84ecaf14657298b",
+		  "!bp_7ed74a3ec8c458d4fb50b192fd7be6ef",
+		  "!bp_4b76d32feb089ad4499c3a1ce8e1ac27",
+		  "!bp_76a629d019275b94184a1a8733cac45e",
+		  "!bp_dc6af3b4fd149f841912d8a3ce0983de",
+		  "!bp_d2aeac47450c76347aebbc02e4f463e0",
+		  "!bp_84ccca10da2a4484c89a837fbea2a829",
+		  "!bp_48a555180a109e545a6e367b1bd3f535",
+		  "!bp_f34fb78eaaec141469079af124bcfa0f",
+		  "!bp_e42b1dbff4262c6469a9ff0a6ce730e3",
+		  "!bp_caac251ca7601324bbe000372a0a1005",
+		  "!bp_1407fb5054d087d47a4c40134c809f12",
+		  "!bp_ecaa0def35b38f949bd1976a6c9539e0"
+        ]
+      },
+      {
+        "SpellLevel": 5,
+        "m_Spells": [
+          "!bp_c543eef6d725b184ea8669dd09b3894c",
+          "!bp_a34921035f2a6714e9be5ca76c5e34b5",
+          "!bp_548d339ba87ee56459c98e80167bdf10",
+		  "!bp_7c5d556b9a5883048bf030e20daebe31",
+		  "!bp_89404dd71edc1aa42962824b44156fe5",
+		  "!bp_8878d0c46dfbd564e9d5756349d5e439",
+		  "!bp_7792da00c85b9e042a0fdfc2b66ec9a8",
+		  "!bp_265582bc494c4b12b5860b508a2f89a2",
+		  "!bp_f63f4d1806b78604a952b3958892ce1c",
+		  "!bp_237427308e48c3341b3d532b9d3a001f",
+		  "!bp_630c8b85d9f07a64f917d79cb5905741",
+		  "!bp_12fb4a4c22549c74d949e2916a2f0b6a",
+		  "!bp_1cde0691195feae45bab5b83ea3f221e",
+		  "!bp_8fb1a1670b6e1f84b89ea846f589b627",
+		  "!bp_95f7cdcec94e293489a85afdf5af1fd7"
+        ]
+      },
+      {
+        "SpellLevel": 6,
+        "m_Spells": [
+          "!bp_f0f761b808dc4b149b08eaf44b99f633",
+          "!bp_4cf3d0fae3239ec478f51e86f49161cb",
+          "!bp_dbf99b00cd35d0a4491c6cc9e771b487",
+		  "!bp_f8cea58227f59c64399044a82c9735c4",
+		  "!bp_e740afbab0147944dab35d83faa0ae1c",
+		  "!bp_a9a52760290591844a96d0109e30e04d",
+		  "!bp_a89dcbbab8f40e44e920cc60636097cf",
+		  "!bp_d42c6d3f29e07b6409d670792d72bc82",
+		  "!bp_766ec978fa993034f86a372c8eb1fc10",
+		  "!bp_1f2e6019ece86d64baa5effa15e81ecc",
+		  "!bp_3167d30dd3c622c46b0c0cb242061642",
+		  "!bp_76a11b460be25e44ca85904d6806e5a3"
+        ]
+      },
+      {
+        "SpellLevel": 7,
+        "m_Spells": []
+      },
+      {
+        "SpellLevel": 8,
+        "m_Spells": []
+      },
+      {
+        "SpellLevel": 9,
+        "m_Spells": []
+      },
+      {
+        "SpellLevel": 10,
+        "m_Spells": []
+      }
+    ],
+    "m_FilteredList": null,
+    "FilterByMaxLevel": 0,
+    "FilterByDescriptor": false,
+    "Descriptor": {
+      "m_IntValue": 0
+    },
+    "FilterBySchool": true,
+    "ExcludeFilterSchool": false,
+    "FilterSchool": "None",
+    "FilterSchool2": "None"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "AssetId": "a9babe3e91da1634e8fd59987d7f8827",
+  "Data": {
+    "$type": "19be5dcf539a404487f98692dc73d872, BlueprintUnitProperty",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "ff4aefe58f61be7458fdb537e9a68945, SummClassLevelGetter",
+        "name": "$SummClassLevelGetter$312aef45-eab4-422b-89d5-d614cb10b2bb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Settings": {
+          "m_Progression": "StartPlusDivStep",
+          "m_CustomProgression": [],
+          "m_StartLevel": 10,
+          "m_StepLevel": 5,
+          "m_Negate": false
+        },
+        "m_Class": [
+          "!bp_f1a70d9e1b0b41e49874e1fa9052a1ce"
+        ],
+        "Archetype": null,
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "BaseValue": 0
+  }
+}

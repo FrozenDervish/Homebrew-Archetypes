@@ -1,0 +1,81 @@
+{
+  "AssetId": "81b61234b82dbcf4ab1e323709712632",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalker",
+      "m_OwnerString": "81b61234b82dbcf4ab1e323709712632",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": ""
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDesc",
+      "m_OwnerString": "81b61234b82dbcf4ab1e323709712632",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": ""
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": true,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_103a623930c31ed4aaa83ee34b277505",
+		  "!bp_20f615fdc424e68409c493aeaa2d3284",
+		  "!bp_f5a620e2a4d89564492a648a709568d7"
+        ]
+      },
+	  {
+        "Level": 14,
+        "m_Features": [
+          "!bp_4744f2cb9ea50f44491c1328dc8bd06a"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+		  "!bp_981def910b98200499c0c8f85a78bde8",
+		  "!bp_a6d917fd5c9bee0449bd01c92e3b0308"
+        ]
+      },
+	  {
+        "Level": 14,
+        "m_Features": [
+		  "!bp_374a73288a36e2d4f9e54c75d2e6e573"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

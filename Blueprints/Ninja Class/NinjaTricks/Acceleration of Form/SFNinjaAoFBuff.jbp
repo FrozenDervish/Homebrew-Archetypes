@@ -1,0 +1,188 @@
+{
+  "AssetId": "12a1c9c457dd3694baad67157ed0db45",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$TargetConcealment$834bf2b7-032e-4968-a04e-957f5a2a86a9",
+      "$TargetConcealment$588f117f-167d-4cf2-a8d2-469cadead589",
+      "$AddConcealment$f63b4abf-5709-49a6-b559-892df44180e4",
+      "$FormationACBonus$c07c3009-a2ff-40fd-8d08-579eb470dbd7",
+	  "$AddStatBonus$904add4b-db59-4639-bc24-1a25f2cd3ced",
+      "$AddStatBonus$48e82514-02f8-48d5-9d8c-6dc37cf84c82",
+      "$AddStatBonus$114eb6ac-57d8-4087-a4e2-32e760feaed0",
+      "$BuffExtraAttack$9807dff8-a694-45bf-9b62-fa41ca03f96d",
+      "$BuffMovementSpeed$de38c0a5-8395-4f86-a22b-ccf869d155a2",
+      "$AddStatBonus$d10a4b69-2641-4116-b408-ed5b82a46046",
+      "$AttackBonusAgainstCaster$367d44d7-6148-48ec-9ccc-621ddca8c4ac",
+      "$AddSpecificSpellImmunity$a3cb9385-d142-4b35-9574-11e7b93ea86f"
+    ],
+    "Components": [
+      {
+        "$type": "c710f226e81f95242bff17f7ac9783fe, AddConcealment",
+        "m_Flags": 0,
+        "name": "$AddConcealment$f63b4abf-5709-49a6-b559-892df44180e4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "Displacement",
+        "Concealment": "Total",
+        "CheckWeaponRangeType": false,
+        "RangeType": "Melee",
+        "CheckDistance": false,
+        "DistanceGreater": {
+          "m_Value": 0.0
+        },
+        "OnlyForAttacks": true
+      },
+      {
+        "$type": "f3cc5f2495104a1ca5dc2e0a30183e06, FormationACBonus",
+        "m_Flags": 0,
+        "name": "$FormationACBonus$c07c3009-a2ff-40fd-8d08-579eb470dbd7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "UnitProperty": false,
+        "Bonus": 3,
+        "m_Property": null,
+        "m_IgnoreIfHasAnyFact": []
+      },
+	  {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$904add4b-db59-4639-bc24-1a25f2cd3ced",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "Dodge",
+        "Stat": "AC",
+        "Value": 1,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$48e82514-02f8-48d5-9d8c-6dc37cf84c82",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "Dodge",
+        "Stat": "SaveReflex",
+        "Value": 1,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "m_Flags": 0,
+        "name": "$AddStatBonus$114eb6ac-57d8-4087-a4e2-32e760feaed0",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "AdditionalAttackBonus",
+        "Value": 1,
+        "ScaleByBasicAttackBonus": false
+      },
+      {
+        "$type": "853cad01823c4104da3a3f14d0f301e4, BuffExtraAttack",
+        "m_Flags": 0,
+        "name": "$BuffExtraAttack$9807dff8-a694-45bf-9b62-fa41ca03f96d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Number": 1,
+        "Haste": true
+      },
+      {
+        "$type": "cefaecfa273585b4a90126ba985bb9cd, BuffMovementSpeed",
+        "m_Flags": 0,
+        "name": "$BuffMovementSpeed$de38c0a5-8395-4f86-a22b-ccf869d155a2",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "Enhancement",
+        "Value": 30,
+        "ContextBonus": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "CappedOnMultiplier": true,
+        "MultiplierCap": 2.0,
+        "CappedMinimum": false,
+        "MinimumCap": 0
+      },
+      {
+        "$type": "6e30704b447c407a9ca5623a0afb8939, ChangeImpatience",
+        "m_Flags": 0,
+        "name": "$ChangeImpatience$5bba71cf-985f-4f1c-b109-a6e9e09494b0",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Delta": 1
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesNinjaTrick_AccelerationofForm",
+      "m_OwnerString": "12a1c9c457dd3694baad67157ed0db45",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesNinjaTrick_AccelerationofFormDesc",
+      "m_OwnerString": "12a1c9c457dd3694baad67157ed0db45",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "0e9aad1d215cab248a820b46c26c82df",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": "",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "c2890371790d5ea46a974c7a3ba399e4"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "ea8ddc3e798aa25458e2c8a15e484c68"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

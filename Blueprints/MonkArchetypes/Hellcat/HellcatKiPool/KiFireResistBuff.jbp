@@ -1,0 +1,122 @@
+{
+  "AssetId": "cd65bcee9c591644182ffae393bc7331",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$ContextRankConfig$74ddfcc0-d0ff-4735-9f6a-831df6a2d2fc",
+      "$AddDamageResistanceEnergy$c0b54037-87ab-4f09-95b4-1f27427a8405"
+    ],
+    "Components": [
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "name": "$ContextRankConfig$74ddfcc0-d0ff-4735-9f6a-831df6a2d2fc",
+        "m_Overrides": [],
+        "m_Type": "Default",
+        "m_BaseValueType": "FeatureRank",
+        "m_Feature": "!bp_b1f6e79b7be116d46b70ff6087d02b29",
+        "m_FeatureList": [],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_Progression": "MultiplyByModifier",
+        "m_CustomProgression": [
+          {
+            "BaseValue": 7,
+            "ProgressionValue": 1
+          },
+          {
+            "BaseValue": 10,
+            "ProgressionValue": 2
+          },
+          {
+            "BaseValue": 14,
+            "ProgressionValue": 4
+          }
+        ],
+        "m_StartLevel": 0,
+        "m_StepLevel": 5,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": null,
+        "m_AdditionalArchetypes": [],
+        "m_Class": [
+          "!bp_e8f21e5b58e0569468e420ebea456124"
+        ],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      },
+      {
+        "$type": "28c478c0c3f715e43bef94a3a6f8b8bc, AddDamageResistanceEnergy",
+        "name": "$AddDamageResistanceEnergy$c0b54037-87ab-4f09-95b4-1f27427a8405",
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Rank",
+          "Value": 5,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "UsePool": false,
+        "Pool": {
+          "ValueType": "Simple",
+          "Value": 12,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "Type": "Fire",
+        "UseValueMultiplier": false,
+        "ValueMultiplier": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HellcatKiFireResist",
+      "m_OwnerString": "cd65bcee9c591644182ffae393bc7331",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HellcatKiFireResistDesc",
+      "m_OwnerString": "cd65bcee9c591644182ffae393bc7331",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "8044829fbaea2654ea08d7fa0f9fd98a",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

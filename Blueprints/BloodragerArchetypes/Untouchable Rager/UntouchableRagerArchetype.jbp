@@ -1,0 +1,68 @@
+{
+  "AssetId": "f3e7e060560b5524f80546ba415bc029",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_UntouchableRager",
+      "m_OwnerString": "f3e7e060560b5524f80546ba415bc029",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_UntouchableRagerDesc",
+      "m_OwnerString": "f3e7e060560b5524f80546ba415bc029",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": true,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_6adefc6c2b1289b4cbda4a820cbc0425"
+        ]
+      },
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_7c97a017c8fbfea4b9685d40b7a5d20e"
+        ]
+      }
+    ],
+    "RemoveFeatures": [],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

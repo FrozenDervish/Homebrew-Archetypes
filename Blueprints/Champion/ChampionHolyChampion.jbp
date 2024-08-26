@@ -1,0 +1,99 @@
+{
+  "AssetId": "6bcb19073dc7e7649b29cd9d05b68064",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "c4475440f92900445aefbb18cfd9215e, AddDamageResistancePhysical",
+        "name": "$AddDamageResistance$5cb1cb45-a4fc-4355-9466-daccbf786e9c",
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 10,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "UsePool": false,
+        "Pool": {
+          "ValueType": "Simple",
+          "Value": 12,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "Or": false,
+        "BypassedByMaterial": false,
+        "Material": "Adamantite",
+        "BypassedByForm": false,
+        "Form": 0,
+        "BypassedByMagic": false,
+        "MinEnhancementBonus": 1,
+        "BypassedByAlignment": true,
+        "Alignment": "Evil",
+        "BypassedByReality": false,
+        "Reality": "Ghost",
+        "BypassedByWeaponType": false,
+        "m_WeaponType": null,
+        "BypassedByMeleeWeapon": false,
+        "BypassedByEpic": false,
+        "m_CheckedFactMythic": null
+      },
+      {
+        "$type": "b51a712035f3d98459e516a34fda37bf, AutoMetamagic",
+        "name": "$AutoMetamagicOnSpellList$dec6c702-4718-43d2-ac5d-c379f20f3170",
+        "m_Overrides": [],
+        "m_AllowedAbilities": "Any",
+        "Metamagic": "Maximize",
+        "Abilities": [
+          "!bp_bde811d98e983d64ea76073d435f42d3",
+          "!bp_be5d870690f74204f864ad00bd724910",
+          "!bp_3dc2eb89367127846bce610b63ef8b2b",
+          "!bp_d1dc849241227d24780f2c1db23602d4"
+        ],
+        "Descriptor": {
+          "m_IntValue": 0
+        },
+        "Once": false,
+        "MaxSpellLevel": 0,
+        "School": "None",
+        "CheckSpellbook": false,
+        "m_Spellbook": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "90a02caf-465d-4c9f-a652-02cae6a4dd70",
+      "m_OwnerString": "6bcb19073dc7e7649b29cd9d05b68064",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Paladin/HolyChampion_m_DisplayName.json"
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ChampionHolyChampionDesc",
+      "m_OwnerString": "6bcb19073dc7e7649b29cd9d05b68064",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

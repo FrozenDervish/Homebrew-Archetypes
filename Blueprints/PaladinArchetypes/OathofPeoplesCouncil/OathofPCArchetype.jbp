@@ -1,0 +1,203 @@
+{
+  "AssetId": "2e2567d54e32a754c8f00981e6cf924d",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeOathofPeoplesCouncil",
+      "m_OwnerString": "2e2567d54e32a754c8f00981e6cf924d",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeOathofPeoplesCouncilDesc",
+      "m_OwnerString": "2e2567d54e32a754c8f00981e6cf924d",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_df94b4f4fabdd194f8527cfdca08fa51",
+		  "!bp_966dc295375c1f04ca9a9af08138e94c",
+		  "!bp_1db65089e8d83ae42b3f0357beb659fd",
+		  "!bp_5007f3fad47643244b61ac2b70dfbea8"
+        ]
+      },
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_234300b2043858241b7c78d28ea01923"
+        ]
+      },
+	  {
+        "Level": 5,
+        "m_Features": [
+          "!bp_df94b4f4fabdd194f8527cfdca08fa51",
+		  "!bp_3b17e5f948c8d8149b5cf26280958d96"
+        ]
+      },
+	  {
+        "Level": 7,
+        "m_Features": [
+          "!bp_3b17e5f948c8d8149b5cf26280958d96",
+		  "!bp_36931765983e96d4bb07ce7844cd897e"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_1d48ab2bded57a74dad8af3da07d313a"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_df94b4f4fabdd194f8527cfdca08fa51",
+		  "!bp_3b17e5f948c8d8149b5cf26280958d96"
+        ]
+      },
+	  {
+        "Level": 13,
+        "m_Features": [
+          "!bp_9ae0f32c72f8df84dab023d1b34641dc",
+		  "!bp_fd4ec50bc895a614194df6b9232004b9"
+        ]
+      },
+	  {
+        "Level": 15,
+        "m_Features": [
+          "!bp_3b17e5f948c8d8149b5cf26280958d96"
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_206306d81f1c4e44794f349863935c52"
+        ]
+      },
+	  {
+        "Level": 17,
+        "m_Features": [
+          "!bp_df94b4f4fabdd194f8527cfdca08fa51"
+        ]
+      },
+	  {
+        "Level": 19,
+        "m_Features": [
+          "!bp_3b17e5f948c8d8149b5cf26280958d96"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_b67c97f56fc9c5a4681afda0838f4250"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_3a6db57fce75b0244a6a5819528ddf26"
+        ]
+      },
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+	  {
+        "Level": 7,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_9f13fdd044ccb8a439f27417481cb00e"
+        ]
+      },
+	  {
+        "Level": 13,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+	  {
+        "Level": 19,
+        "m_Features": [
+          "!bp_0f5c99ffb9c084545bbbe960b825d137"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_eff3b63f744868845a2f511e9929f0de"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 411,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": true,
+    "ClassSkills": [
+	  "SkillKnowledgeWorld",
+      "SkillLoreNature",
+      "SkillPersuasion",
+      "SkillKnowledgeArcana",
+      "SkillLoreReligion",
+	  "SkillPerception"
+	],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [
+      "Strength",
+      "Charisma"
+    ],
+    "NotRecommendedAttributes": [
+      "Intelligence",
+      "Wisdom"
+    ],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

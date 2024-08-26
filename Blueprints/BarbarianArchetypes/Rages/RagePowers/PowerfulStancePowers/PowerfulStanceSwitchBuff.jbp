@@ -1,0 +1,61 @@
+{
+  "AssetId": "3503190af25065d40b6301c780025bb7",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$BuffExtraEffects$e5d6bebf-5885-438a-8ce3-2f5bb4e25dd2"
+    ],
+    "Components": [
+      {
+        "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+        "name": "$BuffExtraEffects$e5d6bebf-5885-438a-8ce3-2f5bb4e25dd2",
+        "m_Overrides": [],
+        "m_CheckedBuff": "!bp_8d1b293062b5b3e44b0948228a74b283",
+        "m_ExtraEffectBuff": "!bp_407ca00490643044cb05399f62d5673d"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "34a62a87abca96d49b6db89a170d48f3",
+        "stringkey": "bba5b798-d4db-4ff5-868b-6c1a77d3641f"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "12309feacb86a7e4dba63469d28f87de",
+        "stringkey": "89d5baf1-2268-4798-b16a-82c1638c4534"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "3e226b19d88198345a011ffd463904d4",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

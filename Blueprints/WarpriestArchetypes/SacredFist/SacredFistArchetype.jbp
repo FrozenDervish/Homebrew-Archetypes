@@ -1,0 +1,259 @@
+{
+  "AssetId": "ff871d73cf7e81a469a1f9ae9488e428",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_WarpriestSacredFist",
+      "m_OwnerString": "ff871d73cf7e81a469a1f9ae9488e428",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_WarpriestSacredFistDesc",
+      "m_OwnerString": "ff871d73cf7e81a469a1f9ae9488e428",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_a1bcbbc88b203a44e88d061236aa9ecc",
+		  "!bp_6072cd8a4ce15094abb01542039d6709",
+		  "!bp_4e7292c642a69fe49b350bd93f7e9b46",
+		  "!bp_7812ad3672a4b9a4fb894ea402095167",
+		  "!bp_789559c857bd882438357cb5782deadb",
+		  "!bp_cab28be974319f942931feb507ac0717"
+        ]
+      },
+	  {
+        "Level": 3,
+        "m_Features": [
+          "!bp_ed1e2b3ac8bae3249af80f0725896558"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_7bc6a93f6e48eff49be5b0cde83c9450",
+		  "!bp_1188005ee3160f84f8bed8b19a7d46cf"
+        ]
+      },
+	  {
+        "Level": 7,
+        "m_Features": [
+          "!bp_29d8da445ee08ba409d9b7057986e7e7"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          
+        ]
+      },
+	  {
+        "Level": 9,
+        "m_Features": [
+          "!bp_8c69b7b5f7de4244da33484207d6095f"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_7b657938fde78b14cae10fc0d3dcb991"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_a34b8a9fcc9024b42bacfd5e6b614bfa"
+        ]
+      },
+      {
+        "Level": 12,
+        "m_Features": [
+		  "!bp_7bc6a93f6e48eff49be5b0cde83c9450"
+        ]
+      },
+	  {
+        "Level": 13,
+        "m_Features": [
+          "!bp_34439e527a8f5fb4588024e71960dd42"
+        ]
+      },
+      {
+        "Level": 16,
+        "m_Features": [
+          
+        ]
+      },
+	  {
+        "Level": 18,
+        "m_Features": [
+          "!bp_7bc6a93f6e48eff49be5b0cde83c9450"
+        ]
+      },
+	  {
+        "Level": 19,
+        "m_Features": [
+          "!bp_ddc10a3463bd4d54dbcbe993655cf64e"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_ac384183dbfbbd7499410a21d749bef1",
+		  "!bp_ad29d445f1534474db8295a61e42d08b",
+		  "!bp_8eb5505ae69cc174fb1781134f949e5f"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_303fd456ddb14437946e344bad9a893b"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_6db4ccce643b7b2468717effb303afcf"
+        ]
+      },
+	  {
+        "Level": 6,
+        "m_Features": [
+          "!bp_303fd456ddb14437946e344bad9a893b"
+        ]
+      },
+	  {
+        "Level": 7,
+        "m_Features": [
+          "!bp_35e2d9525c240ce4c8ae47dd387b6e53"
+        ]
+      },
+	  {
+        "Level": 8,
+        "m_Features": [
+          "!bp_4ee3e74f79d5e4f47b7a0091984b2518"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_303fd456ddb14437946e344bad9a893b"
+        ]
+      },
+	  {
+        "Level": 10,
+        "m_Features": [
+          "!bp_ec327c67f6a6b2f49a8ca218466a8818"
+        ]
+      },
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_303fd456ddb14437946e344bad9a893b",
+		  "!bp_bc1a85932b7d82f49852d6ded3049837"
+        ]
+      },
+	  {
+        "Level": 13,
+        "m_Features": [
+          "!bp_bd292463fa74d664086f0a3e4e425c47"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_ee65ff63443ce42488515db6a43fee5e",
+		  "!bp_b7295813f02c8be45a6e1fce541584df"
+        ]
+      },
+	  {
+        "Level": 18,
+        "m_Features": [
+          "!bp_303fd456ddb14437946e344bad9a893b"
+        ]
+      },
+	  {
+        "Level": 19,
+        "m_Features": [
+          "!bp_1e560784dfcb00f4da1415bbad3226c3"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_5fffe6a74adb1b742a8ebf64b8bb90fb"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": true,
+    "StartingGold": 0,
+    "m_StartingItems": [
+      "!bp_afbe88d27a0eb544583e00fa78ffb2c7"
+    ],
+    "ReplaceClassSkills": true,
+    "ClassSkills": [
+      "SkillMobility",
+      "SkillAthletics",
+      "SkillPersuasion",
+      "SkillLoreNature",
+      "SkillKnowledgeWorld",
+      "SkillLoreReligion",
+      "SkillPerception",
+      "SkillKnowledgeArcana",
+      "SkillStealth"
+    ],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 1,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "AssetId": "39792fbf287b2084c8ce2cff9519fae3",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+       {
+        "$type": "c93c53641ec44d3d847f2b2d499c62c5, ChangeOutgoingDamageType",
+        "m_Flags": 0,
+        "name": "$ChangeOutgoingDamageType$55fb1d5a-e021-4847-aaf2-ca28c7b9a232",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Type": {
+          "Type": "Energy",
+          "Common": {
+            "Reality": 0,
+            "Alignment": 0,
+            "Precision": false
+          },
+          "Physical": {
+            "Material": 0,
+            "Form": "Slashing",
+            "Enhancement": 0,
+            "EnhancementTotal": 0
+          },
+          "Energy": "Fire"
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonEpicofElementsFire",
+      "m_OwnerString": "39792fbf287b2084c8ce2cff9519fae3",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassSermonEpicofElementsDesc",
+      "m_OwnerString": "39792fbf287b2084c8ce2cff9519fae3",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "4779f6a43ff55624c8a0728ee51f603a",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "c7e1609eb3da9f446bc4a69622c486dc"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": [
+      "c7e1609eb3da9f446bc4a69622c486dc"
+    ]
+  }
+}

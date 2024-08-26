@@ -1,0 +1,41 @@
+{
+  "AssetId": "e6fdcf3ae6f760b448af374560e00d60",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "0fe32135-81cb-47c4-9ab0-763a0f54ba27",
+      "m_OwnerString": "e6fdcf3ae6f760b448af374560e00d60",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Monk/MonkUnarmedStrike_m_DisplayName.json",
+      
+    },
+    "m_Description": {
+      "m_Key": "1a676736-29ad-420e-949d-c3dc4f6c9a5e",
+      "m_OwnerString": "e6fdcf3ae6f760b448af374560e00d60",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Monk/MonkUnarmedStrike_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

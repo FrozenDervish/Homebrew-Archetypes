@@ -1,0 +1,115 @@
+{
+  "AssetId": "659c866f044198a4e88f22d51db2029c",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "name": "$PrerequisiteIsPet$54da6094-ffbd-4e3c-a97e-e365277d593d",
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Not": false
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$04eb5f32-c8aa-452e-b4d8-a09e86487b1b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_8a099bdd0e1411742ada04c93264ff3f"
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$4a3fa92c-7284-48e9-9145-b33e60176b44",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_455ac88e22f55804ab87c2467deff1d6"
+      },
+	  {
+        "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
+        "name": "$PrerequisiteNoFeature$4a3fa92c-7284-48e9-9145-b33e60176b45",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a95311b3dc996964cbaa30ff9965aaf6"
+      }
+	],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_UndeadClassArchetypesFighter",
+      "m_OwnerString": "659c866f044198a4e88f22d51db2029c",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_UndeadClassArchetypesFighterDesc",
+      "m_OwnerString": "659c866f044198a4e88f22d51db2029c",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "SkillPoints": 2,
+    "HitDie": "D10",
+    "HideIfRestricted": true,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "DlcType": "None",
+    "m_BaseAttackBonus": "!bp_b3057560ffff3514299e8b93e7648a9d",
+    "m_FortitudeSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_ReflexSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_WillSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_Progression": "!bp_fa31114bdd3cccf4eaf3259944cb2aed",
+    "m_Spellbook": null,
+    "ClassSkills": [
+	  "SkillAthletics",
+	  "SkillKnowledgeWorld",
+	  "SkillLoreNature",
+	  "SkillPersuasion"
+	],
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [],
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "PrimaryColor": 0,
+    "SecondaryColor": 0,
+    "m_EquipmentEntities": [],
+    "MaleEquipmentEntities": [],
+    "FemaleEquipmentEntities": [],
+    "m_Difficulty": 1,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_DefaultBuild": null,
+    "m_AdditionalVisualSettings": null
+  }
+}

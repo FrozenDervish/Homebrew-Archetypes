@@ -1,0 +1,57 @@
+{
+  "AssetId": "430f1d5960406184bba0802c27074782",
+  "Data": {
+    "$type": "ca24785c24384d142a6c22d7585bb3a6, BlueprintWeaponEnchantment",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+        "m_Flags": 0,
+        "name": "$AddMechanicsFeature$4e0e5df0-e8e4-4100-bb81-a54dceffe5d9",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "LingeringPerformance"
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_EnchantName": {
+      "m_Key": "HomebrewArchtypes_SarenraeSword5LingeringSong",
+      "m_OwnerString": "430f1d5960406184bba0802c27074782",
+      "m_OwnerPropertyPath": "m_EnchantName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_SarenraeSword5LingeringSongDesc",
+      "m_OwnerString": "430f1d5960406184bba0802c27074782",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_Prefix": {
+      "m_Key": "HomebrewArchtypes_SarenraeSword5LingeringSong",
+      "m_OwnerString": "430f1d5960406184bba0802c27074782",
+      "m_OwnerPropertyPath": "m_Prefix",
+      "m_JsonPath": "",
+      
+    },
+    "m_Suffix": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_EnchantmentCost": 1,
+    "m_IdentifyDC": 5,
+    "WeaponFxPrefab": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

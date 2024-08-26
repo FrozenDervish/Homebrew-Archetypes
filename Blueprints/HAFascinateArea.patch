@@ -1,0 +1,15 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "d2dda0ee3bdd96d4dbb27cdb0640facb, ContextCalculateAbilityParamsBasedOnClass",
+        "name": "$ContextCalculateBasedOnClass$f746b4e2-0a8f-455d-a794-b2965555bc67",
+        "m_Overrides": [],
+        "UseKineticistMainStat": false,
+        "StatType": "Charisma",
+        "m_CharacterClass": "!bp_bfa11238e7ae3544bbeb4d0b92e897ec"
+      }
+    ],
+	}

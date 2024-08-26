@@ -1,0 +1,68 @@
+{
+  "AssetId": "98a0a31966ea0bc40a94b7b9cc005287",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+      "$PrerequisiteNoArchetype$ef096113-3db3-4b79-8f7d-7877a1937a47"
+    ],
+    "Components": [
+      {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_bfa11238e7ae3544bbeb4d0b92e897ec",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_9e1ad5d6f87d19e4d8883d63a6e35568",
+        "m_Archetype": null
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "ff8de68e19bd04c428c009a3f1bf6a56",
+        "stringkey": "663dc4a6-f79d-45d9-a91a-917a3140dc51"
+      }
+    },
+    "m_Description": {
+      "m_Key": "a9b992bc-6391-493b-8de9-66d6859e80bd",
+      "m_OwnerString": "7d6a30b40a950434ba19b9561e81313b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Sorcerer/DraconicBloodline/BloodlineDraconicSpellLevel1_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "d539b4dbcdf2b494a9b550c65ddb7179",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

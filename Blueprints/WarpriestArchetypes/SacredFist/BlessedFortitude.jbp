@@ -1,0 +1,53 @@
+{
+  "AssetId": "ed1e2b3ac8bae3249af80f0725896558",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$Evasion$ec84f562-6fc6-4367-a77c-6df3642ea7cf"
+    ],
+    "Components": [
+      {
+        "$type": "74d82bf729940b04da45d841b7b171f9, Evasion",
+        "name": "$Evasion$ec84f562-6fc6-4367-a77c-6df3642ea7cf",
+        "m_Overrides": [],
+        "SavingThrow": "Fortitude"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_WarpriestSacredFistBlessedFortitude",
+      "m_OwnerString": "ed1e2b3ac8bae3249af80f0725896558",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_WarpriestSacredFistBlessedFortitudeDesc",
+      "m_OwnerString": "ed1e2b3ac8bae3249af80f0725896558",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_8c69b7b5f7de4244da33484207d6095f"
+    ]
+  }
+}

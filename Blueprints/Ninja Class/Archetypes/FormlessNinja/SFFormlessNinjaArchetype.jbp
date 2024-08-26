@@ -1,0 +1,159 @@
+{
+  "AssetId": "e9df9f6bc527b8a44bdb7f64b402f1f8",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	{
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$6a97d159-fa49-434d-af4c-89336b9b6cf6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": true,
+        "HideInUI": false,
+        "m_Feature": "!bp_fd188bb7bb0002e49863aec93bfb9d99"
+      }
+	],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "SwarmFilesNinjaArchetype_FormlessNinja",
+      "m_OwnerString": "e9df9f6bc527b8a44bdb7f64b402f1f8",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "SwarmFilesNinjaArchetype_FormlessNinjaDesc",
+      "m_OwnerString": "e9df9f6bc527b8a44bdb7f64b402f1f8",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": true,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          
+        ]
+      },
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_eff508cbeb115bb47ae0dbcb875f93c6"
+        ]
+      },
+	  {
+        "Level": 8,
+        "m_Features": [
+          "!bp_f0adacc30f040ea4dbaa140cc66d0bbb"
+        ]
+      },
+	  {
+        "Level": 12,
+        "m_Features": [
+          "!bp_d6e3d35c2d2f09949a37d4089083d057"
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_674df333e8b50064092685ae6795d683"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_83887cab9580e9b4dbbde4484c68a497"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+	{
+        "Level": 1,
+        "m_Features": [
+          "!bp_74c1ce161d447c045b31288a1e9c3a03"
+        ]
+      },
+	  {
+        "Level": 4,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 8,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 12,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 16,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      },
+	  {
+        "Level": 20,
+        "m_Features": [
+          "!bp_68b30ed9b183f5f47966b7441dceb47e"
+        ]
+      }
+	],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 411,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": true,
+    "ClassSkills": [
+      "SkillMobility",
+      "SkillAthletics",
+      "SkillPersuasion",
+      "SkillThievery",
+      "SkillKnowledgeWorld",
+      "SkillPerception",
+      "SkillStealth",
+      "SkillUseMagicDevice",
+      "SkillKnowledgeArcana"
+    ],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": true,
+    "RecommendedAttributes": [
+      "Charisma",
+      "Dexterity"
+    ],
+    "NotRecommendedAttributes": [
+      "Wisdom",
+      "Strength"
+    ],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 5
+  }
+}

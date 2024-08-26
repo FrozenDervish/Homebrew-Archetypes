@@ -1,0 +1,147 @@
+{
+  "AssetId": "216664b86ded2844d923ba1e4675fda4",
+  "Data": {
+    "$type": "c00f723cccf2d314198c42a572c631fd, BlueprintItemWeapon",
+    "PrototypeLink": null,
+    "m_Overrides": [
+	  "$EquipmentRestrictionAlignment$6c2a98c4-2caa-4cdd-bee2-a504188d1aac"
+	],
+    "Components": [
+	  {
+        "$type": "08afc7371c0fee043bae76157387748c, EquipmentRestrictionAlignment",
+        "name": "$EquipmentRestrictionAlignment$6c2a98c4-2caa-4cdd-bee2-a504188d1aac",
+        "m_Overrides": [],
+        "Alignment": "Good"
+      },
+	  {
+        "$type": "43f625560fee8c841b17e6c48691119e, EquipmentRestrictionClass",
+        "name": "$EquipmentRestrictionClass$de90794a-b0c9-49c0-9b9d-1dfcecc7e0a3",
+        "m_Overrides": [],
+        "m_Class": "!bp_772c83a25e2268e448e841dcd548235f",
+        "Not": false
+      }
+	],
+    "Comment": "",
+    "m_DisplayNameText": {
+      "m_Key": "HomebrewArchtypes_SarenraeSword3",
+      "m_OwnerString": "216664b86ded2844d923ba1e4675fda4",
+      "m_OwnerPropertyPath": "m_DisplayNameText",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionText": {
+      "m_Key": "HomebrewArchtypes_SarenraeSword3Desc",
+      "m_OwnerString": "216664b86ded2844d923ba1e4675fda4",
+      "m_OwnerPropertyPath": "m_DescriptionText",
+      "m_JsonPath": "",
+      
+    },
+    "m_FlavorText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "6e072f65317b8ff4bb4df402d50e3c6e",
+      "fileid": 21300000
+    },
+    "m_Cost": 18500,
+    "m_Weight": 0.0,
+    "m_IsNotable": false,
+    "m_Destructible": false,
+    "m_ShardItem": null,
+    "m_MiscellaneousType": "None",
+    "m_InventoryPutSound": "",
+    "m_InventoryTakeSound": "",
+    "NeedSkinningForCollect": false,
+    "TrashLootTypes": [],
+    "CR": 10,
+    "m_Ability": null,
+    "m_ActivatableAbility": null,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesOnRest": false,
+    "CasterLevel": 1,
+    "SpellLevel": 1,
+    "DC": 11,
+    "IsNonRemovable": false,
+    "m_EquipmentEntity": null,
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": 0,
+    "m_VisualParameters": {
+      "m_Projectiles": [],
+      "m_WeaponAnimationStyle": "None",
+      "m_SpecialAnimation": "None",
+      "m_WeaponModel": {
+        "AssetId": "681b6d1b6ce2c4644a24b4f5b7b7a818"
+      },
+      "m_WeaponBeltModelOverride": null,
+      "m_WeaponSheathModelOverride": {
+        "AssetId": "63a418f033d13514db96abe4713c39f6"
+      },
+      "m_OverrideAttachSlots": false,
+      "m_PossibleAttachSlots": [],
+      "m_ReachFXThresholdBonus": 0.0,
+      "m_SoundSize": "Medium",
+      "m_SoundType": "SlashMetal",
+      "m_WhooshSound": "Weapon_1H_Slashing_Medium_Attack",
+      "m_MissSoundType": "MediumMetal",
+      "m_EquipSound": "Weapons_1H_Slashing_Equip",
+      "m_UnequipSound": "Weapons_1H_Slashing_Remove",
+      "m_InventoryEquipSound": "SwordEquip",
+      "m_InventoryPutSound": "SwordPut",
+      "m_InventoryTakeSound": "SwordTake"
+    },
+    "m_Type": "!bp_d9fbec4637d71bd4ebc977628de3daf3",
+    "m_Size": "Medium",
+    "m_Enchantments": [
+      "!bp_80bb8a737579e35498177e1e3c75899b",
+	  "!bp_e5990dc76d2a613409916071c898eee8",
+	  "!bp_326da486cd9077242a0e25df7eb7cd78",
+	  "!bp_102a9c8c9b7a75e4fb5844e79deaf4c0"
+    ],
+    "m_OverrideDamageDice": false,
+    "m_DamageDice": {
+      "m_Rolls": 0,
+      "m_Dice": "Zero"
+    },
+    "m_OverrideDamageType": false,
+    "m_DamageType": {
+      "Type": "Physical",
+      "Common": {
+        "Reality": 0,
+        "Alignment": 0,
+        "Precision": false
+      },
+      "Physical": {
+        "Material": 0,
+        "Form": "Slashing",
+        "Enhancement": 0,
+        "EnhancementTotal": 0
+      },
+      "Energy": "Fire"
+    },
+    "Double": false,
+    "m_SecondWeapon": null,
+    "KeepInPolymorph": false,
+    "m_OverrideShardItem": false,
+    "m_OverrideDestructible": false,
+    "m_AlwaysPrimary": false
+  }
+}

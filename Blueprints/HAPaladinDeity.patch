@@ -1,0 +1,100 @@
+{
+
+"_#ArrayMergeSettings": "Replace",
+
+"Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$15299578-4220-41e0-a221-28d7fa5b7eed",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "bbe1931feea2c5b49aa158c5c5f9b260, PrerequisiteAlignment",
+        "m_Flags": 0,
+        "name": "$PrerequisiteAlignment$f011d13b-6e58-47aa-9a03-a0ca82ce196e",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Alignment": "LawfulGood"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "m_Flags": 0,
+        "name": "$PrerequisiteIsPet$0766c8fa-db36-4e65-a46b-417ceea6fff2",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      },
+      {
+        "$type": "24d005ae28c58444bb8db4b94c9165cc, PrerequisiteFeaturesFromList",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeaturesFromList$66257616-d561-4ad0-952a-a2d83561a759",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Features": [
+          "!bp_6122dacf418611540a3c91e67197ee4e",
+          "!bp_afc775188deb7a44aa4cbde03512c671",
+          "!bp_88d5da04361b16746bf5b65795e0c38c",
+          "!bp_23a77a5985de08349820429ce1b5a234",
+          "!bp_c1c4f7f64842e7e48849e5e67be11a1b",
+          "!bp_b382afa31e4287644b77a8b30ed4aa0b",
+          "!bp_d2d5c5a58885a6b489727467e13c3337",
+		  "!bp_92c0d2da0a836ce418a267093c09ca54"
+        ],
+        "Amount": 0
+      },
+      {
+        "$type": "4950f8993ff875341bf6ce948dc2e13c, DeityDependencyClass",
+        "m_Flags": 0,
+        "name": "$DeityDependencyClass$ae2253db-91ef-4c70-afaf-c5380039a409",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "IsDeityDependencyClass": true
+      }
+    ],
+
+	"m_Archetypes": [
+	  "!bp_fec08c1a3187da549abd6b85f27e4432",
+      "!bp_fcdb27e1a6cef834ea1d7fab7c6e2b61",
+      "!bp_5693945afac189a469ef970eac8f71d9",
+      "!bp_cc70a9fdcd8781a4ca2f0e594f066964",
+      "!bp_4d9a864eae278744aafa7ff23f2a6466",
+      "!bp_5ce3a2f8eae64cf2ba83865711e53e27",
+      "!bp_cf0f99b3cd7444a48681b1c1c4aa2a41",
+      "!bp_3bff72fa74b46ee40b92d26dbff25e00",
+	  "!bp_2e2567d54e32a754c8f00981e6cf924d",
+	  "!bp_756aa0665d4830b438447cb559c2fd05",
+	  "!bp_7975d05e8d4e83a4bafb2e48036c96fd",
+	  "!bp_af67ea0ada36d70429876af9c4c7c42d",
+	  "!bp_f91ea9596e6f42f8a23803c1b3e976b4"
+    ],
+	}

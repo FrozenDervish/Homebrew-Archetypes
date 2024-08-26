@@ -1,0 +1,234 @@
+{
+  "AssetId": "9cdc696a8eaeac048bb22f1cc062047d",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ChampionName",
+      "m_OwnerString": "9cdc696a8eaeac048bb22f1cc062047d",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "9cdc696a8eaeac048bb22f1cc062047d",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "m_Classes": [
+      {
+        "m_Class": "!bp_48ec2c7f9a3dcc744a4f3a74c6d5d7a8",
+        "AdditionalLevel": 0
+      }
+    ],
+    "m_Archetypes": [],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_c91d4b8b46415c2469bfc1bdc2492ad2",
+          "!bp_0541b6834c52f8d4f9fef47da596e18b",
+          "!bp_d3e6275cfa6e7a04b9213b7b292a011c",
+          "!bp_62ef1cdb90f1d654d996556669caf7fa",
+		  "!bp_6bd4c42c0d94f644ca2c311ac9e636e7"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_d10043ae7f868ba40baba66edd12bb77",
+          "!bp_cf05ef56b2ca6604ab8d316136a193de"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_64c00ba9b46f3a248801944c2b989e38",
+          "!bp_f51c71959b0a7674b9dfa9077cf48c4e",
+          "!bp_1653817f07f6d8145858cbd9cc23e278"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_0db25a40b1b0935428feefd802d01090",
+          "!bp_5451c9b8530f4b71aadcaea42bd54ab7"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_1653817f07f6d8145858cbd9cc23e278"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_0db25a40b1b0935428feefd802d01090"
+        ]
+      },
+      {
+        "Level": 9,
+        "m_Features": [
+          "!bp_1653817f07f6d8145858cbd9cc23e278"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_0db25a40b1b0935428feefd802d01090"
+        ]
+      },
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_1653817f07f6d8145858cbd9cc23e278"
+        ]
+      },
+      {
+        "Level": 13,
+        "m_Features": [
+          "!bp_0db25a40b1b0935428feefd802d01090"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_1653817f07f6d8145858cbd9cc23e278"
+        ]
+      },
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_0db25a40b1b0935428feefd802d01090"
+        ]
+      },
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_1653817f07f6d8145858cbd9cc23e278"
+        ]
+      },
+      {
+        "Level": 19,
+        "m_Features": [
+          "!bp_0db25a40b1b0935428feefd802d01090"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "m_Features": [
+          "!bp_1c7cdc1605554954f838d85bbdd22d90",
+          "!bp_c8db0772b7059ec4eabe55b7e0e79824",
+          "!bp_d2f45a2034d4f7643ba1a450bc5c4c06",
+          "!bp_6d73f49b602e29a43a6faa2ea1e4a425",
+          "!bp_f17c3ba33bb44d44782cb3851d823011",
+          "!bp_b936ee90c070edb46bd76025dc1c5936",
+          "!bp_f51c71959b0a7674b9dfa9077cf48c4e",
+          "!bp_d10043ae7f868ba40baba66edd12bb77",
+          "!bp_275d3dd6cad51cf4db9b0bceebff02f2",
+          "!bp_c5b169a910918e540a5494a1f24bd6ee"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_0541b6834c52f8d4f9fef47da596e18b",
+          "!bp_0db25a40b1b0935428feefd802d01090"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_c00342384c641be409907c2bf39d68f1",
+          "!bp_d19ef94d056fd1a45bb08017b10a5e93",
+          "!bp_991f9753ecacdb14185eea76f95fe1ba",
+          "!bp_991f9753ecacdb14185eea76f95fe1ba",
+          "!bp_991f9753ecacdb14185eea76f95fe1ba",
+          "!bp_64c00ba9b46f3a248801944c2b989e38",
+          "!bp_4fe91868fb1833543af8804aad095c0c",
+          "!bp_4ddace64ffabcf24a8268e4d52c23e88",
+          "!bp_3054232b4e377c34589e5dff3270ea1d",
+          "!bp_a1eb6ea3c97ad4a47b2039e48592a7f5",
+          "!bp_b8a94f70811b53c4e805dbc2170980c8",
+          "!bp_eff3b63f744868845a2f511e9929f0de",
+          "!bp_3c714fc0095097f46a2e756f72915c01",
+          "!bp_cf05ef56b2ca6604ab8d316136a193de",
+          "!bp_a848c3b021fec214b97c720eb986800f",
+          "!bp_cb6d55dda5ab906459d18a435994a760",
+          "!bp_a9ab1bbc79ecb174d9a04699986ce8d5",
+          "!bp_b15e384109d1af147a31f6119f92c876",
+          "!bp_ba9fa17a17e5a494a93cd181b5615198"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_8f3d1e6b4be006f4d896081f2f889665",
+          "!bp_3fc1ad7b5f67543488d6c84fc6bc48c9",
+          "!bp_12678d8f1c24b7b4fbeeee096e7873e5",
+          "!bp_ae98475b3f5d3aa4bb830d352655a8ed"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_d8979d762de7da14ca64f8cedd5c1220",
+          "!bp_5a4560c300c368b4289ae2b4e4da58cf"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_09bdd9445ac38044389476689ae8d5a1",
+          "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_1631263dd628af44e8b2181d62122088",
+          "!bp_a83eff2f92b2e9147a43a7b8accaa46d",
+          "!bp_25c08230cdac4b14995b6c8d80bdf943",
+          "!bp_5d5f11207836a374583ffffbd4d86c9c",
+          "!bp_c4cff8089665a494a8d620192269132f"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_a6da390e9deeca2468ca0786a0ba225c",
+          "!bp_f1339b083cf65644ca8dbbfa836adb24"
+        ]
+      }
+    ],
+    "m_UIDeterminatorsGroup": [
+      "!bp_c91d4b8b46415c2469bfc1bdc2492ad2",
+      "!bp_9fceea5f433969e44bb124ab3a95bb58"
+    ],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeaturesRankIncrease": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

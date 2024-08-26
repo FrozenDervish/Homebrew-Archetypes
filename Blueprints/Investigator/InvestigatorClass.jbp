@@ -1,0 +1,153 @@
+{
+  "AssetId": "adb9e138bee9ecc4db246b64d563f900",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteIsPet$a855c6e7-ef7c-4a41-ba3d-081de838c65b"
+    ],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "name": "$PrerequisiteNoClassLevel$654b088d-7323-4a22-82b0-82d013a541c6",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "name": "$PrerequisiteIsPet$a855c6e7-ef7c-4a41-ba3d-081de838c65b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      }
+    ],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClass",
+      "m_OwnerString": "adb9e138bee9ecc4db246b64d563f900",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassDesc",
+      "m_OwnerString": "adb9e138bee9ecc4db246b64d563f900",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "HomebrewArchtypes_InvestigatorClassShortDesc",
+      "m_OwnerString": "adb9e138bee9ecc4db246b64d563f900",
+      "m_OwnerPropertyPath": "LocalizedDescriptionShort",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "SkillPoints": 4,
+    "HitDie": "D8",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "DlcType": "None",
+    "m_BaseAttackBonus": "!bp_4c936de4249b61e419a3fb775b9f2581",
+    "m_FortitudeSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3",
+    "m_ReflexSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_WillSave": "!bp_ff4662bde9e75f145853417313842751",
+    "m_Progression": "!bp_5eaea532547c7ce40a84563e15fd3440",
+    "m_Spellbook": "!bp_961e6b4edd3c80e4a9fe4435deff6fe7",
+    "ClassSkills": [
+	  "SkillMobility",
+      "SkillKnowledgeArcana",
+      "SkillKnowledgeWorld",
+      "SkillPerception",
+      "SkillThievery",
+      "SkillUseMagicDevice",
+	  "SkillPersuasion",
+	  "SkillStealth"
+    ],
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [
+	  "!bp_5dcf478491912f74380c32e26635f239",
+	  "!bp_f3b56671b5f78f04c8229ca5debad6de",
+	  "!bp_761483d71dff4df409007fae86e27e92"
+	],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_afbe88d27a0eb544583e00fa78ffb2c7",
+      "!bp_511c97c1ea111444aa186b1a58496664",
+      "!bp_f18a9ed7bcba738479b97162b9c77f46",
+      "!bp_fd56596e273d1ff49a8c29cc9802ae6e",
+      "!bp_fd56596e273d1ff49a8c29cc9802ae6e",
+      "!bp_fd56596e273d1ff49a8c29cc9802ae6e",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_0a6a7bbf0ddcebb4f8c4c7bd5d20c003"
+    ],
+    "PrimaryColor": 22,
+    "SecondaryColor": 5,
+    "m_EquipmentEntities": [],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "f42eccc4ace85e348a9e3ca5c7864f47"
+      },
+      {
+        "AssetId": "ddd37df6f8fe5fe4c980fc199bd421b8"
+      },
+      {
+        "AssetId": "d91a234c3b774f946a8355c1e98da9d5"
+      },
+	  {
+        "AssetId": "94a61b3f71fc8504ca2c7a0f8ca03bcb"
+      },
+	  {
+        "AssetId": "98e0a4ed12819094bae10de6faa64c04"
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "fac5248d9ffac914bb5b08c1e291a811"
+      },
+      {
+        "AssetId": "5bf7c2ec0a43599469d57858374af3a5"
+      },
+      {
+        "AssetId": "bbc7f6ef5ecd27b4e8d53c504d080e76"
+      },
+	  {
+        "AssetId": "c17371db120a64649a34675d049a495c"
+      },
+	  {
+        "AssetId": "98e0a4ed12819094bae10de6faa64c04"
+      }
+    ],
+    "m_Difficulty": 5,
+    "RecommendedAttributes": [
+      "Intelligence",
+      "Dexterity"
+    ],
+    "NotRecommendedAttributes": [
+      "Charisma"
+    ],
+    "m_SignatureAbilities": [
+      "!bp_14e0467e0e994b189b530008b5fd5144",
+      "!bp_e16b1291cd254bd8aa9d203df602fcd6",
+      "!bp_3528a17c6f164ca8bf88f200b8785f3f"
+    ],
+    "m_DefaultBuild": "!bp_1a12cbfa44477f447a69b32fe8059ba6",
+    "m_AdditionalVisualSettings": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "AssetId": "959a2629504ac754185e0ee4b49b816a",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddFacts$23284b5c-41e3-4dc7-90ac-71856fed6980",
+      "$BuffDescriptorImmunity$0cecc410-cea6-4481-af38-3e9470cf3bd6"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "m_Flags": 0,
+        "name": "$AddFacts$23284b5c-41e3-4dc7-90ac-71856fed6980",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_64e647c10eece1545b00a442330f49da",
+          "!bp_daf27e1f12e736d4294b525489e99de4",
+          "!bp_24700a71dd3dc844ea585345f6dd18f6",
+          "!bp_cd1e5ab641a833c49994aff99db98952",
+          "!bp_5279fc8380dd9ba419b4471018ffadd1",
+          "!bp_1dd712e7f147ab84bad6ffccd21a878d"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "08fcf9a6a1ff1c54d9e38cea8f333f17",
+        "stringkey": "281c7b54-1c6b-451b-9511-1f184636d1fa"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

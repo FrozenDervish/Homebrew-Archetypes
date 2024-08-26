@@ -1,0 +1,29 @@
+{
+
+"_#ArrayMergeSettings": "Merge",
+
+"Components": [
+      {
+        "$type": "24d005ae28c58444bb8db4b94c9165cc, PrerequisiteFeaturesFromList",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeaturesFromList$c3db4035-df20-4f2b-b1a6-1d2a6692b580",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Features": [
+          "!bp_2479395977cfeeb46b482bc3385f4647",
+          "!bp_17b5ab9075c34e24a46ca655406041ea",
+          "!bp_6991ee8175d87c04790067515f6fb322",
+		  "!bp_f5da7ae4a502caf4ba52932b33310a8c",
+		  "!bp_f346763db588ce8489afc1632d3a8641",
+		  "!bp_3f6793b722fb4172abcd605cd84c9be7"
+        ],
+        "Amount": 0
+      }
+    ],
+	}

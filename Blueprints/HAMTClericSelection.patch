@@ -1,0 +1,18 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "b2fc387294220e346b833293064cb1f8, PrerequisiteNoArchetype",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoArchetype$50faaace-e9b4-426c-a8bd-a647b482e217",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0",
+        "m_Archetype": "!bp_b7b9138f2e19b9f45a6ca457f6467710"
+      },
+    ],
+	}

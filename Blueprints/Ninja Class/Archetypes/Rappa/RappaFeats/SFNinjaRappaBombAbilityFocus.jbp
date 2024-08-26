@@ -1,0 +1,99 @@
+{
+  "AssetId": "03f9139e1f9cb184fad3e0204ec86eec",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$PrerequisiteFeature$a17ca301-6d76-4e3c-927d-e76c5cc08c17",
+      "$IncreaseSpellDescriptorDC$01432d3c-6ed9-4014-87af-2b931970725b",
+      "$PureRecommendation$f4364e15-8dff-447a-9fc7-3905f6d8247c"
+    ],
+    "Components": [
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$a17ca301-6d76-4e3c-927d-e76c5cc08c17",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_cfd5b82d506197844904287e45619f5e"
+      },
+      {
+        "$type": "e3857501f2619604594cdf33155f91f7, IncreaseSpellDescriptorDC",
+        "name": "$IncreaseSpellDescriptorDC$01432d3c-6ed9-4014-87af-2b931970725b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 549755813888
+        },
+        "BonusDC": 2,
+        "ModifierDescriptor": "UntypedStackable"
+      },
+      {
+        "$type": "0596deabaca35e541a675eddb6a84e53, PureRecommendation",
+        "name": "$PureRecommendation$f4364e15-8dff-447a-9fc7-3905f6d8247c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Priority": "Good"
+      },
+      {
+        "$type": "6d43a0c88e994d04bd2859978dec9337, FeatureTagsComponent",
+        "name": "$FeatureTagsComponent$3b844e16-ade2-40fb-8ad5-a550498c50ea",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "FeatureTags": "Attack, Ranged, ClassSpecific"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "bf6e0cae-9781-44cc-90ed-4ee5879b99f4",
+      "m_OwnerString": "f864101ab0cdb4b418c7d62d2b24eee5",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Feats/BombAbilityFocus_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "92bd249c-98b1-49dd-9c2b-da6641847a3c",
+      "m_OwnerString": "f864101ab0cdb4b418c7d62d2b24eee5",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Feats/BombAbilityFocus_m_Description.json",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "2198840df939f6a42aa616cf6373040c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "Feat"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

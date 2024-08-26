@@ -1,0 +1,46 @@
+{
+  "AssetId": "6d77d519ff77bcc44bbc4402f46df094",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "372c8300-7f52-470c-bc77-2a5260a48d0f",
+      "m_OwnerString": "5c396342f614dd644a48c3af08d79701",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Alchemist/Discoveries/PreciseBomb_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "a198b480-16a9-4a51-9ba9-415ac370871a",
+      "m_OwnerString": "5c396342f614dd644a48c3af08d79701",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Alchemist/Discoveries/PreciseBomb_m_Description.json",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "7812ab27-ff2c-4473-b3bf-f44090384ff7",
+      "m_OwnerString": "5c396342f614dd644a48c3af08d79701",
+      "m_OwnerPropertyPath": "m_DescriptionShort",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Alchemist/Discoveries/PreciseBomb_m_DescriptionShort.json",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [
+      "Discovery"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

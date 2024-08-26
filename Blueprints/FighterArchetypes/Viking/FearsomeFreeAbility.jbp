@@ -1,0 +1,140 @@
+{
+  "AssetId": "ea9fa39bf65e3be47a3f051af90203cc",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AbilityEffectRunAction$f39cdc05-17ff-4a68-a743-4b85f42b01de",
+      "$SpellLevelByRank$1e41e3ae-c898-47a7-bfc2-d27e866b28dd"
+    ],
+    "Components": [
+      {
+        "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
+        "name": "$AbilityEffectRunAction$f39cdc05-17ff-4a68-a743-4b85f42b01de",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "SavingThrowType": "Unknown",
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "888f5ebc8a43ab0418b99929c6173b77, Demoralize",
+              "name": "$Demoralize$d73894dc-cbe1-4b14-8eb2-1c5ac95fd9e7",
+              "m_Buff": "!bp_25ec6cb6ab1845c48a95f9c20b034220",
+              "m_GreaterBuff": "!bp_f08a7239aa961f34c8301518e71d4cdf",
+              "DazzlingDisplay": false,
+              "m_SwordlordProwessFeature": "!bp_ac8d4d2e375a8c841a19ed46696e5af2",
+              "m_ShatterConfidenceFeature": null,
+              "m_ShatterConfidenceBuff": null,
+              "Bonus": 0,
+              "TricksterRank3Actions": {
+                "Actions": [
+                  {
+                    "$type": "2f9cfff2340b8c344ab4fd92c2eb61f2, ContextActionCastSpell",
+                    "name": "$ContextActionCastSpell$6d13eb65-7621-451d-8b40-8dcad8f9186a",
+                    "m_Spell": "!bp_32280b137ca642c45be17e2d92898758",
+                    "OverrideDC": false,
+                    "DC": {
+                      "ValueType": "Simple",
+                      "Value": 0,
+                      "ValueRank": "Default",
+                      "ValueShared": "Damage",
+                      "Property": "None",
+                      "m_CustomProperty": null
+                    },
+                    "OverrideSpellLevel": false,
+                    "SpellLevel": {
+                      "ValueType": "Simple",
+                      "Value": 0,
+                      "ValueRank": "Default",
+                      "ValueShared": "Damage",
+                      "Property": "None",
+                      "m_CustomProperty": null
+                    },
+                    "CastByTarget": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_VikingFearsome",
+      "m_OwnerString": "ea9fa39bf65e3be47a3f051af90203cc",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "23a1f126-616e-4acc-8cf9-b3f1ca1e49d5",
+      "m_OwnerString": "ea9fa39bf65e3be47a3f051af90203cc",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Basic/BasicActions/Skills/PersuasionUseAbility_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "d17492d9072395143adc390df6454b71",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Special",
+    "Range": "Medium",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": true,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": true,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "Harmful",
+    "m_Parent": null,
+    "Animation": "Directional",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionTouch",
+    "m_TargetMapObjects": false,
+    "ActionType": "Free",
+    "AvailableMetamagic": "Quicken, Heighten, Reach",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "e5d46340-ec25-492d-b1c9-7953ed20a70b",
+      "m_OwnerString": "7d2233c3b7a0b984ba058a83b736e6ac",
+      "m_OwnerPropertyPath": "LocalizedDuration",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Basic/BasicActions/Skills/PersuasionUseAbility_LocalizedDuration.json",
+      
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  }
+}

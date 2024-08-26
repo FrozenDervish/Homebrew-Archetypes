@@ -1,0 +1,80 @@
+{
+  "AssetId": "42f2c105f3004ff488d689d84cbd9a4e",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$86b59ea2-82e2-43f1-81e6-a19421d76daa",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_61ad83a0a3f940449bf25b62264f3362"
+      }
+	],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisMercy",
+      "m_OwnerString": "42f2c105f3004ff488d689d84cbd9a4e",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassMinorApotheosisMercyDesc",
+      "m_OwnerString": "42f2c105f3004ff488d689d84cbd9a4e",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_23c3fb906c6346440b4e7d92fc25319b",
+      "!bp_d306e052d2f85b24cb5082951459045e",
+      "!bp_445c696bead5140459909ffbed14750e",
+      "!bp_7df9329013baaec4fac20ae08bc1f849",
+      "!bp_3990a92ce97efa3439e55c160412ce14",
+      "!bp_25641bda25467224e930e8c70eaf9a83",
+      "!bp_e5aa306af9b91974a9b2f2cbe702f562",
+      "!bp_7687aa3764cb651448a50016e1758069",
+      "!bp_a0cacf71d872d2a42ae3deb6bf977962",
+      "!bp_62582b4636218d74db34606f872c9c05",
+      "!bp_19f936eb38c3d224988e2a02cbe12878",
+      "!bp_c4732ca5b0af7214a98f9b4dafe87da9",
+      "!bp_7ee2ef06226a4884f80b7647a2aa2dee",
+      "!bp_19250e5a12db1fc448970b81e0f38922",
+      "!bp_7775c915661f8fb449c38dd873524389"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "AssetId": "c1410fb93465cd3478806347e38102a2",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$BonusAttacksOfOpportunity$b348c4d7-7011-41a3-918e-6f361907262c",
+      "$BuffDescriptorImmunity$9a30ec41-7f2a-4839-9f60-53b02661434a",
+      "$AuraFeatureComponent$1a931668-7e39-4917-a25b-e47accea7d37"
+    ],
+    "Components": [
+      {
+        "$type": "3819276ccd091df42818bb86295941c1, SavingThrowBonusAgainstDescriptor",
+        "name": "$SavingThrowBonusAgainstDescriptor$e37f20ec-c808-4367-8468-2558d7a36975",
+        "m_Overrides": [],
+        "SpellDescriptor": {
+          "m_IntValue": 8912896
+        },
+        "ModifierDescriptor": "UntypedStackable",
+        "Value": 4,
+        "Bonus": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "OnlyPositiveValue": false,
+        "m_DisablingFeature": null
+      },
+      {
+        "$type": "33c6c6711d174884ba995663e0f64b63, AuraFeatureComponent",
+        "name": "$AuraFeatureComponent$1a931668-7e39-4917-a25b-e47accea7d37",
+        "m_Overrides": [],
+        "m_Buff": "!bp_8fc614642a18abc449c7082dd367b852"
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeWildernessWardenAuraofComfort",
+      "m_OwnerString": "c1410fb93465cd3478806347e38102a2",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_PaladinArchetypeWildernessWardenAuraofComfortDesc",
+      "m_OwnerString": "c1410fb93465cd3478806347e38102a2",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "df02f67a537a44144b6914015d8c2ea1",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "AssetId": "020b373bf0f6c084f835f489b8548953",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$037f3c93-ccae-40a1-a7b7-83ec971ec0aa",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_e74946fcb35e09249b0606f20f7e87db",
+		  "!bp_87e5ad00735426b429b701d52e9e8c6d",
+		  "!bp_007c351e6cf4cf240b29857591c1b2d8",
+		  "!bp_92d47b7acfe215342bf6648b9f9bb831",
+		  "!bp_4545ef6639b697a4a81b6f3d8a5a90e5",
+		  "!bp_3a85ffec88541fe4c93444e1fb161e35",
+		  "!bp_c82c9d386995dc546a936d6bcd24747e",
+		  "!bp_a83ab4226b37c2b4c8c77536979b117a",
+		  "!bp_fff86e79b917adc4e8c8f4230878e1f9"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$8b36b358-e037-4a00-945a-ab94f6e583d4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a33b99f95322d6741af83e9381b2391c"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$8b36b358-e037-4a00-945a-ab94f6e583d5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_a369cc60e9447b54e9f3066788828f12"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "SwarmFilesNokizaruTrick_GreaterKiBlade",
+      "m_OwnerString": "020b373bf0f6c084f835f489b8548953",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "SwarmFilesNokizaruTrick_GreaterKiBladeDesc",
+      "m_OwnerString": "020b373bf0f6c084f835f489b8548953",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "7fa6bad9b8b287e40bb6b813ebc5799b",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

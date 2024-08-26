@@ -1,0 +1,127 @@
+{
+  "AssetId": "00e23df3fc56cb64a9ab17ff23e76541",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$e4eb907e-f159-435f-90ea-e134077206d1",
+      "$AddAbilityResources$a3f77df7-bc1d-45b5-859c-7eee7b845508",
+      "$AddFeatureOnClassLevel$1703af56-9682-45ca-9b8a-35eb6f18be83",
+      "$AddFeatureOnClassLevel$bb3460e8-543f-494f-8762-ccdbb8b5ab04"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$e4eb907e-f159-435f-90ea-e134077206d1",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_860548dc5accbad4a87c28d7c423a70e",
+          "!bp_89c07ef19dcc3654c8ff8fd58e2fb526",
+          "!bp_4fc7e96deb3e2ad4090913aa019553e1",
+          "!bp_762363f9d365d2747b9fc26790b98263",
+          "!bp_fabe471a805605d4ebd4cca6d46186b6",
+          "!bp_c523211c37c6b2a46982cafb9d9f37e3",
+          "!bp_46e5b056cfab7b945b3ce28826e8148d"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$a3f77df7-bc1d-45b5-859c-7eee7b845508",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_394088e9e54ccd64698c7bd87534027f",
+        "Amount": 0,
+        "RestoreAmount": false,
+        "RestoreOnLevelUp": false
+      },
+	  {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$1703af56-9682-45ca-9b8a-35eb6f18be84",
+        "m_Overrides": [],
+        "m_Class": "!bp_adb9e138bee9ecc4db246b64d563f900",
+        "Level": 13,
+        "m_Feature": "!bp_15fa15167df16c645b72e9cd93284d8f",
+        "BeforeThisLevel": true,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$4ce7f4a0-ca77-4910-8989-ee76b8285612",
+        "m_Overrides": [],
+        "m_Class": "!bp_adb9e138bee9ecc4db246b64d563f900",
+        "Level": 13,
+        "m_Feature": "!bp_f97e154f863b38245b339ed129f570f8",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$bb3460e8-543f-494f-8762-ccdbb8b5ab05",
+        "m_Overrides": [],
+        "m_Class": "!bp_adb9e138bee9ecc4db246b64d563f900",
+        "Level": 9,
+        "m_Feature": "!bp_6b96f8db83d8e754cb0c1993c71c39d0",
+        "BeforeThisLevel": true,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$7351bada-11ba-4fe5-84ae-842f9a6d71e1",
+        "m_Overrides": [],
+        "m_Class": "!bp_adb9e138bee9ecc4db246b64d563f900",
+        "Level": 9,
+        "m_Feature": "!bp_5d7ba4fad7dc44c4280c78f1fee0099d",
+        "BeforeThisLevel": false,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeJinyiweiJudgement",
+      "m_OwnerString": "00e23df3fc56cb64a9ab17ff23e76541",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeJinyiweiJudgementDesc",
+      "m_OwnerString": "00e23df3fc56cb64a9ab17ff23e76541",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "49c7d448bff859744a0aa4bf3c58cd5b",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_4a6dc772c9a7fe742a65820007107f03"
+    ]
+  }
+}

@@ -1,0 +1,471 @@
+{
+    "BundlesLayout": {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies": {
+        "m_List": []
+    },
+    "BlueprintPatches": [
+        {
+            "Guid": "52dbfd8505e22f84fad8d702611f60b7",
+            "Filename": "HAArcanist.patch"
+        },
+        {
+            "Guid": "ba0e5a900b775be4a99702f1ed08914d",
+            "Filename": "HAMythicAbility.patch"
+        },
+        {
+            "Guid": "20ce9bf8af32bee4c8557a045ab499b1",
+            "Filename": "HAOracle.patch"
+        },
+        {
+            "Guid": "cda0615668a6df14eb36ba19ee881af6",
+            "Filename": "HARanger.patch"
+        },
+        {
+            "Guid": "cd9f19775bd9d3343a31a065e93f0c47",
+            "Filename": "HAExtraChannel.patch"
+        },
+        {
+            "Guid": "9ee0f6745f555484299b0a1563b99d81",
+            "Filename": "HAExtraMythicFeat.patch"
+        },
+        {
+            "Guid": "f3f239c4c08920a4e842bc69d7173d63",
+            "Filename": "HABadTemperFeature.patch"
+        },
+        {
+            "Guid": "4a83b67d4f24bba4a8d881340185bff0",
+            "Filename": "HADemonicResentmentFeature.patch"
+        },
+        {
+            "Guid": "421eec56d618765499c8b9e6f8e153a1",
+            "Filename": "HACallToViolenceBuff.patch"
+        },
+        {
+            "Guid": "9db109eee03524f4aa89881c4539a14d",
+            "Filename": "HACloakOfBloodScent.patch"
+        },
+        {
+            "Guid": "29e2f51e6dd7427099b015de88718990",
+            "Filename": "HAManglingFrenzyFeature.patch"
+        },
+        {
+            "Guid": "610d836f3a3a9ed42a4349b62f002e96",
+            "Filename": "HADruid.patch"
+        },
+        {
+            "Guid": "772c83a25e2268e448e841dcd548235f",
+            "Filename": "HABard.patch"
+        },
+        {
+            "Guid": "48ac8db94d5de7645906c7d0ad3bcfbd",
+            "Filename": "HAFighter.patch"
+        },
+        {
+            "Guid": "e8f21e5b58e0569468e420ebea456124",
+            "Filename": "HAMonk.patch"
+        },
+        {
+            "Guid": "fd30c69417b434d47b6b03b9c1f568ff",
+            "Filename": "HASelectiveChannel.patch"
+        },
+        {
+            "Guid": "e8752f9126d986748b10d0bdac693264",
+            "Filename": "HAAbundantKiPool.patch"
+        },
+        {
+            "Guid": "da48f9d7f697ae44ca891bfc50727988",
+            "Filename": "DDBloodlineSelection.patch"
+        },
+        {
+            "Guid": "67819271767a9dd4fbfd4ae700befea0",
+            "Filename": "HACleric.patch"
+        },
+        {
+            "Guid": "2d77316c72b9ed44f888ceefc2a131f6",
+            "Filename": "HABlueprintRoot.patch"
+        },
+        {
+            "Guid": "290bbcc3c3bb92144b853fd8fb8ff452",
+            "Filename": "HASylvanTricksterTalent.patch"
+        },
+        {
+            "Guid": "c074a5d615200494b8f2a9c845799d93",
+            "Filename": "HARogueTalent.patch"
+        },
+        {
+            "Guid": "30b5e47d47a0e37438cc5a80c96cfb99",
+            "Filename": "HAWarpriest.patch"
+        },
+        {
+            "Guid": "f132c4c4279e4646a05de26635941bfe",
+            "Filename": "HAMonkACBuff.patch"
+        },
+        {
+            "Guid": "b11d314d60f7a38498d1ed6933fe1638",
+            "Filename": "HAMutagenDex.patch"
+        },
+        {
+            "Guid": "859629f49f06cd04492b1ba455a9b31b",
+            "Filename": "HAMutagenCon.patch"
+        },
+        {
+            "Guid": "7af42862f58edcc4cb825862ff2a0d10",
+            "Filename": "HAMutagenStr.patch"
+        },
+        {
+            "Guid": "3adc3439f98cb534ba98df59838f02c7",
+            "Filename": "HACavalier.patch"
+        },
+        {
+            "Guid": "1b9873f1e7bfe5449bc84d03e9c8e3cc",
+            "Filename": "HAWitch.patch"
+        },
+        {
+            "Guid": "3f16e9caf7c683c40884c7c455ed26af",
+            "Filename": "HALichSpellbookMerge.patch"
+        },
+        {
+            "Guid": "734a29b693e9ec346ba2951b27987e33",
+            "Filename": "HALichTrue.patch"
+        },
+        {
+            "Guid": "ca22afeb94442b64fb8536e7a9f7dc11",
+            "Filename": "HABasicFeatProgression.patch"
+        },
+        {
+            "Guid": "5fe3acb6f439db9438db7d396f02c75c",
+            "Filename": "HACreateUndead.patch"
+        },
+        {
+            "Guid": "5cb58e6e406525342842a073fb70d068",
+            "Filename": "HALimitlessRage.patch"
+        },
+        {
+            "Guid": "40f85fbe8cc35ef4fa96c66e06eeafe8",
+            "Filename": "HABardTalent.patch"
+        },
+        {
+            "Guid": "c25df29d2599a81428a7badf51ebd4d1",
+            "Filename": "HAHatofHearteningSong.patch"
+        },
+        {
+            "Guid": "7cd057944ce7896479717778330a4933",
+            "Filename": "HADivineSpellbookReplacerMT.patch"
+        },
+        {
+            "Guid": "8bac42667e6f67047acbcbd668cf2029",
+            "Filename": "HAMTClericSelection.patch"
+        },
+        {
+            "Guid": "",
+            "Filename": ""
+        },
+        {
+            "Guid": "4a6dc772c9a7fe742a65820007107f03",
+            "Filename": "HAEverlastingJudgement.patch"
+        },
+        {
+            "Guid": "26b10d4340839004f960f9816f6109fe",
+            "Filename": "HAAnimalCompanionClass.patch"
+        },
+        {
+            "Guid": "8fc01f06eab4dd946baa5bc658cac556",
+            "Filename": "HAAnimalCompanionBoon.patch"
+        },
+        {
+            "Guid": "",
+            "Filename": ""
+        },
+        {
+            "Guid": "ba34257984f4c41408ce1dc2004e342e",
+            "Filename": "HAWizard.patch"
+        },
+        {
+            "Guid": "6122dacf418611540a3c91e67197ee4e",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "a3a5ccc9c670e6f4ca4a686d23b89900",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "c7531715a3f046d4da129619be63f44c",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "300e212868bca984687c92bcb66d381b",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "2c0a3b9971327ba4d9d85354d16998c1",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "afc775188deb7a44aa4cbde03512c671",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "583a26e88031d0a4a94c8180105692a5",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "8f49a5d8528a82c44b8c117a89f6b68c",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "4af983eec2d821b40a3065eb5e8c3a72",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "8b535b6842e063d48a571a042c3c6e8f",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "88d5da04361b16746bf5b65795e0c38c",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "23a77a5985de08349820429ce1b5a234",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "f86bc8fbf13221f4f9041608a1fb8585",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "6262cfce7c31626458325ca0909de997",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "04bc2b62273ab744092d992ed72bff41",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "c1c4f7f64842e7e48849e5e67be11a1b",
+            "Filename": "HASarenrae.patch"
+        },
+        {
+            "Guid": "b382afa31e4287644b77a8b30ed4aa0b",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "d2d5c5a58885a6b489727467e13c3337",
+            "Filename": "HAAbadar.patch"
+        },
+        {
+            "Guid": "458750bc214ab2e44abdeae404ab22e9",
+            "Filename": "HAPharasma.patch"
+        },
+        {
+            "Guid": "92c0d2da0a836ce418a267093c09ca54",
+            "Filename": "HAPharasma.patch"
+        },
+        {
+            "Guid": "ae04b7cdeb88b024b9fd3882cc7d3d76",
+            "Filename": "HAArcaneSpellbookReplacer.patch"
+        },
+        {
+            "Guid": "8c1ba14c0b6dcdb439c56341385ee474",
+            "Filename": "HAArcaneSpellbookReplacerDD.patch"
+        },
+        {
+            "Guid": "68782aa7a302b6d43a42a71c6e9b5277",
+            "Filename": "HAArcaneSpellbookReplacerHKS.patch"
+        },
+        {
+            "Guid": "7a28ab4dfc010834eabc770152997e87",
+            "Filename": "HAArcaneSpellbookReplacerLM.patch"
+        },
+        {
+            "Guid": "97f510c6483523c49bc779e93e4c4568",
+            "Filename": "HAArcaneSpellbookReplacerMT.patch"
+        },
+        {
+            "Guid": "59e7a76987fe3b547b9cce045f4db3e4",
+            "Filename": "HADeitySelection.patch"
+        },
+        {
+            "Guid": "805b6bdc8c96f4749afc687a003f9628",
+            "Filename": "HAUrgathoa.patch"
+        },
+        {
+            "Guid": "812f6c07148088e41a9ac94b56ac2fc8",
+            "Filename": "HAUrgathoa.patch"
+        },
+        {
+            "Guid": "",
+            "Filename": ""
+        },
+        {
+            "Guid": "2de64f6a1f2baee4f9b7e52e3f046ec5",
+            "Filename": "HASwiftDomains.patch"
+        },
+        {
+            "Guid": "213a8480d22206b45acbfa0619ca5aaf",
+            "Filename": "HAImpossibleDomain.patch"
+        },
+        {
+            "Guid": "48525e5da45c9c243a343fc6545dbdb9",
+            "Filename": "HADomainSelectionCleric.patch"
+        },
+        {
+            "Guid": "43281c3d7fe18cc4d91928395837cd1e",
+            "Filename": "HADomainSecondarySelectionCleric.patch"
+        },
+        {
+            "Guid": "72909a37a1ed5344f88ec9d1d31f5c5b",
+            "Filename": "HADomainDivineHunter.patch"
+        },
+        {
+            "Guid": "bae328694ee21bc4587c5ffd0035b6a2",
+            "Filename": "HAWarpriestDeitySacredWeaponFeature.patch"
+        },
+        {
+            "Guid": "d77e67a814d686842802c9cfd8ef8499",
+            "Filename": "HABloodrager.patch"
+        },
+        {
+            "Guid": "c3a66c1bbd2fb65498b130802d5f183a",
+            "Filename": "HADuelingMastery.patch"
+        },
+        {
+            "Guid": "2f1619e253ea6a04087def71c7925715",
+            "Filename": "HAFighterFinesse.patch"
+        },
+        {
+            "Guid": "6a556375036ac8b4ebd80e74d308d108",
+            "Filename": "HAPiranhaStrike.patch"
+        },
+        {
+            "Guid": "d791af1bc179e0e44a0ca1fa6c418993",
+            "Filename": "HAMythicFinesse.patch"
+        },
+        {
+            "Guid": "47b352ea0f73c354aba777945760b441",
+            "Filename": "HAFencingGrace.patch"
+        },
+        {
+            "Guid": "697d64669eb2c0543abb9c9b07998a38",
+            "Filename": "HASlashingGrace.patch"
+        },
+        {
+            "Guid": "f7d7eb166b3dd594fb330d085df41853",
+            "Filename": "HABarbarian.patch"
+        },
+        {
+            "Guid": "8a91753b978e3b34b9425419179aafd6",
+            "Filename": "HAMonkProgression.patch"
+        },
+        {
+            "Guid": "dde7724382ae4f63aa9786cb9b3b64b2",
+            "Filename": "HAMonkQSMArchetype.patch"
+        },
+        {
+            "Guid": "fad7c56737ed12e42aacc330acc86428",
+            "Filename": "HAMonkSoheiArchetype.patch"
+        },
+        {
+            "Guid": "c36562b8e7ae12d408487ba8b532d966",
+            "Filename": "HAPummelingStyle.patch"
+        },
+        {
+            "Guid": "e10c4f18a6c8b4342afe6954bde0587b",
+            "Filename": "HAExtraFeatMythicFeat.patch"
+        },
+        {
+            "Guid": "",
+            "Filename": ""
+        },
+        {
+            "Guid": "303fd456ddb14437946e344bad9a893b",
+            "Filename": "HAWarpriestfeats.patch"
+        },
+        {
+            "Guid": "e190ba276831b5c4fa28737e5e49e6a6",
+            "Filename": "HABardicPerformanceResource.patch"
+        },
+        {
+            "Guid": "92c0d2da0a836ce418a267093c09ca54",
+            "Filename": "HAAtheism.patch"
+        },
+        {
+            "Guid": "bfa11238e7ae3544bbeb4d0b92e897ec",
+            "Filename": "HAPaladinDeity.patch"
+        },
+        {
+            "Guid": "2673ccdd6df742d42a8c94977c76a984",
+            "Filename": "HAEnhancePotion.patch"
+        },
+        {
+            "Guid": "41c8486641f7d6d4283ca9dae4147a9f",
+            "Filename": "HAfighterfeats.patch"
+        },
+        {
+            "Guid": "eb284ea8d40a2d045911f525eb96c43d",
+            "Filename": "HAAssassinClass.patch"
+        },
+        {
+            "Guid": "a02e1f0e13baa8c43b758425eda9e973",
+            "Filename": "HAAssassinProgression.patch"
+        },
+        {
+            "Guid": "f1a70d9e1b0b41e49874e1fa9052a1ce",
+            "Filename": "HAInquisitor.patch"
+        },
+        {
+            "Guid": "2de64f6a1f2baee4f9b7e52e3f046ec5",
+            "Filename": "HADomainZealot.patch"
+        },
+        {
+            "Guid": "074a9dd227cb43669d5b160c5282e146",
+            "Filename": "HANumerianCompanion.patch"
+        },
+        {
+            "Guid": "f0310af68c7142cda950d61244cb0cff",
+            "Filename": "HAWayoftheDeceiver.patch"
+        },
+        {
+            "Guid": "a0e56a59ad0b44b8add84185da6bb845",
+            "Filename": "HAGeomancy.patch"
+        },
+        {
+            "Guid": "e624d8c0c594408bbf413e0b353098e5",
+            "Filename": "HAGeomancyArea.patch"
+        },
+        {
+            "Guid": "42a5c5107b3a45bc89e61e3b1a2bb8d0",
+            "Filename": "HAGeomancyToggle.patch"
+        },
+        {
+            "Guid": "9865ab29b25b69246a4e5a7edc040ec9",
+            "Filename": "HARighteousCrusaderRing.patch"
+        },
+        {
+            "Guid": "319109919467c2c409bb580e38b4c348",
+            "Filename": "HAStauntonGlaiveFeature.patch"
+        },
+        {
+            "Guid": "5451c9b8530f4b71aadcaea42bd54ab7",
+            "Filename": "HADismiss.patch"
+        },
+        {
+            "Guid": "247a4068296e8be42890143f451b4b45",
+            "Filename": "HABasicFeatSelection.patch"
+        },
+        {
+            "Guid": "299aa766dee3cbf4790da4efb8c72484",
+            "Filename": "HARogue.patch"
+        },
+        {
+            "Guid": "",
+            "Filename": ""
+        },
+        {
+            "Guid": "",
+            "Filename": ""
+        }
+    ]
+}

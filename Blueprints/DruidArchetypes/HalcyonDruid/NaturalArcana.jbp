@@ -1,0 +1,102 @@
+{
+  "AssetId": "b9ad2ea36e53e1047acc55303ed9ef73",
+  "Data": {
+    "$type": "f3444d227e0a4610998bc7bbee404fcd, BlueprintParametrizedFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$LearnSpellParametrized$0ab4442e-4f0d-4e21-9d91-680e48b03298"
+    ],
+    "Components": [
+      {
+        "$type": "b4b863ba6be92cd48877756cbae16cb8, LearnSpellParametrized",
+        "name": "$LearnSpellParametrized$0ab4442e-4f0d-4e21-9d91-680e48b03298",
+        "m_Overrides": [],
+        "m_SpellcasterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "m_SpellList": "!bp_ba0401fdeb4062f40a7aa95b6f07fe89",
+        "SpecificSpellLevel": false,
+        "SpellLevelPenalty": 0,
+        "SpellLevel": 0
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidNaturalArcana",
+      "m_OwnerString": "b9ad2ea36e53e1047acc55303ed9ef73",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidNaturalArcanaDesc",
+      "m_OwnerString": "b9ad2ea36e53e1047acc55303ed9ef73",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "2e28cda83cf02ec4da1a147868038058",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "ParameterType": "LearnSpell",
+    "WeaponSubCategory": "None",
+    "SelectionFeatureGroup": "None",
+    "RequireProficiency": false,
+    "m_SpellList": "!bp_ba0401fdeb4062f40a7aa95b6f07fe89",
+    "m_SpellcasterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+    "SpecificSpellLevel": false,
+    "SpellLevelPenalty": 0,
+    "SpellLevel": 0,
+    "DisallowSpellsInSpellList": false,
+    "m_Prerequisite": null,
+    "CustomParameterVariants": [],
+    "HasNoSuchFeature": false,
+    "BlueprintParameterVariants": [
+      "!bp_9f10909f0be1f5141bf1c102041f93d9",
+          "!bp_f001c73999fb5a543a199f890108d936",
+          "!bp_91da41b9793a4624797921f221db653c",
+          "!bp_ab395d2335d3f384e99dddee8562978f",
+          "!bp_d7fdd79f0f6b6a2418298e936bb68e40",
+          "!bp_8e7cfa5f213a90549aadd18f8f6f4664",
+          "!bp_a5ec7892fb1c2f74598b3a82f3fd679f",
+          "!bp_ef768022b0785eb43a18969903c537c4",
+          "!bp_95810d2829895724f950c8c4086056e7",
+          "!bp_4f8181e7a7f1d904fbaea64220e83379",
+          "!bp_ad10bfec6d7ae8b47870e3a545cc8900",
+          "!bp_4ac47ddb9fa1eaf43a1b6809980cfbd2",
+          "!bp_433b1faf4d02cc34abb0ade5ceda47c4",
+          "!bp_4783c3709a74a794dbe7c8e7e0b1b038",
+          "!bp_bd81a3931aa285a4f9844585b5d97e51",
+          "!bp_2c38da66e5a599347ac95b3294acbe00",
+          "!bp_39a602aa80cc96f4597778b6d4d49c0a",
+          "!bp_3e9d1119d43d07c4c8ba9ebfd1671952",
+          "!bp_9e1ad5d6f87d19e4d8883d63a6e35568",
+          "!bp_95851f6e85fe87d4190675db0419d112",
+          "!bp_bb7ecad2d3d2c8247a38f44855c99061",
+          "!bp_4e0e9aba6447d514f88eff1464cc4763",
+          "!bp_fa3078b9976a5b24caf92e20ee9c0f54",
+          "!bp_85067a04a97416949b5d1dbf986d93f3",
+          "!bp_450af0402422b0b4980d9c2175869612",
+          "!bp_8fd74eddd9b6c224693d9ab241f25e84",
+          "!bp_c60969e7f264e6d4b84a1499fdcf9039",
+          "!bp_88367310478c10b47903463c5d0152b0",
+		  "!bp_f0455c9295b53904f9e02fc571dd2ce1"
+    ]
+  }
+}

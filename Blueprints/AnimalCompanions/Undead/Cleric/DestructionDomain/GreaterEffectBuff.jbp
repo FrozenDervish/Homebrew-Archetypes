@@ -1,0 +1,117 @@
+{
+  "AssetId": "c2e3e42654dcfc74a9d0e9e3b14c0d63",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$TargetCritAutoconfirm$ead847ee-7686-45c8-a753-46eaeb12c803",
+      "$ContextRankConfig$3cf53ce8-b216-4440-ba7b-dde34a79d98f",
+      "$BuffIncomingDamageIncrease$3db586d9-f604-41c4-81cd-9b2b09b7fcd5"
+    ],
+    "Components": [
+      {
+        "$type": "a864eea8ed142d44fb4f1b2145e9a43d, TargetCritAutoconfirm",
+        "m_Flags": 0,
+        "name": "$TargetCritAutoconfirm$ead847ee-7686-45c8-a753-46eaeb12c803",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": []
+      },
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "m_Flags": 0,
+        "name": "$ContextRankConfig$3cf53ce8-b216-4440-ba7b-dde34a79d98f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Type": "Default",
+        "m_BaseValueType": "SummClassLevelWithArchetype",
+        "m_Feature": null,
+        "m_FeatureList": [
+          "!bp_53a93c0cc27c4c07b56288bff1d8a830"
+        ],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_BuffRankMultiplier": 1,
+        "m_Progression": "Div2",
+        "m_CustomProgression": [],
+        "m_StartLevel": 0,
+        "m_StepLevel": 1000,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": null,
+        "m_AdditionalArchetypes": [],
+        "m_Class": [
+          "!bp_f4248bf69918b974c828a0d4c1fc2d9e"
+        ],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      },
+      {
+        "$type": "ae0e714222eab8043acd91ba386e2b44, BuffIncomingDamageIncrease",
+        "m_Flags": 0,
+        "name": "$BuffIncomingDamageIncrease$3db586d9-f604-41c4-81cd-9b2b09b7fcd5",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Value": {
+          "ValueType": "Rank",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "f9de414e53a9c23419fa3cfc0daabde7",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "f9de414e53a9c23419fa3cfc0daabde7",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "5ae3dd9a39b0f6f448775f6d99f50eef",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

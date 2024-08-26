@@ -1,0 +1,73 @@
+{
+  "AssetId": "0c64235034d72f2459ee84fe9105a6ab",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddFacts$50ff097f-1f9b-4dcb-bd63-32abcc8e6583",
+      "$AddAbilityResources$993d1b0e-96a7-4ab0-b2b8-002bfc3bc5d8"
+    ],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$50ff097f-1f9b-4dcb-bd63-32abcc8e6583",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_03a45f49c0e7f0d4eb1ee1fc9b275931"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$993d1b0e-96a7-4ab0-b2b8-002bfc3bc5d8",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_69baa156af76df04a88a6dd864393e87",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidBondedMask",
+      "m_OwnerString": "0c64235034d72f2459ee84fe9105a6ab",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidBondedMaskDesc",
+      "m_OwnerString": "0c64235034d72f2459ee84fe9105a6ab",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "4024b5dc8a09a2843b00e8e2fe44021c",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

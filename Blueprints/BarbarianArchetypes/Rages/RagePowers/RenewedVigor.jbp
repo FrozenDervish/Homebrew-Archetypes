@@ -1,0 +1,235 @@
+{
+  "AssetId": "7a6d55e8d3fc65c4786b055b57f605a3",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AbilityResourceLogic$091672d8-564d-45a0-acce-56d088c40ac1",
+      "$AbilitySpawnFx$8145c655-15ea-428c-904f-f461914041ac",
+      "$AbilityEffectRunAction$a0678841-f4ca-48fa-8693-c9c75065fc25",
+      "$AbilityRankConfig$18c07089-7d98-471d-8927-ede062af2c54",
+      "$AbilityRankConfig$22087de6-2fa1-4240-9f1b-22003abc1154",
+      "$AbilityUseOnRest$69f871e2-7fac-477b-81a8-4a0df1bfd258"
+    ],
+    "Components": [
+      {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "name": "$AbilityResourceLogic$091672d8-564d-45a0-acce-56d088c40ac1",
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_3af88e49224cf9244ab7477c08427e03",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 1,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      },
+      {
+        "$type": "c788cf748ec86bc45b986ac4de28cf45, AbilitySpawnFx",
+        "name": "$AbilitySpawnFx$8145c655-15ea-428c-904f-f461914041ac",
+        "m_Overrides": [],
+        "PrefabLink": {
+          "AssetId": "c541e3afed5e7884e9b65c2eb0275110"
+        },
+        "Time": "OnApplyEffect",
+        "Anchor": "Caster",
+        "WeaponTarget": "None",
+        "DestroyOnCast": false,
+        "Delay": 0.0,
+        "PositionAnchor": "None",
+        "OrientationAnchor": "None",
+        "OrientationMode": "Copy"
+      },
+      {
+        "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
+        "name": "$AbilityEffectRunAction$a0678841-f4ca-48fa-8693-c9c75065fc25",
+        "m_Overrides": [],
+        "SavingThrowType": "Unknown",
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "8abf85d8c6ea04343a2e4fe6bb27a3bb, ContextActionHealTarget",
+              "name": "$AbilityActionHealTarget$9d911abc-8c41-48e6-9494-4e7334ceb373",
+              "Value": {
+                "DiceType": "D8",
+                "DiceCountValue": {
+                  "ValueType": "Rank",
+                  "Value": 0,
+                  "ValueRank": "DamageDice",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null
+                },
+                "BonusValue": {
+                  "ValueType": "Rank",
+                  "Value": 0,
+                  "ValueRank": "DamageBonus",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "name": "$AbilityRankConfig$18c07089-7d98-471d-8927-ede062af2c54",
+        "m_Overrides": [],
+        "m_Type": "DamageDice",
+        "m_BaseValueType": "ClassLevel",
+        "m_Feature": null,
+        "m_FeatureList": [],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_Progression": "StartPlusDivStep",
+        "m_CustomProgression": [],
+        "m_StartLevel": 4,
+        "m_StepLevel": 4,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": "!bp_23d88af5a9470b845b893b31895b20c9",
+        "m_AdditionalArchetypes": [
+		  "!bp_13f56f8740e2e1f47bba9724de8d4e9b"
+		],
+        "m_Class": [
+          "!bp_f7d7eb166b3dd594fb330d085df41853",
+		  "!bp_cda0615668a6df14eb36ba19ee881af6",
+		  "!bp_48ac8db94d5de7645906c7d0ad3bcfbd"
+        ],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      },
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "name": "$AbilityRankConfig$22087de6-2fa1-4240-9f1b-22003abc1154",
+        "m_Overrides": [],
+        "m_Type": "DamageBonus",
+        "m_BaseValueType": "StatBonus",
+        "m_Feature": null,
+        "m_FeatureList": [],
+        "m_Stat": "Constitution",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_Progression": "AsIs",
+        "m_CustomProgression": [],
+        "m_StartLevel": 0,
+        "m_StepLevel": 0,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": null,
+        "m_AdditionalArchetypes": [],
+        "m_Class": [],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      },
+      {
+        "$type": "fb300f49c72e4ea4ba7f03bfb2b1d5a3, AbilityUseOnRest",
+        "name": "$AbilityUseOnRest$69f871e2-7fac-477b-81a8-4a0df1bfd258",
+        "m_Overrides": [],
+        "Type": "HealSelf",
+        "BaseValue": 0,
+        "AddCasterLevel": true,
+        "MultiplyByCasterLevel": false,
+        "MaxCasterLevel": 0
+      },
+      {
+        "$type": "91216784d99a12e428bf782c8a8c7f5c, SpellDescriptorComponent",
+        "name": "$SpellDescriptorComponent$b5d36026-3937-4ca8-8725-7b3b11e00425",
+        "m_Overrides": [],
+        "Descriptor": {
+          "m_IntValue": 137438953472
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "39878c64d2fb29c4c92df0e6f7cd625a",
+        "stringkey": "8c40c276-aac0-4890-affb-ca8d2ded2476"
+      }
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "ee85704b9ff7ecf41876af6b8437c75a",
+        "stringkey": "19cbdb0c-5fd9-4f56-bcef-d5ca86db0f86"
+      }
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "630860906bf2f6846a2479f8f36676be",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Special",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": true,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Self",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionSelf",
+    "m_TargetMapObjects": false,
+    "ActionType": "Standard",
+    "AvailableMetamagic": "Empower, Maximize, Quicken, Heighten",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": [
+      "c541e3afed5e7884e9b65c2eb0275110"
+    ]
+  }
+}

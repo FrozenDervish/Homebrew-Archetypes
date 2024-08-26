@@ -1,0 +1,94 @@
+{
+  "AssetId": "04c611b0f70bb1349aa36560bec8d793",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$1d537ae8-86db-4df4-b28f-789a7c7b031c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_5b9644ab9be8cb04786fe19eca2101a8"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$4622087f-9ab2-4752-b9d0-4ea131bd9035",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_5e626c58bbc0cbd4b87a0840f13312d8",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      },
+	  {
+        "$type": "78c4e71ab52672e4dabbc74b4b963d43, ReplaceCasterLevelOfAbility",
+        "name": "$ReplaceCasterLevelOfAbility$0e8495b9-3db6-4879-93cb-9dc1e46d4863",
+        "m_Overrides": [],
+        "m_Spell": "!bp_caae1dc6fcf7b37408686971ee27db13",
+        "m_Class": "!bp_c75c39413ea936d4cbff2912c845aa72",
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+      {
+        "$type": "78c4e71ab52672e4dabbc74b4b963d43, ReplaceCasterLevelOfAbility",
+        "name": "$ReplaceCasterLevelOfAbility$54f190b2-823d-4dc9-96c5-45b4ef071342",
+        "m_Overrides": [],
+        "m_Spell": "!bp_8d6073201e5395d458b8251386d72df1",
+        "m_Class": "!bp_c75c39413ea936d4cbff2912c845aa72",
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$8416810c-ca4e-4bf3-a93c-be7b663a8647",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "m_Feature": "!bp_8c769102f3996684fb6e09a2c4e7e5b9"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulSacred",
+      "m_OwnerString": "04c611b0f70bb1349aa36560bec8d793",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulDesc",
+      "m_OwnerString": "04c611b0f70bb1349aa36560bec8d793",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+    },
+    "m_Icon": {
+      "guid": "e35fa1bf7ba8c0148a498d6a3b693f48",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

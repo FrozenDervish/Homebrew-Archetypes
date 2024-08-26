@@ -1,0 +1,56 @@
+{
+  "AssetId": "fe07af0441af1e049aeb79ea9cb3dd8c",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_UntouchableRagerResistanceControl",
+      "m_OwnerString": "fe07af0441af1e049aeb79ea9cb3dd8c",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_UntouchableRagerResistanceControlDesc",
+      "m_OwnerString": "fe07af0441af1e049aeb79ea9cb3dd8c",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "3b8db6aaf036c73499ee571bc641c309",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_7f738fd54c48cea49ac152d691f142a4",
+    "Group": "None",
+    "WeightInGroup": 1,
+    "IsOnByDefault": true,
+    "DeactivateIfCombatEnded": false,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActivationType": "Immediately",
+    "m_ActivateWithUnitCommand": "Free",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": [
+      "9353083f430e5a44a8e9d6e26faec248",
+      "2f93a2909cb766f4d961aee34a3c84c2"
+    ]
+  }
+}

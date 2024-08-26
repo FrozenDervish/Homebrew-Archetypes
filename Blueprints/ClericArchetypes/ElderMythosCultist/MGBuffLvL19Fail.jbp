@@ -1,0 +1,174 @@
+{
+  "AssetId": "19c60565f9744094dba149912e4e964d",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "c6f48aa9766288d408eeac7a9f767c74, AddStatBonusAbilityValue",
+        "name": "$AddStatBonusAbilityValue$8fa68f63-1c40-4758-b7aa-b97b786a1103",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "Wisdom",
+        "Value": {
+          "ValueType": "Shared",
+          "Value": 1,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+	  {
+        "$type": "a6777ad03deb60a4e8ef6b7067ac836b, ContextCalculateSharedValue",
+        "m_Flags": 0,
+        "name": "$ContextCalculateSharedValue$b8da9069-eee1-4ca9-bdd3-df0263eb324f",
+        "m_Overrides": [],
+        "ValueType": "Damage",
+        "Value": {
+          "DiceType": "D6",
+          "DiceCountValue": {
+            "ValueType": "Simple",
+            "Value": 2,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          },
+          "BonusValue": {
+            "ValueType": "Simple",
+            "Value": 0,
+            "ValueRank": "Default",
+            "ValueShared": "Damage",
+            "Property": "None",
+            "m_CustomProperty": null
+          }
+        },
+        "Modifier": -1.0
+      },
+	  {
+        "$type": "4c36aacebf153574eb39757fc3965edb, AddCondition",
+        "name": "$AddCondition$f1ef7f24-989b-44f6-a814-eb76fd3d6871",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Condition": "Sickened"
+      },
+	  {
+        "$type": "49cf7fa20ee7abd40bfe4f18cbc94f04, BuffStatusCondition",
+        "name": "$BuffStatusCondition$d13f2327-7108-4335-9f08-7f20968b36e7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "SaveEachRound": false,
+        "Condition": "Confusion",
+        "SaveType": "Unknown"
+      },
+	  {
+        "$type": "dbb7058d31be12446942310a6ab86b83, CombatStateTrigger",
+        "name": "$CombatStateTrigger$6509bbf2-0ab0-4d49-b3de-cc4df926865b",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "CombatStartActions": {
+          "Actions": []
+        },
+        "CombatEndActions": {
+          "Actions": [
+            {
+              "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+              "name": "$Conditional$cfc38df6-4ed7-4973-8621-34f67ba3529c",
+              "Comment": "",
+              "ConditionsChecker": {
+                "Operation": "And",
+                "Conditions": [
+                  {
+                    "$type": "60413a6d9c4dca742bcb441dabdbe47f, ContextConditionDifficultyHigherThan",
+                    "name": "$ContextConditionDifficultyHigherThan$7fd22c46-783c-4c5a-9b4a-e56af50cc310",
+                    "Not": false,
+                    "Less": true,
+                    "Reverse": false,
+                    "CheckOnlyForMonster": false,
+                    "m_Difficulty": {
+                      "guid": "314181c8e4a54184eb10adcb0f90ecbc",
+                      "fileid": 11400000
+                    }
+                  }
+                ]
+              },
+              "IfTrue": {
+                "Actions": [
+                  {
+                    "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+                    "name": "$ContextActionRemoveSelf$8b1aefe2-e5e6-4c07-885f-336c34e2f965"
+                  }
+                ]
+              },
+              "IfFalse": {
+                "Actions": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$type": "a914ea12032148b88cab1824e59f4744, RemoveWhenCombatEnded",
+        "name": "$RemoveWhenCombatEnded$6439eda2-610c-4193-929b-36d044fb4e74",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_ClericElderMythosCultistMaddeningGaze",
+      "m_OwnerString": "19c60565f9744094dba149912e4e964d",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_ClericElderMythosCultistMaddeningGazeLvl3Fail",
+      "m_OwnerString": "19c60565f9744094dba149912e4e964d",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "1d8dd2ecf9f0fd04c908394765cb61cf",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": {
+      "AssetId": "0843a2479096a2f48baccb8a6408f111"
+    },
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

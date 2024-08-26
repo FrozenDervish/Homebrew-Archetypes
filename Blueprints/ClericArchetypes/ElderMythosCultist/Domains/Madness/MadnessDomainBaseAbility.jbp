@@ -1,0 +1,135 @@
+{
+  "AssetId": "83a9fbe6084f4f74e91234e57549a169",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AbilityResourceLogic$08569854-31ca-4212-b5f6-49b20b92dd44",
+      "$SpellComponent$687c4c4f-1b97-4d97-bd2c-912e10445913",
+      "$AbilityVariants$17c976cd-a88c-4173-8189-17fe3ba84266",
+      "$SavesFixerFactReplacer$996afc44-c4b3-4719-85ea-ab65e1a6882f"
+    ],
+    "Components": [
+      {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "name": "$AbilityResourceLogic$08569854-31ca-4212-b5f6-49b20b92dd44",
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_cef5cc2e3ab1b1b4c95bb14f79b0579c",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 1,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      },
+      {
+        "$type": "bbf7e743804d40a47bde0b27174f33a9, SpellComponent",
+        "name": "$SpellComponent$687c4c4f-1b97-4d97-bd2c-912e10445913",
+        "m_Overrides": [],
+        "School": "Enchantment"
+      },
+      {
+        "$type": "1bf4aff684fadda4c85160390570fdf2, AbilityVariants",
+        "name": "$AbilityVariants$17c976cd-a88c-4173-8189-17fe3ba84266",
+        "m_Overrides": [],
+        "m_Variants": [
+          "!bp_083fdd8af7e44bd40a636f787cf7c8f6",
+          "!bp_908eacba052f2914883121c210ea8597",
+          "!bp_5897d49be1cb5364e85a1bb5f05012ad"
+        ]
+      },
+      {
+        "$type": "1bf823d1b20208344afc8e458c867c82, SavesFixerFactReplacer",
+        "name": "$SavesFixerFactReplacer$996afc44-c4b3-4719-85ea-ab65e1a6882f",
+        "m_Overrides": [],
+        "m_OldFacts": [
+          "!bp_83a9fbe6084f4f74e91234e57549a169"
+        ],
+        "m_NewFacts": [
+          "!bp_083fdd8af7e44bd40a636f787cf7c8f6",
+          "!bp_908eacba052f2914883121c210ea8597",
+          "!bp_5897d49be1cb5364e85a1bb5f05012ad"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "f33faa5830a68cb419a71918d85a7336",
+        "stringkey": "4ffee113-ba8c-4e67-a9ef-0f9f1d94e98b"
+      }
+    },
+    "m_Description": {
+      "m_Key": "f85c15cb-0d80-4442-9ff6-7422154a0a1b",
+      "m_OwnerString": "9246020fe13095346946ff3101d9f60d",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/Domains/Madness/MadnessDomainBaseAbility_m_Description.json",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "efdb8e3899fcdd044bc3eeab8e127ee6",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "SpellLike",
+    "Range": "Touch",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": true,
+    "CanTargetFriends": true,
+    "CanTargetSelf": true,
+    "SpellResistance": true,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "Helpful",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Touch",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionTouch",
+    "m_TargetMapObjects": false,
+    "ActionType": "Standard",
+    "AvailableMetamagic": "Quicken, Extend, Heighten, Reach, CompletelyNormal",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "bc9d2ab7ff01bc44786d1ba2eb1090f9",
+        "stringkey": "c106ea15-f587-44ce-9472-fa7cd4c11dab"
+      }
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  }
+}

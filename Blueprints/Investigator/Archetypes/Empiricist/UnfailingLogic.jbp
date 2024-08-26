@@ -1,0 +1,57 @@
+{
+  "AssetId": "249c04977bdffb24eb4dd43e586d6542",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$SavingThrowBonusAgainstDescriptor$837c8248-7a42-4d79-9dbb-476c6cab90e5"
+    ],
+    "Components": [
+      {
+        "$type": "12a48211ea743204e958350b082ecd52, SavingThrowBonusAgainstSchool",
+        "name": "$SavingThrowBonusAgainstSchool$28308899-3bb7-4839-8378-97e2215ed6ae",
+        "PrototypeLink": {
+          "guid": "",
+          "name": null
+        },
+        "m_Overrides": [],
+        "School": "Illusion",
+        "ModifierDescriptor": "Insight",
+        "Value": 2
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeEmpiricistUnfailingLogic",
+      "m_OwnerString": "249c04977bdffb24eb4dd43e586d6542",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_InvestigatorArchetypeEmpiricistUnfailingLogicDesc",
+      "m_OwnerString": "249c04977bdffb24eb4dd43e586d6542",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 2,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

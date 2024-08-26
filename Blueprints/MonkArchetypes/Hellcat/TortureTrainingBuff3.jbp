@@ -1,0 +1,96 @@
+{
+  "AssetId": "52c9eda0ff6bcbe4984eb051e546fdb9",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d60"
+    ],
+    "Components": [
+      {
+        "$type": "c90fcf2050a28654c8d7dae6e90e204b, AddConditionImmunity",
+        "name": "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d60",
+        "m_Overrides": [],
+        "Condition": "Fatigued"
+      },
+	  {
+        "$type": "c90fcf2050a28654c8d7dae6e90e204b, AddConditionImmunity",
+        "name": "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d61",
+        "m_Overrides": [],
+        "Condition": "Sickened"
+      },
+	  {
+        "$type": "c90fcf2050a28654c8d7dae6e90e204b, AddConditionImmunity",
+        "name": "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d62",
+        "m_Overrides": [],
+        "Condition": "Staggered"
+      },
+	  {
+        "$type": "c90fcf2050a28654c8d7dae6e90e204b, AddConditionImmunity",
+        "name": "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d63",
+        "m_Overrides": [],
+        "Condition": "Frightened"
+      },
+	  {
+        "$type": "c90fcf2050a28654c8d7dae6e90e204b, AddConditionImmunity",
+        "name": "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d64",
+        "m_Overrides": [],
+        "Condition": "Shaken"
+      },
+	  {
+        "$type": "c90fcf2050a28654c8d7dae6e90e204b, AddConditionImmunity",
+        "name": "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d65",
+        "m_Overrides": [],
+        "Condition": "Exhausted"
+      },
+	  {
+        "$type": "c90fcf2050a28654c8d7dae6e90e204b, AddConditionImmunity",
+        "name": "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d66",
+        "m_Overrides": [],
+        "Condition": "Nauseated"
+      },
+	  {
+        "$type": "c90fcf2050a28654c8d7dae6e90e204b, AddConditionImmunity",
+        "name": "$AddConditionImmunity$5a61f100-4254-4787-b245-1e1955ca4d67",
+        "m_Overrides": [],
+        "Condition": "Dazzled"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HellcatTortureTrainingMaster",
+      "m_OwnerString": "52c9eda0ff6bcbe4984eb051e546fdb9",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HellcatTortureTrainingMasterDesc",
+      "m_OwnerString": "52c9eda0ff6bcbe4984eb051e546fdb9",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "2863ee6a96f169c41bcc002c4354fbad",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "AssetId": "9b3b15d491b849840b92d21801790810",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$SpontaneousSpellConversion$16b84ac8-7ef9-407f-bdb5-2de48d7d858d"
+    ],
+    "Components": [
+      {
+        "$type": "e62f4123f61beec4e98aa95e41c9a697, SpontaneousSpellConversion",
+        "name": "$SpontaneousSpellConversion$16b84ac8-7ef9-407f-bdb5-2de48d7d858d",
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_610d836f3a3a9ed42a4349b62f002e96",
+        "m_SpellsByLevel": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+		  "!bp_7401b905f01f0824086db583c9f77e0e",
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidSpontaneousCasting",
+      "m_OwnerString": "987f6b3803751544e9effc843ae8b672",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_HalcyonDruidSpontaneousCastingDesc",
+      "m_OwnerString": "987f6b3803751544e9effc843ae8b672",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "972c1a8e1687dd845a6e924db801f690",
+      "fileid": 21300000
+    },
+    "HideInUI": true,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

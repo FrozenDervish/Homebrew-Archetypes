@@ -1,0 +1,59 @@
+{
+  "AssetId": "13afc5664d9f8ca449f87f2952e2ad24",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "a0c7e67ead2fb1b469484150184b3d4a, AddGenericStatBonus",
+        "name": "$AddGenericStatBonus$e7a949b1-ef8b-44f6-a420-bc25c5418362",
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "AdditionalAttackBonus",
+        "Value": 2
+      },
+      {
+        "$type": "fe32c97ec5dc90a4fb58f0ce607a9117, RemoveBuffOnAttack",
+        "name": "$RemoveBuffOnEventDidTrigger$e6c6c623-0ce8-418a-9e93-1f78e8563d1c",
+        "m_Overrides": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "13afc5664d9f8ca449f87f2952e2ad24",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": {
+      "guid": "5a438a12c8e515e46a4e29cac29dbac3",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Stack",
+    "Ranks": 20,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

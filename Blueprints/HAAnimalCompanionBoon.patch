@@ -1,0 +1,31 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+      {
+        "$type": "6d20d4c972c84c14b91374aae3d01671, CompanionBoon",
+        "name": "$CompanionBoon$d12dcf68-f7e7-4ef9-b6a0-8b8cd9d0251c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_RankFeature": "!bp_59d489cc9e207ba4db40f38d821c16ad",
+        "Bonus": 4
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$830fbba0-8c08-4f67-a277-3da2d4b56912",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_59d489cc9e207ba4db40f38d821c16ad"
+      },
+    ],
+	}

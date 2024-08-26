@@ -1,0 +1,123 @@
+{
+  "AssetId": "6ea016eff3c43e54fb91f44e47a9ea3e",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "HomebrewArchtypes_ClericEvangelist",
+      "m_OwnerString": "6ea016eff3c43e54fb91f44e47a9ea3e",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescription": {
+      "m_Key": "HomebrewArchtypes_ClericEvangelistDesc",
+      "m_OwnerString": "6ea016eff3c43e54fb91f44e47a9ea3e",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": null,
+    "RemoveSpellbook": false,
+    "BuildChanging": false,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_7616b069e9046314283fd97280d687d1",
+		  "!bp_121f4301908f31b4c8a3961ab658de1d",
+		  "!bp_f99436a42791f1047b899dc42f3a1f88",
+		  "!bp_ad3f79790062f744e98767eb0cdbb69c",
+		  "!bp_2dbac4ec7b1595642bd024fab3ad4206"
+        ]
+      },
+	  {
+        "Level": 5,
+        "m_Features": [
+          "!bp_f99436a42791f1047b899dc42f3a1f88"
+        ]
+      },
+	  {
+        "Level": 7,
+        "m_Features": [
+          "!bp_36931765983e96d4bb07ce7844cd897e"
+        ]
+      },
+	  {
+        "Level": 9,
+        "m_Features": [
+          "!bp_6b465332457eb9f4ba04f6ebff7df8ba"
+        ]
+      },
+	  {
+        "Level": 11,
+        "m_Features": [
+          "!bp_f99436a42791f1047b899dc42f3a1f88"
+        ]
+      },
+	  {
+        "Level": 13,
+        "m_Features": [
+          "!bp_fd4ec50bc895a614194df6b9232004b9"
+        ]
+      },
+	  {
+        "Level": 15,
+        "m_Features": [
+          "!bp_a824135c2c1f3654db09f7260d90dade"
+        ]
+      },
+	  {
+        "Level": 17,
+        "m_Features": [
+          "!bp_f99436a42791f1047b899dc42f3a1f88"
+        ]
+      },
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_43281c3d7fe18cc4d91928395837cd1e",
+		  "!bp_8c971173613282844888dc20d572cfc9",
+		  "!bp_d332c1748445e8f4f9e92763123e31bd"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": true,
+    "RecommendedAttributes": [
+      "Charisma",
+      "Wisdom",
+      "Constitution"
+    ],
+    "NotRecommendedAttributes": [
+      "Intelligence"
+    ],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}
