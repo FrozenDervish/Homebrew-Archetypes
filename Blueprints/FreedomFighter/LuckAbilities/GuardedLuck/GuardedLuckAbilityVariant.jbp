@@ -1,0 +1,101 @@
+{
+  "AssetId": "4928160cc2615874582417dd01d8f684",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "1bf4aff684fadda4c85160390570fdf2, AbilityVariants",
+        "m_Flags": 0,
+        "name": "$AbilityVariants$2c60fc39-39cf-43f0-a1e5-a4e4a506fa8a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Variants": [
+          "!bp_19529fcfd5df9764e9c89b9d91dbb452",
+          "!bp_aa68f658f9edc3842ace5486a3ab1f64"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckName",
+      "m_OwnerString": "4928160cc2615874582417dd01d8f684",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckDesc",
+      "m_OwnerString": "4928160cc2615874582417dd01d8f684",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "d5e85a162b38be047a4fcc78f9e98446",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Supernatural",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": true,
+    "CanTargetSelf": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Self",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionSelf",
+    "m_TargetMapObjects": false,
+    "ActionType": "Swift",
+    "AvailableMetamagic": "Quicken, Extend, Heighten, CompletelyNormal",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "1f0132abf2df4bf48a1cf996328d7aca",
+        "stringkey": "62761fbe-42ce-4474-ae10-14f9024f4c57"
+      }
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

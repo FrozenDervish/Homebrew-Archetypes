@@ -38,21 +38,10 @@
     "ReapplyOnLevelUp": false,
     "IsClassFeature": true,
     "IsPrerequisiteFor": [
-      "!bp_fd374a48fd0f5e94a841cc3bf408c432",
-      "!bp_fd01c15d9e74cd247b1fdbd6eb4d4713",
-      "!bp_ce72662a812b1f242849417b2c784b5e",
-      "!bp_b696bd7cb38da194fa3404032483d1db",
-      "!bp_1b92146b8a9830d4bb97ab694335fa7c",
-      "!bp_dd699394df0ef8847abba26038333f02",
-      "!bp_6209197fed619cf41910f9aaceaf7d51",
-      "!bp_0d35d6c4d5eef8d4790d09bd9a874e57",
-      "!bp_5bb6dc5ce00550441880a6ff8ad4c968",
-      "!bp_4b104a7319393494ca8d449a3b38a45f",
-      "!bp_31b5f3e5093c8244abb32f6c7c775de1",
-      "!bp_84ba86c9cc1ef9e489dab1ad03e3ba17",
-      "!bp_ffced614e1f95e34d99df77debbc4207",
-      "!bp_b4befb0a9b58e0e4687942661c55198d",
-      "!bp_363cab72f77c47745bf3a8807074d183"
+      "!bp_024f1b13756e9a5418a96ad3e9fdc828",
+      "!bp_19b7188fc0dd4ff42a6ccc3e024fd751",
+      "!bp_3b0c911e13becec4e9465617e61fe64a",
+      "!bp_f252650ce1fc53741a97d8e9902d05de"
     ]
   }
 }

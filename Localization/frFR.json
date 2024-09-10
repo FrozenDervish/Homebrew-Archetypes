@@ -5782,5 +5782,73 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
             "Key": "HomebrewArchtypes_ChampionOathUnconqueredUnbreakableDefenderDesc", 
             "Value": "At 20th level, as a standard action you can create a secondary layer of armor made of divine energy that appears over yourself and your allies. This armor gives 200 temporary hitpoints for 1 minute. This ability can only be used once per day."
         },
+		{
+            "Key": "HomebrewArchtypes_ArcaneTricksterNokizaruSpellbook",
+            "Value": "Nokizaru"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckSelfName", 
+            "Value": "Guarded Luck - Self"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckAllyName", 
+            "Value": "Guarded Luck - Ally"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneSelfName", 
+            "Value": "Increasing Fortune - Self"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneAllyName", 
+            "Value": "Increasing Fortune - Ally"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceSelfName", 
+            "Value": "Roll the Dice - Self"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceAllyName", 
+            "Value": "Roll the Dice - Ally"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeverFateSelfName", 
+            "Value": "Sever Fate - Self"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeverFateAllyName", 
+            "Value": "Sever Fate - Ally"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRightTimeRightPlaceName", 
+            "Value": "Right Time, Right Place"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRightTimeRightPlaceDesc", 
+            "Value": "Sometimes luck comes down to simply being somewhere. In a burst of luck you can move to where you need to be."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreName", 
+            "Value": "The Bigger They Are"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreDesc", 
+            "Value": "As a standard action, a freedom fighter can make a single melee attack. If the attack hits, they may make a trip combat maneuver against the target of their attack as a free action that does not provoke an attack of opportunity."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowName", 
+            "Value": "Burrow"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowDesc", 
+            "Value": "While burrowing, you have a +8 dodge {g|Encyclopedia:Bonus}bonus{/g} to your {g|Encyclopedia:Armor_Class}AC{/g} and total {g|Encyclopedia:Concealment}concealment{/g}, but you can't take any {g|Encyclopedia:CA_Types}actions{/g} except moving. You may use burrow as often as desired."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTrainedLeverageName", 
+            "Value": "Superior Leverage"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTrainedLeverageDesc", 
+            "Value": "The freedom fighter's size is a disadvantage, but with training they've learned to counteract a foes size with their own techniques. When performing a combat maneuver against a larger foe, the freedom fighter gains a bonus on the check equal to 1/2 their freedom fighter level. The freedom figher adds this same bonus to their CMD when defending against combat maneuvers from a larger opponent."
+        },
 	]	
 }

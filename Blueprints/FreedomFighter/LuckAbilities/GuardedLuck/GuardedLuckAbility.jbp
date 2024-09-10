@@ -70,7 +70,7 @@
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckName",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckSelfName",
       "m_OwnerString": "19529fcfd5df9764e9c89b9d91dbb452",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
@@ -110,7 +110,7 @@
     "NotOffensive": false,
     "EffectOnAlly": "None",
     "EffectOnEnemy": "None",
-    "m_Parent": null,
+    "m_Parent": "!bp_4928160cc2615874582417dd01d8f684",
     "Animation": "Self",
     "HasFastAnimation": false,
     "AnimationStyle": "CastActionSelf",

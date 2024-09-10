@@ -1,0 +1,80 @@
+{
+  "AssetId": "be77115879898834aa41c74fba699262",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "4c36aacebf153574eb39757fc3965edb, AddCondition",
+        "name": "$AddCondition$35e9ba61-2b9a-4448-a2fe-8aab26222ca4",
+        "m_Overrides": [],
+        "Condition": "CantAct"
+      },
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$70937616-903c-4505-ac00-831419ab88ab",
+        "m_Overrides": [],
+        "Descriptor": "None",
+        "Stat": "AC",
+        "Multiplier": 0,
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 8,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+      {
+        "$type": "c710f226e81f95242bff17f7ac9783fe, AddConcealment",
+        "name": "$AddConcealment$cdb524d8-f7b5-4281-bae9-21e09648d6fc",
+        "m_Overrides": [],
+        "Descriptor": "Displacement",
+        "Concealment": "Total",
+        "CheckWeaponRangeType": false,
+        "RangeType": "Melee",
+        "CheckDistance": false,
+        "DistanceGreater": {
+          "m_Value": 0.0
+        },
+        "OnlyForAttacks": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowName",
+      "m_OwnerString": "be77115879898834aa41c74fba699262",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowDesc",
+      "m_OwnerString": "be77115879898834aa41c74fba699262",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "b38e3032f469bc14696d7270d6e7b5f2",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "IsFromSpell, StayOnDeath",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

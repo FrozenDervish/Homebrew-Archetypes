@@ -1,0 +1,56 @@
+{
+  "AssetId": "c8e896d2109d17243a84eb276f1a71ca",
+  "Data": {
+    "$type": "f7bbaafe7a7cbad4693107291c548dcc, BlueprintActivatableAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowName",
+      "m_OwnerString": "c8e896d2109d17243a84eb276f1a71ca",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowDesc",
+      "m_OwnerString": "c8e896d2109d17243a84eb276f1a71ca",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "b38e3032f469bc14696d7270d6e7b5f2",
+      "fileid": 21300000
+    },
+    "m_Buff": "!bp_be77115879898834aa41c74fba699262",
+    "Group": "None",
+    "WeightInGroup": 1,
+    "IsOnByDefault": false,
+    "DeactivateIfCombatEnded": true,
+    "DeactivateAfterFirstRound": false,
+    "DeactivateImmediately": true,
+    "IsTargeted": false,
+    "DeactivateIfOwnerDisabled": false,
+    "DeactivateIfOwnerUnconscious": false,
+    "OnlyInCombat": false,
+    "DoNotTurnOffOnRest": false,
+    "ActionBarAutoFillIgnored": false,
+    "IsRuntimeOnly": false,
+    "HiddenInUI": false,
+    "ActivationType": "WithUnitCommand",
+    "m_ActivateWithUnitCommand": "Standard",
+    "m_ActivateOnUnitAction": "Attack",
+    "m_SelectTargetAbility": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

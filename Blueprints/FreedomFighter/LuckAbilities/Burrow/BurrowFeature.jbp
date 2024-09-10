@@ -1,16 +1,23 @@
 {
-  "AssetId": "257b9b0531ce5954aaf94733471677d2",
+  "AssetId": "a0beed19829cb3b45b554808bafea07b",
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
-    "PrototypeLink": null,
-    "m_Overrides": [],
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$AddFacts$1dac20c2-3f4a-4e27-ac0c-36cb62d9e684"
+    ],
     "Components": [
       {
         "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
-        "name": "$AddFacts$77534cd6-a858-468e-a372-9301ecd27d6c",
+        "m_Flags": 0,
+        "name": "$AddFacts$1dac20c2-3f4a-4e27-ac0c-36cb62d9e684",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
         "m_Overrides": [],
         "m_Facts": [
-          "!bp_526eb3e193357234cbee29eff8519151"
+          "!bp_c8e896d2109d17243a84eb276f1a71ca"
         ],
         "Dummy": null,
         "CasterLevel": 0,
@@ -18,19 +25,29 @@
         "HasDifficultyRequirements": false,
         "InvertDifficultyRequirements": false,
         "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$e43d704e-232a-4b85-9fab-d40b5c105b68",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 3
       }
     ],
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneName",
-      "m_OwnerString": "257b9b0531ce5954aaf94733471677d2",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowName",
+      "m_OwnerString": "a0beed19829cb3b45b554808bafea07b",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
     },
     "m_Description": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneDesc",
-      "m_OwnerString": "257b9b0531ce5954aaf94733471677d2",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowDesc",
+      "m_OwnerString": "a0beed19829cb3b45b554808bafea07b",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": ""
     },
@@ -41,7 +58,7 @@
       "m_JsonPath": ""
     },
     "m_Icon": {
-      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "guid": "b38e3032f469bc14696d7270d6e7b5f2",
       "fileid": 21300000
     },
     "HideInUI": false,
@@ -51,7 +68,7 @@
     "Ranks": 1,
     "ReapplyOnLevelUp": false,
     "IsClassFeature": true,
-    "IsPrerequisiteFor": null
+    "IsPrerequisiteFor": []
   },
   "Meta": {
     "ShadowDeleted": false

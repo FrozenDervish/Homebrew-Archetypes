@@ -1,5 +1,5 @@
 {
-  "AssetId": "520be3c32f8f82640bada7aefaeeafe8",
+  "AssetId": "ec0878075b065b74a95aebf6ca9cab4c",
   "Data": {
     "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
     "PrototypeLink": null,
@@ -62,7 +62,7 @@
         "m_RequiredResource": "!bp_3153a73d736d1104e840409cd4482509",
         "m_IsSpendResource": true,
         "CostIsCustom": false,
-        "Amount": 1,
+        "Amount": 2,
         "ResourceCostIncreasingFacts": [],
         "ResourceCostDecreasingFacts": []
       }
@@ -70,7 +70,7 @@
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneSelfName",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneAllyName",
       "m_OwnerString": "520be3c32f8f82640bada7aefaeeafe8",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
@@ -93,7 +93,7 @@
     },
     "m_DefaultAiAction": null,
     "Type": "Supernatural",
-    "Range": "Personal",
+    "Range": "Touch",
     "CustomRange": {
       "m_Value": 0.0
     },
@@ -102,7 +102,7 @@
     "CanTargetPoint": false,
     "CanTargetEnemies": false,
     "CanTargetFriends": true,
-    "CanTargetSelf": true,
+    "CanTargetSelf": false,
     "SpellResistance": false,
     "ActionBarAutoFillIgnored": false,
     "Hidden": false,

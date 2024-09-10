@@ -1,5 +1,5 @@
 {
-  "AssetId": "84c3fcd44c54b9b4d9f22cec1ae0a5a9",
+  "AssetId": "917ce86cd9be0f34ead930c01407e75a",
   "Data": {
     "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
     "PrototypeLink": null,
@@ -177,7 +177,7 @@
         "m_RequiredResource": "!bp_3153a73d736d1104e840409cd4482509",
         "m_IsSpendResource": true,
         "CostIsCustom": false,
-        "Amount": 1,
+        "Amount": 2,
         "ResourceCostIncreasingFacts": [],
         "ResourceCostDecreasingFacts": []
       }
@@ -185,14 +185,14 @@
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceSelfName",
-      "m_OwnerString": "84c3fcd44c54b9b4d9f22cec1ae0a5a9",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceAllyName",
+      "m_OwnerString": "917ce86cd9be0f34ead930c01407e75a",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
     },
     "m_Description": {
       "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceDesc",
-      "m_OwnerString": "84c3fcd44c54b9b4d9f22cec1ae0a5a9",
+      "m_OwnerString": "917ce86cd9be0f34ead930c01407e75a",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": ""
     },
@@ -208,7 +208,7 @@
     },
     "m_DefaultAiAction": null,
     "Type": "Supernatural",
-    "Range": "Personal",
+    "Range": "Touch",
     "CustomRange": {
       "m_Value": 0.0
     },
@@ -217,7 +217,7 @@
     "CanTargetPoint": false,
     "CanTargetEnemies": false,
     "CanTargetFriends": true,
-    "CanTargetSelf": true,
+    "CanTargetSelf": false,
     "SpellResistance": false,
     "ActionBarAutoFillIgnored": false,
     "Hidden": false,

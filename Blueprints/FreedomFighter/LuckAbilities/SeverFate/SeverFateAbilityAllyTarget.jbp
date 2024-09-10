@@ -1,5 +1,5 @@
 {
-  "AssetId": "520be3c32f8f82640bada7aefaeeafe8",
+  "AssetId": "42e90bf9cad995548b29feee43a0dfbe",
   "Data": {
     "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
     "PrototypeLink": null,
@@ -16,7 +16,7 @@
             {
               "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
               "name": "$AbilityActionApplyBuff$d54d5f40-6457-44e5-b515-940548d17545",
-              "m_Buff": "!bp_aa406ac4b8fd360449a6639b9a4caf2f",
+              "m_Buff": "!bp_01912920720836f4abd712974dbe4658",
               "Permanent": false,
               "UseDurationSeconds": false,
               "DurationValue": {
@@ -50,6 +50,23 @@
           ]
         }
       },
+      {
+        "$type": "c788cf748ec86bc45b986ac4de28cf45, AbilitySpawnFx",
+        "m_Flags": 0,
+        "name": "$AbilitySpawnFx$7759de7d-5200-4f11-9a37-fe417c384889",
+        "m_Overrides": [],
+        "PrefabLink": {
+          "AssetId": "8de64fbe047abc243a9b4715f643739f"
+        },
+        "Time": "OnApplyEffect",
+        "Anchor": "Caster",
+        "WeaponTarget": "None",
+        "DestroyOnCast": false,
+        "Delay": 0.0,
+        "PositionAnchor": "None",
+        "OrientationAnchor": "None",
+        "OrientationMode": "Copy"
+      },
 	  {
         "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
         "m_Flags": 0,
@@ -62,7 +79,7 @@
         "m_RequiredResource": "!bp_3153a73d736d1104e840409cd4482509",
         "m_IsSpendResource": true,
         "CostIsCustom": false,
-        "Amount": 1,
+        "Amount": 2,
         "ResourceCostIncreasingFacts": [],
         "ResourceCostDecreasingFacts": []
       }
@@ -70,14 +87,14 @@
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneSelfName",
-      "m_OwnerString": "520be3c32f8f82640bada7aefaeeafe8",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeverFateAllyName",
+      "m_OwnerString": "42e90bf9cad995548b29feee43a0dfbe",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
     },
     "m_Description": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneDesc",
-      "m_OwnerString": "520be3c32f8f82640bada7aefaeeafe8",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeveringFateDesc",
+      "m_OwnerString": "42e90bf9cad995548b29feee43a0dfbe",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": ""
     },
@@ -88,12 +105,12 @@
       "m_JsonPath": ""
     },
     "m_Icon": {
-      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "guid": "9432e7da1cf92544d8ab2dcf54fc8678",
       "fileid": 21300000
     },
     "m_DefaultAiAction": null,
     "Type": "Supernatural",
-    "Range": "Personal",
+    "Range": "Touch",
     "CustomRange": {
       "m_Value": 0.0
     },
@@ -102,7 +119,7 @@
     "CanTargetPoint": false,
     "CanTargetEnemies": false,
     "CanTargetFriends": true,
-    "CanTargetSelf": true,
+    "CanTargetSelf": false,
     "SpellResistance": false,
     "ActionBarAutoFillIgnored": false,
     "Hidden": false,
@@ -110,7 +127,7 @@
     "NotOffensive": false,
     "EffectOnAlly": "None",
     "EffectOnEnemy": "None",
-    "m_Parent": "!bp_526eb3e193357234cbee29eff8519151",
+    "m_Parent": "!bp_9980d9d64f2c56640b192f93187aa99d",
     "Animation": "Self",
     "HasFastAnimation": false,
     "AnimationStyle": "CastActionSelf",
@@ -141,7 +158,7 @@
     },
     "DisableLog": false,
     "ResourceAssetIds": [
-      "8de64fbe047abc243a9b4715f643739f"
+      "9aca1a3e2f1e7584fb98215a00d0c194"
     ]
   },
   "Meta": {

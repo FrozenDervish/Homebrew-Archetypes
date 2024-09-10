@@ -87,7 +87,7 @@
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeveringFateName",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeverFateSelfName",
       "m_OwnerString": "eac9a13f2faa6744eade63336a954414",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
@@ -127,7 +127,7 @@
     "NotOffensive": false,
     "EffectOnAlly": "None",
     "EffectOnEnemy": "None",
-    "m_Parent": null,
+    "m_Parent": "!bp_9980d9d64f2c56640b192f93187aa99d",
     "Animation": "Self",
     "HasFastAnimation": false,
     "AnimationStyle": "CastActionSelf",

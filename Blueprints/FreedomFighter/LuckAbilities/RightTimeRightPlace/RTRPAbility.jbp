@@ -1,54 +1,63 @@
 {
-  "AssetId": "520be3c32f8f82640bada7aefaeeafe8",
+  "AssetId": "7a69245041b8a6847809daa83c139abf",
   "Data": {
     "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
     "PrototypeLink": null,
     "m_Overrides": [],
     "Components": [
       {
-        "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
+        "$type": "8b78916f3ef04702a5773a7b14bb3adc, AbilityCustomDimensionDoor",
         "m_Flags": 0,
-        "name": "$AbilityEffectRunAction$529488f4-532e-4726-a3a6-773b2f464128",
+        "name": "$AbilityCustomDimensionDoor$bce156e1-086b-458c-9eac-4328d26ba8ed",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
         "m_Overrides": [],
-        "SavingThrowType": "Unknown",
-        "Actions": {
-          "Actions": [
-            {
-              "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
-              "name": "$AbilityActionApplyBuff$d54d5f40-6457-44e5-b515-940548d17545",
-              "m_Buff": "!bp_aa406ac4b8fd360449a6639b9a4caf2f",
-              "Permanent": false,
-              "UseDurationSeconds": false,
-              "DurationValue": {
-                "Rate": "Rounds",
-                "DiceType": "Zero",
-                "DiceCountValue": {
-                  "ValueType": "Simple",
-                  "Value": 0,
-                  "ValueRank": "Default",
-                  "ValueShared": "Damage",
-                  "Property": "None",
-                  "m_CustomProperty": null
-                },
-                "BonusValue": {
-                  "ValueType": "Simple",
-                  "Value": 1,
-                  "ValueRank": "Default",
-                  "ValueShared": "Damage",
-                  "Property": "None",
-                  "m_CustomProperty": null
-                },
-                "m_IsExtendable": true
-              },
-              "DurationSeconds": 0.0,
-              "IsFromSpell": true,
-              "IsNotDispelable": false,
-              "ToCaster": false,
-              "AsChild": false,
-              "SameDuration": false
-            }
-          ]
-        }
+        "Radius": {
+          "m_Value": 0.0
+        },
+        "PortalFromPrefab": {
+          "AssetId": "382a57043c80f914681c0b0f04fe63ec"
+        },
+        "PortalToPrefab": {
+          "AssetId": "dde3273425ddf5f4b902116fdf27edb9"
+        },
+        "PortalBone": "Offset",
+        "CasterDisappearFx": {
+          "AssetId": "9535b8cda5cb3164eb9e53a621e53a60"
+        },
+        "CasterAppearFx": {
+          "AssetId": "7e864434489d2ac4da4d4eb22793e5d3"
+        },
+        "SideDisappearFx": {
+          "AssetId": "9535b8cda5cb3164eb9e53a621e53a60"
+        },
+        "SideAppearFx": {
+          "AssetId": "7e864434489d2ac4da4d4eb22793e5d3"
+        },
+        "m_CasterDisappearProjectile": "!bp_b9a3f1855ab08bf42a8b119818bcc6dd",
+        "m_CasterAppearProjectile": "!bp_4125f30c999bddc4492bf91d73c4cf64",
+        "m_SideDisappearProjectile": "!bp_cdaff4fd8665656409ddffe42fbc07c1",
+        "m_SideAppearProjectile": "!bp_6c72207ef86803543b4b13352bcc5cf6",
+        "m_CameraShouldFollow": false,
+        "UseAnimations": false,
+        "TakeOffAnimation": null,
+        "TakeoffTime": 1.0,
+        "DissapearTime": 1.0,
+        "LandingAnimation": null,
+        "LandingTime": 1.0,
+        "AppearTime": 1.0
+      },
+      {
+        "$type": "69435a4864124221ae7376c64a745024, LineOfSightIgnorance",
+        "m_Flags": 0,
+        "name": "$LineOfSightIgnorance$b78937e1-1881-48e5-8db3-56d2be63dda2",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": []
       },
 	  {
         "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
@@ -70,14 +79,14 @@
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneSelfName",
-      "m_OwnerString": "520be3c32f8f82640bada7aefaeeafe8",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRightTimeRightPlaceName",
+      "m_OwnerString": "7a69245041b8a6847809daa83c139abf",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
     },
     "m_Description": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneDesc",
-      "m_OwnerString": "520be3c32f8f82640bada7aefaeeafe8",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRightTimeRightPlaceDesc",
+      "m_OwnerString": "7a69245041b8a6847809daa83c139abf",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": ""
     },
@@ -88,21 +97,21 @@
       "m_JsonPath": ""
     },
     "m_Icon": {
-      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "guid": "fbca144bd0f43c543932158f73a6130a",
       "fileid": 21300000
     },
     "m_DefaultAiAction": null,
     "Type": "Supernatural",
-    "Range": "Personal",
+    "Range": "Custom",
     "CustomRange": {
-      "m_Value": 0.0
+      "m_Value": 30.0
     },
     "ShowNameForVariant": false,
     "OnlyForAllyCaster": false,
-    "CanTargetPoint": false,
+    "CanTargetPoint": true,
     "CanTargetEnemies": false,
-    "CanTargetFriends": true,
-    "CanTargetSelf": true,
+    "CanTargetFriends": false,
+    "CanTargetSelf": false,
     "SpellResistance": false,
     "ActionBarAutoFillIgnored": false,
     "Hidden": false,
@@ -110,7 +119,7 @@
     "NotOffensive": false,
     "EffectOnAlly": "None",
     "EffectOnEnemy": "None",
-    "m_Parent": "!bp_526eb3e193357234cbee29eff8519151",
+    "m_Parent": null,
     "Animation": "Self",
     "HasFastAnimation": false,
     "AnimationStyle": "CastActionSelf",
@@ -141,7 +150,7 @@
     },
     "DisableLog": false,
     "ResourceAssetIds": [
-      "8de64fbe047abc243a9b4715f643739f"
+      "9aca1a3e2f1e7584fb98215a00d0c194"
     ]
   },
   "Meta": {

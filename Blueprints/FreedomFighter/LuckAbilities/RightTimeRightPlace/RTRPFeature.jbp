@@ -1,5 +1,5 @@
 {
-  "AssetId": "257b9b0531ce5954aaf94733471677d2",
+  "AssetId": "3b0c911e13becec4e9465617e61fe64a",
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": null,
@@ -10,7 +10,7 @@
         "name": "$AddFacts$77534cd6-a858-468e-a372-9301ecd27d6c",
         "m_Overrides": [],
         "m_Facts": [
-          "!bp_526eb3e193357234cbee29eff8519151"
+          "!bp_7a69245041b8a6847809daa83c139abf"
         ],
         "Dummy": null,
         "CasterLevel": 0,
@@ -18,19 +18,34 @@
         "HasDifficultyRequirements": false,
         "InvertDifficultyRequirements": false,
         "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$f7efc171-7285-4d3e-9506-e12f3bf51fcf",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "m_Feature": "!bp_8525328696a272f4e8a0307b872e1479"
       }
     ],
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneName",
-      "m_OwnerString": "257b9b0531ce5954aaf94733471677d2",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRightTimeRightPlaceName",
+      "m_OwnerString": "3b0c911e13becec4e9465617e61fe64a",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
     },
     "m_Description": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneDesc",
-      "m_OwnerString": "257b9b0531ce5954aaf94733471677d2",
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRightTimeRightPlaceDesc",
+      "m_OwnerString": "3b0c911e13becec4e9465617e61fe64a",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": ""
     },
@@ -41,7 +56,7 @@
       "m_JsonPath": ""
     },
     "m_Icon": {
-      "guid": "c5abd8f958a8afb409faa5d31acddb72",
+      "guid": "fbca144bd0f43c543932158f73a6130a",
       "fileid": 21300000
     },
     "HideInUI": false,
