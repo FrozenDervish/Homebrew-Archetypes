@@ -28,6 +28,20 @@
         "Amount": 0,
         "RestoreAmount": false,
         "RestoreOnLevelUp": false
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$86b59ea2-82e2-43f1-81e6-a19421d76daa",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_33228aafd0ee83340813ccafe4e7e72c"
       }
     ],
     "Comment": "",
