@@ -1,0 +1,71 @@
+{
+  "AssetId": "ee52c70d529fb4842aac3b53ec2f7c5b",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "f7c62338d05d43019df3886378374d54, IncomingDamageAndHealingModifier",
+        "m_Flags": 0,
+        "name": "$IncomingDamageAndHealingModifier$08a5413c-eafb-487c-b8bb-00f246737a99",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "ModifierPercents": {
+          "ValueType": "Simple",
+          "Value": -40,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level",
+          "PropertyName": "Value1"
+        },
+        "Type": "OnlyDamage",
+        "m_DamageWeaponType": "Any",
+        "m_SourceToTargetFactionType": "Any",
+        "m_AoeEntry": "OnlyFalse",
+        "m_OverrideOtherModifierPercents": false
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityHardinessName",
+      "m_OwnerString": "ee52c70d529fb4842aac3b53ec2f7c5b",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityHardinessDesc",
+      "m_OwnerString": "ee52c70d529fb4842aac3b53ec2f7c5b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "f68f95de7b3199d49ad78bc0098efe92",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

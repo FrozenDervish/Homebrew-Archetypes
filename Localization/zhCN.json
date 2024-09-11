@@ -5585,5 +5585,29 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTrainedLeverageDesc", 
             "Value": "The freedom fighter's size is a disadvantage, but with training they've learned to counteract a foes size with their own techniques. When performing a combat maneuver against a larger foe, the freedom fighter gains a bonus on the check equal to 1/2 their freedom fighter level. The freedom figher adds this same bonus to their CMD when defending against combat maneuvers from a larger opponent."
         },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityWhirlwindAttackName", 
+            "Value": "Whirlwind Attack"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityWhirlwindAttackDesc", 
+            "Value": "This ability allows the warrior to unleash a flurry of super-fast blows. The ability gives the warrior an additional 6 attacks at a penalty of -4 to damage and attack bonus, these do not stack with haste. The Whirlwind Attack lasts for one round. This ability can be used 3 times per day."
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityGreaterWhirlwindAttackName", 
+            "Value": "Greater Whirlwind Attack"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityGreaterWhirlwindAttackDesc", 
+            "Value": "This ability allows the warrior to unleash a flurry of super-fast blows. The ability gives the warrior an additional 6 attacks, these do not stack with haste. The Whirlwind Attack lasts for one round. This ability or whirlwind attack can be used 3 times per day."
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityHardinessName", 
+            "Value": "Hardiness"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityHardinessDesc", 
+            "Value": "Calling upon hidden reserves of strength during times of danger, a warrior can use the Hardiness ability to gain 40% resistance to all forms of physical damage. The ability lasts for 1 round for every 2 levels of the warrior. This ability can be used 3 times per day."
+        },
 	]	
 }
