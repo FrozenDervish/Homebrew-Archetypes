@@ -1,0 +1,298 @@
+{
+  "AssetId": "b4f4c7baf6da069429969bc071c966fb",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
+        "m_Flags": 0,
+        "name": "$AbilityEffectRunAction$529488f4-532e-4726-a3a6-773b2f464128",
+        "m_Overrides": [],
+        "SavingThrowType": "Unknown",
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "5e2f2046f3bd6984c8833bf019c8e8ad, ContextActionSavingThrow",
+              "name": "$ContextActionSavingThrow$808b945e-184d-40d3-af64-721e02374be1",
+              "Type": "Will",
+              "FromBuff": false,
+              "m_ConditionalDCIncrease": [],
+              "HasCustomDC": true,
+              "CustomDC": {
+                "ValueType": "CasterNamedProperty",
+                "Value": 0,
+                "ValueRank": "Default",
+                "ValueShared": "DamageBonus",
+                "Property": "None",
+                "m_CustomProperty": "Value1"
+              },
+              "Actions": {
+                "Actions": [
+                  {
+                    "$type": "d61949c589ee885458c9439b2aa202b6, ContextActionConditionalSaved",
+                    "name": "$ContextActionConditionalSaved$be1fe5b5-ec9a-4274-a951-84b195c79418",
+                    "Succeed": {
+                      "Actions": []
+                    },
+                    "Failed": {
+                      "Actions": [
+                        {
+                          "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                          "name": "$ContextActionApplyBuff$e5bb6673-4519-425b-b5c7-b84458d9f319",
+                          "m_Buff": "!bp_f0127743d2504304ca50aad0579d9ebd",
+                          "Permanent": false,
+                          "UseDurationSeconds": false,
+                          "DurationValue": {
+                            "Rate": "Rounds",
+                            "DiceType": "Zero",
+                            "DiceCountValue": {
+                              "ValueType": "Simple",
+                              "Value": 0,
+                              "ValueRank": "Default",
+                              "ValueShared": "Damage",
+                              "Property": "None",
+                              "m_CustomProperty": null
+                            },
+                            "BonusValue": {
+                              "ValueType": "Simple",
+                              "Value": 2,
+                              "ValueRank": "Default",
+                              "ValueShared": "Damage",
+                              "Property": "None",
+                              "m_CustomProperty": null
+                            },
+                            "m_IsExtendable": true
+                          },
+                          "DurationSeconds": 0.0,
+                          "IsFromSpell": false,
+                          "IsNotDispelable": false,
+                          "ToCaster": false,
+                          "AsChild": false,
+                          "SameDuration": false
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "757439ef8cc900741bd9b57bf26eb500, AbilityTargetsAround",
+        "m_Flags": 0,
+        "name": "$AbilityTargetsAround$44433caa-4aa5-4027-a3a7-0c7397135edf",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Radius": {
+          "m_Value": 30.0
+        },
+        "m_TargetType": "Enemy",
+        "m_IncludeDead": false,
+        "m_Condition": {
+          "Operation": "And",
+          "Conditions": []
+        },
+        "m_SpreadSpeed": {
+          "m_Value": 0.0
+        }
+      },
+	  {
+        "$type": "c788cf748ec86bc45b986ac4de28cf45, AbilitySpawnFx",
+        "m_Flags": 0,
+        "name": "$AbilitySpawnFx$ecaf4e03-218e-44f3-9222-6ef1a052cb13",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "PrefabLink": {
+          "AssetId": "d80d51c0a08f35140b10dd1526e540c4"
+        },
+        "Time": "OnApplyEffect",
+        "Anchor": "Caster",
+        "WeaponTarget": "None",
+        "DestroyOnCast": true,
+        "Delay": 0.0,
+        "PositionAnchor": "None",
+        "OrientationAnchor": "None",
+        "OrientationMode": "Copy"
+      },
+	  {
+        "$type": "2945aafe5b353dc49b283c982269ade6, AbilityResourceLogic",
+        "m_Flags": 0,
+        "name": "$AbilityResourceLogic$08569854-31ca-4212-b5f6-49b20b92dd44",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_RequiredResource": "!bp_524fba6d788bbbe42be186358ffa97ae",
+        "m_IsSpendResource": true,
+        "CostIsCustom": false,
+        "Amount": 1,
+        "ResourceCostIncreasingFacts": [],
+        "ResourceCostDecreasingFacts": []
+      },
+	  {
+        "$type": "3c72f93c0cb3fb948a136c6e36f9531e, PropertyCalculatorComponent",
+        "m_Flags": 0,
+        "name": "$PropertyCalculatorComponent$9f321979-ed0a-4b09-88c5-403e48da54f5",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Name": "Value1",
+        "SaveToContext": "ForCaster",
+        "Value": {
+          "Operation": "Sum",
+          "TargetType": "CurrentEntity",
+          "Getters": [
+            {
+              "$type": "5bb6087af8bc42deb4b2ead62d3f5bf5, StatGetter",
+              "name": "$StatGetter$eebc040d-c029-4a48-a2a1-6fc5fa83c43e",
+              "Settings": {
+                "Progression": "AsIs",
+                "m_CustomProgression": [],
+                "m_StartLevel": 0,
+                "m_StepLevel": 0,
+                "Negate": false,
+                "Limit": "None",
+                "Min": 0,
+                "Max": 0
+              },
+              "m_Stat": "Charisma",
+              "m_StatValueType": "BonusValue",
+              "m_SpecificModifier": "None"
+            },
+            {
+              "$type": "2e3008414505429ebdacfc8e0b871d7b, CharacterLevelGetter",
+              "name": "$CharacterLevelGetter$ed106bf3-8643-41db-85d5-525d536d888b",
+              "Settings": {
+                "Progression": "Div2",
+                "m_CustomProgression": [],
+                "m_StartLevel": 0,
+                "m_StepLevel": 0,
+                "Negate": false,
+                "Limit": "None",
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            {
+              "$type": "71959818449d4891939b89c19a6d9a91, ContextValueGetter",
+              "name": "$ContextValueGetter$c486225b-fd32-4faa-aa9b-591756691bfa",
+              "Settings": {
+                "Progression": "AsIs",
+                "m_CustomProgression": [],
+                "m_StartLevel": 0,
+                "m_StepLevel": 0,
+                "Negate": false,
+                "Limit": "None",
+                "Min": 0,
+                "Max": 0
+              },
+              "Value": {
+                "ValueType": "Simple",
+                "Value": 10,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "None",
+                "m_CustomProperty": null,
+                "m_AbilityParameter": "Level",
+                "PropertyName": "Value1"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityWarcryName",
+      "m_OwnerString": "b4f4c7baf6da069429969bc071c966fb",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityWarcryDesc",
+      "m_OwnerString": "b4f4c7baf6da069429969bc071c966fb",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "ef075f9e062a6464fa67961e33c9fd6b",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Supernatural",
+    "Range": "Personal",
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": false,
+    "CanTargetFriends": false,
+    "CanTargetSelf": true,
+	"ShouldTurnToTarget": true,
+    "SpellResistance": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Self",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionSelf",
+    "m_TargetMapObjects": false,
+    "ActionType": "Swift",
+    "AvailableMetamagic": "Quicken, Extend, Heighten, CompletelyNormal",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "1f0132abf2df4bf48a1cf996328d7aca",
+        "stringkey": "62761fbe-42ce-4474-ae10-14f9024f4c57"
+      }
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": [
+      "8de64fbe047abc243a9b4715f643739f"
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

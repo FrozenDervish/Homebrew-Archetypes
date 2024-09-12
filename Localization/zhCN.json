@@ -5609,5 +5609,29 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
             "Key": "HomebrewArchtypes_MythicAbilityHardinessDesc", 
             "Value": "Calling upon hidden reserves of strength during times of danger, a warrior can use the Hardiness ability to gain 40% resistance to all forms of physical damage. The ability lasts for 1 round for every 2 levels of the warrior. This ability can be used 3 times per day."
         },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityStunningStrikesName", 
+            "Value": "Stunning Strikes"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityStunningStrikesDesc", 
+            "Value": "A Power Attack allows the warrior to strike blows so forceful that they stun an opponent for 2 rounds if the opponent fails a fortitude saving throw. The DC for this ability is 10 + 1/2 character level + Strength Modifier. The ability lasts for 2 rounds and can only be used 3 times per day."
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityCriticalStrikesName", 
+            "Value": "Critical Strikes"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityCriticalStrikesDesc", 
+            "Value": "A high-level warrior's intimate knowledge of vital spots on opponents allows him/her to, once per day, concentrate all of the attacks in one round to strike a vital area every time. With this ability, every attack roll made in the next round is a natural 20, a critical hit. This ability can be used once per day."
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityWarcryName", 
+            "Value": "Warcry"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityWarcryDesc", 
+            "Value": "With a War Cry, the warrior emits a powerful and frightening yell that will panic all opponents in a 30-ft. radius if they don't make a will save against a DC 10 + 1/2 character level + charisma modifier. This panic causes all effected to have the damage caused by their weapons lowered by 20% as well as increase the damage they take from attacks by 20% for 1 minute. This ability can be used 3 times per day."
+        },
 	]	
 }

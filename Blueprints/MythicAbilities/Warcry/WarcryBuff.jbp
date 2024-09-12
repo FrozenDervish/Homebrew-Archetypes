@@ -1,0 +1,96 @@
+{
+  "AssetId": "f0127743d2504304ca50aad0579d9ebd",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "608f9cb0a1df61b4988e89858e2b46be, OutcomingDamageAndHealingModifier",
+        "m_Flags": 0,
+        "name": "$OutcomingDamageAndHealingModifier$ef6a39e7-0f9c-4d0e-b9c5-b976556fbca7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "ModifierPercents": {
+          "ValueType": "Simple",
+          "Value": -20,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level",
+          "PropertyName": "Value1"
+        },
+        "Type": "OnlyDamage",
+        "m_DamageWeaponType": "Any",
+        "m_SourceToTargetFactionType": "Any",
+        "m_AoeEntry": "OnlyFalse",
+        "m_OverrideOtherModifierPercents": false
+      },
+	  {
+        "$type": "f7c62338d05d43019df3886378374d54, IncomingDamageAndHealingModifier",
+        "m_Flags": 0,
+        "name": "$IncomingDamageAndHealingModifier$08a5413c-eafb-487c-b8bb-00f246737a99",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "ModifierPercents": {
+          "ValueType": "Simple",
+          "Value": 20,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level",
+          "PropertyName": "Value1"
+        },
+        "Type": "OnlyDamage",
+        "m_DamageWeaponType": "Any",
+        "m_SourceToTargetFactionType": "Any",
+        "m_AoeEntry": "OnlyFalse",
+        "m_OverrideOtherModifierPercents": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityWarcryName",
+      "m_OwnerString": "f0127743d2504304ca50aad0579d9ebd",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityWarcryDesc",
+      "m_OwnerString": "f0127743d2504304ca50aad0579d9ebd",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "ef075f9e062a6464fa67961e33c9fd6b",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

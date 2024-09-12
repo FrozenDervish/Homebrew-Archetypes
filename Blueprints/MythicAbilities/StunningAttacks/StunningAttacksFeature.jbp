@@ -1,0 +1,69 @@
+{
+  "AssetId": "4e0fd0f1e46c05746888b27932f0f1f8",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$77534cd6-a858-468e-a372-9301ecd27d6c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_ac0f2b2ccd9942b48a50556abd75bf31"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$a3f77df7-bc1d-45b5-859c-7eee7b845508",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_d8d9e3860aa703e4f93d9dbe480f8246",
+        "Amount": 0,
+        "RestoreAmount": false,
+        "RestoreOnLevelUp": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityStunningStrikesName",
+      "m_OwnerString": "4e0fd0f1e46c05746888b27932f0f1f8",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_MythicAbilityStunningStrikesDesc",
+      "m_OwnerString": "4e0fd0f1e46c05746888b27932f0f1f8",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "d579c8ee814a3a048ae3e17967df2112",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}
