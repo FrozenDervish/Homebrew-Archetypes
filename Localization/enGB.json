@@ -5433,11 +5433,11 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterDesc", 
-            "Value": "Freedom Fighters are an anomaly created by the natural luck of halflings. These warriors train and channel their innate luck into mysterious abilities that change the fate of the fighter and their allies. Freedom fighters use guerilla combat and their abilities to provide a natural advantage on the battlefield."
+            "Value": "Freedom fighters are found in all kinds of societies in all parts of the world. They who are oppressed find inventive ways to combat their oppressors. They can range from hit and run warriors, to inventive engineers and alchemists to even infiltrating their oppressor's ranks."
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterShort", 
-            "Value": "Freedom Fighters similarly to rogues excel at moving unseen on the battlefield catching foes unaware, but are also trained to fight head to head in combat. Their varied skills make them extremely versatile and their power to manipulate their halfling luck provides an advantage few can survive when met with the these mysterious halfling warriors."
+            "Value": "Freedom Fighters similarly to rogues excel at moving unseen on the battlefield catching foes unaware, but are also trained to fight head to head in combat. Their varied skills make them extremely versatile combatants."
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterProficienciesName", 
@@ -5445,7 +5445,7 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterProficienciesDesc", 
-            "Value": "A freedom fighter is proficient with all simple and {g|Encyclopedia:Weapon_Proficiency}martial weapons{/g} as well as being proficient with the slingstaff and with all armor (heavy, light, and medium) and shields (excluding tower shields)."
+            "Value": "A freedom fighter is proficient with all simple and {g|Encyclopedia:Weapon_Proficiency}martial weapons{/g} and with all armor (heavy, light, and medium) and shields (excluding tower shields)."
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterTrainingName", 
@@ -5453,7 +5453,7 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterTrainingDesc", 
-            "Value": "Starting at 7th level, a freedom fighter counts his freedom fighter level as his fighter level for the purpose of qualifying for {g|Encyclopedia:Feat}feats{/g}. If he has levels in fighter, these levels stack."
+            "Value": "Starting at 7th level, a freedom fighter counts their freedom fighter level as their fighter level for the purpose of qualifying for {g|Encyclopedia:Feat}feats{/g}. If they have levels in fighter, these levels stack."
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterAdvancedLuckName", 
@@ -5469,7 +5469,7 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckPoolDesc", 
-            "Value": "At 1st level, the freedom fighter gains a reservoir of luck that he can draw upon to change fate. This pool increases every 3 levels gained by the freedom fighter (minimum 1) + his {g|Encyclopedia:Constitution}Constitution{/g} modifier. Using your luck on an ally requires twice the amount of luck from your pool. The pool refreshes once per day."
+            "Value": "At 1st level, the freedom fighter gains a reservoir of luck that he can draw upon to change fate. This pool increases every 3 levels gained by the freedom fighter (minimum 1) + their {g|Encyclopedia:Constitution}Constitution{/g} modifier. Using your luck on an ally requires twice the amount of luck from your pool. The pool refreshes once per day."
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionName", 
@@ -5625,7 +5625,7 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceDesc", 
-            "Value": "The freedom fighter using their luck giving it a tangible benefit. This luck solidifies on a target in the form of a +3 luck bonus randomly selected from Armor Class, Attack Bonus, or Damage."
+            "Value": "The freedom fighter using their luck giving it a tangible benefit. This luck solidifies on a target in the form of a +3 luck bonus randomly selected from Armor Class, Attack Bonus, or Damage. This lasts for 1 minute."
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterMythicAbilityAbundantLuckName", 
@@ -5901,6 +5901,46 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
 		{
             "Key": "HomebrewArchtypes_MythicAbilityWarcryDesc", 
             "Value": "With a War Cry, the warrior emits a powerful and frightening yell that will panic all opponents in a 30-ft. radius if they don't make a will save against a DC 10 + 1/2 character level + charisma modifier. This panic causes all effected to have the damage caused by their weapons lowered by 20% as well as increase the damage they take from attacks by 20% for 1 minute. This ability can be used 3 times per day."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionName", 
+            "Value": "Subclass Selection"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionDesc", 
+            "Value": "Freedom fighters come from all walks of life bringing skills from their various cultures together. Each path is a dedication to the race that brought them forth."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHalflingName", 
+            "Value": "Luckbearer"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHalflingDesc", 
+            "Value": "Luckbearers are an anomaly created by the natural luck of halflings. These warriors train and channel their innate luck into mysterious abilities that change the fate of the warrior and their allies."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionDwarfName", 
+            "Value": "Demolition Expert"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionDwarfDesc", 
+            "Value": "Demolition Experts excel in alchemy and engineering creating bombs and knowing how to use them. These dwarvish experts were unhappy with the control exerted by various crafting and merchant guilds that they took their expertise for use elsewhere."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryPreciseBombsName", 
+            "Value": "Precise Bombs"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryPreciseBombsDesc", 
+            "Value": "When a freedom fighter throws a bomb they can add sneak attack {g|Encyclopedia:Damage}damage{/g} to their bombs."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryChemicalWeaponsName", 
+            "Value": "Bomb Training"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryChemicalWeaponsDesc", 
+            "Value": "A freedom fighter gains access to the throw anything feat as a bonus feat as well as increasing their bomb damage by one damage die."
         },
 	]	
 }

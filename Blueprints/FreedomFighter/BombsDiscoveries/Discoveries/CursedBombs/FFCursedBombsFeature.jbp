@@ -1,0 +1,84 @@
+{
+  "AssetId": "7a02ca0289f32cb47ae74c62f78a71a9",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$f236a6f4-1074-4b37-9328-27545b210e86",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_51571f54521d267428aa3bed882cee2d",
+          "!bp_fa5be3b00d9a91145b874ffc351b2d43",
+          "!bp_2fe83088542927241a16b1fa95b56514",
+          "!bp_79443431ea25c6244829a3d478d9c260"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$4de29843-fa90-4673-95b8-012b0d57799d",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 12
+      },
+      {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$07cd425b-d67e-4bd1-9df7-880ed25a881c",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_0b7efae4424406b4b93a4c3f5dafad79"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "3c538474-1403-499e-a74c-c40120b92ea5",
+      "m_OwnerString": "bf8f80f3a492e7946924e1cd9c4b0867",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Alchemist/Discoveries/CursedBombs/CursedBombsFeature_m_DisplayName.json",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "dfd7af6e-cc0d-4393-8e80-364832e563c7",
+      "m_OwnerString": "bf8f80f3a492e7946924e1cd9c4b0867",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Alchemist/Discoveries/CursedBombs/CursedBombsFeature_m_Description.json",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ae202ceef92bfcf4d832368f33f8ebe3",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "Discovery"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

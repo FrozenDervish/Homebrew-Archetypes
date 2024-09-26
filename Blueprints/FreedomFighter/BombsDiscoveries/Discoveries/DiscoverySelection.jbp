@@ -1,0 +1,72 @@
+{
+  "AssetId": "488b30eece427cb42943fb5acaca8b33",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "7501d5c3-ac37-45e8-9e91-7ea3c78cd393",
+      "m_OwnerString": "488b30eece427cb42943fb5acaca8b33",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Alchemist/Discoveries/DiscoverySelection_m_DisplayName_1.json"
+    },
+    "m_Description": {
+      "m_Key": "ad74828b-5fcc-4ab6-84d3-e8c4b85e605a",
+      "m_OwnerString": "488b30eece427cb42943fb5acaca8b33",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Alchemist/Discoveries/DiscoverySelection_m_Description_1.json"
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "95c4bb72353edb34082f088a5bd18cb2",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [
+      "!bp_537965879fc24ad3948aaffa7a1a3a66"
+    ],
+    "IgnorePrerequisites": false,
+    "ExceptWhiteListed": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "Discovery",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_5c396342f614dd644a48c3af08d79701",
+      "!bp_da0bcfe7b9b552548b24f72e31b47854",
+      "!bp_daa81280531c8594a9c318b8b9e7ab8f",
+      "!bp_e94f0d2c337df5740b014f4d0dc8cbe5",
+      "!bp_852ec7e0d2851b8428b6f3d39ff98240",
+      "!bp_7a02ca0289f32cb47ae74c62f78a71a9",
+      "!bp_bcab5c4387babb74cbeab65bb914270e",
+      "!bp_a8b589bd9473af440a31f798e9f9f25b",
+      "!bp_e289803d19143cd4483aac257dcbb179",
+      "!bp_d8e5a525cc456d04c941ba0f0f94c130",
+      "!bp_0dee4c8ab20a2cd41a4fd37c70ffdf39",
+      "!bp_764ac78ffa2bc9844b36b7afdc59d76a",
+      "!bp_1d1711a412c73db4bb89674773a24bf4",
+      "!bp_5fb757b5fb6e70341a3d682fc6eaae09",
+	  "!bp_b1ffa552241bdb84bb9a90c62ce8603b",
+	  "!bp_718554584ee6a6d47947006ed526acb4"
+    ],
+    "ShowThisSelection": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

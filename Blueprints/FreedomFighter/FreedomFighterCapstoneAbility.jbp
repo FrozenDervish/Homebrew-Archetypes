@@ -32,7 +32,7 @@
                 },
                 "BonusValue": {
                   "ValueType": "Simple",
-                  "Value": 2,
+                  "Value": 1,
                   "ValueRank": "Default",
                   "ValueShared": "Damage",
                   "Property": "None",

@@ -27,7 +27,7 @@
       "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFortunateStepsDesc",
       "m_OwnerString": "77daa4226c1e20948801aa7e0568d35a",
       "m_OwnerPropertyPath": "m_Description",
-      "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Barbarian/FastMovement_m_Description.json"
+      "m_JsonPath": ""
     },
     "m_DescriptionShort": {
       "m_Key": "",

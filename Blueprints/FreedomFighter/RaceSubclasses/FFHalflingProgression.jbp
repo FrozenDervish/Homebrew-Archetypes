@@ -1,21 +1,35 @@
 {
-  "AssetId": "7bb9b4c077c7b894aa902737c5d0b673",
+  "AssetId": "0367211d8de660342b87eb5f416b40c4",
   "Data": {
     "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
     "PrototypeLink": "",
     "m_Overrides": [],
-    "Components": [],
+    "Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$f4f5cf63-bd48-4ca5-bd2e-36af2ae3b71f",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_b0c3ef2729c498f47970bb50fa1acd30"
+      }
+	],
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "",
-      "m_OwnerString": "7bb9b4c077c7b894aa902737c5d0b673",
+      "m_Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHalflingName",
+      "m_OwnerString": "0367211d8de660342b87eb5f416b40c4",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
     },
     "m_Description": {
-      "m_Key": "",
-      "m_OwnerString": "7bb9b4c077c7b894aa902737c5d0b673",
+      "m_Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHalflingDesc",
+      "m_OwnerString": "0367211d8de660342b87eb5f416b40c4",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": ""
     },
@@ -48,27 +62,25 @@
       {
         "Level": 1,
         "m_Features": [
-		  "!bp_b90bf1d574588c441a6f7ec20149d4be",
-		  "!bp_de2532698249271439ed496fd4a4e198"
+		  "!bp_e5f3da5a35a4dfc4a895733648ae43b3"
         ]
       },
       {
         "Level": 2,
         "m_Features": [
-          
+          "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
         "Level": 3,
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87",
-		  "!bp_0ee376ab78e587d46aad59fbd1dc68ef"
+		  "!bp_77daa4226c1e20948801aa7e0568d35a"
         ]
       },
       {
         "Level": 4,
         "m_Features": [
-          
+          "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
@@ -80,7 +92,7 @@
       {
         "Level": 6,
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+		  "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
@@ -92,31 +104,32 @@
       {
         "Level": 8,
         "m_Features": [
-          
+          "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
         "Level": 9,
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+          
         ]
       },
       {
         "Level": 10,
         "m_Features": [
-          
+          "!bp_8525328696a272f4e8a0307b872e1479",
+		  "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
         "Level": 11,
         "m_Features": [
-		  "!bp_0ee376ab78e587d46aad59fbd1dc68ef"
+		  
         ]
       },
       {
         "Level": 12,
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+		  "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
@@ -128,19 +141,19 @@
       {
         "Level": 14,
         "m_Features": [
-          
+          "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
         "Level": 15,
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+          
         ]
       },
       {
         "Level": 16,
         "m_Features": [
-          
+          "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
@@ -152,19 +165,20 @@
       {
         "Level": 18,
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
+		  "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       },
       {
         "Level": 19,
         "m_Features": [
-          "!bp_0ee376ab78e587d46aad59fbd1dc68ef"
+          
         ]
       },
       {
         "Level": 20,
         "m_Features": [
-          
+          "!bp_736d7343cef9c7848a567b5018bb81af",
+		  "!bp_4775b1d028237d04c85fca5e1cc6b693"
         ]
       }
     ],

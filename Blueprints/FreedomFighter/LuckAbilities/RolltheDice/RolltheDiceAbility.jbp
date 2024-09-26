@@ -30,7 +30,7 @@
                         "Permanent": false,
                         "UseDurationSeconds": false,
                         "DurationValue": {
-                          "Rate": "Days",
+                          "Rate": "Minutes",
                           "DiceType": "Zero",
                           "DiceCountValue": {
                             "ValueType": "Simple",

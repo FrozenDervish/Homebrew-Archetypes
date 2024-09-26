@@ -1,0 +1,63 @@
+{
+  "AssetId": "b1ffa552241bdb84bb9a90c62ce8603b",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+        "name": "$AddMechanicsFeature$dc216831-b975-4183-b361-da0f32985f01",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Feature": "EnableSneakAttackForBombs"
+      },
+	  {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$e43d704e-232a-4b85-9fab-d40b5c105b68",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 7
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryPreciseBombsName",
+      "m_OwnerString": "b1ffa552241bdb84bb9a90c62ce8603b",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryPreciseBombsDesc",
+      "m_OwnerString": "b1ffa552241bdb84bb9a90c62ce8603b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "4de416a2b282ab645b2b3fcef137ff1e",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

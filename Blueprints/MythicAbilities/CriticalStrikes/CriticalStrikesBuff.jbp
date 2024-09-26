@@ -74,6 +74,18 @@
         },
         "TandemTrip": false,
         "m_TandemTripFeature": null
+      },
+	  {
+        "$type": "49422e60214d45e088593660e644f656, IgnoreTargetCritImmunity",
+        "m_Flags": 0,
+        "name": "$IgnoreTargetCritImmunity$752b4787-cd62-479e-aef1-d78a95dd304c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "CheckCaster": true,
+        "CheckCasterFriend": false
       }
     ],
     "Comment": "",

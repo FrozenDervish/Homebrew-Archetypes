@@ -1,5 +1,5 @@
 {
-  "AssetId": "b90bf1d574588c441a6f7ec20149d4be",
+  "AssetId": "718554584ee6a6d47947006ed526acb4",
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": null,
@@ -7,15 +7,16 @@
     "Components": [
       {
         "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
-        "name": "$AddFacts$5a1e750e-7598-4564-9200-84ad92acfea1",
+        "m_Flags": 0,
+        "name": "$AddFacts$aab7b8a7-aa91-425a-8099-39f366b7f2f2",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
         "m_Overrides": [],
         "m_Facts": [
-          "!bp_6d3728d4e9c9898458fe5e9532951132",
-          "!bp_46f4fb320f35704488ba3d513397789d",
-          "!bp_1b0f68188dcc435429fb87a022239681",
-          "!bp_e70ecf1ed95ca2f40b754f1adb22bbdd",
-          "!bp_203992ef5b35c864390b4e4a1e200629",
-          "!bp_cb8686e7357a68c42bdd9d4e65334633"
+          "!bp_65c538dcfd91930489ad3ab18ad9204b",
+		  "!bp_0b7efae4424406b4b93a4c3f5dafad79"
         ],
         "Dummy": null,
         "CasterLevel": 0,
@@ -23,19 +24,29 @@
         "HasDifficultyRequirements": false,
         "InvertDifficultyRequirements": false,
         "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$e43d704e-232a-4b85-9fab-d40b5c105b68",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 3
       }
     ],
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterProficienciesName",
-      "m_OwnerString": "b90bf1d574588c441a6f7ec20149d4be",
+      "m_Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryChemicalWeaponsName",
+      "m_OwnerString": "718554584ee6a6d47947006ed526acb4",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
     },
     "m_Description": {
-      "m_Key": "HomebrewArchtypes_FreedomFighterProficienciesDesc",
-      "m_OwnerString": "b90bf1d574588c441a6f7ec20149d4be",
+      "m_Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryChemicalWeaponsDesc",
+      "m_OwnerString": "718554584ee6a6d47947006ed526acb4",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": ""
     },
