@@ -1,0 +1,60 @@
+{
+  "AssetId": "4e6fce7c3efbc674e925d91445156a08",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilitySelectionName",
+      "m_OwnerString": "4e6fce7c3efbc674e925d91445156a08",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilitySelectionDesc",
+      "m_OwnerString": "4e6fce7c3efbc674e925d91445156a08",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "8ed3ea1ce2b0a8d4698797aaa11021ef",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "ExceptWhiteListed": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+	  "!bp_41c8486641f7d6d4283ca9dae4147a9f",
+	  "!bp_c074a5d615200494b8f2a9c845799d93",
+	  "!bp_947d5c24ea2b08247882c5d802cb4ed4",
+	  "!bp_a68101edb7f9aea428853acfb24bb6a8",
+	  "!bp_5348f5b7cca4cf849b894a1843e12ec4",
+	  "!bp_4d44f895f798fe5489b2ff9b39062542"
+    ],
+    "ShowThisSelection": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

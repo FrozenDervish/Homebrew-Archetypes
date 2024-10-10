@@ -1,0 +1,92 @@
+{
+  "AssetId": "20e8f9da69e896c41b6833703e6d3fa7",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$4be8d7da-de1b-488b-91c4-0a18a0bca77c",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "AdditionalAttackBonus",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 1,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+      {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "m_Flags": 0,
+        "name": "$AddContextStatBonus$a3845b15-c8ee-4f67-ab35-47b7d4f2c424",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Descriptor": "UntypedStackable",
+        "Stat": "AdditionalDamage",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "Simple",
+          "Value": 1,
+          "ValueRank": "DamageBonus",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        },
+        "HasMinimal": false,
+        "Minimal": 0
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtremePrecisionName",
+      "m_OwnerString": "20e8f9da69e896c41b6833703e6d3fa7",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtremePrecisionDesc",
+      "m_OwnerString": "20e8f9da69e896c41b6833703e6d3fa7",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "5a438a12c8e515e46a4e29cac29dbac3",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

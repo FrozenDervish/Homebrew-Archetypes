@@ -1,0 +1,99 @@
+{
+  "AssetId": "4d44f895f798fe5489b2ff9b39062542",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "228c903689cdcf94f8d0665fb9a69757, AddInitiatorAttackRollTrigger",
+        "name": "$AddInitiatorAttackRollTrigger$880bdde2-97f0-4bbc-a538-4f76fbce55ef",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "OnlyHit": true,
+        "CriticalHit": false,
+        "SneakAttack": true,
+        "OnOwner": false,
+        "CheckWeapon": false,
+        "WeaponCategory": "UnarmedStrike",
+        "AffectFriendlyTouchSpells": false,
+        "Action": {
+          "Actions": [
+            {
+              "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+              "name": "$ContextActionApplyBuff$7e2c4960-5e67-457b-a09a-237ed39811f8",
+              "m_Buff": "!bp_2234c2e422e2dc94a8607a2276b72820",
+              "Permanent": false,
+              "UseDurationSeconds": false,
+              "DurationValue": {
+                "Rate": "Rounds",
+                "DiceType": "Zero",
+                "DiceCountValue": {
+                  "ValueType": "Simple",
+                  "Value": 0,
+                  "ValueRank": "Default",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null
+                },
+                "BonusValue": {
+                  "ValueType": "Simple",
+                  "Value": 1,
+                  "ValueRank": "Default",
+                  "ValueShared": "Damage",
+                  "Property": "None",
+                  "m_CustomProperty": null
+                },
+                "m_IsExtendable": true
+              },
+              "DurationSeconds": 0.0,
+              "IsFromSpell": false,
+              "IsNotDispelable": false,
+              "ToCaster": false,
+              "AsChild": false,
+              "SameDuration": false
+            }
+          ]
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityOneWiththeForestName",
+      "m_OwnerString": "4d44f895f798fe5489b2ff9b39062542",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityOneWiththeForestDesc",
+      "m_OwnerString": "4d44f895f798fe5489b2ff9b39062542",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "1ad80155704e5764fb5e7540f7bb4b18",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

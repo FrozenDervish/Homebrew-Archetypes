@@ -1,0 +1,75 @@
+{
+  "AssetId": "29e46192f0373f64b9ee3f2cc4fddee5",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBloodofDragonsSelectionName",
+      "m_OwnerString": "29e46192f0373f64b9ee3f2cc4fddee5",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBloodofDragonsSelectionDesc",
+      "m_OwnerString": "29e46192f0373f64b9ee3f2cc4fddee5",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "83e5a8253e1cc424b93e8c18a65a0c0b",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "ExceptWhiteListed": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [
+      "!bp_7bd143ead2d6c3a409aad6ee22effe34",
+      "!bp_8a7f100c02d0b254d8f5f3affc8ef386",
+      "!bp_5f9ecbee67db8364985e9d0500eb25f1",
+      "!bp_7e0f57d8d00464441974e303b84238ac",
+      "!bp_b522759a265897b4f8f7a1a180a692e4",
+      "!bp_6c67ef823db8d7d45bb0ef82f959743d",
+      "!bp_7181be57d1cc3bc40bc4b552e4e4ce24",
+      "!bp_8c6e5b3cf12f71e43949f52c41ae70a8",
+      "!bp_c7d2f393e6574874bb3fc728a69cc73a",
+      "!bp_b0f79497a0d1f4f4b8293e82c8f8fa0c"
+    ],
+    "m_AllFeatures": [
+      "!bp_7bd143ead2d6c3a409aad6ee22effe34",
+      "!bp_8a7f100c02d0b254d8f5f3affc8ef386",
+      "!bp_5f9ecbee67db8364985e9d0500eb25f1",
+      "!bp_7e0f57d8d00464441974e303b84238ac",
+      "!bp_b522759a265897b4f8f7a1a180a692e4",
+      "!bp_6c67ef823db8d7d45bb0ef82f959743d",
+      "!bp_7181be57d1cc3bc40bc4b552e4e4ce24",
+      "!bp_8c6e5b3cf12f71e43949f52c41ae70a8",
+      "!bp_c7d2f393e6574874bb3fc728a69cc73a",
+      "!bp_b0f79497a0d1f4f4b8293e82c8f8fa0c"
+    ],
+    "ShowThisSelection": false
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

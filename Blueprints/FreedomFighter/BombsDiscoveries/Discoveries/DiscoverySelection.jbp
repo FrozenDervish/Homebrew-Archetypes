@@ -47,7 +47,6 @@
     "Group2": "None",
     "m_Features": [],
     "m_AllFeatures": [
-      "!bp_5c396342f614dd644a48c3af08d79701",
       "!bp_da0bcfe7b9b552548b24f72e31b47854",
       "!bp_daa81280531c8594a9c318b8b9e7ab8f",
       "!bp_e94f0d2c337df5740b014f4d0dc8cbe5",
@@ -62,7 +61,11 @@
       "!bp_1d1711a412c73db4bb89674773a24bf4",
       "!bp_5fb757b5fb6e70341a3d682fc6eaae09",
 	  "!bp_b1ffa552241bdb84bb9a90c62ce8603b",
-	  "!bp_718554584ee6a6d47947006ed526acb4"
+	  "!bp_718554584ee6a6d47947006ed526acb4",
+	  "!bp_41c8486641f7d6d4283ca9dae4147a9f",
+	  "!bp_c074a5d615200494b8f2a9c845799d93",
+	  "!bp_755474868e0b5cc4b93ae4562fdf18e7",
+	  "!bp_bff2989a8750ff34595b46464151ea68"
     ],
     "ShowThisSelection": false
   },

@@ -337,7 +337,7 @@
       "fileid": 21300000
     },
     "m_DefaultAiAction": null,
-    "Type": "Spell",
+    "Type": "Extraordinary",
     "Range": "Touch",
     "CustomRange": {
       "m_Value": 0.0

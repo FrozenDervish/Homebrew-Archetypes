@@ -1,0 +1,52 @@
+{
+  "AssetId": "c89ffd1401dddbe4f989426e239f0b08",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+        "name": "$AddStatBonus$dc29192b-0282-49dc-afe6-a6008139d2b9",
+        "m_Overrides": [],
+        "Descriptor": "Racial",
+        "Stat": "Intelligence",
+        "Value": 2,
+        "ScaleByBasicAttackBonus": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostIntName",
+      "m_OwnerString": "c89ffd1401dddbe4f989426e239f0b08",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostIntDesc",
+      "m_OwnerString": "c89ffd1401dddbe4f989426e239f0b08",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "e99497c1e0f20ea47a4bd87e85b6710f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 2,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

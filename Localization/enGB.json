@@ -5852,7 +5852,7 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTrainedLeverageDesc", 
-            "Value": "The freedom fighter's size is a disadvantage, but with training they've learned to counteract a foes size with their own techniques. When performing a combat maneuver against a larger foe, the freedom fighter gains a bonus on the check equal to 1/2 their freedom fighter level. The freedom figher adds this same bonus to their CMD when defending against combat maneuvers from a larger opponent."
+            "Value": "The freedom fighter's size is a disadvantage, but with training they've learned to counteract a foes size with their own techniques. When performing a combat maneuver against a larger foe, the freedom fighter gains a bonus on the check equal to 1/2 their freedom fighter level. The freedom figher adds this same bonus to their CMD when defending against combat maneuvers from a larger opponent. This talent also changes the intelligence requirement for feats to constitution."
         },
 		{
             "Key": "HomebrewArchtypes_MythicAbilityWhirlwindAttackName", 
@@ -5942,5 +5942,206 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
             "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryChemicalWeaponsDesc", 
             "Value": "A freedom fighter gains access to the throw anything feat as a bonus feat as well as increasing their bomb damage by one damage die."
         },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHumanName", 
+            "Value": "Dragon-Blooded"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHumanDesc", 
+            "Value": "Demolition Expert"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionElfName", 
+            "Value": "Farstrider"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionElfDesc", 
+            "Value": "Farstriders are exiled elven warriors who have taken to subterfuge and ambushing their opponents with their skilled marksmanship and various tools and abilities to."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilitySelectionName", 
+            "Value": "Farstrider Talents"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilitySelectionDesc", 
+            "Value": "As a farstrider gains experience they learn a number of talents to aid them in ambushing and striking their foes from afar. Starting at 2nd level, a farstrider gains one farstrider talent. They gain an additional farstrider talent for every 2 levels of freedom fighter attained after 2nd level. A farstrider cannot select an individual talent more than once, unless its description says otherwise."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderHawkEyeName", 
+            "Value": "Hawkeye"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderHawkEyeDesc", 
+            "Value": " At 2nd level, a farstrider gains a +1 bonus on Perception checks, and the range for any bow they use increases by 5 feet. These bonuses increase by +1 and 5 additional feet for every 4 levels beyond 2nd."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityArcherTrainingName", 
+            "Value": "Archery Training"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityArcherTrainingDesc", 
+            "Value": "This ability grants the farstrider an additional +1 attack bonus with longbows and shortbows per 5 freedom fighter levels(This does not count as weapon training)."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExpertArcherName", 
+            "Value": "Expert Archer"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExpertArcherDesc", 
+            "Value": "A farstrider taking this talent may use its {g|Encyclopedia:Dexterity}Dexterity{/g} modifier instead of its {g|Encyclopedia:Strength}Strength{/g} modifier on its {g|Encyclopedia:Damage}damage rolls{/g} when wielding a shortbow or longbow."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityCamouflageName", 
+            "Value": "Camouflage"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityCamouflageDesc", 
+            "Value": "At 6th level a farstrider can use the {g|Encyclopedia:Stealth}Stealth{/g} {g|Encyclopedia:Skills}skill{/g} even while being observed. A farstrider can hide themselves from view in the open without having anything to actually hide behind."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightfootName", 
+            "Value": "Lightfoot"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightfootDesc", 
+            "Value": "At 7th level, you can move through any sort difficult terrain at your normal {g|Encyclopedia:Speed}speed{/g} and without taking {g|Encyclopedia:Damage}damage{/g} or suffering any other impairment."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityTakeAimName", 
+            "Value": "Take Aim"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityTakeAimDesc", 
+            "Value": "At 13th level, a farstrider may spend a standard action to focus their aim. They may add half their class level to all ranged attacks they make against any target within the next round as a circumstance bonus. These attacks also ignore concealment."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedNaturalArmorIncreaseName", 
+            "Value": "Natural Armor Increase (+1)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedNaturalArmorIncreaseDesc", 
+            "Value": "As their skin thickens, a dragon-blooded takes on more and more of their progenitor's physical aspect. At 1st and every 3 levels after, a dragon-blooded gains a +1 increase to the character's existing natural armor {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} (if any). These armor bonuses stack."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostStrName", 
+            "Value": "Ability Boost — Strength (+2)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostStrDesc", 
+            "Value": "As a dragon-blooded gains levels, a dragon-blooded takes on more and more of his progenitor's physical aspect. At 5th and every 4 levels after a dragon-blooded gains a +2 increase to the character's {g|Encyclopedia:Strength}Strength{/g} score. These {g|Encyclopedia:Bonus}bonuses{/g} stack."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostConName", 
+            "Value": "Ability Boost — Constitution (+2)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostConDesc", 
+            "Value": "Upon reaching 6th and 12th levels, a dragon-blooded gains a +2 increase to the character's {g|Encyclopedia:Constitution}Constitution{/g} score."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostIntName", 
+            "Value": "Ability Boost — Intelligence (+2)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostIntDesc", 
+            "Value": "Upon reaching 8th and 15th levels, a dragon-blooded gains a +2 increase to the character's {g|Encyclopedia:Intelligence}Intelligence{/g} score."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBlindsenseName", 
+            "Value": "Blindsense"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBlindsenseDesc", 
+            "Value": "At 10th level, a dragon-blooded gains {g|Encyclopedia:Blindsense}blindsense{/g} with a range of 25 feet. Using non-visual senses the dragon-blooded notices things they cannot see. They usually do not need to make {g|Encyclopedia:Perception}Perception checks{/g} to notice and pinpoint the location of creatures within range of their blindsense ability, provided that they have line of effect to that creature.
+Any opponent the dragon-blooded cannot see still has total {g|Encyclopedia:Concealment}concealment{/g} against them, and the dragon-blooded still has the normal miss chance when attacking foes that have concealment. A creature with blindsense is still denied its {g|Encyclopedia:Dexterity}Dexterity{/g} {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}Armor Class{/g} against {g|Encyclopedia:Attack}attacks{/g} from creatures it cannot see. At 20th level, the range of this ability increases to 50 feet."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertExplosiveExpertiseName", 
+            "Value": "Explosive Expertise"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertExplosiveExpertiseDesc", 
+            "Value": "Add +2 to the {g|Encyclopedia:DC}DC{/g} for all {g|Encyclopedia:Saving_Throw}saving throws{/g} against your bombs. This discovery stacks with Ability Focus - Bombs. This discovery can be chosen up to 3 times."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertCloseBombsName", 
+            "Value": "Superior Arsenal"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertCloseBombsDesc", 
+            "Value": "With this discovery the demolition expert gets +4 damage while point-blank shot is active."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityFocusName", 
+            "Value": "Focus"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityFocusDesc", 
+            "Value": "With this talent the farstrider can spend a standard action to focus. Focusing increases the farstrider's weapon damage dealt by 100% with ranged weapons for the next round."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtremePrecisionName", 
+            "Value": "Extreme Precision"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtremePrecisionDesc", 
+            "Value": "You get a +1 {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack{/g} and {g|Encyclopedia:Damage}damage rolls{/g} with ranged weapons with no range limitation. This can stack with point-blank shot."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityOneWiththeForestName", 
+            "Value": "One With the Forest"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityOneWiththeForestDesc", 
+            "Value": "Whenever the farstrider makes a successful sneak attack the target becomes flat-footed for 1 round."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBiteName", 
+            "Value": "Dragon Bite"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBiteDesc", 
+            "Value": "At 2nd level dragon-blooded gains a bite {g|Encyclopedia:Attack}attack{/g}. This is a primary {g|Encyclopedia:NaturalAttack}natural attack{/g} that deals {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Damage}damage{/g}, plus 1.5 times the dragon-blooded's {g|Encyclopedia:Strength}Strength{/g} modifier. Upon reaching 6th level, this bite also deals 1d6 points of {g|Encyclopedia:Energy_Damage}energy damage{/g}. The type of damage dealt is determined by the dragon-blooded's bloodline."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBloodofDragonsSelectionName", 
+            "Value": "Blood of Dragons"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBloodofDragonsSelectionDesc", 
+            "Value": "A dragon-blooded gains bloodline powers of a draconic bloodline. They must choose a dragon type upon gaining his first level in this class."
+        },
 	]	
 }
+
+
+ For the elf version, how were you thinking of differentiating the class from other archers(slayer,fighter,ranger)?
+
+Protector of the forest - well placed arrows slow down enemy(as if under slow spell) would hopefully work with cleaving shot as more of CC archer
+
+Ketephys blessed shot - god of the hunt blesses one shot to hit harder than normal 
+(Vital strike)
+
+Findeladlara guidance - requires blessed shot, increases crit range, stacks with improved crit
+
+Calistras vengeance - once per fight a single full attack can be blessed and guided
+
+These feats/abilities would change gameplay not sure if that’s is what you are after
+
+Superior Leverage works great gets stronger as you do which is always nice
+bigger they are has to be one of the first talents a player takes or it is pretty much useless as the free trip doesn’t really scale for a full BAB class as the iterative start to kick in.
+
+Had a couple ideas for the discoveries to make it feel like your not just picking different bombs 
+
+Experimental mix - mix the effects/damage of two bomb types, increased cost 2 bombs per throw
+
+Potent ingredients - increases bomb effect duration
+
+
+<@189159093695545354> Just built a halfling fighter, seems about the same. Went for CMD bonus abilties, will test them soon. Lots of options to build, as I mentioned before some of the lucky talents feel underwhelming.
+
+
+Dragon Disciple - Bloodlines, Shapeshift, breath
+Farstrider - More talents
+Luckbearer - Bigger they are ability upgrade
+Demolition Expert - Capstone

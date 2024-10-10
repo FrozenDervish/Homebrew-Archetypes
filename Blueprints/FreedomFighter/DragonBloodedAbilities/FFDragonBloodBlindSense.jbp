@@ -1,0 +1,54 @@
+{
+  "AssetId": "dfa9877777e7ed048bdb8a9e74b173f4",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "ebb7391b65152c34a9a35d2bb73abf67, Blindsense",
+        "name": "$Blindsense$13c441d6-92d3-4f34-bbb5-d9da16be5243",
+        "m_Overrides": [],
+        "Range": {
+          "m_Value": 25.0
+        },
+        "Blindsight": false,
+        "HasExceptions": false,
+        "m_ExceptionFacts": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBlindsenseName",
+      "m_OwnerString": "dfa9877777e7ed048bdb8a9e74b173f4",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBlindsenseDesc",
+      "m_OwnerString": "dfa9877777e7ed048bdb8a9e74b173f4",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "e99497c1e0f20ea47a4bd87e85b6710f",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 3,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

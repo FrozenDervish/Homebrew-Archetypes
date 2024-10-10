@@ -6,36 +6,6 @@
     "m_Overrides": [],
     "Components": [
       {
-        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
-        "m_Flags": 0,
-        "name": "$PrerequisiteClassLevel$00014e91-7fd0-45ac-bea3-9c472626ed92",
-        "PrototypeLink": {
-          "guid": null,
-          "name": null
-        },
-        "m_Overrides": [],
-        "Group": "All",
-        "CheckInProgression": false,
-        "HideInUI": false,
-        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
-        "Level": 1,
-        "Not": false
-      },
-      {
-        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
-        "m_Flags": 0,
-        "name": "$PrerequisiteFeature$5b085e8e-ff8f-4577-b861-29a43ee661df",
-        "PrototypeLink": {
-          "guid": null,
-          "name": null
-        },
-        "m_Overrides": [],
-        "Group": "All",
-        "CheckInProgression": false,
-        "HideInUI": false,
-        "m_Feature": "!bp_90e54424d682d104ab36436bd527af09"
-      },
-      {
         "$type": "37a48fead7a0ee341b7fe39f1166349d, WeaponTrainingAttackStatReplacement",
         "m_Flags": 0,
         "name": "$WeaponTrainingAttackStatReplacement$9da3b9ed-6691-401d-bfc0-2dde058782ae",

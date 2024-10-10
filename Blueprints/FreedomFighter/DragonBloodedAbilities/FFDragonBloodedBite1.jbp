@@ -1,0 +1,54 @@
+{
+  "AssetId": "8340a78d6566d70488bdde2b6a0051db",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+        "name": "$AddFeatureOnClassLevel$5f0291f3-f6e6-48df-a932-3ae22102b386",
+        "m_Overrides": [],
+        "m_Class": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 6,
+        "m_Feature": "!bp_573100625f8a95b4ba68c7f8a5171174",
+        "BeforeThisLevel": true,
+        "m_AdditionalClasses": [],
+        "m_Archetypes": []
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBiteName",
+      "m_OwnerString": "8340a78d6566d70488bdde2b6a0051db",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBiteDesc",
+      "m_OwnerString": "8340a78d6566d70488bdde2b6a0051db",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "154852414e6254e4992eb812126cb36a",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}
