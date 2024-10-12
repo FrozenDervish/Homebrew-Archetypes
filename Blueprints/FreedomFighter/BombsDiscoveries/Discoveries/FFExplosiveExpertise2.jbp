@@ -1,5 +1,5 @@
 {
-  "AssetId": "755474868e0b5cc4b93ae4562fdf18e7",
+  "AssetId": "68a6873cada58c847864d1520bd1baf6",
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": "",
@@ -20,19 +20,28 @@
         "BonusDC": 2,
         "ModifierDescriptor": "UntypedStackable",
         "SpellsOnly": false
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$fe4c431c-0576-4360-b8cf-122ffc0c5b34",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_755474868e0b5cc4b93ae4562fdf18e7"
       }
     ],
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
       "m_Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertExplosiveExpertiseName",
-      "m_OwnerString": "755474868e0b5cc4b93ae4562fdf18e7",
+      "m_OwnerString": "68a6873cada58c847864d1520bd1baf6",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": ""
     },
     "m_Description": {
       "m_Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertExplosiveExpertiseDesc",
-      "m_OwnerString": "755474868e0b5cc4b93ae4562fdf18e7",
+      "m_OwnerString": "68a6873cada58c847864d1520bd1baf6",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": ""
     },
@@ -46,9 +55,9 @@
       "guid": "2198840df939f6a42aa616cf6373040c",
       "fileid": 21300000
     },
-    "HideInUI": false,
+    "HideInUI": true,
     "HideInCharacterSheetAndLevelUp": false,
-    "HideNotAvailibleInUI": false,
+    "HideNotAvailibleInUI": true,
     "Groups": [],
     "Ranks": 1,
     "ReapplyOnLevelUp": false,

@@ -6111,6 +6111,10 @@ Any opponent the dragon-blooded cannot see still has total {g|Encyclopedia:Conce
             "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBloodofDragonsSelectionDesc", 
             "Value": "A dragon-blooded gains bloodline powers of a draconic bloodline. They must choose a dragon type upon gaining his first level in this class."
         },
+		{
+            "Key": "HomebrewArchtypes_BombModifierBonusName", 
+            "Value": "Bomb Modifier Bonus"
+        },
 	]	
 }
 

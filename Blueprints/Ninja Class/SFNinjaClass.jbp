@@ -3,9 +3,7 @@
   "Data": {
     "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
     "PrototypeLink": null,
-    "m_Overrides": [
-		"$PrerequisiteIsPet$6422361f-b463-46b3-a621-17a1170270d9"
-	],
+    "m_Overrides": [],
     "Components": [
 		{
         "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",

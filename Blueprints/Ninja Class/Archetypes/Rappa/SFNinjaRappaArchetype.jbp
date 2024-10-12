@@ -4,29 +4,25 @@
     "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
     "PrototypeLink": "",
     "m_Overrides": [],
-    "Components": [
-	],
+    "Components": [],
     "Comment": "",
     "LocalizedName": {
       "m_Key": "SwarmFilesNinjaArchetype_Rappa",
       "m_OwnerString": "c6a1999818f2c034dac850a9facda6fa",
       "m_OwnerPropertyPath": "LocalizedName",
-      "m_JsonPath": "",
-      "Shared": null
+      "m_JsonPath": ""
     },
     "LocalizedDescription": {
       "m_Key": "SwarmFilesNinjaArchetype_RappaDesc",
       "m_OwnerString": "c6a1999818f2c034dac850a9facda6fa",
       "m_OwnerPropertyPath": "LocalizedDescription",
-      "m_JsonPath": "",
-      "Shared": null
+      "m_JsonPath": ""
     },
     "LocalizedDescriptionShort": {
       "m_Key": "",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
-      "m_JsonPath": "",
-      "Shared": null
+      "m_JsonPath": ""
     },
     "m_Icon": null,
     "m_ReplaceSpellbook": null,
@@ -37,7 +33,8 @@
         "Level": 1,
         "m_Features": [
           "!bp_cfd5b82d506197844904287e45619f5e",
-		  "!bp_754cc814e47a694468218f1170522064"
+		  "!bp_754cc814e47a694468218f1170522064",
+		  "!bp_73b1bbda0a6f81e42b638b6801d37c24"
         ]
       },
 	  {

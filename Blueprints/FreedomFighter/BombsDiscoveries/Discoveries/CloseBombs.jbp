@@ -58,7 +58,7 @@
     "HideInCharacterSheetAndLevelUp": false,
     "HideNotAvailibleInUI": false,
     "Groups": [],
-    "Ranks": 3,
+    "Ranks": 1,
     "ReapplyOnLevelUp": false,
     "IsClassFeature": true,
     "IsPrerequisiteFor": []
