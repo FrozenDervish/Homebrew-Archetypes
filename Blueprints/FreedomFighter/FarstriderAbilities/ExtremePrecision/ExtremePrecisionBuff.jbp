@@ -6,51 +6,34 @@
     "m_Overrides": [],
     "Components": [
       {
-        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "$type": "e0d645e856805354d92a0fbe50d34215, DistanceAttackBonus",
         "m_Flags": 0,
-        "name": "$AddContextStatBonus$4be8d7da-de1b-488b-91c4-0a18a0bca77c",
+        "name": "$DistanceAttackBonus$e2c37121-af02-4d86-aed7-7766bfb1f83d",
         "PrototypeLink": {
           "guid": "",
           "name": ""
         },
         "m_Overrides": [],
-        "Descriptor": "UntypedStackable",
-        "Stat": "AdditionalAttackBonus",
-        "Multiplier": 1,
-        "Value": {
-          "ValueType": "Simple",
-          "Value": 1,
-          "ValueRank": "DamageBonus",
-          "ValueShared": "Damage",
-          "Property": "None",
-          "m_CustomProperty": null
+        "Range": {
+          "m_Value": 180.0
         },
-        "HasMinimal": false,
-        "Minimal": 0
+        "AttackBonus": 1,
+        "Descriptor": "UntypedStackable"
       },
       {
-        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "$type": "2581b7f8180686f4d8b3f5ab6d672e14, DistanceDamageBonus",
         "m_Flags": 0,
-        "name": "$AddContextStatBonus$a3845b15-c8ee-4f67-ab35-47b7d4f2c424",
+        "name": "$DistanceDamageBonus$299a0f93-9e45-4af6-9c53-c2503fcf2f57",
         "PrototypeLink": {
           "guid": "",
           "name": ""
         },
         "m_Overrides": [],
-        "Descriptor": "UntypedStackable",
-        "Stat": "AdditionalDamage",
-        "Multiplier": 1,
-        "Value": {
-          "ValueType": "Simple",
-          "Value": 1,
-          "ValueRank": "DamageBonus",
-          "ValueShared": "Damage",
-          "Property": "None",
-          "m_CustomProperty": null
+        "Range": {
+          "m_Value": 180.0
         },
-        "HasMinimal": false,
-        "Minimal": 0
-      },
+        "DamageBonus": 1
+      }
     ],
     "Comment": "",
     "m_AllowNonContextActions": false,

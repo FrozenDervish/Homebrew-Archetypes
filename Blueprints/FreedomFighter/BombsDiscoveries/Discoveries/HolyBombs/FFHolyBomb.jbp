@@ -475,7 +475,7 @@
                                           "PropertyName": "Value1"
                                         }
                                       },
-                                      "Half": true,
+                                      "Half": false,
                                       "DisableSneakDamage": false,
                                       "AlreadyHalved": false,
                                       "IsAoE": false,
@@ -570,7 +570,7 @@
                                           "PropertyName": "Value1"
                                         }
                                       },
-                                      "Half": true,
+                                      "Half": false,
                                       "DisableSneakDamage": false,
                                       "AlreadyHalved": false,
                                       "IsAoE": false,
@@ -848,7 +848,7 @@
                                                 "PropertyName": "Value1"
                                               }
                                             },
-                                            "Half": true,
+                                            "Half": false,
                                             "DisableSneakDamage": false,
                                             "AlreadyHalved": false,
                                             "IsAoE": false,

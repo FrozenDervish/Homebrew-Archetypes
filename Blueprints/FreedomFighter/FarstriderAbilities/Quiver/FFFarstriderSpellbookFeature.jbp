@@ -1,0 +1,63 @@
+{
+  "AssetId": "5ae022e03d942e145a868402a266c9db",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "451eebb06d664f14b779ee8bc7342a42, AddSpellbook",
+        "name": "$AddSpellbook$3e7524ae-c71d-477e-b28f-22654a9b2937",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Spellbook": "!bp_a7765a52f7647074680915e403fa8efd",
+        "m_CasterLevel": {
+          "ValueType": "CasterCustomProperty",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": "!bp_6b49646ed1b3ee744a2c58522d376649"
+        }
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverName",
+      "m_OwnerString": "5ae022e03d942e145a868402a266c9db",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDesc",
+      "m_OwnerString": "5ae022e03d942e145a868402a266c9db",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "08c5c9e159992d9428c025e9360f0859",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [
+      "MythicTrick3"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": true,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  }
+}

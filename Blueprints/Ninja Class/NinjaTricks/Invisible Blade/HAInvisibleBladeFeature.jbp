@@ -1,0 +1,59 @@
+{
+  "AssetId": "3b7fa6c4cca317443b7a7a39929021ed",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$77534cd6-a858-468e-a372-9301ecd27d6c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_32534e1de03a9504cbeb871ca3bf0972"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_NinjaNinjaTrickInvisibleBladeName",
+      "m_OwnerString": "3b7fa6c4cca317443b7a7a39929021ed",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_NinjaNinjaTrickInvisibleBladeDesc",
+      "m_OwnerString": "3b7fa6c4cca317443b7a7a39929021ed",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "5ac2b4db004f798458e19515e9740c67",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

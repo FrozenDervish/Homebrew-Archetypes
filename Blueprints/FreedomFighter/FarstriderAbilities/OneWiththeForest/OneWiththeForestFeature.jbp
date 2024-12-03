@@ -6,6 +6,16 @@
     "m_Overrides": [],
     "Components": [
       {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$e43d704e-232a-4b85-9fab-d40b5c105b68",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 12
+      },
+	  {
         "$type": "228c903689cdcf94f8d0665fb9a69757, AddInitiatorAttackRollTrigger",
         "name": "$AddInitiatorAttackRollTrigger$880bdde2-97f0-4bbc-a538-4f76fbce55ef",
         "PrototypeLink": {

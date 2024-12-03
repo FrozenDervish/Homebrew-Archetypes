@@ -18,6 +18,16 @@
         "HasDifficultyRequirements": false,
         "InvertDifficultyRequirements": false,
         "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$e43d704e-232a-4b85-9fab-d40b5c105b68",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 12
       }
     ],
     "Comment": "",

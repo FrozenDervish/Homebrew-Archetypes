@@ -1,0 +1,70 @@
+{
+  "AssetId": "da409caed35bf5c4ca88a6794fc19e25",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$a8a5ff6f-c2e1-4d47-901d-9f1e4b58ea9b",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_325e04b2ed0dea14ca4932f862bc15a8"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+      {
+        "$type": "fd82ca085bd60c04fb03d1091acc66cb, AddAbilityResources",
+        "name": "$AddAbilityResources$781afc7c-aa71-4128-b5cb-2a904ef2f616",
+        "m_Overrides": [],
+        "UseThisAsResource": false,
+        "m_Resource": "!bp_162c8a10dc679274a84975dae117cc4c",
+        "Amount": 0,
+        "RestoreAmount": true,
+        "RestoreOnLevelUp": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPiercingName",
+      "m_OwnerString": "da409caed35bf5c4ca88a6794fc19e25",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPiercingDesc",
+      "m_OwnerString": "da409caed35bf5c4ca88a6794fc19e25",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "86320866260c04d4abc51a3162173f6e",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": 2,
+    "Groups": [
+      "MagusArcana",
+      "EldritchScionArcana"
+    ],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

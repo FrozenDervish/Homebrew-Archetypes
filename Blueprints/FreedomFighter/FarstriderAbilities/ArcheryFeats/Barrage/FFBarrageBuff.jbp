@@ -1,0 +1,104 @@
+{
+  "AssetId": "6d5ffbe25e5fbc54eae01c42c4469b01",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "bdbdc2afaa197d4479e112a32f9bdab5, AddInitiatorAttackWithWeaponTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorAttackWithWeaponTrigger$26970c64-a448-4f86-a58e-6f702fd0aa2d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "TriggerBeforeAttack": false,
+        "OnlyHit": true,
+        "OnMiss": false,
+        "OnlyOnFullAttack": true,
+        "OnlyOnFirstAttack": false,
+        "OnlyOnFirstHit": false,
+        "CriticalHit": false,
+        "OnlyNatural20": false,
+        "OnAttackOfOpportunity": false,
+        "NotCriticalHit": false,
+        "OnlySneakAttack": false,
+        "NotSneakAttack": false,
+        "CheckWeaponBlueprint": false,
+        "m_WeaponBlueprint": null,
+        "m_WeaponType": null,
+        "CheckWeaponCategory": false,
+        "Category": "UnarmedStrike",
+        "CheckWeaponGroup": false,
+        "Group": "None",
+        "CheckWeaponRangeType": true,
+        "RangeType": "Ranged",
+        "CheckPhysicalDamageForm": false,
+        "DamageForm": 0,
+        "ReduceHPToZero": false,
+        "DamageMoreTargetMaxHP": false,
+        "CheckDistance": false,
+        "DistanceLessEqual": {
+          "m_Value": 0.0
+        },
+        "AllNaturalAndUnarmed": false,
+        "DuelistWeapon": false,
+        "NotExtraAttack": false,
+        "OnCharge": false,
+        "IgnoreAutoHit": false,
+        "ActionsOnInitiator": false,
+        "Action": {
+          "Actions": [
+		    {
+              "$type": "5182943a58eddeb4cb6221b05a07e162, ContextActionDealWeaponDamage",
+              "name": "$ContextActionDealWeaponDamage$51c05963-0806-4935-8e8d-470de8233a67",
+              "CanBeRanged": true,
+              "IgnoreAttackRoll": false
+            }
+		  ]
+        }
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "6d5ffbe25e5fbc54eae01c42c4469b01",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "5a438a12c8e515e46a4e29cac29dbac3",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

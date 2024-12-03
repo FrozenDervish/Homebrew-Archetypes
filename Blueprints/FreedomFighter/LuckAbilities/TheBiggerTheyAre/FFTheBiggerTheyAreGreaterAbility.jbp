@@ -1,0 +1,126 @@
+{
+  "AssetId": "5f710f46a7dadb846bf78760a25c18de",
+  "Data": {
+    "$type": "da11db195c86e0d4dae17a2c03a4ba9a, BlueprintAbility",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+	  {
+        "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
+        "name": "$AbilityEffectRunAction$0ac965c6-da14-4b6b-9829-d2f111bd0f03",
+        "m_Overrides": [],
+        "SavingThrowType": "Unknown",
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "5182943a58eddeb4cb6221b05a07e162, ContextActionDealWeaponDamage",
+              "name": "$ContextActionDealWeaponDamage$51c05963-0806-4935-8e8d-470de8233a67",
+              "CanBeRanged": true,
+              "IgnoreAttackRoll": false
+            },
+			{
+              "$type": "e08f8adb906a0c140a386268829db0d2, ContextActionCombatManeuver",
+              "name": "$AbilityActionCombatManeuver$7460f1b9-4cfe-4f19-aba5-2a877688c1d2",
+              "Type": "Trip",
+              "IgnoreConcealment": false,
+              "OnSuccess": {
+                "Actions": []
+              },
+              "ReplaceStat": false,
+              "NewStat": "Unknown",
+              "UseKineticistMainStat": false,
+              "UseCastingStat": false,
+              "UseCasterLevelAsBaseAttack": false,
+              "UseBestMentalStat": false,
+              "BatteringBlast": false
+            }
+          ]
+        }
+      },
+	  {
+        "$type": "738f8786599c20849835a8dbb1a02a0f, AbilityCustomCleave",
+        "name": "$AbilityCustomCleave$7cbb14da-ec56-4890-af2c-46cf30dfe0f3",
+        "m_Overrides": [],
+        "m_GreaterFeature": "!bp_554af90fc21e0e940a5e33a8f515f7ed"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreGreaterName",
+      "m_OwnerString": "5f710f46a7dadb846bf78760a25c18de",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreGreaterDesc",
+      "m_OwnerString": "5f710f46a7dadb846bf78760a25c18de",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "689ebc55b898d90439889e23ee9872a2",
+      "fileid": 21300000
+    },
+    "m_DefaultAiAction": null,
+    "Type": "Physical",
+    "Range": "Weapon",
+    "IgnoreMinimalRangeLimit": false,
+    "CustomRange": {
+      "m_Value": 0.0
+    },
+    "ShowNameForVariant": false,
+    "OnlyForAllyCaster": false,
+    "CanTargetPoint": false,
+    "CanTargetEnemies": true,
+    "CanTargetFriends": false,
+    "CanTargetSelf": false,
+    "ShouldTurnToTarget": true,
+    "SpellResistance": false,
+    "IgnoreSpellResistanceForAlly": false,
+    "ActionBarAutoFillIgnored": false,
+    "Hidden": false,
+    "NeedEquipWeapons": false,
+    "UseCurrentWeaponAsReasonItem": true,
+    "NotOffensive": false,
+    "EffectOnAlly": "None",
+    "EffectOnEnemy": "None",
+    "m_Parent": null,
+    "Animation": "Special",
+    "HasFastAnimation": false,
+    "AnimationStyle": "CastActionOmni",
+    "m_TargetMapObjects": false,
+    "ActionType": "Standard",
+    "AvailableMetamagic": "Quicken, Heighten, CompletelyNormal",
+    "m_IsFullRoundAction": false,
+    "LocalizedDuration": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedSavingThrow": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "MaterialComponent": {
+      "m_Item": null,
+      "Count": 1
+    },
+    "DisableLog": false,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

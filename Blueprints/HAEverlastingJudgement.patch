@@ -16,6 +16,20 @@
         "CheckInProgression": false,
         "HideInUI": false,
         "m_Feature": "!bp_00e23df3fc56cb64a9ab17ff23e76541"
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$ee74b5a9-9dfb-4346-970b-c95ce6f7526h",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_20f615fdc424e68409c493aeaa2d3284"
       }
 	],
 	}

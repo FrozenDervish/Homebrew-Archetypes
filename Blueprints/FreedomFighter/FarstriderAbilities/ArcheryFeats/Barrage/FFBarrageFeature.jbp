@@ -1,0 +1,81 @@
+{
+  "AssetId": "50933829457ec92429d3e50f2a0343ed",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$77534cd6-a858-468e-a372-9301ecd27d6c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_46466fd2b7c9aff4ba123d6b7df03791"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
+      },
+	  {
+        "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+        "name": "$PrerequisiteClassLevel$e43d704e-232a-4b85-9fab-d40b5c105b68",
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "Level": 20
+      },
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$f7efc171-7285-4d3e-9506-e12f3bf51fcf",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "IsFeatureSelectionWhiteList": false,
+        "m_Feature": "!bp_8aef704e72f29904a9f6ab6367795499"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityBarrageName",
+      "m_OwnerString": "50933829457ec92429d3e50f2a0343ed",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityBarrageDesc",
+      "m_OwnerString": "50933829457ec92429d3e50f2a0343ed",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "AssetId": "9b458c219552e2a4db60fc4e572570fd",
+  "Data": {
+    "$type": "19be5dcf539a404487f98692dc73d872, BlueprintUnitProperty",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "ff4aefe58f61be7458fdb537e9a68945, SummClassLevelGetter",
+        "m_Flags": 0,
+        "name": "$SummClassLevelGetter$312aef45-eab4-422b-89d5-d614cb10b2bb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Settings": {
+          "m_Progression": "Div2",
+          "m_CustomProgression": [],
+          "m_StartLevel": 0,
+          "m_StepLevel": 0,
+          "m_Negate": false
+        },
+        "m_Class": [
+          "!bp_d1277f75d49b6d648a3007abd0c0b145"
+        ]
+      },
+      {
+        "$type": "0140ad9554b41624689f1612aa17bb5c, MaxCastingAttributeGetter",
+        "m_Flags": 0,
+        "name": "$MaxCastingAttributeGetter$92b8e042-85bf-481a-bfd6-0fb6db32f82a",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Settings": {
+          "m_Progression": "AsIs",
+          "m_CustomProgression": [],
+          "m_StartLevel": 0,
+          "m_StepLevel": 0,
+          "m_Negate": false
+        },
+        "m_Classes": [
+          "!bp_d1277f75d49b6d648a3007abd0c0b145"
+        ],
+        "AttributeBonus": true,
+        "DefaultStat": "Intelligence"
+      }
+    ],
+    "Comment": "",
+    "BaseValue": 10
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

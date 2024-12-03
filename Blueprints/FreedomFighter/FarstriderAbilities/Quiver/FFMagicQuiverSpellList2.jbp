@@ -1,0 +1,101 @@
+{
+  "AssetId": "14541bec210ac01438e213f9ce2c9b65",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_3c7907afade48f9478df4284a4a0e1a1",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532205",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_4986156b95e44bc459eb5b177f43434a",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532206",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_c1438e400af272345ae0360218928e09",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532207",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_7ba12be63e9ccfe409d72517461bafc6",
+        "m_Archetype": null
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverName",
+      "m_OwnerString": "14541bec210ac01438e213f9ce2c9b65",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDesc",
+      "m_OwnerString": "14541bec210ac01438e213f9ce2c9b65",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "68789c6972407e340a2392d32605f195",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

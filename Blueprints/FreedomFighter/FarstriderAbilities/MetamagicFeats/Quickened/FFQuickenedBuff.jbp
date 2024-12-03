@@ -1,0 +1,50 @@
+{
+  "AssetId": "5ea7e861e4d98874b97e234a4453e599",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "9722054a91560444db43c5e82032cac6, MetamagicOnNextSpell",
+        "name": "$MetamagicOnNextSpell$8d46f265-f6b9-4058-ae27-b9173d5fa955",
+        "m_Overrides": [],
+        "Metamagic": "Quicken",
+        "DoNotRemove": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicQuickenedName",
+      "m_OwnerString": "5ea7e861e4d98874b97e234a4453e599",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicQuickenedDesc",
+      "m_OwnerString": "5ea7e861e4d98874b97e234a4453e599",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "ed900c6a7b1c40341b9aa325c6068e37",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "RemoveOnRest",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}

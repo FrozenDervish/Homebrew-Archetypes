@@ -18,7 +18,7 @@
           "m_IntValue": 549755813888
         },
         "BonusDC": 2,
-        "ModifierDescriptor": "UntypedStackable",
+        "ModifierDescriptor": "Enhancement",
         "SpellsOnly": false
       },
 	  {

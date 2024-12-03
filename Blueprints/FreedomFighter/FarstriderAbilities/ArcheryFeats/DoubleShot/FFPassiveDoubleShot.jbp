@@ -1,0 +1,119 @@
+{
+  "AssetId": "3f5dfffa02fe17d449229e877d868951",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "bdbdc2afaa197d4479e112a32f9bdab5, AddInitiatorAttackWithWeaponTrigger",
+        "m_Flags": 0,
+        "name": "$AddInitiatorAttackWithWeaponTrigger$26970c64-a448-4f86-a58e-6f702fd0aa2d",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "TriggerBeforeAttack": false,
+        "OnlyHit": true,
+        "OnMiss": false,
+        "OnlyOnFullAttack": false,
+        "OnlyOnFirstAttack": true,
+        "OnlyOnFirstHit": false,
+        "CriticalHit": false,
+        "OnlyNatural20": false,
+        "OnAttackOfOpportunity": false,
+        "NotCriticalHit": false,
+        "OnlySneakAttack": false,
+        "NotSneakAttack": false,
+        "CheckWeaponBlueprint": false,
+        "m_WeaponBlueprint": null,
+        "m_WeaponType": null,
+        "CheckWeaponCategory": false,
+        "Category": "UnarmedStrike",
+        "CheckWeaponGroup": false,
+        "Group": "None",
+        "CheckWeaponRangeType": true,
+        "RangeType": "Ranged",
+        "CheckPhysicalDamageForm": false,
+        "DamageForm": 0,
+        "ReduceHPToZero": false,
+        "DamageMoreTargetMaxHP": false,
+        "CheckDistance": false,
+        "DistanceLessEqual": {
+          "m_Value": 0.0
+        },
+        "AllNaturalAndUnarmed": false,
+        "DuelistWeapon": false,
+        "NotExtraAttack": false,
+        "OnCharge": false,
+        "IgnoreAutoHit": false,
+        "ActionsOnInitiator": false,
+        "Action": {
+          "Actions": [
+		    {
+              "$type": "0cdc69d3ddfd42f28045114acc14e069, ContextActionRandomize",
+              "name": "$ContextActionRandomize$e30d0b9d-fd4a-4b9b-a149-aec5354d0462",
+              "m_Actions": [
+                {
+                  "Action": {
+                    "Actions": [
+                      {
+						"$type": "5182943a58eddeb4cb6221b05a07e162, ContextActionDealWeaponDamage",
+						"name": "$ContextActionDealWeaponDamage$51c05963-0806-4935-8e8d-470de8233a67",
+						"CanBeRanged": true,
+						"IgnoreAttackRoll": false
+					  }
+                    ]
+                  },
+                  "Weight": 10
+                },
+                {
+                  "Action": {
+                    "Actions": []
+                  },
+                  "Weight": 90
+                }
+              ]
+            }
+		  ]
+        }
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityDoubleShotName",
+      "m_OwnerString": "3f5dfffa02fe17d449229e877d868951",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityDoubleShotDesc",
+      "m_OwnerString": "3f5dfffa02fe17d449229e877d868951",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "1ad80155704e5764fb5e7540f7bb4b18",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

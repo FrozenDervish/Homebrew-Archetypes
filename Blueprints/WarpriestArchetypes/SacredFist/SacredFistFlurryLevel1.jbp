@@ -18,14 +18,6 @@
         "Number": 1,
         "Haste": false
       },
-	  {
-        "$type": "a0c7e67ead2fb1b469484150184b3d4a, AddGenericStatBonus",
-        "name": "$AddGenericStatBonus$e7a949b1-ef8b-44f6-a420-bc25c5418362",
-        "m_Overrides": [],
-        "Descriptor": "None",
-        "Stat": "AdditionalAttackBonus",
-        "Value": -2
-      },
       {
         "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
         "name": "$AddMechanicsFeature$3e64a473-9791-4a0b-90ce-bbd9bf7bb4ad",

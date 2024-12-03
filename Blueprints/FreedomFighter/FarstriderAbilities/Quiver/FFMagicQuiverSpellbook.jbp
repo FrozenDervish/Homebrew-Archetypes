@@ -1,0 +1,43 @@
+{
+  "AssetId": "a7765a52f7647074680915e403fa8efd",
+  "Data": {
+    "$type": "a42bdead3c333d744a3f0354bbe6c27c, BlueprintSpellbook",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "Name": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverName",
+      "m_OwnerString": "a7765a52f7647074680915e403fa8efd",
+      "m_OwnerPropertyPath": "Name",
+      "m_JsonPath": ""
+    },
+    "IsMythic": false,
+    "m_SpellsPerDay": "!bp_f6c4bc017d86d9e418056c5cf1fca75e",
+    "m_SpellsKnown": null,
+    "m_SpellSlots": null,
+    "m_SpellList": "!bp_188c0e6271be1564a878f12674e5831c",
+    "m_MythicSpellList": null,
+    "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+    "CastingAttribute": "Intelligence",
+    "Spontaneous": true,
+    "SpellsPerLevel": 0,
+    "AllSpellsKnown": true,
+    "CantripsType": "Cantrips",
+    "CasterLevelModifier": 0,
+    "CanCopyScrolls": false,
+    "IsArcane": false,
+    "IsArcanist": false,
+    "HasSpecialSpellList": false,
+    "SpecialSpellListName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "47886f2087491384b94263806cc4e713",
+        "stringkey": "45fb40bc-4b20-4fc4-9484-70d10164f36f"
+      }
+    }
+  }
+}

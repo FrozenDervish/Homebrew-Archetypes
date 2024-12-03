@@ -5,24 +5,6 @@
     "PrototypeLink": null,
     "m_Overrides": [],
     "Components": [
-      {
-        "$type": "757439ef8cc900741bd9b57bf26eb500, AbilityTargetsAround",
-        "m_Flags": 0,
-        "name": "$AbilityTargetsAround$86cd4210-f6dd-4e42-a1c9-a4944f5cb5ef",
-        "m_Overrides": [],
-        "m_Radius": {
-          "m_Value": 30.0
-        },
-        "m_TargetType": "Ally",
-        "m_IncludeDead": false,
-        "m_Condition": {
-          "Operation": "And",
-          "Conditions": []
-        },
-        "m_SpreadSpeed": {
-          "m_Value": 0.0
-        }
-      },
 	  {
         "$type": "66e032e5cf38801428940a1a0d14b946, AbilityEffectRunAction",
         "m_Flags": 0,

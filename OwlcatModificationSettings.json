@@ -376,8 +376,8 @@
             "Filename": "HAExtraFeatMythicFeat.patch"
         },
         {
-            "Guid": "",
-            "Filename": ""
+            "Guid": "1de483b5584b89d42988cadd487bf052",
+            "Filename": "HAAmuletofEpicSongs.patch"
         },
         {
             "Guid": "303fd456ddb14437946e344bad9a893b",
@@ -460,8 +460,8 @@
             "Filename": "HARogue.patch"
         },
         {
-            "Guid": "",
-            "Filename": ""
+            "Guid": "f33dadeeb51cdba45b23bb40a40e5fb3",
+            "Filename": "HAFlamboyantHat.patch"
         },
         {
             "Guid": "",

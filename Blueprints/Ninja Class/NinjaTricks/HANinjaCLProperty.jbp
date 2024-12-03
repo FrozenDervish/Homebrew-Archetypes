@@ -1,0 +1,31 @@
+{
+  "AssetId": "040e106dc51929c44bbf313def0aaeee",
+  "Data": {
+    "$type": "19be5dcf539a404487f98692dc73d872, BlueprintUnitProperty",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "ff4aefe58f61be7458fdb537e9a68945, SummClassLevelGetter",
+        "name": "$SummClassLevelGetter$312aef45-eab4-422b-89d5-d614cb10b2bb",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Settings": {
+          "m_Progression": "AsIs",
+          "m_CustomProgression": [],
+          "m_StartLevel": 0,
+          "m_StepLevel": 0,
+          "m_Negate": false
+        },
+        "m_Class": [
+          "!bp_f134bf66e01303e419bf8d5598c1a777"
+        ]
+      }
+    ],
+    "Comment": "",
+    "BaseValue": 0
+  }
+}

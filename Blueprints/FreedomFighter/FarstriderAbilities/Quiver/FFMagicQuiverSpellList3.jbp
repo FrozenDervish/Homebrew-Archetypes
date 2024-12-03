@@ -1,0 +1,129 @@
+{
+  "AssetId": "ef4c0303cf10e97418858d90f92bebb3",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532204",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_8f72f532c5d8a7c40bbc7949dde87ffa",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532205",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_5ee199e5f80677944b03c66667c2b647",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532206",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_458db2de977d25b408d81b566b6dc009",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532207",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_06d9a37285a297841a7a201820ccea57",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532208",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_9b2ef0aa6454dd640a7aa1facad6df67",
+        "m_Archetype": null
+      },
+	  {
+        "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+        "m_Flags": 0,
+        "name": "$AddKnownSpell$85c6595e-1fad-42f7-8e8e-2930ce532209",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "SpellLevel": 1,
+        "m_Spell": "!bp_fe99ae538ebab5249a68bf0586d48396",
+        "m_Archetype": null
+      },
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverName",
+      "m_OwnerString": "ef4c0303cf10e97418858d90f92bebb3",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDesc",
+      "m_OwnerString": "ef4c0303cf10e97418858d90f92bebb3",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "88783a4350834ef48ac52116442f4383",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

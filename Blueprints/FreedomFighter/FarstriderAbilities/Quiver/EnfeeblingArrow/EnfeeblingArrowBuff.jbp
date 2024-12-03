@@ -1,0 +1,72 @@
+{
+  "AssetId": "b6bf8a9f98d8afe48b57f127cfcb5f8f",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "608f9cb0a1df61b4988e89858e2b46be, OutcomingDamageAndHealingModifier",
+        "m_Flags": 0,
+        "name": "$OutcomingDamageAndHealingModifier$ef6a39e7-0f9c-4d0e-b9c5-b976556fbca7",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "ModifierPercents": {
+          "ValueType": "Simple",
+          "Value": -50,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "m_AbilityParameter": "Level",
+          "PropertyName": "Value1"
+        },
+        "Type": "OnlyDamage",
+        "m_DamageWeaponType": "Any",
+        "m_SourceToTargetFactionType": "Any",
+        "m_AoeEntry": "OnlyFalse",
+        "m_OverrideOtherModifierPercents": false
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEnfeeblementName",
+      "m_OwnerString": "b6bf8a9f98d8afe48b57f127cfcb5f8f",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEnfeeblementDesc",
+      "m_OwnerString": "b6bf8a9f98d8afe48b57f127cfcb5f8f",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "9b2d48907bebe0949836a2516dd1007a",
+      "fileid": 21300000
+    },
+    "IsClassFeature": false,
+    "m_Flags": 0,
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

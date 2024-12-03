@@ -5298,7 +5298,7 @@ This ability functions only while the champion is conscious, not if she is {g|En
         },
 		{
             "Key": "HomebrewArchtypes_ChampionHolyChampionDesc", 
-            "Value": "At 20th level, a champion becomes a conduit for the power of her oath. Her {g|Encyclopedia:Damage_Reduction}DR{/g} increases to 10/{g|Encyclopedia:Alignment}evil{/g} and whenever she channels positive energy or uses lay on hands to {g|Encyclopedia:Healing}heal{/g} a creature, she heals the maximum possible amount."
+            "Value": "At 20th level, a champion becomes a conduit for the power of her oath. Her {g|Encyclopedia:Damage_Reduction}DR{/g} increases to 10/{g|Encyclopedia:Alignment}good{/g} and whenever she channels positive energy or uses lay on hands to {g|Encyclopedia:Healing}heal{/g} a creature, she heals the maximum possible amount."
         },
 		{
             "Key": "HomebrewArchtypes_SpellbladeName", 
@@ -5776,7 +5776,7 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathUnconqueredCripplingStrikeDesc", 
-            "Value": "At 5th level, as you can make attacks for 1 minute that lower the opponent's speed by half for 1 round on a successful hit. This ability can be used twice per day and an extra time per day for every 4 champion levels after level 5."
+            "Value": "At 5th level, you can make attacks for 1 minute that lower the opponent's speed by half for 1 round on a successful hit. This ability can be used twice per day and an extra time per day for every 4 champion levels after level 5."
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathUnconqueredUnbreakableDefenderName", 
@@ -5956,7 +5956,7 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionElfDesc", 
-            "Value": "Farstriders are exiled elven warriors who have taken to subterfuge and ambushing their opponents with their skilled marksmanship and various tools and abilities to."
+            "Value": "Farstriders are exiled elven warriors who have taken to subterfuge and ambushing their opponents with their skilled marksmanship and various talents."
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilitySelectionName", 
@@ -5972,7 +5972,7 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterFarstriderHawkEyeDesc", 
-            "Value": " At 2nd level, a farstrider gains a +1 bonus on Perception checks, and the range for any bow they use increases by 5 feet. These bonuses increase by +1 and 5 additional feet for every 4 levels beyond 2nd."
+            "Value": " At 2nd level, a farstrider gains a +1 bonus on Perception checks. These bonuses increase by +1 for every 4 levels beyond 2nd."
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityArcherTrainingName", 
@@ -6115,6 +6115,315 @@ Any opponent the dragon-blooded cannot see still has total {g|Encyclopedia:Conce
             "Key": "HomebrewArchtypes_BombModifierBonusName", 
             "Value": "Bomb Modifier Bonus"
         },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreGreaterName", 
+            "Value": "The Bigger They Are - Greater"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreGreaterDesc", 
+            "Value": "As a standard action, a freedom fighter can make a single melee attack as a cleaving attack. If the attack hits, they may make a trip combat maneuver against the target of their attacks as a free action that does not provoke an attack of opportunity."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreSuperiorName", 
+            "Value": "The Bigger They Are - Superior"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreSuperiorDesc", 
+            "Value": "As a standard action, a freedom fighter can make a single melee attack as a cleaving attack. If the attack hits, they may make a trip combat maneuver against the target of their attacks as a free action that does not provoke an attack of opportunity and can continue making attacks against adjacent foes so long as they are within reach."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityDoubleShotName", 
+            "Value": "Double Shot"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityDoubleShotDesc", 
+            "Value": "An adept of ranged attacks the farstrider has a 10% chance on the first attack made in the round to attack with a second arrow."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityBarrageName", 
+            "Value": "Barrage"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityBarrageDesc", 
+            "Value": "With a mastery of ranged attacks a farstrider has a 5% chance to fire a second arrow when a successful hit has occurred for the duration of the attack."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityTremendousShotName", 
+            "Value": "Tremendous Shot"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityTremendousShotDesc", 
+            "Value": "With this talent as a standard action the farstider's next attack is guarantee to hit and to critical strike."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverRefillName", 
+            "Value": "Quiver-Refill"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverRefillDesc", 
+            "Value": "A farstrider can once per day refill their quiver of magical arrows. This must be done manually."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverName", 
+            "Value": "Quiver"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDesc", 
+            "Value": "A farstrider never travels far without their trusty quiver. Within are magical arrows they can use to great effect on the battlefield. The farstrider can use a number of enchanted arrows per day equal to their class level and the DC for an arrow is 10 + 1/2 caster level + intelligence modifier. The number of the spells enchanted on these arrows increases at farstrider levels 7 and 14."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverFireballArrowName", 
+            "Value": "Enchant Arrow - Fireball"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverFireballArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the fireball spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMultiArrowName", 
+            "Value": "Enchant Arrow - Split Arrow"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMultiArrowDesc", 
+            "Value": "The farstrider enchants an arrow that splits into new arrows to strike their enemy. A split arrow can split up to 1 additional time for every 2 class levels the farstrider possesses.(5 arrows max)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDeathName", 
+            "Value": "Enchant Arrow - Death"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDeathDesc", 
+            "Value": "The farstrider enchants an arrow with death. The target must make a fortitude save or be slain immediately."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEnfeeblementName", 
+            "Value": "Enchant Arrow - Enfeeblement"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEnfeeblementDesc", 
+            "Value": "The farstrider enchants an arrow with necromantic energy weakening and enfeebling them. The target must succeed on a Constitution saving throw, or the damage dealt by its weapon attacks is halved until the start of your next turn."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicQuickenedName", 
+            "Value": "Quickened Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicQuickenedDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeatureQuickenSpell}Quicken Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicMaximizedName", 
+            "Value": "Maximized Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicMaximizedDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeatureMaximizeSpell}Maximize Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicExtendedName", 
+            "Value": "Extended Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicExtendedDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeatureExtendSpell}Extend Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicEmpoweredName", 
+            "Value": "Empowered Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicEmpoweredDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeatureEmpoweredSpell}Empower Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_NinjaNinjaTrickInvisibleBladeName", 
+            "Value": "Invisible Blade"
+        },
+		{
+            "Key": "HomebrewArchtypes_NinjaNinjaTrickInvisibleBladeDesc", 
+            "Value": "Whenever a ninja uses the invisible blade ninja trick, she is treated as if she were under the effects of greater invisibility."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverFreezingOrbArrowName", 
+            "Value": "Enchant Arrow - Freezing Sphere"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverFreezingOrbArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the freezing sphere spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicIntensifiedName", 
+            "Value": "Intensified Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicIntensifiedDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeatureIntensifySpell}Intensify Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEntanglingArrowName", 
+            "Value": "Enchant Arrow - Entangle"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEntanglingArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the entangle spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicBolsteredName", 
+            "Value": "Bolstered Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicBolsteredDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeatureBolsterSpell}Bolster Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPersistentName", 
+            "Value": "Persistent Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPersistentDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeaturePersistentSpell}Persistent Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPiercingName", 
+            "Value": "Piercing Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPiercingDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeaturePiercingSpell}Piercing Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicSelectiveName", 
+            "Value": "Selective Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicSelectiveDesc", 
+            "Value": "The farstrider can fire three enchanted arrows per day as if they were modified by the {g|FeatureSelectiveSpell}Selective Spell{/g} {g|Encyclopedia:Feat}feat{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverAcidArrowName", 
+            "Value": "Enchant Arrow - Acid Arrow"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverAcidArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the acid arrow spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDispellingArrowName", 
+            "Value": "Enchant Arrow - Dispel Magic"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDispellingArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the dispel magic spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverSlowArrowName", 
+            "Value": "Enchant Arrow - Slow"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverSlowArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the slow spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaterDispelTargetArrowName", 
+            "Value": "Enchant Arrow - Greater Dispel(Target)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaterDispelTargetArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the greater dispel(target) spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaterDispelAoEArrowName", 
+            "Value": "Enchant Arrow - Greater Dispel(Area)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaterDispelAoEArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the greater dispel(area) spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverConfusionArrowName", 
+            "Value": "Enchant Arrow - Confusion"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverConfusionArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the confusion spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverChainLightningArrowName", 
+            "Value": "Enchant Arrow - Chain Lightning"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverChainLightningArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the chain lightning spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightningStrikeName", 
+            "Value": "Lightning Strike"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightningStrikeDesc", 
+            "Value": "A farstrider with this talent can move across the battlefield like a bolt of lightning. As a {g|Encyclopedia:Full_Round_Action}full-round action{/g}, they can transform into lightning and move to any unoccupied space within 30 feet without provoking {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}. They make a single {g|Encyclopedia:RangedAttack}ranged attack{/g} against closest opponent after this movement."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightningShotName", 
+            "Value": "Lightning Strikes"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightningShotDesc", 
+            "Value": "With this talent when a farstrider uses lightning strike, they can make two {g|Encyclopedia:RangedAttack}ranged attacks{/g} after their movement. Both of these {g|Encyclopedia:Attack}attacks{/g} are made at their highest {g|Encyclopedia:BAB}base attack bonus{/g}."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverShadowbindArrowName", 
+            "Value": "Enchant Arrow - Shadowbind"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverShadowbindArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the shadowbind spell when firing it. A target hit by shadowbind must make a will save or have their speed reduced to 0 trapped in a snare of shadowy tendrils."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverShadowbindArrowName", 
+            "Value": "Enchant Arrow - Shadowbind"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverKnockbackArrowName", 
+            "Value": "Enchant Arrow - Knockback"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverKnockbackArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the knockback spell when firing it. A target hit by knockback must make a reflex save or be pushed away by 10 feet."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverExplosiveBurstArrowName", 
+            "Value": "Enchant Arrow - Explosive Burst"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverExplosiveBurstArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the explosive burst spell when firing it. An explosive burst hits a radius of 10 feet and a target hit by an explosive burst takes 1d6 per caster level force damage and must make a reflex save or be pushed away by 10 feet."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaseArrowName", 
+            "Value": "Enchant Arrow - Grease"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaseArrowDesc", 
+            "Value": "The farstrider enchants an arrow with the grease spell when firing it."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtraTalentSelectionName", 
+            "Value": "Extra Farstrider Talent"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtraTalentSelectionDesc", 
+            "Value": "Choosing this feat allows you to pick one extra farstrider talent.(Can be picked multiple times)."
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityAbundantMetamagicsName", 
+            "Value": "Abundant Metamagics"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityAbundantMetamagicsDesc", 
+            "Value": "You've learned a way to increase the number of metamagics you can do per day.
+Benefit: Your metamagic reserves increase by a number of points equal to 1/2 your mythic rank."
+        },
 	]	
 }
 
@@ -6149,3 +6458,110 @@ Dragon Disciple - Bloodlines, Shapeshift, breath
 Farstrider - More talents
 Luckbearer - Bigger they are ability upgrade
 Demolition Expert - Capstone
+
+Nightsage - is used as an undead repellant, maybe AOE drop in AC against undead
+
+Nepenthe could cause fear effects
+
+Could use fairy cap as enlarge mass or reduce person mass
+
+Dragon rose to bypass a chosen DR, should be magic but might be to specific
+
+Desnas star - looks to help with sleep, this could be the slumber version 
+
+
+What about a single shot that causes a burst effect no direct damage. Say herbs that can cause slumber/acid damage/blindness. Burst would deal no direct damage but chosen effect would apply with DC equal to say 10+half int or Wis modifier(whatever is RP appropriate)+half class level?
+
+Range would be any where inside of maximum range
+AOE say 20 feet 
+
+
+Sharpshot - Increase party's attack or damage(not sure)
+Camouflage(group) - Make the party invisible
+Aim - Legs (Immobilize)
+Aim - arm (Lower Damage or AB)
+Cupid - Charm target when hitting them with arrow(magic)
+Blackout - Blinds target
+Various Magic Arrows
+
+
+
+What about a Farstrider talent that focuses on quiver/equpiment improvement. Upgrades at say level 4-10-16.
+Option 1
+metal arrows(will come up with better name)  heavy arrows that deal extra damage: damage die size increase 
+
+Adamantine tip - gains DR 
+
+Full admantine arrows - stun on crit or better crit range
+
+Option2
+Elven wood arrow-lighter, easier to wield ammo allows archer to attack faster: +4 initiative 
+
+Elven wood bow - further improvements to bow construction allow even faster deployment of weaponry : roll twice for initiative and take best result
+
+Elven fletching - ancient elven practices allow arrows to strike true - ignore all concealment
+
+Option3
+Blunt arrows - adds blunt damage type to arrow, extra bludgeoning damage
+
+Twilight blunt arrows - blunt arrows now packaged with dust of twilight, caster level equal to 
+Farstrider level
+
+Explosive packaging - arrows forcefully explode on contact causing aoe dust of twilight along with more bludgeoning damage to creatures within 10 feet’s 
+
+Thought of a capstone for farstrider, 3 times a day as a free action Farstrider can use take aim and focus.
+Demo Expert - was thinking either extended AoE or 3 times a day compeletly refill bomb count
+
+I came up with some random ideas for Orc freedom Fighter if you are game, goal is to make use of Orc features since most find them lacking and turn it into a Con/HP tank
+Disgraced Warchief/Displaced warchief - Caputred and forced into slavery, the Disgraced warchief's honor does not allow them to cease their fight for freedom
+
+Goal is to improve Orc ferocity and make better use of intimidating
+inspired by Invulnerable/hateful rager, orc archetypes
+
+Disgraced War chief/Displaced war chief - Caputred and forced into slavery, the Disgraced warchief's honor does not allow them to cease their fight for freedom
+
+Freedom Fighter talents - needs name
+
+Orc Fortitude - spell like use of false life, character level equal to caster level
+Greater Orc Fortitude - improves to greater false life
+TWF feats available at level 2, 6, and 10, allows choice between say Falchion and Orc axe
+Orc battle scars - adds 1 level of DR -, adds 1  to intimidate (probably should be innate to the archetype)
+War chief battle cry - add STR modifier to initiative or intimidate to initiative whichever is easier
+War chiefs honor : Descended from Orcs of legend, the War Chiefs honor forces death to wait until the day the War chief has earned freedom(does not stack with last stand) - unkillable for 1 round, gains a round every 6 rounds for a total of 3 rounds
+Rampage (Rampaging Orc) - circumstance AC bonus vs enemies under fear effects 
+
+Fire Arrow, Cold Arrow, Lightning Arrow
+Anti-Magic Arrow - Cumulative spell failure
+Poison Arrow
+Polymorph Arrow
+Darkness Arrow - Causes str damage or blindness
+Stun Arrow
+Bleed arrow
+Sleep Arrow
+Paralyze Arrow
+Knockback arrow
+Arrow of Salving - Restoration on target
+Arrow of Transposition - Dimension door
+Smokepowder Arrow - Fireball + Knockback
+Seeker Arrow - Never misses
+Phase Arrow - Bypass concealment
+Hail of Arrows
+Cure Wounds arrow
+
+What do you think for an advanced talent, luckbearer can use a swift action two expend two points to bypass trip immunities for 1 round.
+
+<@189159093695545354> Been giving the luckbearer a pretty good run thru midnight isles and wanted to report in.
+
+Gave the dex base a run, feels ok. Partially my fault as I went for heavy pick axe for high crit multiplier thinking about the capstone. Estoc/rapier/falcata are probably the best weapon choices to best make use of EDW and fighters finesse.
+
+I since switched to STR and single weapon(changed mythic to trickster into legend) and this thing took off. Went with earthbreaker for crit multiplier and improved crit feats to improve crit range. Haven’t swapped to legend yet but once I do Titan fighter 20 will allow me to destroy anything I swing at.
+
+Right time Right place is probably the best ability, can hold back let the enemy come to me then flank or swoop in surprise round for the trip ability.
+
+I will say regardless of going STR or DEX, there are a bit of early game lucky talent issues. Mainly comes down to superior leverage and the associated lucky talents.
+
+Superior Leverage encourages you to make CMB(trip) abilities with a bonus that grows which works great as the game goes on but pointless early. The real issue is the 2nd part which allows CON score in place of INT. As the archetype is a Slayer/rogue/fighter mix having decent INT isn’t a bad thing. CHA can be dumped and don’t really have to mess with WIS so the benefit/bonus isn’t really useful or applicable as combat expertise is the only feat you actually want.
+
+I would suggest (if possible) swap out the Con for Int and allow Superior Leverage to serve as Combat Expertise to qualify for trip line and ONLY for the trip line.
+
+Either way thanks for hard work and hope you get around to trying it out for yourself

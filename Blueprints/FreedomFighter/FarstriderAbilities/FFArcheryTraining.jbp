@@ -5,14 +5,34 @@
     "PrototypeLink": null,
     "m_Overrides": [],
     "Components": [
-      {
-        "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
-        "name": "$AddStatBonus$8c17bf5c-9a41-4407-b781-420f0dd6b77b",
+	  {
+        "$type": "f50fa19122620204fb6133a41dfacc22, WeaponGroupAttackBonus",
+        "name": "$WeaponGroupAttackBonus$f1fc5e14-7895-40f3-bdb7-54f9990831c4",
         "m_Overrides": [],
+        "WeaponGroup": "Bows",
+        "AttackBonus": 1,
         "Descriptor": "UntypedStackable",
-        "Stat": "AdditionalAttackBonus",
-        "Value": 1,
-        "ScaleByBasicAttackBonus": false
+        "multiplyByContext": false,
+        "contextMultiplier": {
+          "ValueType": "Simple",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null
+        }
+      },
+	  {
+        "$type": "018ffdf3c815bfa4189c0fc4cf1c9b19, RecalculateOnStatChange",
+        "m_Flags": 0,
+        "name": "$RecalculateOnStatChange$cccc95aa-0790-464a-8608-99a0c501af04",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "UseKineticistMainStat": false,
+        "Stat": "AdditionalAttackBonus"
       }
     ],
     "Comment": "",
@@ -36,7 +56,7 @@
       "m_JsonPath": ""
     },
     "m_Icon": {
-      "guid": "368e551b9709cb441abdef76162f216b",
+      "guid": "534e7634a27b6f74a8773dfb82092da8",
       "fileid": 21300000
     },
     "HideInUI": false,

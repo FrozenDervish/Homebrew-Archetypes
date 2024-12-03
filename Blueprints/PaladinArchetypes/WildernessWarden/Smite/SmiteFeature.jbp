@@ -3,10 +3,7 @@
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": null,
-    "m_Overrides": [
-      "$AddFacts$e4eb907e-f159-435f-90ea-e134077206d1",
-      "$AddAbilityResources$a3f77df7-bc1d-45b5-859c-7eee7b845508"
-    ],
+    "m_Overrides": [],
     "Components": [
       {
         "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",

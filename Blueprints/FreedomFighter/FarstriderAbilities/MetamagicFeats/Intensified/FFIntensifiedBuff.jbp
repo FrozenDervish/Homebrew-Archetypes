@@ -1,0 +1,109 @@
+{
+  "AssetId": "6ac4becabb88e774696a4f9ef70ecbc8",
+  "Data": {
+    "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "b51a712035f3d98459e516a34fda37bf, AutoMetamagic",
+        "name": "$AutoMetamagicOnSpellList$d5339ef2-ab96-4455-a180-df4116272852",
+        "m_Overrides": [],
+        "m_AllowedAbilities": "Any",
+        "Metamagic": "Intensified",
+        "Abilities": [
+		  "!bp_64edbafa8cb09fa4a9c9c1afff6c7c1a",
+		  "!bp_84159cc644c05664baaa100b5515a154",
+		  "!bp_2e9c9284bbb61974da67babaee9b190f",
+		  "!bp_6f3e520e4a666994b82e6b12dc9b8896"
+        ],
+        "Descriptor": {
+          "m_IntValue": 0
+        },
+        "Once": false,
+        "MaxSpellLevel": 0,
+        "School": "None",
+        "CheckSpellbook": false,
+        "m_Spellbook": null
+      },
+	  {
+        "$type": "1c2eac83b528cef478121194c8c7f502, AddAbilityUseTrigger",
+        "name": "$AddAbilityUseTrigger$064d5626-fc52-4f5d-bd90-59fbb7f0c8ae",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Action": {
+          "Actions": [
+            {
+              "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+              "name": "$ContextActionRemoveSelf$501344fd-9f1b-4188-8ea5-3ca782294a28"
+            }
+          ]
+        },
+        "ActionsOnAllTargets": false,
+        "AfterCast": true,
+        "ActionsOnTarget": false,
+        "FromSpellbook": false,
+        "m_Spellbooks": [
+          "!bp_a7765a52f7647074680915e403fa8efd"
+        ],
+        "ForOneSpell": false,
+        "m_Ability": null,
+        "ForMultipleSpells": true,
+        "Abilities": [
+		  "!bp_64edbafa8cb09fa4a9c9c1afff6c7c1a",
+		  "!bp_84159cc644c05664baaa100b5515a154",
+		  "!bp_2e9c9284bbb61974da67babaee9b190f",
+		  "!bp_6f3e520e4a666994b82e6b12dc9b8896"
+		],
+        "MinSpellLevel": false,
+        "MinSpellLevelLimit": 0,
+        "ExactSpellLevel": false,
+        "ExactSpellLevelLimit": 0,
+        "CheckAbilityType": false,
+        "Type": "Spell",
+        "CheckDescriptor": false,
+        "SpellDescriptor": {
+          "m_IntValue": 0
+        },
+        "CheckRange": false,
+        "Range": "Touch"
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicIntensifiedName",
+      "m_OwnerString": "6ac4becabb88e774696a4f9ef70ecbc8",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": ""
+    },
+    "m_Description": {
+      "m_Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicIntensifiedDesc",
+      "m_OwnerString": "6ac4becabb88e774696a4f9ef70ecbc8",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": ""
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": ""
+    },
+    "m_Icon": {
+      "guid": "093ef7ac336552f48ab7b7bd607c5e02",
+      "fileid": 21300000
+    },
+    "IsClassFeature": true,
+    "m_Flags": "RemoveOnRest",
+    "Stacking": "Replace",
+    "Ranks": 0,
+    "TickEachSecond": false,
+    "Frequency": "Rounds",
+    "FxOnStart": null,
+    "FxOnRemove": null,
+    "ResourceAssetIds": []
+  }
+}
