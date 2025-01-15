@@ -6376,10 +6376,6 @@ Any opponent the dragon-blooded cannot see still has total {g|Encyclopedia:Conce
             "Value": "The farstrider enchants an arrow with the shadowbind spell when firing it. A target hit by shadowbind must make a will save or have their speed reduced to 0 trapped in a snare of shadowy tendrils."
         },
 		{
-            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverShadowbindArrowName", 
-            "Value": "Enchant Arrow - Shadowbind"
-        },
-		{
             "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverKnockbackArrowName", 
             "Value": "Enchant Arrow - Knockback"
         },

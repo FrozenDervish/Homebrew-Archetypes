@@ -2,7 +2,7 @@
   "AssetId": "5ae022e03d942e145a868402a266c9db",
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
-    "PrototypeLink": "",
+    "PrototypeLink": null,
     "m_Overrides": [],
     "Components": [
       {
@@ -52,12 +52,13 @@
     "HideInCharacterSheetAndLevelUp": false,
     "HideNotAvailibleInUI": false,
     "DlcType": "None",
-    "Groups": [
-      "MythicTrick3"
-    ],
+    "Groups": [],
     "Ranks": 1,
-    "ReapplyOnLevelUp": true,
+    "ReapplyOnLevelUp": false,
     "IsClassFeature": true,
-    "IsPrerequisiteFor": []
+    "IsPrerequisiteFor": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
   }
 }

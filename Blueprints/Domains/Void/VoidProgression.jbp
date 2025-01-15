@@ -3,9 +3,7 @@
   "Data": {
     "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
     "PrototypeLink": "",
-    "m_Overrides": [
-      "$LearnSpellList$5d09c09a-9dfc-468e-8b2f-ca5719e3b10e"
-    ],
+    "m_Overrides": [],
     "Components": [
       {
         "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
@@ -108,12 +106,20 @@
       {
         "m_Class": "!bp_34ecd1b5e1b90b9498795791b0855239",
         "AdditionalLevel": 0
+      },
+	  {
+        "m_Class": "!bp_52dbfd8505e22f84fad8d702611f60b7",
+        "AdditionalLevel": 0
       }
     ],
     "m_Archetypes": [
       {
         "m_Archetype": "!bp_f996f0a18e5d945459e710ee3a6dd485",
         "AdditionalLevel": -2
+      },
+	  {
+        "m_Archetype": "!bp_5c77110cd0414e7eb4c2e485659c9a46",
+        "AdditionalLevel": 0
       }
     ],
     "ForAllOtherClasses": false,

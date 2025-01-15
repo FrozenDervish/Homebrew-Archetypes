@@ -4,7 +4,22 @@
     "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
     "PrototypeLink": "",
     "m_Overrides": [],
-    "Components": [],
+    "Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "m_Flags": 0,
+        "name": "$PrerequisiteFeature$5b085e8e-ff8f-4577-b861-29a43ee661df",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_4e6fce7c3efbc674e925d91445156a08"
+      }
+	],
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {

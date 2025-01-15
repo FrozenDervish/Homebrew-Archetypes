@@ -14,14 +14,7 @@
       },
       {
         "SpellLevel": 1,
-        "m_Spells": [
-		  "!bp_aaef66116932ecc4eacd044f871ca411",
-		  "!bp_584ce6bb89182df4aac1b9b860fa9a5e",
-		  "!bp_ff07dd872fec42742b196394a6f5a107",
-		  "!bp_f17dbbc5cb038414e9e47fcf4961b56b",
-		  "!bp_9b4febfcf6098ab4b9eabf0330df655f",
-		  "!bp_1f1d004cfa86bbc4a9bff2d5ab8162e8"
-		]
+        "m_Spells": []
       },
       {
         "SpellLevel": 2,

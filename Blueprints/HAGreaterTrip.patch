@@ -1,0 +1,20 @@
+{
+
+"_#ArrayMergeSettings": "Union",
+
+"Components": [
+	  {
+        "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+        "name": "$PrerequisiteFeature$5e13c251-9426-4208-988e-a25cdcd020e4",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Any",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_Feature": "!bp_0fe08da0e8c1b0a45bca097ca41e959d"
+      },
+    ],
+	}

@@ -1,94 +1,13 @@
 {
 
-"_#ArrayMergeSettings": "Replace",
+"_#ArrayMergeSettings": "Union",
 
 "RemoveFeatures": [
       {
         "Level": 1,
         "m_Features": [
-          "!bp_fd99770e6bd240a4aab70f7af103e56a",
-          "!bp_a29a582c3daa4c24bb0e991c596ccb28",
-		  "!bp_e6fdcf3ae6f760b448af374560e00d60",
 		  "!bp_cab28be974319f942931feb507ac0717"
         ]
       },
-      {
-        "Level": 4,
-        "m_Features": [
-          "!bp_819645da2e446f84d9b168ed1676ec29"
-        ]
-      },
-      {
-        "Level": 8,
-        "m_Features": [
-          "!bp_d256ab3837538cc489d4b571e3a813eb"
-        ]
-      },
-      {
-        "Level": 11,
-        "m_Features": [
-          "!bp_a34b8a9fcc9024b42bacfd5e6b614bfa"
-        ]
-      },
-      {
-        "Level": 12,
-        "m_Features": [
-          
-        ]
-      },
-      {
-        "Level": 16,
-        "m_Features": [
-          "!bp_ddc10a3463bd4d54dbcbe993655cf64e"
-        ]
-      },
-      {
-        "Level": 20,
-        "m_Features": [
-          
-        ]
-      },
-      {
-        "Level": 5,
-        "m_Features": [
-          "!bp_7bc6a93f6e48eff49be5b0cde83c9450"
-        ]
-      },
-      {
-        "Level": 9,
-        "m_Features": [
-          "!bp_7bc6a93f6e48eff49be5b0cde83c9450"
-        ]
-      },
-      {
-        "Level": 13,
-        "m_Features": [
-          "!bp_7bc6a93f6e48eff49be5b0cde83c9450"
-        ]
-      },
-      {
-        "Level": 17,
-        "m_Features": [
-          "!bp_7bc6a93f6e48eff49be5b0cde83c9450"
-        ]
-      },
-      {
-        "Level": 10,
-        "m_Features": [
-          "!bp_34439e527a8f5fb4588024e71960dd42"
-        ]
-      },
-      {
-        "Level": 3,
-        "m_Features": [
-          "!bp_1188005ee3160f84f8bed8b19a7d46cf"
-        ]
-      },
-      {
-        "Level": 7,
-        "m_Features": [
-          "!bp_7b657938fde78b14cae10fc0d3dcb991"
-        ]
-      }
     ],
 	}

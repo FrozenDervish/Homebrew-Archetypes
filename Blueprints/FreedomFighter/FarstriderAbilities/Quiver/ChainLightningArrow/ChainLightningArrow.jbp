@@ -133,6 +133,18 @@
           "Property": "None",
           "m_CustomProperty": "!bp_3ec17a4e8e6ce0942b99df60c6f3c420"
         }
+      },
+	  {
+        "$type": "317417736594fa843918ddbcfeb74a76, SpellListComponent",
+        "m_Flags": 0,
+        "name": "$SpellListComponent$b6117313-7b5d-4b0f-bafc-28b6001bacbe",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_SpellList": "!bp_188c0e6271be1564a878f12674e5831c",
+        "SpellLevel": 1
       }
     ],
     "Comment": "",

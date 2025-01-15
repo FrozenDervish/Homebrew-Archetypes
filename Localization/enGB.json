@@ -5852,7 +5852,7 @@ Care - Do not turn a blind eye to the misfortunes of others and aid them if poss
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTrainedLeverageDesc", 
-            "Value": "The freedom fighter's size is a disadvantage, but with training they've learned to counteract a foes size with their own techniques. When performing a combat maneuver against a larger foe, the freedom fighter gains a bonus on the check equal to 1/2 their freedom fighter level. The freedom figher adds this same bonus to their CMD when defending against combat maneuvers from a larger opponent. This talent also changes the intelligence requirement for feats to constitution."
+            "Value": "The freedom fighter's size is a disadvantage, but with training they've learned to counteract a foes size with their own techniques. When performing a combat maneuver against a larger foe, the freedom fighter gains a bonus on the check equal to 1/2 their freedom fighter level. The freedom figher adds this same bonus to their CMD when defending against combat maneuvers from a larger opponent. This ability counts as having Combat Expertise for the purpose of feat prerequisites for the improved trip and greater trip feats."
         },
 		{
             "Key": "HomebrewArchtypes_MythicAbilityWhirlwindAttackName", 
@@ -6380,10 +6380,6 @@ Any opponent the dragon-blooded cannot see still has total {g|Encyclopedia:Conce
             "Value": "The farstrider enchants an arrow with the shadowbind spell when firing it. A target hit by shadowbind must make a will save or have their speed reduced to 0 trapped in a snare of shadowy tendrils."
         },
 		{
-            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverShadowbindArrowName", 
-            "Value": "Enchant Arrow - Shadowbind"
-        },
-		{
             "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverKnockbackArrowName", 
             "Value": "Enchant Arrow - Knockback"
         },
@@ -6542,7 +6538,6 @@ Paralyze Arrow
 Knockback arrow
 Arrow of Salving - Restoration on target
 Arrow of Transposition - Dimension door
-Smokepowder Arrow - Fireball + Knockback
 Seeker Arrow - Never misses
 Phase Arrow - Bypass concealment
 Hail of Arrows
@@ -6565,3 +6560,23 @@ Superior Leverage encourages you to make CMB(trip) abilities with a bonus that g
 I would suggest (if possible) swap out the Con for Int and allow Superior Leverage to serve as Combat Expertise to qualify for trip line and ONLY for the trip line.
 
 Either way thanks for hard work and hope you get around to trying it out for yourself
+
+Not sure if you are still working on Freedom Fighter, but I had random idea pop in my head.
+
+I remember you stating that the ideas were to passive so decided to give a different go. As the archetypes are all DPS focused I wanted to stick with my orc idea of DR focus.
+So i was thinking of losing the bonus combat feats, gain 5 steps of DR starting at level 1 that go in DR2/- or DR3/-  increments. They would stack with other sources of DR/-
+
+The active portion of the archetype would be an ability pool. This pool only fills when taking damage(would need to be fined tuned), say every 5hp damage you get 1 point in the pool. Using this pool the Archetype could make FORCE based attacks. As you level up stronger versions unlock which get better but cost more pool points
+
+Force Charge(Think charge from mass effect 2, pool up power then charge enemy) - Charge that deals force damage, flat foots enemy for 1 round
+Improved Force Charge - Any enemies in path of charge are also damaged, also flat footed
+
+Force Discharge(Classic build up damage and pay it back, black panther MCU ability) - AOE damage, force damage
+Destructive Discharge - more damage die, stagger effect
+
+Force breath - cone style attack
+Greater Force Breath - more reach, slow effect
+
+Adamantine infusion - use pool resources to give equipment adamantine property to help stack DR
+
+As I said pool only fills thru combat, does not fill on rest but does carry over.

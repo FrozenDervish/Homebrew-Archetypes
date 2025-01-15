@@ -283,21 +283,6 @@
         ],
         "m_CustomProperty": null,
         "m_CustomPropertyList": []
-      },
-	  {
-        "$type": "5991a77890cb6824eac58250da4b55c2, ReplaceStatForPrerequisites",
-        "m_Flags": 0,
-        "name": "$ReplaceStatForPrerequisites$2581deaa-3f02-4166-b300-95f76b2caa52",
-        "PrototypeLink": {
-          "guid": "",
-          "name": ""
-        },
-        "m_Overrides": [],
-        "OldStat": "Intelligence",
-        "Policy": "NewStat",
-        "NewStat": "Constitution",
-        "m_CharacterClass": "!bp_d1277f75d49b6d648a3007abd0c0b145",
-        "SpecificNumber": 0
       }
     ],
     "Comment": "",

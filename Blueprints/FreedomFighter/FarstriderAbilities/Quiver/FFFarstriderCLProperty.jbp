@@ -6,8 +6,9 @@
     "m_Overrides": [],
     "Components": [
       {
-        "$type": "ff4aefe58f61be7458fdb537e9a68945, SummClassLevelGetter",
-        "name": "$SummClassLevelGetter$312aef45-eab4-422b-89d5-d614cb10b2bb",
+        "$type": "b7b90b99a43b4faf89989ea53906b369, ClassLevelGetter",
+        "m_Flags": 0,
+        "name": "$ClassLevelGetter$4b834dd8-8a6b-4a62-877e-e3bd0dd4e221",
         "PrototypeLink": {
           "guid": "",
           "name": ""
@@ -18,11 +19,13 @@
           "m_CustomProgression": [],
           "m_StartLevel": 0,
           "m_StepLevel": 0,
-          "m_Negate": false
+          "m_Negate": false,
+          "m_LimitType": "None",
+          "m_Min": 0,
+          "m_Max": 0
         },
-        "m_Class": [
-          "!bp_d1277f75d49b6d648a3007abd0c0b145"
-        ]
+        "m_Class": "!bp_d1277f75d49b6d648a3007abd0c0b145",
+        "m_Archetype": null
       }
     ],
     "Comment": "",

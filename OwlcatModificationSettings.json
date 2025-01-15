@@ -356,16 +356,16 @@
             "Filename": "HABarbarian.patch"
         },
         {
-            "Guid": "8a91753b978e3b34b9425419179aafd6",
-            "Filename": "HAMonkProgression.patch"
+            "Guid": "904ce918c85c9f947910340b956fb877",
+            "Filename": "HALMClericSecret.patch"
         },
         {
-            "Guid": "dde7724382ae4f63aa9786cb9b3b64b2",
-            "Filename": "HAMonkQSMArchetype.patch"
+            "Guid": "6b73ba9d8a718fb419a484c6e1b92c6d",
+            "Filename": "HALMDruidSecret.patch"
         },
         {
-            "Guid": "fad7c56737ed12e42aacc330acc86428",
-            "Filename": "HAMonkSoheiArchetype.patch"
+            "Guid": "f97986f19a595e2409cfe5d92bcf697c",
+            "Filename": "HALMWizardSecret.patch"
         },
         {
             "Guid": "c36562b8e7ae12d408487ba8b532d966",
@@ -462,6 +462,22 @@
         {
             "Guid": "f33dadeeb51cdba45b23bb40a40e5fb3",
             "Filename": "HAFlamboyantHat.patch"
+        },
+        {
+            "Guid": "0f15c6f70d8fb2b49aa6cc24239cc5fa",
+            "Filename": "HAImprovedTrip.patch"
+        },
+        {
+            "Guid": "4cc71ae82bdd85b40b3cfe6697bb7949",
+            "Filename": "HAGreaterTrip.patch"
+        },
+        {
+            "Guid": "",
+            "Filename": ""
+        },
+        {
+            "Guid": "",
+            "Filename": ""
         },
         {
             "Guid": "",
